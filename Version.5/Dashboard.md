@@ -89,7 +89,7 @@ The Listeners option allows to register callbacks to be notified when an event i
 
 **Fill up the Report Listener Section ;**
 
-   - **Reports** :  Dashboard reports
+   - **Reports** :  Displays the reports
    
    -  **Add Listener :**  Adds multiple filters to reports.
    
@@ -124,7 +124,7 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDkzMzExMyw2ODc1NTAzMTksLTQ4NT
+eyJoaXN0b3J5IjpbLTQxMzA5NTUxMSw2ODc1NTAzMTksLTQ4NT
 Q4NDc2OSwxNjIwNjY1MjEwLC0xNjYxOTIwOTc2LDQ3MDUyMTM4
 NiwyMDQ3MTI2MjUxXX0=
 -->
