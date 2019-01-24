@@ -90,9 +90,7 @@ The Listeners option allows to register callbacks to be notified when an event i
 **Fill up the Report Listener Section ;**
 
    -  **Add Listener :**  adds multiple filters to reports.
-
-   -   **Dashboard Report :**  selects reports to add filters.
-    
+   
    -   **Listen Filter :**  refers to filter option available.
     
    -   **Apply to field :**  applies filter options to field column in a report.
@@ -124,7 +122,7 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNTEzMjQ2LDY4NzU1MDMxOSwtNDg1ND
+eyJoaXN0b3J5IjpbNzg5OTAwOTM0LDY4NzU1MDMxOSwtNDg1ND
 g0NzY5LDE2MjA2NjUyMTAsLTE2NjE5MjA5NzYsNDcwNTIxMzg2
 LDIwNDcxMjYyNTFdfQ==
 -->
