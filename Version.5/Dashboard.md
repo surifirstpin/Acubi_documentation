@@ -60,7 +60,9 @@ To Add Global Filters, Click on **Add Global Filters** Button.
 
   -   **Operator :**  filter operation that are applicable.
 
-**6.** Adding lookup to dashboard will refer set of query or list of items in filters.
+## Lookups
+
+ Adding lookup to dashboard will refer set of query or list of items in filters.
 
 **Fill up the lookup section ;**
 
@@ -82,7 +84,7 @@ You can refer the existing lookup, based on which a new lookup is created to ret
 
    -   **Referred** on selecting the referred checkbox the following lookup will extract the data based on the previously created lookup for which the referred checkbox is enabled.
  
-**7.** **Report Listeners** 
+## Report Listeners 
 
 The Listeners option allows to register callbacks to be notified when an event is detected on a specific label.
 **For instance** if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report_1 it results in filter applied on report_1 it self and report_2 will remain unaffected.
@@ -124,7 +126,7 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDE3Njk4MywtNDg1NDg0NzY5LDE2Mj
+eyJoaXN0b3J5IjpbMTA1MDE1MzQ2NywtNDg1NDg0NzY5LDE2Mj
 A2NjUyMTAsLTE2NjE5MjA5NzYsNDcwNTIxMzg2LDIwNDcxMjYy
 NTFdfQ==
 -->
