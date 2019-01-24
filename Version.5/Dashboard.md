@@ -41,7 +41,7 @@ After login into AcuBi Home Page, Click on **Dashboard Section**.
 
    **a)** Click on report layout section and select the report you want to **add** to the layout.
 
-   **b)** Click on **add** link available under right side of the saved report. 
+   **b)** Click on **add** link available under work space. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_2.png)
@@ -126,6 +126,6 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NzU4Mzg2Nyw0NzA1MjEzODYsMjA0Nz
+eyJoaXN0b3J5IjpbLTI3ODU3MzgyMCw0NzA1MjEzODYsMjA0Nz
 EyNjI1MV19
 -->
