@@ -35,13 +35,9 @@ After login into AcuBi Home Page, Click on **Dashboard Section**.
 
 - **Grid (Fixed) Layout** All the reports in this layout will fit into single screen.
 
-  - Select the Layout and dd Reports to the layout.
+  - Select the Layout and add Reports to the layout.
  
-   **There are 2 ways you can add reports to the layout;**
-
-   **a)** Click on report layout section and select the report you want to **add** to the layout.
-
-   **b)** Click on **add** link available under work space. 
+To add Reports to layout selected, Click on **add** link available under work space. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_2.png)
@@ -126,6 +122,6 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODU3MzgyMCw0NzA1MjEzODYsMjA0Nz
-EyNjI1MV19
+eyJoaXN0b3J5IjpbLTEzNjU5NjE1MTgsNDcwNTIxMzg2LDIwND
+cxMjYyNTFdfQ==
 -->
