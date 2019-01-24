@@ -72,12 +72,10 @@ To Add Global Filters, Click on **Add Global Filters** Button.
    
    -  **Connection**  Connection are referred only for Queries and it is disabled for Items.
      
-   
     -   **Test Lookup :**  to test the lookup.
    
     -   **Multiple Selections :**  enables the selection of list, for multiple data.
 
-   
 ## Dependency Filters
 
 You can refer the existing lookup, based on which a new lookup is created to retrieve the data based on referred lookup. In this way  you can extract the data depending on referred lookup field.
@@ -126,7 +124,7 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDE1MzQ2NywtNDg1NDg0NzY5LDE2Mj
-A2NjUyMTAsLTE2NjE5MjA5NzYsNDcwNTIxMzg2LDIwNDcxMjYy
-NTFdfQ==
+eyJoaXN0b3J5IjpbNjg3NTUwMzE5LC00ODU0ODQ3NjksMTYyMD
+Y2NTIxMCwtMTY2MTkyMDk3Niw0NzA1MjEzODYsMjA0NzEyNjI1
+MV19
 -->
