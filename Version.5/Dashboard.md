@@ -108,13 +108,14 @@ The Listeners option allows to register callbacks to be notified when an event i
                               
    -   **Title :**  title to refer the dashboard.
     
-   -   **Info :**  summary information of the dashboard created.
+   -   **Info :**  summary information for dashboard created.
     
-   -   **Privacy :**  you can save the report in any one of the following privacy option.
+   **Share Status**   you can save the report in any one of the following privacy option.
     
-       -  **Private()** It enable access for user itself.
+    
+   -  **Private()** It enable access for user itself.
   
-       -  **Public()**   It enable access for all the users. 
+   -  **Public()**   It enable access for all the users. 
   
        -  **Share()** It enable access for specific set of users.
   
@@ -124,7 +125,7 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTA1MDQwMSwtNDEzMDk1NTExLDY4Nz
+eyJoaXN0b3J5IjpbMTkzNDUxNDQwMiwtNDEzMDk1NTExLDY4Nz
 U1MDMxOSwtNDg1NDg0NzY5LDE2MjA2NjUyMTAsLTE2NjE5MjA5
 NzYsNDcwNTIxMzg2LDIwNDcxMjYyNTFdfQ==
 -->
