@@ -68,6 +68,9 @@ To Add Global Filters, Click on **Add Global Filters** Button.
    
     -   **Lookup Type :**  refers to item or query type.
    
+   -  **Connection**  Connection are referd only for queries it 9s disabled for Items.
+     
+   
     -   **Test Lookup :**  to test the lookup.
    
     -   **Multiple Selections :**  enables the selection of list, for multiple data.
@@ -121,6 +124,7 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTQ4NDc2OSwxNjIwNjY1MjEwLC0xNj
-YxOTIwOTc2LDQ3MDUyMTM4NiwyMDQ3MTI2MjUxXX0=
+eyJoaXN0b3J5IjpbLTE5MzA2MDQwMzUsLTQ4NTQ4NDc2OSwxNj
+IwNjY1MjEwLC0xNjYxOTIwOTc2LDQ3MDUyMTM4NiwyMDQ3MTI2
+MjUxXX0=
 -->
