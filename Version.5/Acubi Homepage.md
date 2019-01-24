@@ -19,10 +19,10 @@
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/Homepage_v5.png)
 
-> **Note :** You can set desired Dashboard or Report on Acubi Homepage.
+> **Note :** You can set desired **Dashboard** or **Report** on **Acubi Homepage.**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDUxNjcxMTUsMjc4NjIwNzgzLC0xMT
-g0ODQ5Nzc2XX0=
+eyJoaXN0b3J5IjpbLTkxODQ3Mzk5NSwtMjAwNTE2NzExNSwyNz
+g2MjA3ODMsLTExODQ4NDk3NzZdfQ==
 -->
