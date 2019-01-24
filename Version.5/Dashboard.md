@@ -118,13 +118,13 @@ The Listeners option allows to register callbacks to be notified when an event i
    
     -  **Share()** It enable access for specific set of users.
   
-Select the tag in which you want to save **Dashboard Reports** and click on **Save.**
+Select the tag in which you want to save **Dashboard Reports** and click **Save.**
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwODY0NzIwNCwtNDEzMDk1NTExLDY4Nz
+eyJoaXN0b3J5IjpbLTEwMDgzOTAzMywtNDEzMDk1NTExLDY4Nz
 U1MDMxOSwtNDg1NDg0NzY5LDE2MjA2NjUyMTAsLTE2NjE5MjA5
 NzYsNDcwNTIxMzg2LDIwNDcxMjYyNTFdfQ==
 -->
