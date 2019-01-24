@@ -50,7 +50,7 @@ To Add Global Filters, Click on **Add Global Filters** Button.
 |  String | For fields that contain letters or special characters. |
 |  Number | For fields that contain numbers. |
 |  Date | For fields that contain dates. |
-|  Lookup | To view the lookup in dashboard filters it should be defined in lookup section. |
+|  Lookup | To view the lookup in dashboard filters it should be defined in lookup section first. |
 
 **Fill up the dashboard global section;**
 
@@ -121,6 +121,6 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTU3MDg2MywxNjIwNjY1MjEwLC0xNj
+eyJoaXN0b3J5IjpbLTQ4NTQ4NDc2OSwxNjIwNjY1MjEwLC0xNj
 YxOTIwOTc2LDQ3MDUyMTM4NiwyMDQ3MTI2MjUxXX0=
 -->
