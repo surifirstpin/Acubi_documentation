@@ -87,7 +87,7 @@ You can refer the existing lookup, based on which a new lookup is created to ret
 The Listeners option allows to register callbacks to be notified when an event is detected on a specific label.
 **For instance** if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report_1 it results in filter applied on report_1 it self and report_2 will remain unaffected.
 
-**Fill Up Report Listener Section ;**
+**Fill up the Report Listener Section ;**
 
    -  **Add Listener :**  adds multiple filters to reports.
 
@@ -124,7 +124,7 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3NTUwMzE5LC00ODU0ODQ3NjksMTYyMD
-Y2NTIxMCwtMTY2MTkyMDk3Niw0NzA1MjEzODYsMjA0NzEyNjI1
-MV19
+eyJoaXN0b3J5IjpbNzUxNTEzMjQ2LDY4NzU1MDMxOSwtNDg1ND
+g0NzY5LDE2MjA2NjUyMTAsLTE2NjE5MjA5NzYsNDcwNTIxMzg2
+LDIwNDcxMjYyNTFdfQ==
 -->
