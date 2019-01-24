@@ -25,7 +25,6 @@ After login into AcuBi Home Page, Click on **Dashboard Section**.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_1.png)
 
-**2.** Select the suitable **layout** from given drop-down list.
 
 ## Select Layout
 
@@ -35,9 +34,9 @@ After login into AcuBi Home Page, Click on **Dashboard Section**.
 
 - **Grid (Fixed) Layout** All the reports in this layout will fit into single screen.
 
-  - Select the Layout using drop-down list and add reports to the layout.
+ Select the Layout using drop-down list and add reports to the layout.
  
-To add Reports to layout selected, Click on **add** link available under work space. 
+To add Reports to layout selected, Click on **Add** link available under work space. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_2.png)
@@ -122,6 +121,6 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzg1MTI4ODYsNDcwNTIxMzg2LDIwND
+eyJoaXN0b3J5IjpbLTE2NjE5MjA5NzYsNDcwNTIxMzg2LDIwND
 cxMjYyNTFdfQ==
 -->
