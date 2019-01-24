@@ -41,9 +41,9 @@ To add Reports to layout selected, Click on **Add** link available under work sp
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_2.png)
 
-To Add Global Filters, Click on **Add Global Filters** Button
+To Add Global Filters, Click on **Add Global Filters** Button.
 
- **5.** **Dashboard global Filters** allows user to view limited data by applying filters on dashboard reports and it supports following filter types string, number, date and lookup.
+**Dashboard global Filters** allows user to view limited data by applying filters on dashboard reports and it supports following filter types string, number, date and lookup.
  
 |  **Type** | **Description** |
 |  ------ | ------ |
@@ -121,6 +121,6 @@ Select the tag in which you want to save **Dashboard Reports** and click on **Sa
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDY2NTIxMCwtMTY2MTkyMDk3Niw0Nz
-A1MjEzODYsMjA0NzEyNjI1MV19
+eyJoaXN0b3J5IjpbMTgzOTU3MDg2MywxNjIwNjY1MjEwLC0xNj
+YxOTIwOTc2LDQ3MDUyMTM4NiwyMDQ3MTI2MjUxXX0=
 -->
