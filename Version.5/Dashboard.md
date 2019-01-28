@@ -3,7 +3,7 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 
 ## View Dashboard
 
-After login into AcuBi Home Page, Click on **Dashboard Section**.
+After logging into AcuBi Home Page, Click on **Dashboard Section**.
  it consist of list of Tags, Dashboards and Reports Saved under **My Space** structure.
    - To View a specific dashboard, enter the dashboard name in given **Search Option**. 
   - To View the dashboards and reports in List, Click on **List View**.
@@ -124,7 +124,8 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjQ2MzYxLC0xMDA4MzkwMzMsLTQxMz
-A5NTUxMSw2ODc1NTAzMTksLTQ4NTQ4NDc2OSwxNjIwNjY1MjEw
-LC0xNjYxOTIwOTc2LDQ3MDUyMTM4NiwyMDQ3MTI2MjUxXX0=
+eyJoaXN0b3J5IjpbMjI2NjI2ODQ1LC00NzY0NjM2MSwtMTAwOD
+M5MDMzLC00MTMwOTU1MTEsNjg3NTUwMzE5LC00ODU0ODQ3Njks
+MTYyMDY2NTIxMCwtMTY2MTkyMDk3Niw0NzA1MjEzODYsMjA0Nz
+EyNjI1MV19
 -->
