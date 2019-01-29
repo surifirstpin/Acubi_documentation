@@ -1,3 +1,4 @@
+<center><h1>Dashboard</h1></center>
 
 Dashboard provides access to view multiple reports in single dashboard layout, in this way it provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive and can re-arrange the titles. After configuring a dashboard to your interest, you can share it with your team. You can create as many dashboards as you want, so you can alter each dashboard to the specific needs of the people who use it.
 
@@ -124,8 +125,8 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2NjI2ODQ1LC00NzY0NjM2MSwtMTAwOD
-M5MDMzLC00MTMwOTU1MTEsNjg3NTUwMzE5LC00ODU0ODQ3Njks
-MTYyMDY2NTIxMCwtMTY2MTkyMDk3Niw0NzA1MjEzODYsMjA0Nz
-EyNjI1MV19
+eyJoaXN0b3J5IjpbLTE5Mjg2MjY2NywyMjY2MjY4NDUsLTQ3Nj
+Q2MzYxLC0xMDA4MzkwMzMsLTQxMzA5NTUxMSw2ODc1NTAzMTks
+LTQ4NTQ4NDc2OSwxNjIwNjY1MjEwLC0xNjYxOTIwOTc2LDQ3MD
+UyMTM4NiwyMDQ3MTI2MjUxXX0=
 -->
