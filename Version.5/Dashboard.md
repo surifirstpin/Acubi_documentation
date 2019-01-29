@@ -14,6 +14,9 @@ After logging into AcuBi Home Page, Click on **Dashboard**.
    - To View a specific dashboard, enter the dashboard name in given **Search Option**. 
   - To View the dashboards and reports in List, Click on **List View**.
   - To view the dashboards and reports in folder view, Click on **Folder View.**
+  
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Dashboard_image2.png)
 
  - Choose the dashboard from the list and click on it. You will be navigated to the dashboard report. 
  - Left side of the dashboard displays global filters used.
@@ -130,9 +133,9 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzEyODM5OCwtMTgzNDQ2Mzk2OCwtMT
-kyODYyNjY3LDIyNjYyNjg0NSwtNDc2NDYzNjEsLTEwMDgzOTAz
-MywtNDEzMDk1NTExLDY4NzU1MDMxOSwtNDg1NDg0NzY5LDE2Mj
-A2NjUyMTAsLTE2NjE5MjA5NzYsNDcwNTIxMzg2LDIwNDcxMjYy
-NTFdfQ==
+eyJoaXN0b3J5IjpbLTEyMzE0ODI1MTAsLTE4MzQ0NjM5NjgsLT
+E5Mjg2MjY2NywyMjY2MjY4NDUsLTQ3NjQ2MzYxLC0xMDA4Mzkw
+MzMsLTQxMzA5NTUxMSw2ODc1NTAzMTksLTQ4NTQ4NDc2OSwxNj
+IwNjY1MjEwLC0xNjYxOTIwOTc2LDQ3MDUyMTM4NiwyMDQ3MTI2
+MjUxXX0=
 -->
