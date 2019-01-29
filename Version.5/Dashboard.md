@@ -11,7 +11,6 @@ After logging into AcuBi Home Page, Click on **Dashboard**.
 
   - It will navigate to Dashboard section. It consist of list of Tags, Dashboards and Reports Saved under **My Space** structure.
 
-
    - To View a specific dashboard, enter the dashboard name in given **Search Option**. 
   - To View the dashboards and reports in List, Click on **List View**.
   - To view the dashboards and reports in folder view, Click on **Folder View.**
@@ -131,8 +130,9 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ0NjM5NjgsLTE5Mjg2MjY2NywyMj
-Y2MjY4NDUsLTQ3NjQ2MzYxLC0xMDA4MzkwMzMsLTQxMzA5NTUx
-MSw2ODc1NTAzMTksLTQ4NTQ4NDc2OSwxNjIwNjY1MjEwLC0xNj
-YxOTIwOTc2LDQ3MDUyMTM4NiwyMDQ3MTI2MjUxXX0=
+eyJoaXN0b3J5IjpbLTU0MzEyODM5OCwtMTgzNDQ2Mzk2OCwtMT
+kyODYyNjY3LDIyNjYyNjg0NSwtNDc2NDYzNjEsLTEwMDgzOTAz
+MywtNDEzMDk1NTExLDY4NzU1MDMxOSwtNDg1NDg0NzY5LDE2Mj
+A2NjUyMTAsLTE2NjE5MjA5NzYsNDcwNTIxMzg2LDIwNDcxMjYy
+NTFdfQ==
 -->
