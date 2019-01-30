@@ -17,7 +17,7 @@ After logging into AcuBi Home Page, Click on **Dashboard**.
   
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Dashboard_image2.png)
-
++
  - Choose the dashboard from the list and click on it. You will be navigated to the dashboard report. 
  - Left side of the dashboard displays global filters used.
   - here you can apply available filter option and check the result depending on the filter applied, By clicking on **Apply** Button.
@@ -133,9 +133,9 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzE0ODI1MTAsLTE4MzQ0NjM5NjgsLT
-E5Mjg2MjY2NywyMjY2MjY4NDUsLTQ3NjQ2MzYxLC0xMDA4Mzkw
-MzMsLTQxMzA5NTUxMSw2ODc1NTAzMTksLTQ4NTQ4NDc2OSwxNj
-IwNjY1MjEwLC0xNjYxOTIwOTc2LDQ3MDUyMTM4NiwyMDQ3MTI2
-MjUxXX0=
+eyJoaXN0b3J5IjpbLTMyODczNTQ1LC0xMjMxNDgyNTEwLC0xOD
+M0NDYzOTY4LC0xOTI4NjI2NjcsMjI2NjI2ODQ1LC00NzY0NjM2
+MSwtMTAwODM5MDMzLC00MTMwOTU1MTEsNjg3NTUwMzE5LC00OD
+U0ODQ3NjksMTYyMDY2NTIxMCwtMTY2MTkyMDk3Niw0NzA1MjEz
+ODYsMjA0NzEyNjI1MV19
 -->
