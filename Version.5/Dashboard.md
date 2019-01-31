@@ -23,17 +23,15 @@ After logging into AcuBi Home Page, Click on **Dashboard**.
   - here you can apply available filter option and check the result depending on the filter applied, By clicking on **Apply** Button.
   - Click **Save,** to save the Filters applied.
   - To revert back to previously applied Filter click on **Default** Button. 
-
-
+  
 *Now, Let us See how to create a New dashboard.*
  
  ## Create Dashboard
 
-**1.** Choose New->Dashboard from the drop down list on top of the screen. 
+**1.** Choose **New->Dashboard** from the drop down list on top of the screen. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_1.png)
-
 
 ## Select Layout
 
@@ -133,9 +131,9 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODczNTQ1LC0xMjMxNDgyNTEwLC0xOD
-M0NDYzOTY4LC0xOTI4NjI2NjcsMjI2NjI2ODQ1LC00NzY0NjM2
-MSwtMTAwODM5MDMzLC00MTMwOTU1MTEsNjg3NTUwMzE5LC00OD
-U0ODQ3NjksMTYyMDY2NTIxMCwtMTY2MTkyMDk3Niw0NzA1MjEz
-ODYsMjA0NzEyNjI1MV19
+eyJoaXN0b3J5IjpbLTE5NTYxMDgxMzMsLTMyODczNTQ1LC0xMj
+MxNDgyNTEwLC0xODM0NDYzOTY4LC0xOTI4NjI2NjcsMjI2NjI2
+ODQ1LC00NzY0NjM2MSwtMTAwODM5MDMzLC00MTMwOTU1MTEsNj
+g3NTUwMzE5LC00ODU0ODQ3NjksMTYyMDY2NTIxMCwtMTY2MTky
+MDk3Niw0NzA1MjEzODYsMjA0NzEyNjI1MV19
 -->
