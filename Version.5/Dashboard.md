@@ -19,7 +19,12 @@ After logging into AcuBi Home Page, Click on **Dashboard**.
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Dashboard_image2.png)
 
  - To view the existing dashboard report click on dashboard report from the list. 
- - It will navigate to dashboard report. 
+ -  It will navigate to dashboard report as shown in below image. 
+ 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/a139aa668a28e43d5ac7a91829062729877b0e09/images/New_version5/UD_Dashboard_image3.png)
+
+
  - Left side of the dashboard displays global filters used, Use **Apply** Button to re-apply any new filters to the dashboard report.
   - Click **Save,** to save the filters applied.
   - To revert back to previously applied filter, click on **Default** Button. 
@@ -132,9 +137,10 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTM4NjIzOSwyNTg4MDgyMTksLTMyOD
-czNTQ1LC0xMjMxNDgyNTEwLC0xODM0NDYzOTY4LC0xOTI4NjI2
-NjcsMjI2NjI2ODQ1LC00NzY0NjM2MSwtMTAwODM5MDMzLC00MT
-MwOTU1MTEsNjg3NTUwMzE5LC00ODU0ODQ3NjksMTYyMDY2NTIx
-MCwtMTY2MTkyMDk3Niw0NzA1MjEzODYsMjA0NzEyNjI1MV19
+eyJoaXN0b3J5IjpbMTM5MDQ1ODI4MywxNTk5Mzg2MjM5LDI1OD
+gwODIxOSwtMzI4NzM1NDUsLTEyMzE0ODI1MTAsLTE4MzQ0NjM5
+NjgsLTE5Mjg2MjY2NywyMjY2MjY4NDUsLTQ3NjQ2MzYxLC0xMD
+A4MzkwMzMsLTQxMzA5NTUxMSw2ODc1NTAzMTksLTQ4NTQ4NDc2
+OSwxNjIwNjY1MjEwLC0xNjYxOTIwOTc2LDQ3MDUyMTM4NiwyMD
+Q3MTI2MjUxXX0=
 -->
