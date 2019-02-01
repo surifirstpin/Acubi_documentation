@@ -46,13 +46,14 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
 
 - **Grid (Fixed) Layout** All the reports in this layout will fit into single screen.
 
+
+
+
 **2.**   Select the Layout using drop-down list and add reports to the layout.
 
 **3.** To add Reports to layout selected, Select the grid and click on report you wish to add or Click on **Add** link available under work space. 
 
-
-
-**3.** To Add Global Filters to the dashboard, Click on **Add Global Filters** Button.
+**4.** To Add Global Filters to the dashboard, Click on **Add Global Filters** Button.
 
 **Dashboard global Filters** allows user to view limited data by applying filters on dashboard reports and it supports following filter types string, number, date and lookup.
  
@@ -135,11 +136,11 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTAxNzU4MiwtMTcxMDI4OTc4OSwxOT
-gwNjUwNjY1LDY5NTc4OTM5NiwxMzkwNDU4MjgzLDE1OTkzODYy
-MzksMjU4ODA4MjE5LC0zMjg3MzU0NSwtMTIzMTQ4MjUxMCwtMT
-gzNDQ2Mzk2OCwtMTkyODYyNjY3LDIyNjYyNjg0NSwtNDc2NDYz
-NjEsLTEwMDgzOTAzMywtNDEzMDk1NTExLDY4NzU1MDMxOSwtND
-g1NDg0NzY5LDE2MjA2NjUyMTAsLTE2NjE5MjA5NzYsNDcwNTIx
-Mzg2XX0=
+eyJoaXN0b3J5IjpbLTE4NzM3MTc1NDUsLTUyNTAxNzU4MiwtMT
+cxMDI4OTc4OSwxOTgwNjUwNjY1LDY5NTc4OTM5NiwxMzkwNDU4
+MjgzLDE1OTkzODYyMzksMjU4ODA4MjE5LC0zMjg3MzU0NSwtMT
+IzMTQ4MjUxMCwtMTgzNDQ2Mzk2OCwtMTkyODYyNjY3LDIyNjYy
+Njg0NSwtNDc2NDYzNjEsLTEwMDgzOTAzMywtNDEzMDk1NTExLD
+Y4NzU1MDMxOSwtNDg1NDg0NzY5LDE2MjA2NjUyMTAsLTE2NjE5
+MjA5NzZdfQ==
 -->
