@@ -127,7 +127,7 @@ The Listeners option allows to register callbacks to be notified when an event i
     
    -   **Apply to field :**  applies filter options to field column in a report.
     
- On Clicking **Save** button It will navigate to **Save Dashboard** section.
+ Click **Save** button It will navigate to **Save Dashboard** section.
 
 ***Fill up save dashboard section :***
 
@@ -151,11 +151,11 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDMwMzQ0NiwtMjgyNDY0NzQ0LC02OT
-gxMzczMjYsNDI2MTM1NjM0LDUwMjQ3MjE5NywtOTY0OTAxMDM5
-LDE5ODcyNzE0MTcsLTEyNTE3MzAyMzYsMjAyOTU1Nzc3OCwtOT
-M0NTMzODMwLC0xODczNzE3NTQ1LC01MjUwMTc1ODIsLTE3MTAy
-ODk3ODksMTk4MDY1MDY2NSw2OTU3ODkzOTYsMTM5MDQ1ODI4My
-wxNTk5Mzg2MjM5LDI1ODgwODIxOSwtMzI4NzM1NDUsLTEyMzE0
-ODI1MTBdfQ==
+eyJoaXN0b3J5IjpbLTM1MDM2MTEyOSwtNzc0MzAzNDQ2LC0yOD
+I0NjQ3NDQsLTY5ODEzNzMyNiw0MjYxMzU2MzQsNTAyNDcyMTk3
+LC05NjQ5MDEwMzksMTk4NzI3MTQxNywtMTI1MTczMDIzNiwyMD
+I5NTU3Nzc4LC05MzQ1MzM4MzAsLTE4NzM3MTc1NDUsLTUyNTAx
+NzU4MiwtMTcxMDI4OTc4OSwxOTgwNjUwNjY1LDY5NTc4OTM5Ni
+wxMzkwNDU4MjgzLDE1OTkzODYyMzksMjU4ODA4MjE5LC0zMjg3
+MzU0NV19
 -->
