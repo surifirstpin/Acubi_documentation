@@ -48,7 +48,7 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
 
 **2.**   Select the Layout using drop-down list and add reports to the layout.
 
-**3.** To add Reports to layout selected, Click on **Add** link available under work space. 
+**3.** To add Reports to layout selected, Select the grid and click on report you wish to add or Click on **Add** link available under work space. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_2.png)
@@ -136,11 +136,11 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTAyODk3ODksMTk4MDY1MDY2NSw2OT
-U3ODkzOTYsMTM5MDQ1ODI4MywxNTk5Mzg2MjM5LDI1ODgwODIx
-OSwtMzI4NzM1NDUsLTEyMzE0ODI1MTAsLTE4MzQ0NjM5NjgsLT
-E5Mjg2MjY2NywyMjY2MjY4NDUsLTQ3NjQ2MzYxLC0xMDA4Mzkw
-MzMsLTQxMzA5NTUxMSw2ODc1NTAzMTksLTQ4NTQ4NDc2OSwxNj
-IwNjY1MjEwLC0xNjYxOTIwOTc2LDQ3MDUyMTM4NiwyMDQ3MTI2
-MjUxXX0=
+eyJoaXN0b3J5IjpbLTE1MTIyOTg0NywtMTcxMDI4OTc4OSwxOT
+gwNjUwNjY1LDY5NTc4OTM5NiwxMzkwNDU4MjgzLDE1OTkzODYy
+MzksMjU4ODA4MjE5LC0zMjg3MzU0NSwtMTIzMTQ4MjUxMCwtMT
+gzNDQ2Mzk2OCwtMTkyODYyNjY3LDIyNjYyNjg0NSwtNDc2NDYz
+NjEsLTEwMDgzOTAzMywtNDEzMDk1NTExLDY4NzU1MDMxOSwtND
+g1NDg0NzY5LDE2MjA2NjUyMTAsLTE2NjE5MjA5NzYsNDcwNTIx
+Mzg2XX0=
 -->
