@@ -53,7 +53,7 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_2.png)
 
-3. To Add Global Filters to the dashboard, Click on **Add Global Filters** Button.
+**3.** To Add Global Filters to the dashboard, Click on **Add Global Filters** Button.
 
 **Dashboard global Filters** allows user to view limited data by applying filters on dashboard reports and it supports following filter types string, number, date and lookup.
  
@@ -136,7 +136,7 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg2MDA1MDksMTk4MDY1MDY2NSw2OT
+eyJoaXN0b3J5IjpbLTE3MTAyODk3ODksMTk4MDY1MDY2NSw2OT
 U3ODkzOTYsMTM5MDQ1ODI4MywxNTk5Mzg2MjM5LDI1ODgwODIx
 OSwtMzI4NzM1NDUsLTEyMzE0ODI1MTAsLTE4MzQ0NjM5NjgsLT
 E5Mjg2MjY2NywyMjY2MjY4NDUsLTQ3NjQ2MzYxLC0xMDA4Mzkw
