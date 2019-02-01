@@ -98,9 +98,9 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
    
    -  **Connection**  Connection are referred only for Queries and it is disabled for Items.
      
-   Click on Test Lookup :**  To test the lookup.
+   **6.** Click on Test Lookup.
    
-    -   **Multiple Selections :**  enables the selection of list, for multiple data.
+   -   **Multiple Selections :**  enables the selection of list, for multiple data.
 
 ## Dependency Filters
 
@@ -150,11 +150,11 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODMzMzAwNywtOTY0OTAxMDM5LDE5OD
-cyNzE0MTcsLTEyNTE3MzAyMzYsMjAyOTU1Nzc3OCwtOTM0NTMz
-ODMwLC0xODczNzE3NTQ1LC01MjUwMTc1ODIsLTE3MTAyODk3OD
-ksMTk4MDY1MDY2NSw2OTU3ODkzOTYsMTM5MDQ1ODI4MywxNTk5
-Mzg2MjM5LDI1ODgwODIxOSwtMzI4NzM1NDUsLTEyMzE0ODI1MT
-AsLTE4MzQ0NjM5NjgsLTE5Mjg2MjY2NywyMjY2MjY4NDUsLTQ3
-NjQ2MzYxXX0=
+eyJoaXN0b3J5IjpbNTAyNDcyMTk3LC05NjQ5MDEwMzksMTk4Nz
+I3MTQxNywtMTI1MTczMDIzNiwyMDI5NTU3Nzc4LC05MzQ1MzM4
+MzAsLTE4NzM3MTc1NDUsLTUyNTAxNzU4MiwtMTcxMDI4OTc4OS
+wxOTgwNjUwNjY1LDY5NTc4OTM5NiwxMzkwNDU4MjgzLDE1OTkz
+ODYyMzksMjU4ODA4MjE5LC0zMjg3MzU0NSwtMTIzMTQ4MjUxMC
+wtMTgzNDQ2Mzk2OCwtMTkyODYyNjY3LDIyNjYyNjg0NSwtNDc2
+NDYzNjFdfQ==
 -->
