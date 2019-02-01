@@ -88,7 +88,8 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
 
 > **Note ** Lookup works only for string field.
 
-
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/bd243725834336dcd901b72f730e584eb164d89c/images/New_version5/UD_Dashboard_image7.png)
 
 **Fill up the lookup section ;**
 
@@ -150,11 +151,11 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyNDcyMTk3LC05NjQ5MDEwMzksMTk4Nz
-I3MTQxNywtMTI1MTczMDIzNiwyMDI5NTU3Nzc4LC05MzQ1MzM4
-MzAsLTE4NzM3MTc1NDUsLTUyNTAxNzU4MiwtMTcxMDI4OTc4OS
-wxOTgwNjUwNjY1LDY5NTc4OTM5NiwxMzkwNDU4MjgzLDE1OTkz
-ODYyMzksMjU4ODA4MjE5LC0zMjg3MzU0NSwtMTIzMTQ4MjUxMC
-wtMTgzNDQ2Mzk2OCwtMTkyODYyNjY3LDIyNjYyNjg0NSwtNDc2
-NDYzNjFdfQ==
+eyJoaXN0b3J5IjpbMjA0NDQ1MDIxNiw1MDI0NzIxOTcsLTk2ND
+kwMTAzOSwxOTg3MjcxNDE3LC0xMjUxNzMwMjM2LDIwMjk1NTc3
+NzgsLTkzNDUzMzgzMCwtMTg3MzcxNzU0NSwtNTI1MDE3NTgyLC
+0xNzEwMjg5Nzg5LDE5ODA2NTA2NjUsNjk1Nzg5Mzk2LDEzOTA0
+NTgyODMsMTU5OTM4NjIzOSwyNTg4MDgyMTksLTMyODczNTQ1LC
+0xMjMxNDgyNTEwLC0xODM0NDYzOTY4LC0xOTI4NjI2NjcsMjI2
+NjI2ODQ1XX0=
 -->
