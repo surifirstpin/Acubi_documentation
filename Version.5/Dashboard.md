@@ -82,7 +82,8 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
 ## Lookups
 
  Adding lookup to dashboard will refer set of query or list of items in filters.
-To Add Lookups to Dashboard repor, Click on Lookups Tab.
+
+**5.** To Add Lookups to Dashboard reports, Click on Lookups Tab.
 
 
 **Fill up the lookup section ;**
@@ -145,11 +146,11 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODAwMDU1MzMsLTEyNTE3MzAyMzYsMj
-AyOTU1Nzc3OCwtOTM0NTMzODMwLC0xODczNzE3NTQ1LC01MjUw
-MTc1ODIsLTE3MTAyODk3ODksMTk4MDY1MDY2NSw2OTU3ODkzOT
-YsMTM5MDQ1ODI4MywxNTk5Mzg2MjM5LDI1ODgwODIxOSwtMzI4
-NzM1NDUsLTEyMzE0ODI1MTAsLTE4MzQ0NjM5NjgsLTE5Mjg2Mj
-Y2NywyMjY2MjY4NDUsLTQ3NjQ2MzYxLC0xMDA4MzkwMzMsLTQx
-MzA5NTUxMV19
+eyJoaXN0b3J5IjpbMTk4NzI3MTQxNywtMTI1MTczMDIzNiwyMD
+I5NTU3Nzc4LC05MzQ1MzM4MzAsLTE4NzM3MTc1NDUsLTUyNTAx
+NzU4MiwtMTcxMDI4OTc4OSwxOTgwNjUwNjY1LDY5NTc4OTM5Ni
+wxMzkwNDU4MjgzLDE1OTkzODYyMzksMjU4ODA4MjE5LC0zMjg3
+MzU0NSwtMTIzMTQ4MjUxMCwtMTgzNDQ2Mzk2OCwtMTkyODYyNj
+Y3LDIyNjYyNjg0NSwtNDc2NDYzNjEsLTEwMDgzOTAzMywtNDEz
+MDk1NTExXX0=
 -->
