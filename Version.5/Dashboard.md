@@ -71,7 +71,7 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
 
   -   **Filter Type :**  type of filter used ( Eg: string, date, number).
 
-  -   **Operator :**  filter operation that are applicable.
+  -   **Operator :**  filter option to be applied on the fields.
 
 
 > **Note :** for Timeline filters, accepts only text. A detailed information on time line filters are available in Technical Documents.
@@ -140,7 +140,7 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTM5NjYxMCwtOTM0NTMzODMwLC0xOD
+eyJoaXN0b3J5IjpbMTU2NzEyMjg1NiwtOTM0NTMzODMwLC0xOD
 czNzE3NTQ1LC01MjUwMTc1ODIsLTE3MTAyODk3ODksMTk4MDY1
 MDY2NSw2OTU3ODkzOTYsMTM5MDQ1ODI4MywxNTk5Mzg2MjM5LD
 I1ODgwODIxOSwtMzI4NzM1NDUsLTEyMzE0ODI1MTAsLTE4MzQ0
