@@ -36,7 +36,7 @@ After logging into AcuBi Home Page, Click on **Dashboard**.
 Under Dashboard Section,  Choose **New->Dashboard** from the given drop down list. 
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_1.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/99b04bcdbb9f776bd4ac2f0a851841fe9dcbbc34/images/New_version5/UD_Dashboard_image4.png)
 
 ## Select Layout
 
@@ -136,10 +136,10 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1Nzg5Mzk2LDEzOTA0NTgyODMsMTU5OT
-M4NjIzOSwyNTg4MDgyMTksLTMyODczNTQ1LC0xMjMxNDgyNTEw
-LC0xODM0NDYzOTY4LC0xOTI4NjI2NjcsMjI2NjI2ODQ1LC00Nz
-Y0NjM2MSwtMTAwODM5MDMzLC00MTMwOTU1MTEsNjg3NTUwMzE5
-LC00ODU0ODQ3NjksMTYyMDY2NTIxMCwtMTY2MTkyMDk3Niw0Nz
-A1MjEzODYsMjA0NzEyNjI1MV19
+eyJoaXN0b3J5IjpbMTk4MDY1MDY2NSw2OTU3ODkzOTYsMTM5MD
+Q1ODI4MywxNTk5Mzg2MjM5LDI1ODgwODIxOSwtMzI4NzM1NDUs
+LTEyMzE0ODI1MTAsLTE4MzQ0NjM5NjgsLTE5Mjg2MjY2NywyMj
+Y2MjY4NDUsLTQ3NjQ2MzYxLC0xMDA4MzkwMzMsLTQxMzA5NTUx
+MSw2ODc1NTAzMTksLTQ4NTQ4NDc2OSwxNjIwNjY1MjEwLC0xNj
+YxOTIwOTc2LDQ3MDUyMTM4NiwyMDQ3MTI2MjUxXX0=
 -->
