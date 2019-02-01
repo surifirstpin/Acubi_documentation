@@ -85,7 +85,7 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
 
 **5.** To Add Lookups to Dashboard reports, Click on Lookups Tab.
 
-
+> Lookup works only for string field.
 **Fill up the lookup section ;**
 
    -   **Lookup name :**  name of the lookup field.
@@ -146,11 +146,11 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzI3MTQxNywtMTI1MTczMDIzNiwyMD
-I5NTU3Nzc4LC05MzQ1MzM4MzAsLTE4NzM3MTc1NDUsLTUyNTAx
-NzU4MiwtMTcxMDI4OTc4OSwxOTgwNjUwNjY1LDY5NTc4OTM5Ni
-wxMzkwNDU4MjgzLDE1OTkzODYyMzksMjU4ODA4MjE5LC0zMjg3
-MzU0NSwtMTIzMTQ4MjUxMCwtMTgzNDQ2Mzk2OCwtMTkyODYyNj
-Y3LDIyNjYyNjg0NSwtNDc2NDYzNjEsLTEwMDgzOTAzMywtNDEz
-MDk1NTExXX0=
+eyJoaXN0b3J5IjpbLTUxMTY5NjkxOSwxOTg3MjcxNDE3LC0xMj
+UxNzMwMjM2LDIwMjk1NTc3NzgsLTkzNDUzMzgzMCwtMTg3Mzcx
+NzU0NSwtNTI1MDE3NTgyLC0xNzEwMjg5Nzg5LDE5ODA2NTA2Nj
+UsNjk1Nzg5Mzk2LDEzOTA0NTgyODMsMTU5OTM4NjIzOSwyNTg4
+MDgyMTksLTMyODczNTQ1LC0xMjMxNDgyNTEwLC0xODM0NDYzOT
+Y4LC0xOTI4NjI2NjcsMjI2NjI2ODQ1LC00NzY0NjM2MSwtMTAw
+ODM5MDMzXX0=
 -->
