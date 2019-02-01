@@ -126,8 +126,6 @@ The Listeners option allows to register callbacks to be notified when an event i
     
  On Clicking **Save** button It will navigate to **Save Dashboard** section.
 
-
-
 ***Fill up save dashboard section :***
 
    -   **Name :**  name identifier for dashboard created.
@@ -150,7 +148,7 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTM2NzUxNiwtNjk4MTM3MzI2LDQyNj
+eyJoaXN0b3J5IjpbMjA3Mjg4Nzg2NCwtNjk4MTM3MzI2LDQyNj
 EzNTYzNCw1MDI0NzIxOTcsLTk2NDkwMTAzOSwxOTg3MjcxNDE3
 LC0xMjUxNzMwMjM2LDIwMjk1NTc3NzgsLTkzNDUzMzgzMCwtMT
 g3MzcxNzU0NSwtNTI1MDE3NTgyLC0xNzEwMjg5Nzg5LDE5ODA2
