@@ -77,7 +77,7 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
   -   **Operator :**  filter option to be applied on the fields.
 
 
-> **Note :** for Timeline filters, accepts only text. A detailed information on time line filters are available in Technical Documents.
+> **Note :** Timeline filters, accepts only text. A detailed information on timeline filters are available in Technical Documents.
 
 ## Lookups
 
@@ -143,11 +143,11 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTcxNTUwNywyMDI5NTU3Nzc4LC05Mz
-Q1MzM4MzAsLTE4NzM3MTc1NDUsLTUyNTAxNzU4MiwtMTcxMDI4
-OTc4OSwxOTgwNjUwNjY1LDY5NTc4OTM5NiwxMzkwNDU4MjgzLD
-E1OTkzODYyMzksMjU4ODA4MjE5LC0zMjg3MzU0NSwtMTIzMTQ4
-MjUxMCwtMTgzNDQ2Mzk2OCwtMTkyODYyNjY3LDIyNjYyNjg0NS
-wtNDc2NDYzNjEsLTEwMDgzOTAzMywtNDEzMDk1NTExLDY4NzU1
-MDMxOV19
+eyJoaXN0b3J5IjpbLTEyNTE3MzAyMzYsMjAyOTU1Nzc3OCwtOT
+M0NTMzODMwLC0xODczNzE3NTQ1LC01MjUwMTc1ODIsLTE3MTAy
+ODk3ODksMTk4MDY1MDY2NSw2OTU3ODkzOTYsMTM5MDQ1ODI4My
+wxNTk5Mzg2MjM5LDI1ODgwODIxOSwtMzI4NzM1NDUsLTEyMzE0
+ODI1MTAsLTE4MzQ0NjM5NjgsLTE5Mjg2MjY2NywyMjY2MjY4ND
+UsLTQ3NjQ2MzYxLC0xMDA4MzkwMzMsLTQxMzA5NTUxMSw2ODc1
+NTAzMTldfQ==
 -->
