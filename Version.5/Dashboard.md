@@ -65,7 +65,7 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
 |  Date | For fields that contain dates. |
 |  Lookup | To view the lookup in dashboard filters it should be defined in lookup section first. |
 
-**Fill up the dashboard global section;**
+**Fill up the dashboard global filter section;**
 
   -   **Filter Name :**  identifier name to the filter applicable.
 
@@ -140,7 +140,7 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzEyMjg1NiwtOTM0NTMzODMwLC0xOD
+eyJoaXN0b3J5IjpbMjAyOTU1Nzc3OCwtOTM0NTMzODMwLC0xOD
 czNzE3NTQ1LC01MjUwMTc1ODIsLTE3MTAyODk3ODksMTk4MDY1
 MDY2NSw2OTU3ODkzOTYsMTM5MDQ1ODI4MywxNTk5Mzg2MjM5LD
 I1ODgwODIxOSwtMzI4NzM1NDUsLTEyMzE0ODI1MTAsLTE4MzQ0
