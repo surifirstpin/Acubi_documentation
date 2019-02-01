@@ -78,7 +78,7 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
 
 
 > **Note :** Timeline filters, accepts only text. A detailed information on timeline filters are available in Technical Documents.
-
+> You need to add
 ## Lookups
 
  Adding lookup to dashboard will refer set of query or list of items in filters.
@@ -86,6 +86,7 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
 **5.** To Add Lookups to Dashboard reports, Click on Lookups Tab.
 
 > Lookup works only for string field.
+
 **Fill up the lookup section ;**
 
    -   **Lookup name :**  name of the lookup field.
@@ -146,7 +147,7 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTY5NjkxOSwxOTg3MjcxNDE3LC0xMj
+eyJoaXN0b3J5IjpbLTQ0MDgzNjY4NiwxOTg3MjcxNDE3LC0xMj
 UxNzMwMjM2LDIwMjk1NTc3NzgsLTkzNDUzMzgzMCwtMTg3Mzcx
 NzU0NSwtNTI1MDE3NTgyLC0xNzEwMjg5Nzg5LDE5ODA2NTA2Nj
 UsNjk1Nzg5Mzk2LDEzOTA0NTgyODMsMTU5OTM4NjIzOSwyNTg4
