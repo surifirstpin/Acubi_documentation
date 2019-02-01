@@ -50,8 +50,7 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
 
 **3.** To add Reports to layout selected, Select the grid and click on report you wish to add or Click on **Add** link available under work space. 
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_2.png)
+
 
 **3.** To Add Global Filters to the dashboard, Click on **Add Global Filters** Button.
 
@@ -136,7 +135,7 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTIyOTg0NywtMTcxMDI4OTc4OSwxOT
+eyJoaXN0b3J5IjpbLTUyNTAxNzU4MiwtMTcxMDI4OTc4OSwxOT
 gwNjUwNjY1LDY5NTc4OTM5NiwxMzkwNDU4MjgzLDE1OTkzODYy
 MzksMjU4ODA4MjE5LC0zMjg3MzU0NSwtMTIzMTQ4MjUxMCwtMT
 gzNDQ2Mzk2OCwtMTkyODYyNjY3LDIyNjYyNjg0NSwtNDc2NDYz
