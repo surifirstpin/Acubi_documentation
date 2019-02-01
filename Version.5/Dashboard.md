@@ -33,7 +33,7 @@ After logging into AcuBi Home Page, Click on **Dashboard**.
 ***Now, Let us See how to create a New dashboard.***
  
  ## Create Dashboard
-Under Dashboard Section,  Choose **New->Dashboard** from the drop down list on top of the screen. 
+Under Dashboard Section,  Choose **New->Dashboard** from the given drop down list. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_1.png)
@@ -136,7 +136,7 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTIyMzcxLDEzOTA0NTgyODMsMTU5OT
+eyJoaXN0b3J5IjpbNjk1Nzg5Mzk2LDEzOTA0NTgyODMsMTU5OT
 M4NjIzOSwyNTg4MDgyMTksLTMyODczNTQ1LC0xMjMxNDgyNTEw
 LC0xODM0NDYzOTY4LC0xOTI4NjI2NjcsMjI2NjI2ODQ1LC00Nz
 Y0NjM2MSwtMTAwODM5MDMzLC00MTMwOTU1MTEsNjg3NTUwMzE5
