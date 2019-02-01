@@ -46,7 +46,8 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
 
 - **Grid (Fixed) Layout** All the reports in this layout will fit into single screen.
 
-
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/3b8137ddf669d251a2e9ea3f26fa8b6bde3a8984/images/New_version5/UD_Dashboard_image5.png)
 
 
 **2.**   Select the Layout using drop-down list and add reports to the layout.
@@ -136,11 +137,11 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzM3MTc1NDUsLTUyNTAxNzU4MiwtMT
-cxMDI4OTc4OSwxOTgwNjUwNjY1LDY5NTc4OTM5NiwxMzkwNDU4
-MjgzLDE1OTkzODYyMzksMjU4ODA4MjE5LC0zMjg3MzU0NSwtMT
-IzMTQ4MjUxMCwtMTgzNDQ2Mzk2OCwtMTkyODYyNjY3LDIyNjYy
-Njg0NSwtNDc2NDYzNjEsLTEwMDgzOTAzMywtNDEzMDk1NTExLD
-Y4NzU1MDMxOSwtNDg1NDg0NzY5LDE2MjA2NjUyMTAsLTE2NjE5
-MjA5NzZdfQ==
+eyJoaXN0b3J5IjpbLTkzNDUzMzgzMCwtMTg3MzcxNzU0NSwtNT
+I1MDE3NTgyLC0xNzEwMjg5Nzg5LDE5ODA2NTA2NjUsNjk1Nzg5
+Mzk2LDEzOTA0NTgyODMsMTU5OTM4NjIzOSwyNTg4MDgyMTksLT
+MyODczNTQ1LC0xMjMxNDgyNTEwLC0xODM0NDYzOTY4LC0xOTI4
+NjI2NjcsMjI2NjI2ODQ1LC00NzY0NjM2MSwtMTAwODM5MDMzLC
+00MTMwOTU1MTEsNjg3NTUwMzE5LC00ODU0ODQ3NjksMTYyMDY2
+NTIxMF19
 -->
