@@ -126,8 +126,7 @@ The Listeners option allows to register callbacks to be notified when an event i
     
  On Clicking **Save** button It will navigate to **Save Dashboard** section.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_3.png)
+
 
 *Fill up save dashboard section :*
 
@@ -151,11 +150,11 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODEzNzMyNiw0MjYxMzU2MzQsNTAyND
-cyMTk3LC05NjQ5MDEwMzksMTk4NzI3MTQxNywtMTI1MTczMDIz
-NiwyMDI5NTU3Nzc4LC05MzQ1MzM4MzAsLTE4NzM3MTc1NDUsLT
-UyNTAxNzU4MiwtMTcxMDI4OTc4OSwxOTgwNjUwNjY1LDY5NTc4
-OTM5NiwxMzkwNDU4MjgzLDE1OTkzODYyMzksMjU4ODA4MjE5LC
-0zMjg3MzU0NSwtMTIzMTQ4MjUxMCwtMTgzNDQ2Mzk2OCwtMTky
-ODYyNjY3XX0=
+eyJoaXN0b3J5IjpbLTE5Mzc3MzU1ODgsLTY5ODEzNzMyNiw0Mj
+YxMzU2MzQsNTAyNDcyMTk3LC05NjQ5MDEwMzksMTk4NzI3MTQx
+NywtMTI1MTczMDIzNiwyMDI5NTU3Nzc4LC05MzQ1MzM4MzAsLT
+E4NzM3MTc1NDUsLTUyNTAxNzU4MiwtMTcxMDI4OTc4OSwxOTgw
+NjUwNjY1LDY5NTc4OTM5NiwxMzkwNDU4MjgzLDE1OTkzODYyMz
+ksMjU4ODA4MjE5LC0zMjg3MzU0NSwtMTIzMTQ4MjUxMCwtMTgz
+NDQ2Mzk2OF19
 -->
