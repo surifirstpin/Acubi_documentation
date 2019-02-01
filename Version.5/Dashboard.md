@@ -90,7 +90,7 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
 
 **Fill up the lookup section ;**
 
-   -   **Lookup name :**  name of the lookup field.
+   -   **Lookup name :**  name Identifier for lookup field.
    
     -   **Lookup Type :**  refers to item or query type.
    
@@ -148,11 +148,11 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDkwMTAzOSwxOTg3MjcxNDE3LC0xMj
-UxNzMwMjM2LDIwMjk1NTc3NzgsLTkzNDUzMzgzMCwtMTg3Mzcx
-NzU0NSwtNTI1MDE3NTgyLC0xNzEwMjg5Nzg5LDE5ODA2NTA2Nj
-UsNjk1Nzg5Mzk2LDEzOTA0NTgyODMsMTU5OTM4NjIzOSwyNTg4
-MDgyMTksLTMyODczNTQ1LC0xMjMxNDgyNTEwLC0xODM0NDYzOT
-Y4LC0xOTI4NjI2NjcsMjI2NjI2ODQ1LC00NzY0NjM2MSwtMTAw
-ODM5MDMzXX0=
+eyJoaXN0b3J5IjpbMTM5NTk4MDIzLC05NjQ5MDEwMzksMTk4Nz
+I3MTQxNywtMTI1MTczMDIzNiwyMDI5NTU3Nzc4LC05MzQ1MzM4
+MzAsLTE4NzM3MTc1NDUsLTUyNTAxNzU4MiwtMTcxMDI4OTc4OS
+wxOTgwNjUwNjY1LDY5NTc4OTM5NiwxMzkwNDU4MjgzLDE1OTkz
+ODYyMzksMjU4ODA4MjE5LC0zMjg3MzU0NSwtMTIzMTQ4MjUxMC
+wtMTgzNDQ2Mzk2OCwtMTkyODYyNjY3LDIyNjYyNjg0NSwtNDc2
+NDYzNjFdfQ==
 -->
