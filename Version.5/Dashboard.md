@@ -58,12 +58,12 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
 
 **Dashboard global Filters** allows user to view limited data by applying filters on dashboard reports and it supports following filter types string, number, date and lookup.
  
-|  **Type** | **Description** |
+| **Type** | **Description** |
 |  ------ | ------ |
 |  **String** | For fields that contain letters or special characters. |
 |  **Number** | For fields that contain numbers. |
-|  Date | For fields that contain dates. |
-|  Lookup | To view the lookup in dashboard filters it should be defined in lookup section first. |
+|  **Date** | For fields that contain dates. |
+|  **Lookup** | To view the lookup in dashboard filters it should be defined in lookup section first. |
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1dd11662359a18e0f370aa3058e7fd6281328220/images/New_version5/UD_Dashboard_image6.png)
@@ -143,7 +143,7 @@ Select the tag in which you want to save **Dashboard Reports** and click **Save.
 ](https://raw.githubusercontent.com/sv18042016/fp1/90511a882ffd694c16d44cb8f74b6f97e9db823e/images/create_dash_ur_4.png) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MjkwNTEwMSwyMDI5NTU3Nzc4LC05Mz
+eyJoaXN0b3J5IjpbMTczMTcxNTUwNywyMDI5NTU3Nzc4LC05Mz
 Q1MzM4MzAsLTE4NzM3MTc1NDUsLTUyNTAxNzU4MiwtMTcxMDI4
 OTc4OSwxOTgwNjUwNjY1LDY5NTc4OTM5NiwxMzkwNDU4MjgzLD
 E1OTkzODYyMzksMjU4ODA4MjE5LC0zMjg3MzU0NSwtMTIzMTQ4
