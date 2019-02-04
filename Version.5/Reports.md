@@ -115,7 +115,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 
   -  Hit the **Run** button, data is displayed based on the filters applied.
 
-**5.** Similarly, we can apply **Hidden Filters** to the report data, By Clicking Filter Icon in The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are hidden in data section.
+**5.** Similarly, we can apply **Hidden Filters** to the report data, By Clicking Filter Icon available at field list of the report. The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are hidden in data section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/603d0055942c97790066aa8195ad659038778ad2/images/hidden_filter.png)
@@ -315,8 +315,8 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzU5OTA1MTMsLTQyMDA0ODgyMSw1OD
-c0MzA2MTIsLTE1OTkyNjE5MzUsLTE4NjgwNTg5MDIsMTg0NzU5
-NDI1Miw2MjU3MTAxNDQsLTE3OTYwNzEyMTAsLTY1OTgzMzAzNy
-wyMDE0OTE4NjIxXX0=
+eyJoaXN0b3J5IjpbLTc3ODIzMDY3NiwtNDIwMDQ4ODIxLDU4Nz
+QzMDYxMiwtMTU5OTI2MTkzNSwtMTg2ODA1ODkwMiwxODQ3NTk0
+MjUyLDYyNTcxMDE0NCwtMTc5NjA3MTIxMCwtNjU5ODMzMDM3LD
+IwMTQ5MTg2MjFdfQ==
 -->
