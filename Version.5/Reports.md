@@ -123,7 +123,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 **9.** To Add more filters click on **Add Filter**.
 
-**10.** To Delete the filter applied Click **Ban Icon** as shown in the image.
+**10.** To Delete the filter applied Click **Cross Icon** as shown in the image below.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b0f6dc49657c9a5d48f6810415f48efbe047dc36/images/full_filters.png)
@@ -315,8 +315,8 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDA2NDEyNSwtNDIwMDQ4ODIxLDU4Nz
-QzMDYxMiwtMTU5OTI2MTkzNSwtMTg2ODA1ODkwMiwxODQ3NTk0
-MjUyLDYyNTcxMDE0NCwtMTc5NjA3MTIxMCwtNjU5ODMzMDM3LD
-IwMTQ5MTg2MjFdfQ==
+eyJoaXN0b3J5IjpbLTE2NDEyOTUyOTksLTQyMDA0ODgyMSw1OD
+c0MzA2MTIsLTE1OTkyNjE5MzUsLTE4NjgwNTg5MDIsMTg0NzU5
+NDI1Miw2MjU3MTAxNDQsLTE3OTYwNzEyMTAsLTY1OTgzMzAzNy
+wyMDE0OTE4NjIxXX0=
 -->
