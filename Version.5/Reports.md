@@ -5,6 +5,9 @@
 Reports describes how to retrieves the data in the desired combinations as per your business needs and how to explore particular subject area it self. It has an ability on how to pull the data and modify the report as per the needs and drill down deeper into the report for more better insights across the report.
 
  To create a report, Click on **Reports Section.**
+ 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/11d8e2454a911ad96e6238049e8d1575e6dcd084/images/New_version5/UD_Reports_Image1.png)
 
 **1.**  All the connection established, databases and tables used for the Reports are defined under **Project.** Depending on your business requirement you can choose appropriate project.
 
@@ -23,7 +26,7 @@ The data in analyse sections is determined by dimensions and measures. Using **F
 ## Getting Started
 
 Let us generate a query to display Stationcode (Dimension) and Order Attendant ID (Dimension) with Quantity Sum. 
-After Selecting dimensions and measures **Run** the report to extract the data.
+After Selecting dimensions and measures, hit the **Run** button to extract the data.
 In the following example we have selected **Two Dimensions and One Measure Field.**
 
 ![
@@ -310,7 +313,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjgwNTg5MDIsMTg0NzU5NDI1Miw2Mj
-U3MTAxNDQsLTE3OTYwNzEyMTAsLTY1OTgzMzAzNywyMDE0OTE4
-NjIxXX0=
+eyJoaXN0b3J5IjpbNTgwMTA2OTg5LC0xODY4MDU4OTAyLDE4ND
+c1OTQyNTIsNjI1NzEwMTQ0LC0xNzk2MDcxMjEwLC02NTk4MzMw
+MzcsMjAxNDkxODYyMV19
 -->
