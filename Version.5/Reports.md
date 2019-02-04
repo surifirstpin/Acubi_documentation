@@ -128,11 +128,11 @@ Report filters will narrow the reports results while allowing you to view the sp
 
  > To Delete the Order applied Click on **Cross Icon.**
  
-**.** To hide the **Filter** or **Order** sections, click on angle-double-up icon on to far right of the order section. To un-hide the same click on angle-double-down icon.
+**11.** To hide the **Filter** or **Order** sections, click on angle-double-up icon on to far right of the order section. To un-hide the same click on angle-double-down icon.
 
 ## Local Sorting
 
-**10.** Sorting can also be applied after data is retrieved in data section, you can simply click on desired field header to enable sorting.
+**12.** Sorting can also be applied after data is retrieved in data section, you can simply click on desired field header to enable sorting.
 
 For  **Dimensions**
 
@@ -148,13 +148,13 @@ For  **Measures** use opposite direction.
 ](https://raw.githubusercontent.com/sv18042016/fp1/0c40bcaa8d70982ecbd36c04499e478e0ad2042f/images/full_sort.png)
 
 
-**11.** The total time taken to build a query for a report is displayed at top of the report screen.
+**13.** The total time taken to build a query for a report is displayed at top of the report screen.
 
-**12.** The total number of rows fetched displayed just below that.
+**14.** The total number of rows fetched displayed just below that.
   
-**13.**  Select the  **check box** for totals, to display total sum values of the measure fields.
+**15.**  Select the  **check box** for totals, to display total sum values of the measure fields.
 
-**14.**  You can **limit** the rows to 100, 500, 1000, 5000, etc using given drop down list.
+**16.**  You can **limit** the rows to 100, 500, 1000, 5000, etc using given drop down list.
 
 ## Pivot
 
@@ -309,9 +309,9 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQwNjkzLDE1ODU4MTg1ODUsLTQ2Mj
-gzNDg1OCwxNzI0MjA1Mjk5LC0xNjQxMjk1Mjk5LC00MjAwNDg4
-MjEsNTg3NDMwNjEyLC0xNTk5MjYxOTM1LC0xODY4MDU4OTAyLD
-E4NDc1OTQyNTIsNjI1NzEwMTQ0LC0xNzk2MDcxMjEwLC02NTk4
-MzMwMzcsMjAxNDkxODYyMV19
+eyJoaXN0b3J5IjpbLTEwMTE5NzIyNDMsMTU4NTgxODU4NSwtND
+YyODM0ODU4LDE3MjQyMDUyOTksLTE2NDEyOTUyOTksLTQyMDA0
+ODgyMSw1ODc0MzA2MTIsLTE1OTkyNjE5MzUsLTE4NjgwNTg5MD
+IsMTg0NzU5NDI1Miw2MjU3MTAxNDQsLTE3OTYwNzEyMTAsLTY1
+OTgzMzAzNywyMDE0OTE4NjIxXX0=
 -->
