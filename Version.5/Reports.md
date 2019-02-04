@@ -19,6 +19,7 @@ Reports describes how to retrieves the data in the desired combinations as per y
  
  **3.** To refresh a report click on, **Reset** ( refresh icon). 
 
+## Getting Started
 
 The data in analyse sections is determined by dimensions and measures.
 
@@ -28,8 +29,6 @@ The data in analyse sections is determined by dimensions and measures.
 **4.**  Using **Field Picker**, select Dimensions and Measures to retrieve the data based on the selection made. In AcuBi a dimension is derived as group of data and Measure is derived as information about group of data.
 
  > **Note :** All the dimensions appear blue in  colour and all the measures appear in Orange colour in your data table.
-
-## Getting Started
 
 Let us generate a query to display Stationcode (Dimension) and Order Attendant ID (Dimension) with Quantity Sum. 
 
@@ -317,7 +316,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE0Njg2OTgsLTE1OTkyNjE5MzUsLT
-E4NjgwNTg5MDIsMTg0NzU5NDI1Miw2MjU3MTAxNDQsLTE3OTYw
-NzEyMTAsLTY1OTgzMzAzNywyMDE0OTE4NjIxXX0=
+eyJoaXN0b3J5IjpbNTg3NDMwNjEyLC0xNTk5MjYxOTM1LC0xOD
+Y4MDU4OTAyLDE4NDc1OTQyNTIsNjI1NzEwMTQ0LC0xNzk2MDcx
+MjEwLC02NTk4MzMwMzcsMjAxNDkxODYyMV19
 -->
