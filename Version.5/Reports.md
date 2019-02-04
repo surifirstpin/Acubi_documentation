@@ -109,7 +109,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 > **Note :** To view the **Timeline Filters** in details please go to Timeline filters document.
 
-**7.** To Add Filter to a report, Click on Add Filter. The report data is retrieved based on **Filter** applied if any. All the fields selected are visible in filter expression list using which you can apply filters.
+**7.** To Add Filter to a report, Click on **Add Filter.** The report data is retrieved based on **Filter** applied if any. All the fields selected are visible in filter expression list using which you can apply filters.
 
 > **For Example :** Apply filter expression to measure field **Quantity sum is greater than or equal to 1000** in filter section and data is retrieved on based on the filters applied.
 
@@ -117,9 +117,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 **8.** Similarly, we can apply **Hidden Filters** to the report data, By Clicking on Filter Icon available in field list of a report. The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are hidden in data section.
 
-**9.** To Add more filters click on **Add Filter**.
-
-**10.** To Delete the filter applied Click **Cross Icon** as shown in the image below.
+**9.** To Delete the filter applied Click **Cross Icon** as shown in the image below.
 
 
 
@@ -310,7 +308,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzgwNDE1NiwtMTY0MTI5NTI5OSwtND
+eyJoaXN0b3J5IjpbMTcyNDIwNTI5OSwtMTY0MTI5NTI5OSwtND
 IwMDQ4ODIxLDU4NzQzMDYxMiwtMTU5OTI2MTkzNSwtMTg2ODA1
 ODkwMiwxODQ3NTk0MjUyLDYyNTcxMDE0NCwtMTc5NjA3MTIxMC
 wtNjU5ODMzMDM3LDIwMTQ5MTg2MjFdfQ==
