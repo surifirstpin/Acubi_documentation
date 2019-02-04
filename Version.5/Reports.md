@@ -1,10 +1,10 @@
 
 
-> <center><h1> Analysis </h1></center>
+> <center><h1> Reports </h1></center>
 
-Analysis section describes how to retrieves the data in the desired combinations as per your business needs and how to explore particular subject area it self. It has an ability on how to pull the data and modify the report as per the needs and drill down deeper into the report for more better insights across the report.
+Reports describes how to retrieves the data in the desired combinations as per your business needs and how to explore particular subject area it self. It has an ability on how to pull the data and modify the report as per the needs and drill down deeper into the report for more better insights across the report.
 
- To create a report, Click on **Analyse Section.**
+ To create a report, Click on **Reports Section.**
 
 **1.**  All the connection established, databases and tables used for the Reports are defined under **Project.** Depending on your business requirement you can choose appropriate project.
 
@@ -310,5 +310,6 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTgzMzAzNywyMDE0OTE4NjIxXX0=
+eyJoaXN0b3J5IjpbLTE3OTYwNzEyMTAsLTY1OTgzMzAzNywyMD
+E0OTE4NjIxXX0=
 -->
