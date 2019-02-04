@@ -113,12 +113,14 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 > **For Example :** Apply filter expression to measure field **Quantity sum is greater than or equal to 1000** in filter section and data is retrieved on based on the filters applied.
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/f8001dca815cc6c014f37403d67e23f6e4ef916b/images/New_version5/UD_Reports_Image3.png)
+ 
   -  Hit the **Run** button, data is displayed based on the filters applied.
 
 **8.** Similarly, we can apply **Hidden Filters** to the report data, By Clicking on Filter Icon available in field list of a report. The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are hidden in data section.
 
 **9.** To Delete the filter applied Click **Cross Icon** as shown in the image below.
-
 
 
 ## Order (Ascending / Descending)
@@ -308,8 +310,8 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDIwNTI5OSwtMTY0MTI5NTI5OSwtND
-IwMDQ4ODIxLDU4NzQzMDYxMiwtMTU5OTI2MTkzNSwtMTg2ODA1
-ODkwMiwxODQ3NTk0MjUyLDYyNTcxMDE0NCwtMTc5NjA3MTIxMC
-wtNjU5ODMzMDM3LDIwMTQ5MTg2MjFdfQ==
+eyJoaXN0b3J5IjpbLTQ2MjgzNDg1OCwxNzI0MjA1Mjk5LC0xNj
+QxMjk1Mjk5LC00MjAwNDg4MjEsNTg3NDMwNjEyLC0xNTk5MjYx
+OTM1LC0xODY4MDU4OTAyLDE4NDc1OTQyNTIsNjI1NzEwMTQ0LC
+0xNzk2MDcxMjEwLC02NTk4MzMwMzcsMjAxNDkxODYyMV19
 -->
