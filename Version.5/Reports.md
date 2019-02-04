@@ -122,11 +122,13 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 **9.** To Delete the filter applied Click **Cross Icon** as shown in the image below.
 
+
 ## Order (Ascending / Descending)
 
 **10.** To view the report data in ascending or descending orders, Apply Order to the Column fields, To carry out this function Click on **Add Orders** button.
 
  > To Delete the Order applied Click on **Cross Icon.**
+ 
  
 **11.** To hide the **Filter** or **Order** sections, click on angle-double-up icon on to far right of the order section. To un-hide the same click on angle-double-down icon.
 
@@ -143,10 +145,6 @@ For  **Measures** use opposite direction.
 
 -   Click on upper arrow to enable descending order.
 -   Click on down arrow to enable ascending order.
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/0c40bcaa8d70982ecbd36c04499e478e0ad2042f/images/full_sort.png)
-
 
 **13.** The **Total time taken** to build a query for a report is displayed at top of the report screen and **Total number of rows** fetched displayed just below that.
   
@@ -307,10 +305,10 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5MjkxODMxLC0xNTY5OTEwNDkzLC0xMD
-ExOTcyMjQzLDE1ODU4MTg1ODUsLTQ2MjgzNDg1OCwxNzI0MjA1
-Mjk5LC0xNjQxMjk1Mjk5LC00MjAwNDg4MjEsNTg3NDMwNjEyLC
-0xNTk5MjYxOTM1LC0xODY4MDU4OTAyLDE4NDc1OTQyNTIsNjI1
-NzEwMTQ0LC0xNzk2MDcxMjEwLC02NTk4MzMwMzcsMjAxNDkxOD
-YyMV19
+eyJoaXN0b3J5IjpbLTEwOTY4NDcyNzIsMzE5MjkxODMxLC0xNT
+Y5OTEwNDkzLC0xMDExOTcyMjQzLDE1ODU4MTg1ODUsLTQ2Mjgz
+NDg1OCwxNzI0MjA1Mjk5LC0xNjQxMjk1Mjk5LC00MjAwNDg4Mj
+EsNTg3NDMwNjEyLC0xNTk5MjYxOTM1LC0xODY4MDU4OTAyLDE4
+NDc1OTQyNTIsNjI1NzEwMTQ0LC0xNzk2MDcxMjEwLC02NTk4Mz
+MwMzcsMjAxNDkxODYyMV19
 -->
