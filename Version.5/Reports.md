@@ -31,9 +31,6 @@ Let us generate a query to display Stationcode (Dimension) and Order Attendant I
 **5.** After Selecting dimensions and measures, hit the **Run** button to extract and display the data.
 In the following example we have selected **Two Dimensions and One Measure Field.**
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/5097c9d785e4562444bb51ed2695045c47873f8f/images/full_rep1.png)
-
 **6.** To hide the Explore /visualize section that displays dimensions and measure click on  **angle double left** icon. to display the explore/visualize section click  **angle double right** icon available near dimensions and measure field list.
 
 ## Report Filters
@@ -315,7 +312,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQzMzc1MzEsLTE1OTkyNjE5MzUsLT
-E4NjgwNTg5MDIsMTg0NzU5NDI1Miw2MjU3MTAxNDQsLTE3OTYw
-NzEyMTAsLTY1OTgzMzAzNywyMDE0OTE4NjIxXX0=
+eyJoaXN0b3J5IjpbLTkwODU0NjYwMSwtMTU5OTI2MTkzNSwtMT
+g2ODA1ODkwMiwxODQ3NTk0MjUyLDYyNTcxMDE0NCwtMTc5NjA3
+MTIxMCwtNjU5ODMzMDM3LDIwMTQ5MTg2MjFdfQ==
 -->
