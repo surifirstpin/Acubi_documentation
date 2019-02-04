@@ -122,7 +122,6 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 **9.** To Delete the filter applied Click **Cross Icon** as shown in the image below.
 
-
 ## Order (Ascending / Descending)
 
 **8.** To view the column data in ascending or descending orders, click on  **Order**  and add the column fields in order section.
@@ -310,8 +309,9 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjgzNDg1OCwxNzI0MjA1Mjk5LC0xNj
-QxMjk1Mjk5LC00MjAwNDg4MjEsNTg3NDMwNjEyLC0xNTk5MjYx
-OTM1LC0xODY4MDU4OTAyLDE4NDc1OTQyNTIsNjI1NzEwMTQ0LC
-0xNzk2MDcxMjEwLC02NTk4MzMwMzcsMjAxNDkxODYyMV19
+eyJoaXN0b3J5IjpbLTEzOTExMzEyMjQsLTQ2MjgzNDg1OCwxNz
+I0MjA1Mjk5LC0xNjQxMjk1Mjk5LC00MjAwNDg4MjEsNTg3NDMw
+NjEyLC0xNTk5MjYxOTM1LC0xODY4MDU4OTAyLDE4NDc1OTQyNT
+IsNjI1NzEwMTQ0LC0xNzk2MDcxMjEwLC02NTk4MzMwMzcsMjAx
+NDkxODYyMV19
 -->
