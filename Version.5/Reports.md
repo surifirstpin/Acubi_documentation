@@ -132,7 +132,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 ## Local Sorting
 
-**12.** Sorting can also be applied after data is retrieved in data section, you can simply click on Arrow Up and Down Icon desired field header to enable sorting.
+**12.** Sorting can also be applied after data is retrieved in data section, you can simply click on **Arrow Up and Down Icon** available at desired field header to enable sorting.
 
 For  **Dimensions**
 
@@ -309,9 +309,9 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjk2NTMzMywtMTAxMTk3MjI0MywxNT
-g1ODE4NTg1LC00NjI4MzQ4NTgsMTcyNDIwNTI5OSwtMTY0MTI5
-NTI5OSwtNDIwMDQ4ODIxLDU4NzQzMDYxMiwtMTU5OTI2MTkzNS
-wtMTg2ODA1ODkwMiwxODQ3NTk0MjUyLDYyNTcxMDE0NCwtMTc5
-NjA3MTIxMCwtNjU5ODMzMDM3LDIwMTQ5MTg2MjFdfQ==
+eyJoaXN0b3J5IjpbLTE1Njk5MTA0OTMsLTEwMTE5NzIyNDMsMT
+U4NTgxODU4NSwtNDYyODM0ODU4LDE3MjQyMDUyOTksLTE2NDEy
+OTUyOTksLTQyMDA0ODgyMSw1ODc0MzA2MTIsLTE1OTkyNjE5Mz
+UsLTE4NjgwNTg5MDIsMTg0NzU5NDI1Miw2MjU3MTAxNDQsLTE3
+OTYwNzEyMTAsLTY1OTgzMzAzNywyMDE0OTE4NjIxXX0=
 -->
