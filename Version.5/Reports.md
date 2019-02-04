@@ -152,7 +152,7 @@ For  **Measures** use opposite direction.
   
 **14.**  Select the  **Check Box** for totals, to display total sum values of the measure fields.
 
-**16.**  You can **limit** the rows to 100, 500, 1000, 5000, etc using given drop down list.
+**15.**  You can **limit** the rows to 100, 500, 1000, 5000, etc using given drop down list.
 
 ## Pivot
 
@@ -307,10 +307,10 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODU5NzY0NSwzMTkyOTE4MzEsLTE1Nj
-k5MTA0OTMsLTEwMTE5NzIyNDMsMTU4NTgxODU4NSwtNDYyODM0
-ODU4LDE3MjQyMDUyOTksLTE2NDEyOTUyOTksLTQyMDA0ODgyMS
-w1ODc0MzA2MTIsLTE1OTkyNjE5MzUsLTE4NjgwNTg5MDIsMTg0
-NzU5NDI1Miw2MjU3MTAxNDQsLTE3OTYwNzEyMTAsLTY1OTgzMz
-AzNywyMDE0OTE4NjIxXX0=
+eyJoaXN0b3J5IjpbLTE5NDc4NTk3MDAsMTk0ODU5NzY0NSwzMT
+kyOTE4MzEsLTE1Njk5MTA0OTMsLTEwMTE5NzIyNDMsMTU4NTgx
+ODU4NSwtNDYyODM0ODU4LDE3MjQyMDUyOTksLTE2NDEyOTUyOT
+ksLTQyMDA0ODgyMSw1ODc0MzA2MTIsLTE1OTkyNjE5MzUsLTE4
+NjgwNTg5MDIsMTg0NzU5NDI1Miw2MjU3MTAxNDQsLTE3OTYwNz
+EyMTAsLTY1OTgzMzAzNywyMDE0OTE4NjIxXX0=
 -->
