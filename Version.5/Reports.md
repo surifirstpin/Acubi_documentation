@@ -124,10 +124,8 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 ## Order (Ascending / Descending)
 
-**8.** To view the report data in ascending or descending orders, Apply Order to the Column fields, To carry out this function Click on **Add Orders** button and apply in order section.
-         **a.** To add more sorting orders to a report click **Add Order**.
-         **b.** To delete, sorting for fields click **Ban Icon.**
-
+**8.** To view the report data in ascending or descending orders, Apply Order to the Column fields, To carry out this function Click on **Add Orders** button
+ > To Delete the Order applied Click on **Cross Icon.**
 **9.** To hide the **Filter** or **Order** sections, click on angle-double-up icon on to far right of the order section. To un-hide the same click on angle-double-down icon.
 
 ## Local Sorting
@@ -309,7 +307,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjE5NTc5NCwtNDYyODM0ODU4LDE3Mj
+eyJoaXN0b3J5IjpbMTU4NTgxODU4NSwtNDYyODM0ODU4LDE3Mj
 QyMDUyOTksLTE2NDEyOTUyOTksLTQyMDA0ODgyMSw1ODc0MzA2
 MTIsLTE1OTkyNjE5MzUsLTE4NjgwNTg5MDIsMTg0NzU5NDI1Mi
 w2MjU3MTAxNDQsLTE3OTYwNzEyMTAsLTY1OTgzMzAzNywyMDE0
