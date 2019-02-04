@@ -109,21 +109,21 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 > **Note :** To view the **Timeline Filters** in details please go to Timeline filters document.
 
-**7.** The report data is retrieved based on **filter** applied if any. All the fields selected are visible in filter expression list using which you can apply filters.
+**7.** The report data is retrieved based on **Filter** applied if any. All the fields selected are visible in filter expression list using which you can apply filters.
 
 > **For Example :** Apply filter expression to measure field **Quantity sum is greater than or equal to 10000** in filter section and data is retrieved on based on the filters applied.
 
   -  Hit the **Run** button, data is displayed based on the filters applied.
 
-**5.** Similarly, we can apply **Hidden Filters** to the report data, By Clicking Filter Icon available at field list of the report. The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are hidden in data section.
+**8.** Similarly, we can apply **Hidden Filters** to the report data, By Clicking on Filter Icon available in field list of a report. The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are hidden in data section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/603d0055942c97790066aa8195ad659038778ad2/images/hidden_filter.png)
 
 
-**6.** To Add more filters click on **Add Rule**.
+**9.** To Add more filters click on **Add Filter**.
 
-**7.** To Delete the filter applied Click **Ban Icon** as shown in the image.
+**10.** To Delete the filter applied Click **Ban Icon** as shown in the image.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b0f6dc49657c9a5d48f6810415f48efbe047dc36/images/full_filters.png)
@@ -315,7 +315,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODIzMDY3NiwtNDIwMDQ4ODIxLDU4Nz
+eyJoaXN0b3J5IjpbMTQ5MDA2NDEyNSwtNDIwMDQ4ODIxLDU4Nz
 QzMDYxMiwtMTU5OTI2MTkzNSwtMTg2ODA1ODkwMiwxODQ3NTk0
 MjUyLDYyNTcxMDE0NCwtMTc5NjA3MTIxMCwtNjU5ODMzMDM3LD
 IwMTQ5MTg2MjFdfQ==
