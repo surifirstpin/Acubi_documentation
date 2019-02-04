@@ -107,8 +107,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 > **Note :** To view the **Timeline Filters** in details please go to Timeline filters document.
 
-
-**4.** The report data is retrieved based on **filter** applied. all the fields selected are visible in filter expression list using which you can apply filters.
+**4.** The report data is retrieved based on **filter** applied. All the fields selected are visible in filter expression list using which you can apply filters.
 
 > **For Example :** Apply filter expression to measure field **Quantity sum is greater than or equal to 10000** in filter section and data is retrieved on based on the filters applied.
 
@@ -316,7 +315,8 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3NDMwNjEyLC0xNTk5MjYxOTM1LC0xOD
-Y4MDU4OTAyLDE4NDc1OTQyNTIsNjI1NzEwMTQ0LC0xNzk2MDcx
-MjEwLC02NTk4MzMwMzcsMjAxNDkxODYyMV19
+eyJoaXN0b3J5IjpbLTE5MjA1MDk3NCw1ODc0MzA2MTIsLTE1OT
+kyNjE5MzUsLTE4NjgwNTg5MDIsMTg0NzU5NDI1Miw2MjU3MTAx
+NDQsLTE3OTYwNzEyMTAsLTY1OTgzMzAzNywyMDE0OTE4NjIxXX
+0=
 -->
