@@ -5,9 +5,9 @@
 Reports describes how to retrieves the data in the desired combinations as per your business needs and how to explore particular subject area it self. It has an ability on how to pull the data and modify the report as per the needs and drill down deeper into the report for more better insights across the report.
 
  To create a report, Click on **Reports Section.**
- 
-![
+ ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/11d8e2454a911ad96e6238049e8d1575e6dcd084/images/New_version5/UD_Reports_Image1.png)
+
 
 **1.**  All the connection established, databases and tables used for the Reports are defined under **Project.** Depending on your business requirement you can choose appropriate project.
 
@@ -19,7 +19,12 @@ Reports describes how to retrieves the data in the desired combinations as per y
  
  **3.** To refresh a report click on, **Reset** ( refresh icon). 
 
+
 The data in analyse sections is determined by dimensions and measures.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/f5a7faedfbdd7f0d9e7175835750a8f0c79a9e54/images/New_version5/UD_Reports_Image2.png)
+
 **4.**  Using **Field Picker**, select Dimensions and Measures to retrieve the data based on the selection made. In AcuBi a dimension is derived as group of data and Measure is derived as information about group of data.
 
  > **Note :** All the dimensions appear blue in  colour and all the measures appear in Orange colour in your data table.
@@ -312,7 +317,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODU0NjYwMSwtMTU5OTI2MTkzNSwtMT
-g2ODA1ODkwMiwxODQ3NTk0MjUyLDYyNTcxMDE0NCwtMTc5NjA3
-MTIxMCwtNjU5ODMzMDM3LDIwMTQ5MTg2MjFdfQ==
+eyJoaXN0b3J5IjpbLTIwODE0Njg2OTgsLTE1OTkyNjE5MzUsLT
+E4NjgwNTg5MDIsMTg0NzU5NDI1Miw2MjU3MTAxNDQsLTE3OTYw
+NzEyMTAsLTY1OTgzMzAzNywyMDE0OTE4NjIxXX0=
 -->
