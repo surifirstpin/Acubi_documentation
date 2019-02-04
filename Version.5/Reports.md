@@ -129,7 +129,9 @@ Report filters will narrow the reports results while allowing you to view the sp
 
  > To Delete the Order applied Click on **Cross Icon.**
  
- 
+ ![
+](https://raw.githubusercontent.com/sv18042016/fp1/ee732d48c976b66c2738b922a177c466513a35f4/images/New_version5/UD_Reports_Image4.png)
+
 **11.** To hide the **Filter** or **Order** sections, click on angle-double-up icon on to far right of the order section. To un-hide the same click on angle-double-down icon.
 
 ## Local Sorting
@@ -305,10 +307,10 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY4NDcyNzIsMzE5MjkxODMxLC0xNT
-Y5OTEwNDkzLC0xMDExOTcyMjQzLDE1ODU4MTg1ODUsLTQ2Mjgz
-NDg1OCwxNzI0MjA1Mjk5LC0xNjQxMjk1Mjk5LC00MjAwNDg4Mj
-EsNTg3NDMwNjEyLC0xNTk5MjYxOTM1LC0xODY4MDU4OTAyLDE4
-NDc1OTQyNTIsNjI1NzEwMTQ0LC0xNzk2MDcxMjEwLC02NTk4Mz
-MwMzcsMjAxNDkxODYyMV19
+eyJoaXN0b3J5IjpbMTk0ODU5NzY0NSwzMTkyOTE4MzEsLTE1Nj
+k5MTA0OTMsLTEwMTE5NzIyNDMsMTU4NTgxODU4NSwtNDYyODM0
+ODU4LDE3MjQyMDUyOTksLTE2NDEyOTUyOTksLTQyMDA0ODgyMS
+w1ODc0MzA2MTIsLTE1OTkyNjE5MzUsLTE4NjgwNTg5MDIsMTg0
+NzU5NDI1Miw2MjU3MTAxNDQsLTE3OTYwNzEyMTAsLTY1OTgzMz
+AzNywyMDE0OTE4NjIxXX0=
 -->
