@@ -109,13 +109,13 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 > **Note :** To view the **Timeline Filters** in details please go to Timeline filters document.
 
-**4.** The report data is retrieved based on **filter** applied if any. All the fields selected are visible in filter expression list using which you can apply filters.
+**7.** The report data is retrieved based on **filter** applied if any. All the fields selected are visible in filter expression list using which you can apply filters.
 
 > **For Example :** Apply filter expression to measure field **Quantity sum is greater than or equal to 10000** in filter section and data is retrieved on based on the filters applied.
 
   -  Hit the **Run** button, data is displayed based on the filters applied.
 
-**5.** Similarly, we can apply **Hidden Filters** to the report data. The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are hidden in data section.
+**5.** Similarly, we can apply **Hidden Filters** to the report data, By Clicking Filter Icon in The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are hidden in data section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/603d0055942c97790066aa8195ad659038778ad2/images/hidden_filter.png)
@@ -315,8 +315,8 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDA0ODgyMSw1ODc0MzA2MTIsLTE1OT
-kyNjE5MzUsLTE4NjgwNTg5MDIsMTg0NzU5NDI1Miw2MjU3MTAx
-NDQsLTE3OTYwNzEyMTAsLTY1OTgzMzAzNywyMDE0OTE4NjIxXX
-0=
+eyJoaXN0b3J5IjpbLTE4NzU5OTA1MTMsLTQyMDA0ODgyMSw1OD
+c0MzA2MTIsLTE1OTkyNjE5MzUsLTE4NjgwNTg5MDIsMTg0NzU5
+NDI1Miw2MjU3MTAxNDQsLTE3OTYwNzEyMTAsLTY1OTgzMzAzNy
+wyMDE0OTE4NjIxXX0=
 -->
