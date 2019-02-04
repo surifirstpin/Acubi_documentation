@@ -10,7 +10,7 @@ Reports describes how to retrieves the data in the desired combinations as per y
 
 **For Example :** If you want to create a project based on oracle connection select project **Oracle_Techdoc** from drop down list.
 
-**2.** Model Section has different set of models developed  for Orders, Customers, Delivery, Employees, Kitchen Process and Products.
+**2.** **Model** Section has different set of models developed  for Orders, Customers, Delivery, Employees, Kitchen Process and Products.
 
 **For Example:** to create a report on order based details, Select **Bi_Orders** from given drop down list. 
  
@@ -18,7 +18,7 @@ Reports describes how to retrieves the data in the desired combinations as per y
 
 The data in analyse sections is determined by dimensions and measures. Using **Field Picker**, select Dimensions and Measures to retrieve the data. In AcuBi a dimension is derived as group of data and Measure is derived as information about group of data.
 
- > **Note :** All the dimensions appear in Grey colour and all the measures appear in Orange colour in your data table.
+ > **Note :** All the dimensions appear blue in  colour and all the measures appear in Orange colour in your data table.
 
 ## Getting Started
 
@@ -310,6 +310,6 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTAzODM0OTcsLTE3OTYwNzEyMTAsLT
-Y1OTgzMzAzNywyMDE0OTE4NjIxXX0=
+eyJoaXN0b3J5IjpbNjI1NzEwMTQ0LC0xNzk2MDcxMjEwLC02NT
+k4MzMwMzcsMjAxNDkxODYyMV19
 -->
