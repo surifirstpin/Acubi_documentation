@@ -148,9 +148,9 @@ For  **Measures** use opposite direction.
 ](https://raw.githubusercontent.com/sv18042016/fp1/0c40bcaa8d70982ecbd36c04499e478e0ad2042f/images/full_sort.png)
 
 
-**13.** The total time taken to build a query for a report is displayed at top of the report screen and Total number of rows fetched displayed just below that.
+**13.** The **Total time taken** to build a query for a report is displayed at top of the report screen and **Total number of rows** fetched displayed just below that.
   
-**15.**  Select the  **check box** for totals, to display total sum values of the measure fields.
+**14.**  Select the  **Check Box** for totals, to display total sum values of the measure fields.
 
 **16.**  You can **limit** the rows to 100, 500, 1000, 5000, etc using given drop down list.
 
@@ -307,10 +307,10 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODExMzQ4MiwtMTU2OTkxMDQ5MywtMT
-AxMTk3MjI0MywxNTg1ODE4NTg1LC00NjI4MzQ4NTgsMTcyNDIw
-NTI5OSwtMTY0MTI5NTI5OSwtNDIwMDQ4ODIxLDU4NzQzMDYxMi
-wtMTU5OTI2MTkzNSwtMTg2ODA1ODkwMiwxODQ3NTk0MjUyLDYy
-NTcxMDE0NCwtMTc5NjA3MTIxMCwtNjU5ODMzMDM3LDIwMTQ5MT
-g2MjFdfQ==
+eyJoaXN0b3J5IjpbMzE5MjkxODMxLC0xNTY5OTEwNDkzLC0xMD
+ExOTcyMjQzLDE1ODU4MTg1ODUsLTQ2MjgzNDg1OCwxNzI0MjA1
+Mjk5LC0xNjQxMjk1Mjk5LC00MjAwNDg4MjEsNTg3NDMwNjEyLC
+0xNTk5MjYxOTM1LC0xODY4MDU4OTAyLDE4NDc1OTQyNTIsNjI1
+NzEwMTQ0LC0xNzk2MDcxMjEwLC02NTk4MzMwMzcsMjAxNDkxOD
+YyMV19
 -->
