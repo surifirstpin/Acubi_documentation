@@ -12,7 +12,7 @@ Reports describes how to retrieves the data in the desired combinations as per y
 
 **2.** Model Section has different set of models developed  for Orders, Customers, Delivery, Employees, Kitchen Process and Products.
 
-**For Example:** to create a report for order based details, Select **Bi_Orders** for model using drop down list. 
+**For Example:** to create a report on order based details, Select **Bi_Orders** from given drop down list. 
  
  **3.** To refresh a report click on, **Reset** ( refresh icon). 
 
@@ -310,6 +310,6 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2NTE0MzE4LC0xNzk2MDcxMjEwLC02NT
-k4MzMwMzcsMjAxNDkxODYyMV19
+eyJoaXN0b3J5IjpbLTE1OTAzODM0OTcsLTE3OTYwNzEyMTAsLT
+Y1OTgzMzAzNywyMDE0OTE4NjIxXX0=
 -->
