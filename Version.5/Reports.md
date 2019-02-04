@@ -34,7 +34,7 @@ In the following example we have selected **Two Dimensions and One Measure Field
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5097c9d785e4562444bb51ed2695045c47873f8f/images/full_rep1.png)
 
-**Note :** To hide the Explore /visualize section that displays dimensions and measure click on  **angle double left** icon. to display the explore/visualize section click ** angle double right** icon available near dimensions and measure field list.
+**6.** To hide the Explore /visualize section that displays dimensions and measure click on  **angle double left** icon. to display the explore/visualize section click  **angle double right** icon available near dimensions and measure field list.
 
 ## Report Filters
 
@@ -315,7 +315,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTkyNjE5MzUsLTE4NjgwNTg5MDIsMT
-g0NzU5NDI1Miw2MjU3MTAxNDQsLTE3OTYwNzEyMTAsLTY1OTgz
-MzAzNywyMDE0OTE4NjIxXX0=
+eyJoaXN0b3J5IjpbLTE3MjQzMzc1MzEsLTE1OTkyNjE5MzUsLT
+E4NjgwNTg5MDIsMTg0NzU5NDI1Miw2MjU3MTAxNDQsLTE3OTYw
+NzEyMTAsLTY1OTgzMzAzNywyMDE0OTE4NjIxXX0=
 -->
