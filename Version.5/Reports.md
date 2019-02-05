@@ -219,8 +219,8 @@ Calculated column functionality allows you to manipulate the retrieved data, usi
 
 Click on  **Calculated column**  button to enable table calculations as shown in below image,
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/3fb590c409cd0e47262a69c18bbde38f424ca714/images/calculated_col.png)
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/26d0a3487833ab177c6be9fe97046d96212be2fa/images/New_version5/UD_Reports_Image9.png)
 
 > **Note :** in the below example we are multiplying measure field quantity_sum by 2.
 
@@ -307,12 +307,13 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzc1MzM0NTksMTI1NjYzMTA1LDIwOD
-A3NjEwMjQsMTU0OTg5Mjc4LDE3NDQ1MjIyMDgsLTk4NDc2MTgz
-NSwtMTQxMzUwODQ3OCwtNjQxMzQ0NTI0LC0xOTQ3ODU5NzAwLD
-E5NDg1OTc2NDUsMzE5MjkxODMxLC0xNTY5OTEwNDkzLC0xMDEx
-OTcyMjQzLDE1ODU4MTg1ODUsLTQ2MjgzNDg1OCwxNzI0MjA1Mj
-k5LC0xNjQxMjk1Mjk5LC00MjAwNDg4MjEsNTg3NDMwNjEyLC0x
-NTk5MjYxOTM1XX0=
+eyJoaXN0b3J5IjpbNTA2NjIyMzczLC0xNTc3NTMzNDU5LDEyNT
+Y2MzEwNSwyMDgwNzYxMDI0LDE1NDk4OTI3OCwxNzQ0NTIyMjA4
+LC05ODQ3NjE4MzUsLTE0MTM1MDg0NzgsLTY0MTM0NDUyNCwtMT
+k0Nzg1OTcwMCwxOTQ4NTk3NjQ1LDMxOTI5MTgzMSwtMTU2OTkx
+MDQ5MywtMTAxMTk3MjI0MywxNTg1ODE4NTg1LC00NjI4MzQ4NT
+gsMTcyNDIwNTI5OSwtMTY0MTI5NTI5OSwtNDIwMDQ4ODIxLDU4
+NzQzMDYxMl19
 -->
