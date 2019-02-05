@@ -183,6 +183,10 @@ To hide pivoted data in report output, choose pivot hide first ( hides 1st colum
 
 **16.** To freeze the column field values while scrolling the data to right or left, select **Pin** option in field drop down and to release the same select **Remove Pin.**
 
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/ab443ab38f10897e313c0d3e30800e0828c5d811/images/New_version5/UD_Reports_Image7.png)
+
 ## Group / Un-Group
 
 By selecting group option for a field you can display the consolidated value of the field. 
@@ -194,6 +198,10 @@ By selecting group option for a field you can display the consolidated value of 
 To carry out Multi-level grouping on the data extracted. Select group option for two dimension fields in drop down list. 
 
 > **For Example** : To get it clear on multi grouping, i am adding one more dimension fields **Payment_mode** to the report. Select group option for **Stationcode** and **Order_attendant_ID.** Now on expanding Stationcode_2, it displays corresponding **Order_attendant_ID** on further expanding, it displays the **payment mode** for the records as shown in the image below.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/883d9bf88b00686fda140fdb1538ed72a8ff5ebf/images/multi_group_f.png)
+
 
 **18.**  To find the specific field value, from the data extracted select **Find** from the field drop down.
 
@@ -300,7 +308,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQ2NzM0MiwxMjU2NjMxMDUsMjA4MD
+eyJoaXN0b3J5IjpbLTQwMTAxNDE5NSwxMjU2NjMxMDUsMjA4MD
 c2MTAyNCwxNTQ5ODkyNzgsMTc0NDUyMjIwOCwtOTg0NzYxODM1
 LC0xNDEzNTA4NDc4LC02NDEzNDQ1MjQsLTE5NDc4NTk3MDAsMT
 k0ODU5NzY0NSwzMTkyOTE4MzEsLTE1Njk5MTA0OTMsLTEwMTE5
