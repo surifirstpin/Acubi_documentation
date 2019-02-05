@@ -165,7 +165,7 @@ Multiple dimensions in a report data are often easier to look at, when you pivot
 **b.** To Apply pivot **After Retrieving** the data, select List icon, then choose Pivot option from field drop down list. 
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/e7d0e669ada7758b57dd89fdaa4442918156255f/images/full%20pivot.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/853361b4c4a583c5fb273a41c7e497f2dc1564e1/images/New_version5/UD_Reports_Image5.png)
 
 > **Note :** incase if you are using more than one pivot, make sure you have at least one un-pivoted dimension and a measure value.
 
@@ -307,11 +307,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM1MDg0NzgsLTY0MTM0NDUyNCwtMT
-k0Nzg1OTcwMCwxOTQ4NTk3NjQ1LDMxOTI5MTgzMSwtMTU2OTkx
-MDQ5MywtMTAxMTk3MjI0MywxNTg1ODE4NTg1LC00NjI4MzQ4NT
-gsMTcyNDIwNTI5OSwtMTY0MTI5NTI5OSwtNDIwMDQ4ODIxLDU4
-NzQzMDYxMiwtMTU5OTI2MTkzNSwtMTg2ODA1ODkwMiwxODQ3NT
-k0MjUyLDYyNTcxMDE0NCwtMTc5NjA3MTIxMCwtNjU5ODMzMDM3
-LDIwMTQ5MTg2MjFdfQ==
+eyJoaXN0b3J5IjpbLTk4NDc2MTgzNSwtMTQxMzUwODQ3OCwtNj
+QxMzQ0NTI0LC0xOTQ3ODU5NzAwLDE5NDg1OTc2NDUsMzE5Mjkx
+ODMxLC0xNTY5OTEwNDkzLC0xMDExOTcyMjQzLDE1ODU4MTg1OD
+UsLTQ2MjgzNDg1OCwxNzI0MjA1Mjk5LC0xNjQxMjk1Mjk5LC00
+MjAwNDg4MjEsNTg3NDMwNjEyLC0xNTk5MjYxOTM1LC0xODY4MD
+U4OTAyLDE4NDc1OTQyNTIsNjI1NzEwMTQ0LC0xNzk2MDcxMjEw
+LC02NTk4MzMwMzddfQ==
 -->
