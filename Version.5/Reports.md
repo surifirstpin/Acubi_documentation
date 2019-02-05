@@ -187,7 +187,7 @@ To hide pivoted data in report output, choose pivot hide first ( hides 1st colum
 
 By selecting group option for a field you can display the consolidated value of the field. 
 
-**16.** To carry out this function select  **Group** in field drop down and to release the same select **Un-Group**. 
+**17.** To carry out this function select  **Group** in field drop down and to release the same select **Un-Group**. 
 
 ## Multi-Level grouping
 
@@ -306,11 +306,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzgyOTU2NywxNzQ0NTIyMjA4LC05OD
-Q3NjE4MzUsLTE0MTM1MDg0NzgsLTY0MTM0NDUyNCwtMTk0Nzg1
-OTcwMCwxOTQ4NTk3NjQ1LDMxOTI5MTgzMSwtMTU2OTkxMDQ5My
-wtMTAxMTk3MjI0MywxNTg1ODE4NTg1LC00NjI4MzQ4NTgsMTcy
-NDIwNTI5OSwtMTY0MTI5NTI5OSwtNDIwMDQ4ODIxLDU4NzQzMD
-YxMiwtMTU5OTI2MTkzNSwtMTg2ODA1ODkwMiwxODQ3NTk0MjUy
-LDYyNTcxMDE0NF19
+eyJoaXN0b3J5IjpbMTU0OTg5Mjc4LDE3NDQ1MjIyMDgsLTk4ND
+c2MTgzNSwtMTQxMzUwODQ3OCwtNjQxMzQ0NTI0LC0xOTQ3ODU5
+NzAwLDE5NDg1OTc2NDUsMzE5MjkxODMxLC0xNTY5OTEwNDkzLC
+0xMDExOTcyMjQzLDE1ODU4MTg1ODUsLTQ2MjgzNDg1OCwxNzI0
+MjA1Mjk5LC0xNjQxMjk1Mjk5LC00MjAwNDg4MjEsNTg3NDMwNj
+EyLC0xNTk5MjYxOTM1LC0xODY4MDU4OTAyLDE4NDc1OTQyNTIs
+NjI1NzEwMTQ0XX0=
 -->
