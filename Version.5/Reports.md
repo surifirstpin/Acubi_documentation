@@ -160,7 +160,9 @@ For  **Measures** use opposite direction.
 Multiple dimensions in a report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. 
 **Pivot can be applied in 2 ways :**
  
-**b.** To apply pivot **Before Retrieving** the data, Click on pivot icon at field selection.
+**a.** To apply pivot **Before Retrieving** the data, Click on pivot icon at field selection.
+
+**b.** To Apply pivot **After Retrieving** the data, select List icon, then choose Pivot option from field drop down list. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e7d0e669ada7758b57dd89fdaa4442918156255f/images/full%20pivot.png)
@@ -305,7 +307,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDAyNDM4NTMsLTY0MTM0NDUyNCwtMT
+eyJoaXN0b3J5IjpbLTE0MTM1MDg0NzgsLTY0MTM0NDUyNCwtMT
 k0Nzg1OTcwMCwxOTQ4NTk3NjQ1LDMxOTI5MTgzMSwtMTU2OTkx
 MDQ5MywtMTAxMTk3MjI0MywxNTg1ODE4NTg1LC00NjI4MzQ4NT
 gsMTcyNDIwNTI5OSwtMTY0MTI5NTI5OSwtNDIwMDQ4ODIxLDU4
