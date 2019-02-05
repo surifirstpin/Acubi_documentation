@@ -5,6 +5,7 @@
 Reports describes how to retrieves the data in the desired combinations as per your business needs and how to explore particular subject area it self. It has an ability on how to pull the data and modify the report as per the needs and drill down deeper into the report for more better insights across the report.
 
  To create a report, Click on **Reports Section.**
+ 
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/11d8e2454a911ad96e6238049e8d1575e6dcd084/images/New_version5/UD_Reports_Image1.png)
 
@@ -307,10 +308,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDc4NTk3MDAsMTk0ODU5NzY0NSwzMT
-kyOTE4MzEsLTE1Njk5MTA0OTMsLTEwMTE5NzIyNDMsMTU4NTgx
-ODU4NSwtNDYyODM0ODU4LDE3MjQyMDUyOTksLTE2NDEyOTUyOT
-ksLTQyMDA0ODgyMSw1ODc0MzA2MTIsLTE1OTkyNjE5MzUsLTE4
-NjgwNTg5MDIsMTg0NzU5NDI1Miw2MjU3MTAxNDQsLTE3OTYwNz
-EyMTAsLTY1OTgzMzAzNywyMDE0OTE4NjIxXX0=
+eyJoaXN0b3J5IjpbLTY0MTM0NDUyNCwtMTk0Nzg1OTcwMCwxOT
+Q4NTk3NjQ1LDMxOTI5MTgzMSwtMTU2OTkxMDQ5MywtMTAxMTk3
+MjI0MywxNTg1ODE4NTg1LC00NjI4MzQ4NTgsMTcyNDIwNTI5OS
+wtMTY0MTI5NTI5OSwtNDIwMDQ4ODIxLDU4NzQzMDYxMiwtMTU5
+OTI2MTkzNSwtMTg2ODA1ODkwMiwxODQ3NTk0MjUyLDYyNTcxMD
+E0NCwtMTc5NjA3MTIxMCwtNjU5ODMzMDM3LDIwMTQ5MTg2MjFd
+fQ==
 -->
