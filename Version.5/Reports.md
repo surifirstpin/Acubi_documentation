@@ -200,7 +200,7 @@ To carry out Multi-level grouping on the data extracted. Select group option for
 > **For Example** : To get it clear on multi grouping, i am adding one more dimension fields **Payment_mode** to the report. Select group option for **Stationcode** and **Order_attendant_ID.** Now on expanding Stationcode_2, it displays corresponding **Order_attendant_ID** on further expanding, it displays the **payment mode** for the records as shown in the image below.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/883d9bf88b00686fda140fdb1538ed72a8ff5ebf/images/multi_group_f.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/8be46795cac2baf245b3ec91e0e17a3cbcae034e/images/New_version5/UD_Reports_Image8.png)
 
 
 **18.**  To find the specific field value, from the data extracted select **Find** from the field drop down.
@@ -308,11 +308,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTAxNDE5NSwxMjU2NjMxMDUsMjA4MD
-c2MTAyNCwxNTQ5ODkyNzgsMTc0NDUyMjIwOCwtOTg0NzYxODM1
-LC0xNDEzNTA4NDc4LC02NDEzNDQ1MjQsLTE5NDc4NTk3MDAsMT
-k0ODU5NzY0NSwzMTkyOTE4MzEsLTE1Njk5MTA0OTMsLTEwMTE5
-NzIyNDMsMTU4NTgxODU4NSwtNDYyODM0ODU4LDE3MjQyMDUyOT
-ksLTE2NDEyOTUyOTksLTQyMDA0ODgyMSw1ODc0MzA2MTIsLTE1
-OTkyNjE5MzVdfQ==
+eyJoaXN0b3J5IjpbLTE1Nzc1MzM0NTksMTI1NjYzMTA1LDIwOD
+A3NjEwMjQsMTU0OTg5Mjc4LDE3NDQ1MjIyMDgsLTk4NDc2MTgz
+NSwtMTQxMzUwODQ3OCwtNjQxMzQ0NTI0LC0xOTQ3ODU5NzAwLD
+E5NDg1OTc2NDUsMzE5MjkxODMxLC0xNTY5OTEwNDkzLC0xMDEx
+OTcyMjQzLDE1ODU4MTg1ODUsLTQ2MjgzNDg1OCwxNzI0MjA1Mj
+k5LC0xNjQxMjk1Mjk5LC00MjAwNDg4MjEsNTg3NDMwNjEyLC0x
+NTk5MjYxOTM1XX0=
 -->
