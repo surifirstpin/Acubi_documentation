@@ -206,8 +206,6 @@ To carry out Multi-level grouping on the data extracted. Select group option for
 
 **20.**  To remove a specific field column from the extracted list, select **Remove** from drop down list.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/276cae284c8c3760cc4056a88b970694ba9d7d39/images/pin_full;.png)
 
 ## Calculated column
 
@@ -306,11 +304,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDc2MTAyNCwxNTQ5ODkyNzgsMTc0ND
-UyMjIwOCwtOTg0NzYxODM1LC0xNDEzNTA4NDc4LC02NDEzNDQ1
-MjQsLTE5NDc4NTk3MDAsMTk0ODU5NzY0NSwzMTkyOTE4MzEsLT
-E1Njk5MTA0OTMsLTEwMTE5NzIyNDMsMTU4NTgxODU4NSwtNDYy
-ODM0ODU4LDE3MjQyMDUyOTksLTE2NDEyOTUyOTksLTQyMDA0OD
-gyMSw1ODc0MzA2MTIsLTE1OTkyNjE5MzUsLTE4NjgwNTg5MDIs
-MTg0NzU5NDI1Ml19
+eyJoaXN0b3J5IjpbMTI1NjYzMTA1LDIwODA3NjEwMjQsMTU0OT
+g5Mjc4LDE3NDQ1MjIyMDgsLTk4NDc2MTgzNSwtMTQxMzUwODQ3
+OCwtNjQxMzQ0NTI0LC0xOTQ3ODU5NzAwLDE5NDg1OTc2NDUsMz
+E5MjkxODMxLC0xNTY5OTEwNDkzLC0xMDExOTcyMjQzLDE1ODU4
+MTg1ODUsLTQ2MjgzNDg1OCwxNzI0MjA1Mjk5LC0xNjQxMjk1Mj
+k5LC00MjAwNDg4MjEsNTg3NDMwNjEyLC0xNTk5MjYxOTM1LC0x
+ODY4MDU4OTAyXX0=
 -->
