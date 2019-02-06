@@ -246,7 +246,7 @@ Use $ symbol to select apply operational function to the Fields.
  Click **ok** after deriving the expression, all the values based on calculation is shown up in green colour as shown in below image,
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/d04e6cf056ed45cc004f6c0efcf0ceef32db9388/images/ful_calculated2.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/9cb9f650b41942a8082bc296ee5426416bd20772/images/New_version5/UD_Reports_Image11.png)
 
 ## Data 
 
@@ -311,7 +311,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDA2ODg2MiwxMTQ2MzU1OTgyLC0xNz
+eyJoaXN0b3J5IjpbLTI1MjYzNzUwNywxMTQ2MzU1OTgyLC0xNz
 c5MDU2NjE3LC0xNjk3NjUyNTcxLDUwNjYyMjM3MywtMTU3NzUz
 MzQ1OSwxMjU2NjMxMDUsMjA4MDc2MTAyNCwxNTQ5ODkyNzgsMT
 c0NDUyMjIwOCwtOTg0NzYxODM1LC0xNDEzNTA4NDc4LC02NDEz
