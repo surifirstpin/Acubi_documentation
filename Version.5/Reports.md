@@ -260,6 +260,8 @@ Click on Charts, to view the different type of visualization image for data obta
 
 - **Row Grouping** enables row grouping for field values based on the field selected as shown in the below image.
 
+
+
 - **Explore Enabled** to explore the data which are grouped select the check box **Explore Enabled.**
 
 - **Stacked** Series values are added on the y-axis, so each consecutive series appears above the last. Be sure that the units of all series match.
@@ -314,11 +316,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDc1MTgxNCwtODQ2NjExOTYxLC0yNT
-I2Mzc1MDcsMTE0NjM1NTk4MiwtMTc3OTA1NjYxNywtMTY5NzY1
-MjU3MSw1MDY2MjIzNzMsLTE1Nzc1MzM0NTksMTI1NjYzMTA1LD
-IwODA3NjEwMjQsMTU0OTg5Mjc4LDE3NDQ1MjIyMDgsLTk4NDc2
-MTgzNSwtMTQxMzUwODQ3OCwtNjQxMzQ0NTI0LC0xOTQ3ODU5Nz
-AwLDE5NDg1OTc2NDUsMzE5MjkxODMxLC0xNTY5OTEwNDkzLC0x
-MDExOTcyMjQzXX0=
+eyJoaXN0b3J5IjpbMTYxOTY2MjQyLDEyNTQ3NTE4MTQsLTg0Nj
+YxMTk2MSwtMjUyNjM3NTA3LDExNDYzNTU5ODIsLTE3NzkwNTY2
+MTcsLTE2OTc2NTI1NzEsNTA2NjIyMzczLC0xNTc3NTMzNDU5LD
+EyNTY2MzEwNSwyMDgwNzYxMDI0LDE1NDk4OTI3OCwxNzQ0NTIy
+MjA4LC05ODQ3NjE4MzUsLTE0MTM1MDg0NzgsLTY0MTM0NDUyNC
+wtMTk0Nzg1OTcwMCwxOTQ4NTk3NjQ1LDMxOTI5MTgzMSwtMTU2
+OTkxMDQ5M119
 -->
