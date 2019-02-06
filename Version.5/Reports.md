@@ -322,8 +322,20 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 
   -  You will be navigated to Save Report Page. Fill the following fields to save the report.
 
+-   **Report Name**  Name identifier for a report. ( Acubi allows special character but does not support any spaces )
+    
+-   **Title**  label for the report the way you want it to appear.
+    
+-   **Info**  displays any specific information about the report.
+    
+-   **Privacy**  you can save the report in any one of the following privacy option.
+      - 
+    -   **Private ()**  report saved in private section and accessed by the user itself.
+    -   **Public ()**  the report is saved in public section and accessed by all the users.
+    -   **Share ()**  the report saved under share section and accessed by specific set of users.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTYwNDA4NjYsMTYyMzIxMjcxNiwtMT
+eyJoaXN0b3J5IjpbLTE3NzkxNDQ2MjgsMTYyMzIxMjcxNiwtMT
 A1NDE3MjQ4NCwtNzU1ODA0NTE2LDEyNTQ3NTE4MTQsLTg0NjYx
 MTk2MSwtMjUyNjM3NTA3LDExNDYzNTU5ODIsLTE3NzkwNTY2MT
 csLTE2OTc2NTI1NzEsNTA2NjIyMzczLC0xNTc3NTMzNDU5LDEy
