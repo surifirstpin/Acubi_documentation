@@ -235,6 +235,7 @@ After navigating to calculated column, enter below fields;
 -   **Field type**  derives dimension or measure.
     
 -   **Calculation**  derive arithmetical & logical expressions.
+Use $ symbol to select apply operational function to the Fields.
     
 -   **Calculate on raw data**  By enabling the field **Calculate on Raw** the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
 
@@ -307,11 +308,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkwNTY2MTcsLTE2OTc2NTI1NzEsNT
-A2NjIyMzczLC0xNTc3NTMzNDU5LDEyNTY2MzEwNSwyMDgwNzYx
-MDI0LDE1NDk4OTI3OCwxNzQ0NTIyMjA4LC05ODQ3NjE4MzUsLT
-E0MTM1MDg0NzgsLTY0MTM0NDUyNCwtMTk0Nzg1OTcwMCwxOTQ4
-NTk3NjQ1LDMxOTI5MTgzMSwtMTU2OTkxMDQ5MywtMTAxMTk3Mj
-I0MywxNTg1ODE4NTg1LC00NjI4MzQ4NTgsMTcyNDIwNTI5OSwt
-MTY0MTI5NTI5OV19
+eyJoaXN0b3J5IjpbMTE0NjM1NTk4MiwtMTc3OTA1NjYxNywtMT
+Y5NzY1MjU3MSw1MDY2MjIzNzMsLTE1Nzc1MzM0NTksMTI1NjYz
+MTA1LDIwODA3NjEwMjQsMTU0OTg5Mjc4LDE3NDQ1MjIyMDgsLT
+k4NDc2MTgzNSwtMTQxMzUwODQ3OCwtNjQxMzQ0NTI0LC0xOTQ3
+ODU5NzAwLDE5NDg1OTc2NDUsMzE5MjkxODMxLC0xNTY5OTEwND
+kzLC0xMDExOTcyMjQzLDE1ODU4MTg1ODUsLTQ2MjgzNDg1OCwx
+NzI0MjA1Mjk5XX0=
 -->
