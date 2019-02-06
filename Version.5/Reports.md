@@ -254,7 +254,7 @@ Click on Charts to view the different type of visualization image for data obtai
 
 Data section under visualization is enabled based on the data retrieved on running a report.
 
- ** Parameters applicable on the data retrieved are explained as below;**
+ **Parameters applicable on the data retrieved are explained as below;**
 
 - **Row Grouping** enables row grouping for field values based on the field selected as shown in the below image.
 
@@ -313,11 +313,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjYxMTk2MSwtMjUyNjM3NTA3LDExND
-YzNTU5ODIsLTE3NzkwNTY2MTcsLTE2OTc2NTI1NzEsNTA2NjIy
-MzczLC0xNTc3NTMzNDU5LDEyNTY2MzEwNSwyMDgwNzYxMDI0LD
-E1NDk4OTI3OCwxNzQ0NTIyMjA4LC05ODQ3NjE4MzUsLTE0MTM1
-MDg0NzgsLTY0MTM0NDUyNCwtMTk0Nzg1OTcwMCwxOTQ4NTk3Nj
-Q1LDMxOTI5MTgzMSwtMTU2OTkxMDQ5MywtMTAxMTk3MjI0Mywx
-NTg1ODE4NTg1XX0=
+eyJoaXN0b3J5IjpbMTE3NTg2OTQ2NywtODQ2NjExOTYxLC0yNT
+I2Mzc1MDcsMTE0NjM1NTk4MiwtMTc3OTA1NjYxNywtMTY5NzY1
+MjU3MSw1MDY2MjIzNzMsLTE1Nzc1MzM0NTksMTI1NjYzMTA1LD
+IwODA3NjEwMjQsMTU0OTg5Mjc4LDE3NDQ1MjIyMDgsLTk4NDc2
+MTgzNSwtMTQxMzUwODQ3OCwtNjQxMzQ0NTI0LC0xOTQ3ODU5Nz
+AwLDE5NDg1OTc2NDUsMzE5MjkxODMxLC0xNTY5OTEwNDkzLC0x
+MDExOTcyMjQzXX0=
 -->
