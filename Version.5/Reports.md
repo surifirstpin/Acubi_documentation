@@ -248,13 +248,13 @@ Use $ symbol to select apply operational function to the Fields.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9cb9f650b41942a8082bc296ee5426416bd20772/images/New_version5/UD_Reports_Image11.png)
 
-## Data 
+## Data Sets
 
 Click on Charts, to view the different type of visualization image for data obtained.
 
 > **Note** : Goto Visualization Document for more details description on charts.
 
-Data section under visualization is enabled based on the data retrieved on running a report.
+**Data** section under visualization is enabled based on the data retrieved on running a report.
 
  **Parameters applicable on the data retrieved are explained as below;**
 
@@ -304,8 +304,7 @@ Data section under visualization is enabled based on the data retrieved on runni
 
 - **Currency** AcuBi supports following currency formats $,   ₹  ,   €  ,  £.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/2300d0f85947e474f369d3b074655040658bd753/images/full_datasection.png)
+
 
 ## SQL Query 
 
@@ -315,7 +314,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODc0NjExNSwtODQ2NjExOTYxLC0yNT
+eyJoaXN0b3J5IjpbMTI1NDc1MTgxNCwtODQ2NjExOTYxLC0yNT
 I2Mzc1MDcsMTE0NjM1NTk4MiwtMTc3OTA1NjYxNywtMTY5NzY1
 MjU3MSw1MDY2MjIzNzMsLTE1Nzc1MzM0NTksMTI1NjYzMTA1LD
 IwODA3NjEwMjQsMTU0OTg5Mjc4LDE3NDQ1MjIyMDgsLTk4NDc2
