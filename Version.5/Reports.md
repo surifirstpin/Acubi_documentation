@@ -321,6 +321,9 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 **21.** Click Save Button to Save the Report.
 
   -  You will be navigated to Save Report Page. Fill the following fields to save the report.
+  
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/4d53ac9064e170dbaa096a06ba3517219d691b1c/images/New_version5/UD_Reports_Image14.png)
 
 -   **Report Name**  Name identifier for a report. ( Acubi allows special character but does not support any spaces )
     
@@ -336,7 +339,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
     
 ## Saving under specific tag
 
-All the reports build in analysis section are saved under  **Work space**  tag.
+Reports build, are saved under  **Work space**  tag.
 
 ## Defining Filter fields
 
@@ -349,11 +352,11 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzU2MjIyODcsLTE5NTE1MDQ3OTcsMT
-YyMzIxMjcxNiwtMTA1NDE3MjQ4NCwtNzU1ODA0NTE2LDEyNTQ3
-NTE4MTQsLTg0NjYxMTk2MSwtMjUyNjM3NTA3LDExNDYzNTU5OD
-IsLTE3NzkwNTY2MTcsLTE2OTc2NTI1NzEsNTA2NjIyMzczLC0x
-NTc3NTMzNDU5LDEyNTY2MzEwNSwyMDgwNzYxMDI0LDE1NDk4OT
-I3OCwxNzQ0NTIyMjA4LC05ODQ3NjE4MzUsLTE0MTM1MDg0Nzgs
-LTY0MTM0NDUyNF19
+eyJoaXN0b3J5IjpbMTMyODgxMTAwNCwtMTk1MTUwNDc5NywxNj
+IzMjEyNzE2LC0xMDU0MTcyNDg0LC03NTU4MDQ1MTYsMTI1NDc1
+MTgxNCwtODQ2NjExOTYxLC0yNTI2Mzc1MDcsMTE0NjM1NTk4Mi
+wtMTc3OTA1NjYxNywtMTY5NzY1MjU3MSw1MDY2MjIzNzMsLTE1
+Nzc1MzM0NTksMTI1NjYzMTA1LDIwODA3NjEwMjQsMTU0OTg5Mj
+c4LDE3NDQ1MjIyMDgsLTk4NDc2MTgzNSwtMTQxMzUwODQ3OCwt
+NjQxMzQ0NTI0XX0=
 -->
