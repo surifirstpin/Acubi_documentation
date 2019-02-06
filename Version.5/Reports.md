@@ -299,7 +299,7 @@ Click on Charts, to view the different type of visualization image for data obta
 |  # k | Number in thousand (1.234 k). Please note division by 1 thousand happens automatically |
 |  # M | Number in Millions (0.001234 M).please note division by 1 million happens automatically |
 |  *00#  | Number zero padded to 3 places (001) |
-|  *00#.00 | Number zeropadded to 3 places and exactly 2 decimals |
+|  *00#.00 | Number zero padded to 3 places and exactly 2 decimals |
 |  $# | Dollar with 0 decimal |
 |  $#.00  | Dollar with 2 decimal |
 |  $#,##0.00 | Dollars with comma between thousands and 2 decimals ($1,234.00) |
@@ -317,7 +317,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Reports_Image13.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTM3ODE4MTYsLTc1NTgwNDUxNiwxMj
+eyJoaXN0b3J5IjpbLTEwNTQxNzI0ODQsLTc1NTgwNDUxNiwxMj
 U0NzUxODE0LC04NDY2MTE5NjEsLTI1MjYzNzUwNywxMTQ2MzU1
 OTgyLC0xNzc5MDU2NjE3LC0xNjk3NjUyNTcxLDUwNjYyMjM3My
 wtMTU3NzUzMzQ1OSwxMjU2NjMxMDUsMjA4MDc2MTAyNCwxNTQ5
