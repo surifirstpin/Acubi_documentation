@@ -329,17 +329,29 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 -   **Info**  displays any specific information about the report.
     
 -   **Privacy**  you can save the report in any one of the following privacy option.
-      - 
+   
     -   **Private ()**  report saved in private section and accessed by the user itself.
     -   **Public ()**  the report is saved in public section and accessed by all the users.
     -   **Share ()**  the report saved under share section and accessed by specific set of users.
+    
+## Saving under specific tag
+
+All the reports build in analysis section are saved under  **my space**  tag.
+
+## Defining Filter fields
+
+Filter are used to extract only specific data you want to view. this function is carried out by applying filters to reports.
+
+-   **Filter**  filters added in this section is automatically reflected in the filter section of dashboard reports.
+
+> Image 3
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkxNDQ2MjgsMTYyMzIxMjcxNiwtMT
-A1NDE3MjQ4NCwtNzU1ODA0NTE2LDEyNTQ3NTE4MTQsLTg0NjYx
-MTk2MSwtMjUyNjM3NTA3LDExNDYzNTU5ODIsLTE3NzkwNTY2MT
-csLTE2OTc2NTI1NzEsNTA2NjIyMzczLC0xNTc3NTMzNDU5LDEy
-NTY2MzEwNSwyMDgwNzYxMDI0LDE1NDk4OTI3OCwxNzQ0NTIyMj
-A4LC05ODQ3NjE4MzUsLTE0MTM1MDg0NzgsLTY0MTM0NDUyNCwt
-MTk0Nzg1OTcwMF19
+eyJoaXN0b3J5IjpbMjA2MDUxNjY4MiwxNjIzMjEyNzE2LC0xMD
+U0MTcyNDg0LC03NTU4MDQ1MTYsMTI1NDc1MTgxNCwtODQ2NjEx
+OTYxLC0yNTI2Mzc1MDcsMTE0NjM1NTk4MiwtMTc3OTA1NjYxNy
+wtMTY5NzY1MjU3MSw1MDY2MjIzNzMsLTE1Nzc1MzM0NTksMTI1
+NjYzMTA1LDIwODA3NjEwMjQsMTU0OTg5Mjc4LDE3NDQ1MjIyMD
+gsLTk4NDc2MTgzNSwtMTQxMzUwODQ3OCwtNjQxMzQ0NTI0LC0x
+OTQ3ODU5NzAwXX0=
 -->
