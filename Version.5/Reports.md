@@ -249,10 +249,10 @@ Use $ symbol to select apply operational function to the Fields.
 ](https://raw.githubusercontent.com/sv18042016/fp1/9cb9f650b41942a8082bc296ee5426416bd20772/images/New_version5/UD_Reports_Image11.png)
 
 ## Data 
-
+Click on Charts to view the 
 Data section under visualization is enabled based on the data retrieved on running a report.
 
- **Below are the parameters applicable on the data retrieved;**
+ ** Parameters applicable on the data retrieved are explained as below;**
 
 - **Row Grouping** enables row grouping for field values based on the field selected as shown in the below image.
 
@@ -311,11 +311,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjYzNzUwNywxMTQ2MzU1OTgyLC0xNz
-c5MDU2NjE3LC0xNjk3NjUyNTcxLDUwNjYyMjM3MywtMTU3NzUz
-MzQ1OSwxMjU2NjMxMDUsMjA4MDc2MTAyNCwxNTQ5ODkyNzgsMT
-c0NDUyMjIwOCwtOTg0NzYxODM1LC0xNDEzNTA4NDc4LC02NDEz
-NDQ1MjQsLTE5NDc4NTk3MDAsMTk0ODU5NzY0NSwzMTkyOTE4Mz
-EsLTE1Njk5MTA0OTMsLTEwMTE5NzIyNDMsMTU4NTgxODU4NSwt
-NDYyODM0ODU4XX0=
+eyJoaXN0b3J5IjpbMzY2NzY5ODU3LC0yNTI2Mzc1MDcsMTE0Nj
+M1NTk4MiwtMTc3OTA1NjYxNywtMTY5NzY1MjU3MSw1MDY2MjIz
+NzMsLTE1Nzc1MzM0NTksMTI1NjYzMTA1LDIwODA3NjEwMjQsMT
+U0OTg5Mjc4LDE3NDQ1MjIyMDgsLTk4NDc2MTgzNSwtMTQxMzUw
+ODQ3OCwtNjQxMzQ0NTI0LC0xOTQ3ODU5NzAwLDE5NDg1OTc2ND
+UsMzE5MjkxODMxLC0xNTY5OTEwNDkzLC0xMDExOTcyMjQzLDE1
+ODU4MTg1ODVdfQ==
 -->
