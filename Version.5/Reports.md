@@ -227,7 +227,7 @@ After navigating to calculated column, enter below fields;
 > **Note :** To Add sum amount 100 to the quantity sum as bonus declare a calculated column as below.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/0781d8868ab0fd2179779cae3f71dc40c6ccbac1/images/New_version5/UD_Reports_Image10.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Reports_Image10.png)
 
 -   **Field name**  unique identifier name to refer calculated column.
     
@@ -314,14 +314,14 @@ Click on Charts, to view the different type of visualization image for data obta
 To view the SQL query built on retrieving data in report, click on **SQL** section.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Reports_Image13.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyOTk0NDMyLDEyNTQ3NTE4MTQsLTg0Nj
-YxMTk2MSwtMjUyNjM3NTA3LDExNDYzNTU5ODIsLTE3NzkwNTY2
-MTcsLTE2OTc2NTI1NzEsNTA2NjIyMzczLC0xNTc3NTMzNDU5LD
-EyNTY2MzEwNSwyMDgwNzYxMDI0LDE1NDk4OTI3OCwxNzQ0NTIy
-MjA4LC05ODQ3NjE4MzUsLTE0MTM1MDg0NzgsLTY0MTM0NDUyNC
-wtMTk0Nzg1OTcwMCwxOTQ4NTk3NjQ1LDMxOTI5MTgzMSwtMTU2
-OTkxMDQ5M119
+eyJoaXN0b3J5IjpbLTc1NTgwNDUxNiwxMjU0NzUxODE0LC04ND
+Y2MTE5NjEsLTI1MjYzNzUwNywxMTQ2MzU1OTgyLC0xNzc5MDU2
+NjE3LC0xNjk3NjUyNTcxLDUwNjYyMjM3MywtMTU3NzUzMzQ1OS
+wxMjU2NjMxMDUsMjA4MDc2MTAyNCwxNTQ5ODkyNzgsMTc0NDUy
+MjIwOCwtOTg0NzYxODM1LC0xNDEzNTA4NDc4LC02NDEzNDQ1Mj
+QsLTE5NDc4NTk3MDAsMTk0ODU5NzY0NSwzMTkyOTE4MzEsLTE1
+Njk5MTA0OTNdfQ==
 -->
