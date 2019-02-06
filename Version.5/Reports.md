@@ -252,6 +252,8 @@ Use $ symbol to select apply operational function to the Fields.
 
 Click on Charts, to view the different type of visualization image for data obtained.
 
+> **Note** : Goto Visualization Document for more details description on charts.
+
 Data section under visualization is enabled based on the data retrieved on running a report.
 
  **Parameters applicable on the data retrieved are explained as below;**
@@ -313,11 +315,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5OTkwNzYxLC04NDY2MTE5NjEsLTI1Mj
-YzNzUwNywxMTQ2MzU1OTgyLC0xNzc5MDU2NjE3LC0xNjk3NjUy
-NTcxLDUwNjYyMjM3MywtMTU3NzUzMzQ1OSwxMjU2NjMxMDUsMj
-A4MDc2MTAyNCwxNTQ5ODkyNzgsMTc0NDUyMjIwOCwtOTg0NzYx
-ODM1LC0xNDEzNTA4NDc4LC02NDEzNDQ1MjQsLTE5NDc4NTk3MD
-AsMTk0ODU5NzY0NSwzMTkyOTE4MzEsLTE1Njk5MTA0OTMsLTEw
-MTE5NzIyNDNdfQ==
+eyJoaXN0b3J5IjpbLTg3ODc0NjExNSwtODQ2NjExOTYxLC0yNT
+I2Mzc1MDcsMTE0NjM1NTk4MiwtMTc3OTA1NjYxNywtMTY5NzY1
+MjU3MSw1MDY2MjIzNzMsLTE1Nzc1MzM0NTksMTI1NjYzMTA1LD
+IwODA3NjEwMjQsMTU0OTg5Mjc4LDE3NDQ1MjIyMDgsLTk4NDc2
+MTgzNSwtMTQxMzUwODQ3OCwtNjQxMzQ0NTI0LC0xOTQ3ODU5Nz
+AwLDE5NDg1OTc2NDUsMzE5MjkxODMxLC0xNTY5OTEwNDkzLC0x
+MDExOTcyMjQzXX0=
 -->
