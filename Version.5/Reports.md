@@ -318,9 +318,9 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 
 ## Save Report
 
-Click Save Button to Save the Report
+21. Click Save Button to Save the Report.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDg5MzA2NywtMTA1NDE3MjQ4NCwtNz
+eyJoaXN0b3J5IjpbMTYyMzIxMjcxNiwtMTA1NDE3MjQ4NCwtNz
 U1ODA0NTE2LDEyNTQ3NTE4MTQsLTg0NjYxMTk2MSwtMjUyNjM3
 NTA3LDExNDYzNTU5ODIsLTE3NzkwNTY2MTcsLTE2OTc2NTI1Nz
 EsNTA2NjIyMzczLC0xNTc3NTMzNDU5LDEyNTY2MzEwNSwyMDgw
