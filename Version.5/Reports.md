@@ -298,7 +298,7 @@ Click on Charts, to view the different type of visualization image for data obta
 |  #.000% | Percent with three decimals (1.000%). Please note multiplication by 100 happens automatically |
 |  # k | Number in thousand (1.234 k). Please note division by 1 thousand happens automatically |
 |  # M | Number in Millions (0.001234 M).please note division by 1 million happens automatically |
-|  *00#  | Number zeropadded to 3 places (001) |
+|  *00#  | Number zero padded to 3 places (001) |
 |  *00#.00 | Number zeropadded to 3 places and exactly 2 decimals |
 |  $# | Dollar with 0 decimal |
 |  $#.00  | Dollar with 2 decimal |
@@ -317,11 +317,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Reports_Image13.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTgwNDUxNiwxMjU0NzUxODE0LC04ND
-Y2MTE5NjEsLTI1MjYzNzUwNywxMTQ2MzU1OTgyLC0xNzc5MDU2
-NjE3LC0xNjk3NjUyNTcxLDUwNjYyMjM3MywtMTU3NzUzMzQ1OS
-wxMjU2NjMxMDUsMjA4MDc2MTAyNCwxNTQ5ODkyNzgsMTc0NDUy
-MjIwOCwtOTg0NzYxODM1LC0xNDEzNTA4NDc4LC02NDEzNDQ1Mj
-QsLTE5NDc4NTk3MDAsMTk0ODU5NzY0NSwzMTkyOTE4MzEsLTE1
-Njk5MTA0OTNdfQ==
+eyJoaXN0b3J5IjpbLTEwMTM3ODE4MTYsLTc1NTgwNDUxNiwxMj
+U0NzUxODE0LC04NDY2MTE5NjEsLTI1MjYzNzUwNywxMTQ2MzU1
+OTgyLC0xNzc5MDU2NjE3LC0xNjk3NjUyNTcxLDUwNjYyMjM3My
+wtMTU3NzUzMzQ1OSwxMjU2NjMxMDUsMjA4MDc2MTAyNCwxNTQ5
+ODkyNzgsMTc0NDUyMjIwOCwtOTg0NzYxODM1LC0xNDEzNTA4ND
+c4LC02NDEzNDQ1MjQsLTE5NDc4NTk3MDAsMTk0ODU5NzY0NSwz
+MTkyOTE4MzFdfQ==
 -->
