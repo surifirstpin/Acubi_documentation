@@ -249,7 +249,9 @@ Use $ symbol to select apply operational function to the Fields.
 ](https://raw.githubusercontent.com/sv18042016/fp1/9cb9f650b41942a8082bc296ee5426416bd20772/images/New_version5/UD_Reports_Image11.png)
 
 ## Data 
-Click on Charts to view the 
+
+Click on Charts to view the different type of visualization image for data obtained.
+
 Data section under visualization is enabled based on the data retrieved on running a report.
 
  ** Parameters applicable on the data retrieved are explained as below;**
@@ -311,11 +313,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2NzY5ODU3LC0yNTI2Mzc1MDcsMTE0Nj
-M1NTk4MiwtMTc3OTA1NjYxNywtMTY5NzY1MjU3MSw1MDY2MjIz
-NzMsLTE1Nzc1MzM0NTksMTI1NjYzMTA1LDIwODA3NjEwMjQsMT
-U0OTg5Mjc4LDE3NDQ1MjIyMDgsLTk4NDc2MTgzNSwtMTQxMzUw
-ODQ3OCwtNjQxMzQ0NTI0LC0xOTQ3ODU5NzAwLDE5NDg1OTc2ND
-UsMzE5MjkxODMxLC0xNTY5OTEwNDkzLC0xMDExOTcyMjQzLDE1
-ODU4MTg1ODVdfQ==
+eyJoaXN0b3J5IjpbLTg0NjYxMTk2MSwtMjUyNjM3NTA3LDExND
+YzNTU5ODIsLTE3NzkwNTY2MTcsLTE2OTc2NTI1NzEsNTA2NjIy
+MzczLC0xNTc3NTMzNDU5LDEyNTY2MzEwNSwyMDgwNzYxMDI0LD
+E1NDk4OTI3OCwxNzQ0NTIyMjA4LC05ODQ3NjE4MzUsLTE0MTM1
+MDg0NzgsLTY0MTM0NDUyNCwtMTk0Nzg1OTcwMCwxOTQ4NTk3Nj
+Q1LDMxOTI5MTgzMSwtMTU2OTkxMDQ5MywtMTAxMTk3MjI0Mywx
+NTg1ODE4NTg1XX0=
 -->
