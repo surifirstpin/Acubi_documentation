@@ -222,9 +222,9 @@ Click on  **Calculated column**  button to enable table calculations as shown in
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/26d0a3487833ab177c6be9fe97046d96212be2fa/images/New_version5/UD_Reports_Image9.png)
 
-> **Note :** in the below example we are multiplying measure field quantity_sum by 2.
-
 After navigating to calculated column, enter below fields;
+
+> **Note :** To Add sum amount 2 to the quantity sum as bonus declare a calculated column as below.
 
 -   **Field name**  unique identifier name to refer calculated column.
     
@@ -238,8 +238,6 @@ After navigating to calculated column, enter below fields;
     
 -   **Calculate on raw data**  By enabling the field **Calculate on Raw** the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/b10da52fba77e866f8f30ae57fabe5c0d0f8c142/images/ful_calculated.png)
 
  Click **ok** after deriving the expression, all the values based on calculation is shown up in green colour as shown in below image,
 
@@ -309,11 +307,11 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc2NTI1NzEsNTA2NjIyMzczLC0xNT
-c3NTMzNDU5LDEyNTY2MzEwNSwyMDgwNzYxMDI0LDE1NDk4OTI3
-OCwxNzQ0NTIyMjA4LC05ODQ3NjE4MzUsLTE0MTM1MDg0NzgsLT
-Y0MTM0NDUyNCwtMTk0Nzg1OTcwMCwxOTQ4NTk3NjQ1LDMxOTI5
-MTgzMSwtMTU2OTkxMDQ5MywtMTAxMTk3MjI0MywxNTg1ODE4NT
-g1LC00NjI4MzQ4NTgsMTcyNDIwNTI5OSwtMTY0MTI5NTI5OSwt
-NDIwMDQ4ODIxXX0=
+eyJoaXN0b3J5IjpbLTE3NzkwNTY2MTcsLTE2OTc2NTI1NzEsNT
+A2NjIyMzczLC0xNTc3NTMzNDU5LDEyNTY2MzEwNSwyMDgwNzYx
+MDI0LDE1NDk4OTI3OCwxNzQ0NTIyMjA4LC05ODQ3NjE4MzUsLT
+E0MTM1MDg0NzgsLTY0MTM0NDUyNCwtMTk0Nzg1OTcwMCwxOTQ4
+NTk3NjQ1LDMxOTI5MTgzMSwtMTU2OTkxMDQ5MywtMTAxMTk3Mj
+I0MywxNTg1ODE4NTg1LC00NjI4MzQ4NTgsMTcyNDIwNTI5OSwt
+MTY0MTI5NTI5OV19
 -->
