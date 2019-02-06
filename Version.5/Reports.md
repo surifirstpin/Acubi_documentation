@@ -224,7 +224,7 @@ Click on  **Calculated column**  button to enable table calculations as shown in
 
 After navigating to calculated column, enter below fields;
 
-> **Note :** To Add sum amount 2 to the quantity sum as bonus declare a calculated column as below.
+> **Note :** To Add sum amount 100 to the quantity sum as bonus declare a calculated column as below.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/0781d8868ab0fd2179779cae3f71dc40c6ccbac1/images/New_version5/UD_Reports_Image10.png)
@@ -255,12 +255,13 @@ Click on Charts, to view the different type of visualization image for data obta
 > **Note** : Goto Visualization Document for more details description on charts.
 
 **Data** section under visualization is enabled based on the data retrieved on running a report.
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/3e22fdc921e2f9e483420be1116042428e7f566a/images/New_version5/UD_Reports_Image12.png)
+
 
  **Parameters applicable on the data retrieved are explained as below;**
 
 - **Row Grouping** enables row grouping for field values based on the field selected as shown in the below image.
-
-
 
 - **Explore Enabled** to explore the data which are grouped select the check box **Explore Enabled.**
 
@@ -316,7 +317,7 @@ To view the SQL query built on retrieving data in report, click on **SQL** secti
 ](https://raw.githubusercontent.com/sv18042016/fp1/cb3255937763c7b895145485b1da69d33684c675/images/sql.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTY2MjQyLDEyNTQ3NTE4MTQsLTg0Nj
+eyJoaXN0b3J5IjpbNTMyOTk0NDMyLDEyNTQ3NTE4MTQsLTg0Nj
 YxMTk2MSwtMjUyNjM3NTA3LDExNDYzNTU5ODIsLTE3NzkwNTY2
 MTcsLTE2OTc2NTI1NzEsNTA2NjIyMzczLC0xNTc3NTMzNDU5LD
 EyNTY2MzEwNSwyMDgwNzYxMDI0LDE1NDk4OTI3OCwxNzQ0NTIy
