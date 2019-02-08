@@ -294,11 +294,9 @@ Perform Arithmetic operation on desired fields in calculated columns.
  **For Example:**
  To add an amount 2000 to the column field **order value sum**, derive the following expression in calculated column screen.
  ```
-bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE},2000)
+bi.add(${ROOT.BI_Order.sum_ORDERVALUE},2000)
 ```
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/8482aac4e08d59dd60a2b28e6d34302df3357ebd/images/calculated1.png)
 
 ## Usage of #plugin# for Grid View
 
@@ -440,7 +438,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjgyMjAxOSw0MjkyMTU5ODksMjAyMz
-YzNzIzLDE1Njk1NjI4MjYsMTIyMjUyMzM3MywtMTIyNTc4MDEy
-NywtMjQzMTM4MTY3LC02NzU0NzUyNTVdfQ==
+eyJoaXN0b3J5IjpbNzQxMDUxMjA4LDQyOTIxNTk4OSwyMDIzNj
+M3MjMsMTU2OTU2MjgyNiwxMjIyNTIzMzczLC0xMjI1NzgwMTI3
+LC0yNDMxMzgxNjcsLTY3NTQ3NTI1NV19
 -->
