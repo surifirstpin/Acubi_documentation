@@ -4,7 +4,8 @@
 <center><h1>Visualization Overview</h1></center>
 
 This section describes a basic overview on visualization and its functionality.
-> All the features are clearly described in **Visualization Types and Settings** document
+
+> Note :  A more detailed explanation is mentioned clearly in **Visualization Types and Settings** document
 
 Visualization in AcuBi creates impressive graphs and charts based on query result obtained and displays an eye-caching pictorial representation of data obtained. Based on your requirement, you can visualize the data in different chart formats.
 
@@ -76,5 +77,5 @@ A more detailed explanation on visualization is given in visualization types and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTE4MTEzNl19
+eyJoaXN0b3J5IjpbLTE3NDk2ODgxMDgsMTExMTE4MTEzNl19
 -->
