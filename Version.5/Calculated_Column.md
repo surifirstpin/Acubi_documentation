@@ -37,11 +37,8 @@ Once navigated to Calculated Column Window, Enter the below fields.
 
 - **Calculation** Derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
 
-*~~
+*I. Add a bonus Amount of 2000 to Order sum value as follow.*
 
-~~~~Add a bonus Amount of 2000 to Order sum value as follow.*~~~~
-
-~~
 ```
 $(Root.BI_DELIVERYREPORT.sum_ORDERVALUE}+2000
 ```
@@ -445,5 +442,5 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTI1ODMxNjYsLTY3NTQ3NTI1NV19
+eyJoaXN0b3J5IjpbLTI0MzEzODE2NywtNjc1NDc1MjU1XX0=
 -->
