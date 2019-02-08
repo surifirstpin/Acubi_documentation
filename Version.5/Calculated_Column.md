@@ -38,15 +38,16 @@ Once navigated to Calculated Column Window, Enter the below fields.
 - **Calculation** Derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
 
 > **Note :** Replace Dollar Symbol with Hashtag to fetch the appropriate data.
-* To Find the Column total of a meas
-```
-col_total( #{ROOT.BI_ORDERS.sum_RATE_2677} )
-```
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d90ab34e275e9daaab297e54345228bcad1986f9/images/New_version5/UD_CalculatedColumn_image2.png)
 
 -  **Calculate on Raw data :**   if enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
+
+*I. To Find the Column total of a measure value*
+```
+col_total( #{ROOT.BI_ORDERS.sum_RATE_2677} )
+```
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/029914c6f76a051db3647fa3285211aef352e345/images/New_version5/UD_CalculatedColumn_image4.png)
@@ -439,7 +440,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTAzNzE0Myw0MjkyMTU5ODksMjAyMz
+eyJoaXN0b3J5IjpbMTI5NjgyMjAxOSw0MjkyMTU5ODksMjAyMz
 YzNzIzLDE1Njk1NjI4MjYsMTIyMjUyMzM3MywtMTIyNTc4MDEy
 NywtMjQzMTM4MTY3LC02NzU0NzUyNTVdfQ==
 -->
