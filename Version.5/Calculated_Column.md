@@ -43,8 +43,6 @@ Once navigated to Calculated Column Window, Enter the below fields.
 -  **Calculate on Raw data :**   if enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
 
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
 
 - Click **Ok** after deriving an expression,  all the values based on calculation, is shown up in green colour as shown in below image,
 
@@ -435,6 +433,6 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyOTkwNzM5LC0xMjI1NzgwMTI3LC0yND
-MxMzgxNjcsLTY3NTQ3NTI1NV19
+eyJoaXN0b3J5IjpbMTIyMjUyMzM3MywtMTIyNTc4MDEyNywtMj
+QzMTM4MTY3LC02NzU0NzUyNTVdfQ==
 -->
