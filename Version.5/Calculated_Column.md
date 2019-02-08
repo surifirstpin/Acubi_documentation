@@ -401,7 +401,7 @@ bi.add(${ROOT.BI_ORDERS.sum_ORDERVALUE},2)
 ```
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/457490d3185941046566d493017e4f95c2b8b18a/images/calculate_on_raw.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/e82ad6a8e255ac06e670f49b05f503b9bfd45c6f/images/New_version5/UD_CalculatedColumn_image7.png)
 
 ## Calculate Column with Pivot Offset
 
@@ -438,7 +438,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTUxNTIxMjMsNDI5MjE1OTg5LDIwMj
-M2MzcyMywxNTY5NTYyODI2LDEyMjI1MjMzNzMsLTEyMjU3ODAx
-MjcsLTI0MzEzODE2NywtNjc1NDc1MjU1XX0=
+eyJoaXN0b3J5IjpbNTU2MzA0NDY4LC0xNTE1MTUyMTIzLDQyOT
+IxNTk4OSwyMDIzNjM3MjMsMTU2OTU2MjgyNiwxMjIyNTIzMzcz
+LC0xMjI1NzgwMTI3LC0yNDMxMzgxNjcsLTY3NTQ3NTI1NV19
 -->
