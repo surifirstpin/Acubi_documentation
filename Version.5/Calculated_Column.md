@@ -74,8 +74,6 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 
   - Click **ok**.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/67a5ac6ae8faa249a688ed35320ff1b2e8a7ebb0/images/New_version5/UD_CalculatedColumn_image5.png)
 
 **AcuBi supports following functionalities in calculated column :**
 
@@ -439,8 +437,8 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTEzNzY0Myw1NTYzMDQ0NjgsLTE1MT
-UxNTIxMjMsNDI5MjE1OTg5LDIwMjM2MzcyMywxNTY5NTYyODI2
-LDEyMjI1MjMzNzMsLTEyMjU3ODAxMjcsLTI0MzEzODE2NywtNj
-c1NDc1MjU1XX0=
+eyJoaXN0b3J5IjpbLTEwNjkyNjU3MzYsNTU2MzA0NDY4LC0xNT
+E1MTUyMTIzLDQyOTIxNTk4OSwyMDIzNjM3MjMsMTU2OTU2Mjgy
+NiwxMjIyNTIzMzczLC0xMjI1NzgwMTI3LC0yNDMxMzgxNjcsLT
+Y3NTQ3NTI1NV19
 -->
