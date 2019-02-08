@@ -397,7 +397,7 @@ By enabling the field **Calculate on Raw**, the calculation is applied on all th
 >**For Instance:**  consider the below image, which represents calculated data with disabling calculate on raw.
 
 ```
-bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE},2)
+bi.add(${ROOT.BI_ORDERS.sum_ORDERVALUE},2)
 ```
 
 ![
@@ -438,7 +438,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxMDUxMjA4LDQyOTIxNTk4OSwyMDIzNj
-M3MjMsMTU2OTU2MjgyNiwxMjIyNTIzMzczLC0xMjI1NzgwMTI3
-LC0yNDMxMzgxNjcsLTY3NTQ3NTI1NV19
+eyJoaXN0b3J5IjpbLTE1MTUxNTIxMjMsNDI5MjE1OTg5LDIwMj
+M2MzcyMywxNTY5NTYyODI2LDEyMjI1MjMzNzMsLTEyMjU3ODAx
+MjcsLTI0MzEzODE2NywtNjc1NDc1MjU1XX0=
 -->
