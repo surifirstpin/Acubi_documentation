@@ -65,9 +65,12 @@ Custom made mathematical operations can be performed in **calculated column sect
 
  To Calculate **Number of Working Days** in each month, use the following expression in calculation column window as shown below ;
 
+
 ```
 bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE}) 
 ```
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/ee0e74160647a6b555b17942cc2b738fc83d0480/images/New_version5/UD_CalculatedColumn_image6.png)
 
   - Click **ok**.
 
@@ -411,6 +414,8 @@ We can get quantity_sum difference of each month for specific customer using Piv
 
 ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/ee0e74160647a6b555b17942cc2b738fc83d0480/images/New_version5/UD_CalculatedColumn_image8.png)
 
 ## Local Function
 
@@ -434,7 +439,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDk1Njg3Myw1NTYzMDQ0NjgsLTE1MT
+eyJoaXN0b3J5IjpbLTc1NTEzNzY0Myw1NTYzMDQ0NjgsLTE1MT
 UxNTIxMjMsNDI5MjE1OTg5LDIwMjM2MzcyMywxNTY5NTYyODI2
 LDEyMjI1MjMzNzMsLTEyMjU3ODAxMjcsLTI0MzEzODE2NywtNj
 c1NDc1MjU1XX0=
