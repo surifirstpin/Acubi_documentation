@@ -23,8 +23,7 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 
 Click on **Calculated Column** button it will navigate to calculated column window,
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/9dd01207f083d272ba2269a4c999dfa8976f1914/images/calculate%20column1.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5d7fedc6c4dd0810eb6be0995b321cd924b2cd71/images/New_version5/UD_CalculatedColumn_image1.png)
 
 Once navigated to Calculated Column Window, Enter the below fields.
 
@@ -38,6 +37,7 @@ Once navigated to Calculated Column Window, Enter the below fields.
 
 - **Calculation** Derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
 
+*
 ```
 $(Root.BI_DELIVERYREPORT.sum_ORDERVALUE}+2000
 ```
@@ -441,5 +441,5 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTQ3NTI1NV19
+eyJoaXN0b3J5IjpbLTY3NjYzNzY5NCwtNjc1NDc1MjU1XX0=
 -->
