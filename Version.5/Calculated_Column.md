@@ -36,7 +36,8 @@ Once navigated to Calculated Column Window, Enter the below fields.
 - **Field type** derives whether the result is dimension or measure.
 
 - **Calculation** Derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
-> Note : Replace Dollar Symbol with Hashtag to fetch the appropriate data.
+
+> **Note :** Replace Dollar Symbol with Hashtag to fetch the appropriate data.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d90ab34e275e9daaab297e54345228bcad1986f9/images/New_version5/UD_CalculatedColumn_image2.png)
@@ -434,6 +435,6 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzcyNjUwMCwxMjIyNTIzMzczLC0xMj
+eyJoaXN0b3J5IjpbMTU2OTU2MjgyNiwxMjIyNTIzMzczLC0xMj
 I1NzgwMTI3LC0yNDMxMzgxNjcsLTY3NTQ3NTI1NV19
 -->
