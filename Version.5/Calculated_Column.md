@@ -37,15 +37,14 @@ Once navigated to Calculated Column Window, Enter the below fields.
 
 - **Calculation** Derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
 
-*I. Add a bonus Amount of 2000 to Order sum value as follow.*
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/d90ab34e275e9daaab297e54345228bcad1986f9/images/New_version5/UD_CalculatedColumn_image2.png)
+
+*I. To Add a bonus Amount of 2000 to Order sum value as follow.*
 
 ```
 $(Root.BI_DELIVERYREPORT.sum_ORDERVALUE}+2000
 ```
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/aff2f17d1b5383de542a7b534df7caeb69c03b3d/images/calculated_col_window.png)
-
 
 -  **Calculate on Raw data :**   if enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
 
@@ -442,5 +441,6 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MzEzODE2NywtNjc1NDc1MjU1XX0=
+eyJoaXN0b3J5IjpbMTEyMDE5NTIsLTI0MzEzODE2NywtNjc1ND
+c1MjU1XX0=
 -->
