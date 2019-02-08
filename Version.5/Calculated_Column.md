@@ -58,13 +58,16 @@ Custom made mathematical operations can be performed in **calculated column sect
 
 **Example 1 :**
 
- To Calculate **Number of working days** in each month, use the following expression in calculation column window as shown below ;
+ To Calculate **Number of Working Days** in each month, use the following expression in calculation column window as shown below ;
 
 ```
 bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE}) 
 ```
 
+  - Click **ok**.
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/67a5ac6ae8faa249a688ed35320ff1b2e8a7ebb0/images/New_version5/UD_CalculatedColumn_image5.png)
 
 **AcuBi supports following functionalities in calculated column :**
 
@@ -432,7 +435,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2MTY0MjI1LDIwMjM2MzcyMywxNTY5NT
+eyJoaXN0b3J5IjpbNDI5MjE1OTg5LDIwMjM2MzcyMywxNTY5NT
 YyODI2LDEyMjI1MjMzNzMsLTEyMjU3ODAxMjcsLTI0MzEzODE2
 NywtNjc1NDc1MjU1XX0=
 -->
