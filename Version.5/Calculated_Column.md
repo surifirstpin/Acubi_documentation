@@ -38,6 +38,10 @@ Once navigated to Calculated Column Window, Enter the below fields.
 - **Calculation** Derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
 
 > **Note :** Replace Dollar Symbol with Hashtag to fetch the appropriate data.
+* To Find the Column total of a meas
+```
+col_total( #{ROOT.BI_ORDERS.sum_RATE_2677} )
+```
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d90ab34e275e9daaab297e54345228bcad1986f9/images/New_version5/UD_CalculatedColumn_image2.png)
@@ -435,7 +439,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5MjE1OTg5LDIwMjM2MzcyMywxNTY5NT
-YyODI2LDEyMjI1MjMzNzMsLTEyMjU3ODAxMjcsLTI0MzEzODE2
-NywtNjc1NDc1MjU1XX0=
+eyJoaXN0b3J5IjpbLTk0MTAzNzE0Myw0MjkyMTU5ODksMjAyMz
+YzNzIzLDE1Njk1NjI4MjYsMTIyMjUyMzM3MywtMTIyNTc4MDEy
+NywtMjQzMTM4MTY3LC02NzU0NzUyNTVdfQ==
 -->
