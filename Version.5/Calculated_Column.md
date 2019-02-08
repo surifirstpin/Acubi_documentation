@@ -44,13 +44,12 @@ Once navigated to Calculated Column Window, Enter the below fields.
 
 -  **Calculate on Raw data :**   if enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
 
-
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/029914c6f76a051db3647fa3285211aef352e345/images/New_version5/UD_CalculatedColumn_image4.png)
 
 - Click **Ok** after deriving an expression,  all the values based on calculation, is shown up in green colour as shown in below image,
 
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/394d53042fd86efdc7a2f16a79e69b6434c9260f/images/calcu+result.png)
 
 
 ## Mathematical operation 
@@ -435,6 +434,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTU2MjgyNiwxMjIyNTIzMzczLC0xMj
-I1NzgwMTI3LC0yNDMxMzgxNjcsLTY3NTQ3NTI1NV19
+eyJoaXN0b3J5IjpbLTc1ODU5NTEyMiwxNTY5NTYyODI2LDEyMj
+I1MjMzNzMsLTEyMjU3ODAxMjcsLTI0MzEzODE2NywtNjc1NDc1
+MjU1XX0=
 -->
