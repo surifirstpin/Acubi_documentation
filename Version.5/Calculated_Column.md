@@ -40,7 +40,7 @@ Once navigated to Calculated Column Window, Enter the below fields.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d90ab34e275e9daaab297e54345228bcad1986f9/images/New_version5/UD_CalculatedColumn_image2.png)
 
-*I. To Add a bonus Amount of 2000 to Order sum value as follow.*
+*I. To Add a bonus Amount of 2000 to Order sum value.*
 
 ```
 $(Root.BI_DELIVERYREPORT.sum_ORDERVALUE}+2000
@@ -441,6 +441,6 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDE5NTIsLTI0MzEzODE2NywtNjc1ND
-c1MjU1XX0=
+eyJoaXN0b3J5IjpbLTEyMjU3ODAxMjcsLTI0MzEzODE2NywtNj
+c1NDc1MjU1XX0=
 -->
