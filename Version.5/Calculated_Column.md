@@ -49,8 +49,8 @@ Once navigated to Calculated Column Window, Enter the below fields.
 
 - Click **Ok** after deriving an expression,  all the values based on calculation, is shown up in green colour as shown in below image,
 
-
-
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/67a5ac6ae8faa249a688ed35320ff1b2e8a7ebb0/images/New_version5/UD_CalculatedColumn_image5.png)
 
 ## Mathematical operation 
 
@@ -434,7 +434,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODU5NTEyMiwxNTY5NTYyODI2LDEyMj
-I1MjMzNzMsLTEyMjU3ODAxMjcsLTI0MzEzODE2NywtNjc1NDc1
-MjU1XX0=
+eyJoaXN0b3J5IjpbMjAyMzYzNzIzLDE1Njk1NjI4MjYsMTIyMj
+UyMzM3MywtMTIyNTc4MDEyNywtMjQzMTM4MTY3LC02NzU0NzUy
+NTVdfQ==
 -->
