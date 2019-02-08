@@ -405,7 +405,7 @@ bi.add(${ROOT.BI_ORDERS.sum_ORDERVALUE},2)
 
 ## Calculate Column with Pivot Offset
 
->**For Instance:** To view the order-value sum and average w.r.t each station code, then apply pivot to station-code and run the report.
+>**For Instance:**  To view the difference between quantity sum between the months. Select Whenmade 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5993c1fa2683f7ecb11c313b45e40254e525f625/images/pivot_stationcoed.png)
@@ -438,7 +438,8 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2MzA0NDY4LC0xNTE1MTUyMTIzLDQyOT
-IxNTk4OSwyMDIzNjM3MjMsMTU2OTU2MjgyNiwxMjIyNTIzMzcz
-LC0xMjI1NzgwMTI3LC0yNDMxMzgxNjcsLTY3NTQ3NTI1NV19
+eyJoaXN0b3J5IjpbMTI3Mjk4NjkxNyw1NTYzMDQ0NjgsLTE1MT
+UxNTIxMjMsNDI5MjE1OTg5LDIwMjM2MzcyMywxNTY5NTYyODI2
+LDEyMjI1MjMzNzMsLTEyMjU3ODAxMjcsLTI0MzEzODE2NywtNj
+c1NDc1MjU1XX0=
 -->
