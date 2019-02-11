@@ -17,7 +17,7 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 
 ### 2. Dashboard
 
- To view the existing dashboard click on Dashboard reponame from the available list. it consist of number of layouts used and global filters used for the same dashboard reports.
+ To view the existing dashboard click on Dashboard report name from the available list under Myspace. it consist of number of layouts used and global filters used for the same dashboard reports.
  
  ### 3. Reports
  
@@ -30,5 +30,5 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjIzOTE0ODQsLTY2MDgwMjA2NF19
+eyJoaXN0b3J5IjpbMTAwMjc3ODQwMCwtNjYwODAyMDY0XX0=
 -->
