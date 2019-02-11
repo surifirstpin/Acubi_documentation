@@ -27,9 +27,10 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/defc094669e204a0c4851cb930d0a992f814830a/images/New_version5/UD_Viewing_Content_Image2.png)
  
  ### 3. Reports
- 
- Click on any specific report. it will display the report output and global filters used in reports.
 
+To view the existing report in Acubi, Click on any specific report. it will display the report output and global filters used in reports.
+
+For instance : Here we are selecting report
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0545ded450f2a313773cd22169ff96aa6c7db5d2/images/view_list2.png)
 
 
@@ -37,6 +38,6 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODY4NzczNywxOTg4OTQxMTMyLC02Nj
-A4MDIwNjRdfQ==
+eyJoaXN0b3J5IjpbLTEwMDI5NTQyNzYsMTk4ODk0MTEzMiwtNj
+YwODAyMDY0XX0=
 -->
