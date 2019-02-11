@@ -5,8 +5,10 @@
 
 This section explains on how to view the existing files saved under **My Space** in AcuBi.
 
-One of the best ways to start using Acubi is to navigate around the existing My Spaces and pages to see what content already exists. The **My Space** menu available on the left side of the dashboard screen, displays the content to which you have access to view:
+One of the best ways to start using Acubi is to navigate around the existing My Spaces and pages to see what content already exists. The **My Space** menu available on the left side of the dashboard screen as shown below;
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/d9c267871ed467a0bbf143c1bf8c4137012cb6d4/images/New_version5/UD_Viewing_Content_Image4.png)
 
 ## Navigating to Saved Content 
 
@@ -38,6 +40,6 @@ For instance : Here we are selecting report Quantity_Sum_Bonus.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MjYwMzkyMSwtMTAwMjk1NDI3NiwxOT
-g4OTQxMTMyLC02NjA4MDIwNjRdfQ==
+eyJoaXN0b3J5IjpbMTIzNDUzNDc1NywtMzgyNjAzOTIxLC0xMD
+AyOTU0Mjc2LDE5ODg5NDExMzIsLTY2MDgwMjA2NF19
 -->
