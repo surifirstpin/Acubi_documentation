@@ -13,7 +13,7 @@ One of the best ways to start using Acubi is to navigate around the existing MyS
 ### 1. TAGS
 
 Click on any specific tag which you would like to view. it will navigate to tag location and displays the Dashboard, Reports, child tags saved under this specific tag.
-For Instance :
+For Instance : Here i am Selecting **ParentTag_Public**
 
 ### 2. Dashboard
 
@@ -30,5 +30,5 @@ For Instance :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjM4NTc2MjYsLTY2MDgwMjA2NF19
+eyJoaXN0b3J5IjpbODczMTY4NTQ1LC02NjA4MDIwNjRdfQ==
 -->
