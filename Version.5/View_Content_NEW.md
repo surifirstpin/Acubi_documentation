@@ -22,7 +22,9 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 
  To view the existing dashboard click on Dashboard report name from the available list under Myspace. Dashboard consist of number of layouts used and global filters used for the same dashboard reports.
  
- For Instace : Select dashboard, Daily_Players_Bets from the list , it will navigate to the 
+ **For Instance :** Select dashboard, Daily_Players_Bets from the list , it will navigate to the dashboard layout section.
+ 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/defc094669e204a0c4851cb930d0a992f814830a/images/New_version5/UD_Viewing_Content_Image2.png)
  
  ### 3. Reports
  
@@ -35,6 +37,6 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDM4NjIxOTQsMTk4ODk0MTEzMiwtNj
-YwODAyMDY0XX0=
+eyJoaXN0b3J5IjpbMTMzODY4NzczNywxOTg4OTQxMTMyLC02Nj
+A4MDIwNjRdfQ==
 -->
