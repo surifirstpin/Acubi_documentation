@@ -3,9 +3,9 @@
 
 <center><h1>Viewing Content</h1></center>
 
-This section explains on how to view the existing files saved under workspace in AcuBi.
+This section explains on how to view the existing files saved under **My space** in AcuBi.
 
-One of the best ways to start using Acubi is to navigate around the existing WorkSpaces and pages to see what content already exists. The **Work Space** menu available on the left side of the screen, displays the content to which you have access to view:
+One of the best ways to start using Acubi is to navigate around the existing MySpaces and pages to see what content already exists. The **My Space** menu available on the left side of the dashboard screen, displays the content to which you have access to view:
 
 
 ## Navigating to Saved Content 
@@ -29,5 +29,5 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDgwMjA2NF19
+eyJoaXN0b3J5IjpbLTEyMTc3MTc2MzEsLTY2MDgwMjA2NF19
 -->
