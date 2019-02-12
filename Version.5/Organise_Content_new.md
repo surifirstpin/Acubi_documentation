@@ -21,9 +21,9 @@ Acubi allows user to editing and managing access level, allows  users to make ne
 
 ## Managing Access
 
-The circles icon on far right of the screen displays type of privacy setting **( Public, Private or Share)** is enabled to the dashboard or report.
+The Sharing status displays type of privacy setting is enabled to the dashboard or report.
 
- -   **Green** colour indicates dashboard or report is saved under public section.
+ -   **Public** Ocolour indicates dashboard or report is saved under public section.
  -   **Red** colour indicates dashboard or reports is saved under shared section.
  -   **Grey** colour indicates dashboard or reports is saved under private section.
 
@@ -32,6 +32,6 @@ The circles icon on far right of the screen displays type of privacy setting **(
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTM1Njk1NzUsNzUxNjAwMjQ2LC0xNT
-k0NzA3MTVdfQ==
+eyJoaXN0b3J5IjpbLTIwOTcwMDQyMzUsLTE1NTM1Njk1NzUsNz
+UxNjAwMjQ2LC0xNTk0NzA3MTVdfQ==
 -->
