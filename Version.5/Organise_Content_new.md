@@ -13,7 +13,6 @@ Acubi allows user in editing and managing access level, allows  users to make ne
    - Assigning Thumbnails( Only Admin has access to upload a thumbnail).
    -  Set Report and Dashboard to Home page.
    
-
 **Let us see how it works,**
 
 - To set dashboard on Home page click on **Set Home page** Icon.
@@ -33,6 +32,7 @@ The Sharing status displays type of privacy setting is enabled to the dashboard 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQ0OTMxMDUsLTE1OTIzMTE0MjYsLT
-E1NTM1Njk1NzUsNzUxNjAwMjQ2LC0xNTk0NzA3MTVdfQ==
+eyJoaXN0b3J5IjpbLTgyMjQwOTk4NywtMTQ0NDQ5MzEwNSwtMT
+U5MjMxMTQyNiwtMTU1MzU2OTU3NSw3NTE2MDAyNDYsLTE1OTQ3
+MDcxNV19
 -->
