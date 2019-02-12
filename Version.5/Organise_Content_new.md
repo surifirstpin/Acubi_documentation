@@ -9,11 +9,10 @@ Acubi allows user in editing and managing access level, allows  users to make ne
   
   -  Editing Reports and Dashboards.
    -  Specifying which users and groups as  authority to access the data.
-   -  Renaming, Moving and deleting. 
-   -  Set Home page display.
+   -  Renaming, and Deleting. 
+   - Assigning Thumbnails to 
+   -  Set Report and Dashboard to Home page.
    
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/93fab44572b6a9c124a7c80f1ec840cd0488f319/images/organise_full.png)
 
 **Let us see how it works,**
 - To set dashboard on Home page click on **Set Home page** Icon.
@@ -33,6 +32,6 @@ The Sharing status displays type of privacy setting is enabled to the dashboard 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjcxNTI1ODksLTE1OTIzMTE0MjYsLT
-E1NTM1Njk1NzUsNzUxNjAwMjQ2LC0xNTk0NzA3MTVdfQ==
+eyJoaXN0b3J5IjpbNzI2MTczOTIxLC0xNTkyMzExNDI2LC0xNT
+UzNTY5NTc1LDc1MTYwMDI0NiwtMTU5NDcwNzE1XX0=
 -->
