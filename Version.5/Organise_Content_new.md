@@ -3,8 +3,9 @@
 
 <center><h1>Organize Content</h1></center>
 
-This Section describes how to move or copy the contents from one location to another location. Using this you can organize Reports and Dashboard in specific tag Structure.
-Acubi allows user to editing and managing access level, allows  users to make necessary changes to the content such as;
+This Section describes how to edit the Reports and dashboard. 
+
+Acubi allows user in editing and managing access level, allows  users to make necessary changes to the content such as;
   
   -  Editing Reports and Dashboards.
    -  Specifying which users and groups as  authority to access the data.
@@ -32,6 +33,6 @@ The Sharing status displays type of privacy setting is enabled to the dashboard 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTIzMTE0MjYsLTE1NTM1Njk1NzUsNz
-UxNjAwMjQ2LC0xNTk0NzA3MTVdfQ==
+eyJoaXN0b3J5IjpbLTE2MjcxNTI1ODksLTE1OTIzMTE0MjYsLT
+E1NTM1Njk1NzUsNzUxNjAwMjQ2LC0xNTk0NzA3MTVdfQ==
 -->
