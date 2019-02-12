@@ -4,7 +4,6 @@
 <center><h1>Organize Content</h1></center>
 
 This Section describes how to edit the Reports and dashboard. 
-
 Acubi allows user in editing and managing access level, allows  users to make necessary changes to the content such as;
   
   -  Editing Reports and Dashboards.
@@ -13,6 +12,9 @@ Acubi allows user in editing and managing access level, allows  users to make ne
    - Assigning Thumbnails( Only Admin has access to upload a thumbnail).
    -  Set Report and Dashboard to Home page.
    
+   ![
+](https://raw.githubusercontent.com/sv18042016/fp1/2c3e9b591017dd6316a4091ad35abfae69bf2082/images/New_version5/UD_Edit_Content_Image1.png)
+
 **Let us see how it works,**
 
 - To set dashboard on Home page click on **Set Home page** Icon.
@@ -32,7 +34,7 @@ The Sharing status displays type of privacy setting is enabled to the dashboard 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjQwOTk4NywtMTQ0NDQ5MzEwNSwtMT
-U5MjMxMTQyNiwtMTU1MzU2OTU3NSw3NTE2MDAyNDYsLTE1OTQ3
-MDcxNV19
+eyJoaXN0b3J5IjpbLTE1NTEyNTQ1NTcsLTgyMjQwOTk4NywtMT
+Q0NDQ5MzEwNSwtMTU5MjMxMTQyNiwtMTU1MzU2OTU3NSw3NTE2
+MDAyNDYsLTE1OTQ3MDcxNV19
 -->
