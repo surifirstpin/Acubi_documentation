@@ -43,10 +43,10 @@ To carry out this function you need to derive a expression in calculated column.
 **For Example :** Apply subtraction for Order Value_Sum and derive the expression in calculated column as follow ;
 	
 ```
-pivot_offset(#{ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,0,-1)
+pivot_offset( ${ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ```
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/f5065fab3212580100d2bb0d06de4bd7085f18a7/images/hide_pivot1.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/36534bde66501f28566e0d73910839df89e48e4f/images/New_version5/UD_Visualisation_Overview_Image3.png)
 
 The resultant for this expression would be seen in green colour;
 
@@ -79,7 +79,7 @@ A more detailed explanation on visualization is given in visualization types and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Mzk3NjYyNywxODAyNDczNDQ1LDI2Nj
-g4ODY3Niw1OTczMTkxNDAsMjEzMTk5MDk4MCwxMTExMTgxMTM2
-XX0=
+eyJoaXN0b3J5IjpbMTU3OTgzMTU5NCwxMjkzOTc2NjI3LDE4MD
+I0NzM0NDUsMjY2ODg4Njc2LDU5NzMxOTE0MCwyMTMxOTkwOTgw
+LDExMTExODExMzZdfQ==
 -->
