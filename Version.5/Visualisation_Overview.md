@@ -46,7 +46,7 @@ To carry out this function you need to derive a expression in calculated column.
 pivot_offset( ${ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ```
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/36534bde66501f28566e0d73910839df89e48e4f/images/New_version5/UD_Visualisation_Overview_Image3.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/ba6e2d3a06a7fd83e84e6344095e5c673abbea8d/images/New_version5/UD_Visualisation_Overview_Image3.png)
 
 The resultant for this expression would be seen in green colour;
 
@@ -79,7 +79,7 @@ A more detailed explanation on visualization is given in visualization types and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTgzMTU5NCwxMjkzOTc2NjI3LDE4MD
-I0NzM0NDUsMjY2ODg4Njc2LDU5NzMxOTE0MCwyMTMxOTkwOTgw
-LDExMTExODExMzZdfQ==
+eyJoaXN0b3J5IjpbMTUwNjY3MTUwMywxNTc5ODMxNTk0LDEyOT
+M5NzY2MjcsMTgwMjQ3MzQ0NSwyNjY4ODg2NzYsNTk3MzE5MTQw
+LDIxMzE5OTA5ODAsMTExMTE4MTEzNl19
 -->
