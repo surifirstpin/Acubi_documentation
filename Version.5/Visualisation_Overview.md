@@ -27,7 +27,7 @@ Under **General** tab, click on the type of chart you want to view.
 **For instance :** Consider **Pie Chart,** for better understanding.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/eafbc564010f8906e66589373f5039607a0e68b6/images/visu_pie_chart1.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/588793b3bdaa6683973fbe70ceaf6b591ff25fb2/images/New_version5/UD_Visualisation_Overview_Image2.png)
 
 As shown in above image there multiple editing options provided to **Pie chart**, Similarly you can also view types of visualization options available in AcuBi.
 
@@ -75,6 +75,7 @@ A more detailed explanation on visualization is given in visualization types and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjQ3MzQ0NSwyNjY4ODg2NzYsNTk3Mz
-E5MTQwLDIxMzE5OTA5ODAsMTExMTE4MTEzNl19
+eyJoaXN0b3J5IjpbMTU2MTI1NTgzNSwxODAyNDczNDQ1LDI2Nj
+g4ODY3Niw1OTczMTkxNDAsMjEzMTk5MDk4MCwxMTExMTgxMTM2
+XX0=
 -->
