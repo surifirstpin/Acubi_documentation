@@ -41,7 +41,7 @@ To hide the first or last column field data  in visualization, Select hide first
 To carry out this function you need to derive a expression in calculated column.
 
 **For Example :** Apply subtraction for Order Value_Sum and derive the expression in calculated column as follow ;
-	
+>**Note :** Use $ to select the fields and later Replace it with # to Fetch the accurate values.	
 ```
 pivot_offset( ${ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ```
@@ -79,7 +79,7 @@ A more detailed explanation on visualization is given in visualization types and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjY3MTUwMywxNTc5ODMxNTk0LDEyOT
-M5NzY2MjcsMTgwMjQ3MzQ0NSwyNjY4ODg2NzYsNTk3MzE5MTQw
-LDIxMzE5OTA5ODAsMTExMTE4MTEzNl19
+eyJoaXN0b3J5IjpbLTE0MDM3NDgzMzYsMTU3OTgzMTU5NCwxMj
+kzOTc2NjI3LDE4MDI0NzM0NDUsMjY2ODg4Njc2LDU5NzMxOTE0
+MCwyMTMxOTkwOTgwLDExMTExODExMzZdfQ==
 -->
