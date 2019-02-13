@@ -57,7 +57,8 @@ In the above image you can see, hide_pivot 1st column is seen empty, so in order
 
 Goto Charts --> Select-->Table Chart-->Click Data Section-->Expand Hide_Pivot Section.
 
-Select the Hide_
+Select the Hide_Pivot_First Checkbox.
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot3.png)
 
@@ -82,7 +83,7 @@ A more detailed explanation on visualization is given in visualization types and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTQ3Njc4NiwxNTc5ODMxNTk0LDEyOT
+eyJoaXN0b3J5IjpbLTkzNDk3MTEyMCwxNTc5ODMxNTk0LDEyOT
 M5NzY2MjcsMTgwMjQ3MzQ0NSwyNjY4ODg2NzYsNTk3MzE5MTQw
 LDIxMzE5OTA5ODAsMTExMTE4MTEzNl19
 -->
