@@ -70,6 +70,8 @@ To refine and enhance the data obtained in AcuBi, there are good number of custo
 
 For Instance : Consider a Pie chart, and select **Percentage** checkbox, which displays the quantity sum percentage of each month. 
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/caef96a364da60995f83c18399b0f6c4b340ea46/images/New_version5/UD_Visualisation_Overview_Image6.png)
 
 ## Deeper insights in visualization
 
@@ -86,8 +88,8 @@ A more detailed explanation on visualization is given in visualization types and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODE2MDEwNTgsMzEyOTQwMjUxLC05Mz
-Q5NzExMjAsMTU3OTgzMTU5NCwxMjkzOTc2NjI3LDE4MDI0NzM0
-NDUsMjY2ODg4Njc2LDU5NzMxOTE0MCwyMTMxOTkwOTgwLDExMT
-ExODExMzZdfQ==
+eyJoaXN0b3J5IjpbMTUzMjE0OTc0OSwtMTQ4MTYwMTA1OCwzMT
+I5NDAyNTEsLTkzNDk3MTEyMCwxNTc5ODMxNTk0LDEyOTM5NzY2
+MjcsMTgwMjQ3MzQ0NSwyNjY4ODg2NzYsNTk3MzE5MTQwLDIxMz
+E5OTA5ODAsMTExMTE4MTEzNl19
 -->
