@@ -66,7 +66,7 @@ Select the Hide_Pivot_First Checkbox.
 
 ## Refine Visualization
 
-To refine and enhance the data obtained, AcuBi is provided with customizing options. Consider a Pie chart example, and select **Percentage** checkbox, which displays the amount of share, a customer holds in total value and display customers participating, at the bottom of the chart by selecting **Show legend** checkbox.
+To refine and enhance the data obtained in AcuBi, there are good amount of customizing options available. Consider a Pie chart example, and select **Percentage** checkbox, which displays the amount of share, a customer holds in total value and display customers participating, at the bottom of the chart by selecting **Show legend** checkbox.
 
 
 ## Deeper insights in visualization
@@ -84,7 +84,8 @@ A more detailed explanation on visualization is given in visualization types and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyOTQwMjUxLC05MzQ5NzExMjAsMTU3OT
-gzMTU5NCwxMjkzOTc2NjI3LDE4MDI0NzM0NDUsMjY2ODg4Njc2
-LDU5NzMxOTE0MCwyMTMxOTkwOTgwLDExMTExODExMzZdfQ==
+eyJoaXN0b3J5IjpbMTg2MzIyMDg5NiwzMTI5NDAyNTEsLTkzND
+k3MTEyMCwxNTc5ODMxNTk0LDEyOTM5NzY2MjcsMTgwMjQ3MzQ0
+NSwyNjY4ODg2NzYsNTk3MzE5MTQwLDIxMzE5OTA5ODAsMTExMT
+E4MTEzNl19
 -->
