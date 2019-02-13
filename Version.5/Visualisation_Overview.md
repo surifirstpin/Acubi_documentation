@@ -60,8 +60,9 @@ Goto Charts --> Select-->Table Chart-->Click Data Section-->Expand Hide_Pivot Se
 Select the Hide_Pivot_First Checkbox.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot3.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/18aaf7e8bc6bd4b6048871846de1fb606759f055/images/New_version5/UD_Visualisation_Overview_Image5.png)
 
+  - Similarly to hide the last column select the 
 
 ## Refine Visualization
 
@@ -83,7 +84,7 @@ A more detailed explanation on visualization is given in visualization types and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDk3MTEyMCwxNTc5ODMxNTk0LDEyOT
-M5NzY2MjcsMTgwMjQ3MzQ0NSwyNjY4ODg2NzYsNTk3MzE5MTQw
-LDIxMzE5OTA5ODAsMTExMTE4MTEzNl19
+eyJoaXN0b3J5IjpbMTU3NzE3MzM5OSwtOTM0OTcxMTIwLDE1Nz
+k4MzE1OTQsMTI5Mzk3NjYyNywxODAyNDczNDQ1LDI2Njg4ODY3
+Niw1OTczMTkxNDAsMjEzMTk5MDk4MCwxMTExMTgxMTM2XX0=
 -->
