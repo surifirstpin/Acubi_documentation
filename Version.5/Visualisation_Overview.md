@@ -55,6 +55,9 @@ The resultant for this expression would be seen in green colour;
 
 In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. Similarly you can hide last column by selecting the check box pivot hide last. (Applicable only for table chart). 
 
+Goto Charts --> Select-->Table Chart-->Click Data Section-->Expand Hide_Pivot Section.
+
+Select the Hide_
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot3.png)
 
@@ -79,7 +82,7 @@ A more detailed explanation on visualization is given in visualization types and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDIwNzk5NywxNTc5ODMxNTk0LDEyOT
+eyJoaXN0b3J5IjpbLTM0MTQ3Njc4NiwxNTc5ODMxNTk0LDEyOT
 M5NzY2MjcsMTgwMjQ3MzQ0NSwyNjY4ODg2NzYsNTk3MzE5MTQw
 LDIxMzE5OTA5ODAsMTExMTE4MTEzNl19
 -->
