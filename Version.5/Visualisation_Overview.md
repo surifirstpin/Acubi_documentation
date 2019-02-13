@@ -62,7 +62,7 @@ Select the Hide_Pivot_First Checkbox.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/18aaf7e8bc6bd4b6048871846de1fb606759f055/images/New_version5/UD_Visualisation_Overview_Image5.png)
 
-  - Similarly to hide the last column select the 
+  - Similarly to hide the last column select the **check box** for **Pivot Hide Last.**
 
 ## Refine Visualization
 
@@ -84,7 +84,7 @@ A more detailed explanation on visualization is given in visualization types and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzE3MzM5OSwtOTM0OTcxMTIwLDE1Nz
-k4MzE1OTQsMTI5Mzk3NjYyNywxODAyNDczNDQ1LDI2Njg4ODY3
-Niw1OTczMTkxNDAsMjEzMTk5MDk4MCwxMTExMTgxMTM2XX0=
+eyJoaXN0b3J5IjpbMzEyOTQwMjUxLC05MzQ5NzExMjAsMTU3OT
+gzMTU5NCwxMjkzOTc2NjI3LDE4MDI0NzM0NDUsMjY2ODg4Njc2
+LDU5NzMxOTE0MCwyMTMxOTkwOTgwLDExMTExODExMzZdfQ==
 -->
