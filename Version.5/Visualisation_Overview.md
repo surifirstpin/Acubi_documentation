@@ -68,7 +68,7 @@ Select the Hide_Pivot_First Checkbox.
 
 To refine and enhance the data obtained in AcuBi, there are good number of customizing options available in Acubi Visualization section.
 
-For Instance :Consider a Pie chart, and select **Percentage** checkbox, which displays the quantity sum of each month.lecting **Show legend** checkbox.
+For Instance : Consider a Pie chart, and select **Percentage** checkbox, which displays the quantity sum percentage of each month. 
 
 
 ## Deeper insights in visualization
@@ -86,8 +86,8 @@ A more detailed explanation on visualization is given in visualization types and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzU1Mjk2OSwzMTI5NDAyNTEsLTkzND
-k3MTEyMCwxNTc5ODMxNTk0LDEyOTM5NzY2MjcsMTgwMjQ3MzQ0
-NSwyNjY4ODg2NzYsNTk3MzE5MTQwLDIxMzE5OTA5ODAsMTExMT
-E4MTEzNl19
+eyJoaXN0b3J5IjpbLTE0ODE2MDEwNTgsMzEyOTQwMjUxLC05Mz
+Q5NzExMjAsMTU3OTgzMTU5NCwxMjkzOTc2NjI3LDE4MDI0NzM0
+NDUsMjY2ODg4Njc2LDU5NzMxOTE0MCwyMTMxOTkwOTgwLDExMT
+ExODExMzZdfQ==
 -->
