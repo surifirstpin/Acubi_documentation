@@ -13,12 +13,10 @@ Visualization in AcuBi creates impressive graphs and charts based on query resul
 
 In Reports section you can configure data and visualization together, So once you share a query user will get a visualization picture and data as well.
 
-**For Instance** : In this example we will consider a pie chart, For which create a report to fetch Order details.  In this example we will query  **Stationcode, Whenmade_Month and order_value_sum.** Apply filter to Whenmade_month to a limit the data  200000. ( Pie chart supports maximum 20 division)
+**For Instance** : In this example we will consider a pie chart, For which create a report to fetch Order details.  In this example we will query  **Stationcode, Whenmade_Month and order_value_sum.** Apply filter to Whenmade_month to a limit the data  to January, February and March. ( Pie chart supports maximum 20 division)
 
-After selecting dimensions and measures, run the report to display the fetched data for customer details.
+After selecting dimensions and measures, run the report to display the fetched data for Order details.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/b8aad43c522f9e3f211ee64e97819bb66b98ff81/images/full_vis1.png)
 
 
 ## Visualization- Adds Life to Data
@@ -77,6 +75,6 @@ A more detailed explanation on visualization is given in visualization types and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5ODU5OTE1LDI2Njg4ODY3Niw1OTczMT
-kxNDAsMjEzMTk5MDk4MCwxMTExMTgxMTM2XX0=
+eyJoaXN0b3J5IjpbMTgwMjQ3MzQ0NSwyNjY4ODg2NzYsNTk3Mz
+E5MTQwLDIxMzE5OTA5ODAsMTExMTE4MTEzNl19
 -->
