@@ -15,6 +15,10 @@ In Reports section you can configure data and visualization together, So once yo
 
 **For Instance** : In this example we will consider a pie chart, For which create a report to fetch Order details.  In this example we will query  **Stationcode, Whenmade_Month and order_value_sum.** Apply filter to Whenmade_month to a limit the data  to January, February and March. ( Pie chart supports maximum 20 division)
 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/588793b3bdaa6683973fbe70ceaf6b591ff25fb2/images/New_version5/UD_Visualisation_Overview_Image1.png)
+
+
 After selecting dimensions and measures, run the report to display the fetched data for Order details.
 
 
@@ -75,7 +79,7 @@ A more detailed explanation on visualization is given in visualization types and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTI1NTgzNSwxODAyNDczNDQ1LDI2Nj
+eyJoaXN0b3J5IjpbMTI5Mzk3NjYyNywxODAyNDczNDQ1LDI2Nj
 g4ODY3Niw1OTczMTkxNDAsMjEzMTk5MDk4MCwxMTExMTgxMTM2
 XX0=
 -->
