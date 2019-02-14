@@ -28,7 +28,7 @@ After selecting dimensions and measures, run the report to display the fetched d
 Click on **Charts** tab, to configure different type of visualization images for your query. 
 Under **General** tab, click on the type of chart you want to view.
 
-**For instance :** Consider **Pie Chart,** for better understanding.
+**For instance:** Consider **Pie Chart,** for better understanding.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/588793b3bdaa6683973fbe70ceaf6b591ff25fb2/images/New_version5/UD_Visualisation_Overview_Image2.png)
@@ -55,7 +55,7 @@ The resultant for this expression would be seen in green colour;
 
 In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. Similarly you can hide last column by selecting the check box pivot hide last. (Applicable only for table chart). 
 
-Goto Charts --> Select-->Table Chart-->Click Data Section-->Expand Hide_Pivot Section.
+Goto Charts-->Select-->Table Chart-->Click Data Section-->Expand Hide_Pivot Section.
 
 Select the Hide_Pivot_First Checkbox.
 
@@ -88,8 +88,8 @@ A more detailed explanation on visualization is given in visualization types and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjE0OTc0OSwtMTQ4MTYwMTA1OCwzMT
-I5NDAyNTEsLTkzNDk3MTEyMCwxNTc5ODMxNTk0LDEyOTM5NzY2
-MjcsMTgwMjQ3MzQ0NSwyNjY4ODg2NzYsNTk3MzE5MTQwLDIxMz
-E5OTA5ODAsMTExMTE4MTEzNl19
+eyJoaXN0b3J5IjpbMTYyOTA0ODA5MSwxNTMyMTQ5NzQ5LC0xND
+gxNjAxMDU4LDMxMjk0MDI1MSwtOTM0OTcxMTIwLDE1Nzk4MzE1
+OTQsMTI5Mzk3NjYyNywxODAyNDczNDQ1LDI2Njg4ODY3Niw1OT
+czMTkxNDAsMjEzMTk5MDk4MCwxMTExMTgxMTM2XX0=
 -->
