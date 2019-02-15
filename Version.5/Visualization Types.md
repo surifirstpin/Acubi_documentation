@@ -50,7 +50,7 @@
   - Line
   - Dash
 
-## Bar Chart 
+## HorizBar Chart 
 
 Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the Rows and a measure on the Columns area.
 
@@ -384,7 +384,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3ODYyODg1LDIwNTg0Njg3MjAsLTE0ND
-AyODM2NDIsLTI1ODIwMDEwMiwxMTk2NDA0ODk3LC0xNTk3NDQw
-ODc0LC0xMTUyMzMxNDQyXX0=
+eyJoaXN0b3J5IjpbMTI3OTEyMDcyMSwyMDU4NDY4NzIwLC0xND
+QwMjgzNjQyLC0yNTgyMDAxMDIsMTE5NjQwNDg5NywtMTU5NzQ0
+MDg3NCwtMTE1MjMzMTQ0Ml19
 -->
