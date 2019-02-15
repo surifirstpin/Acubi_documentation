@@ -75,10 +75,10 @@ For Instance : Consider a Pie chart, and select **Percentage** checkbox, which d
 
 ## Deeper insights in visualization
 
-You can drill deeper into visualization, to get more specific information about the data. In order to carry out this function, click on the data for which you want more deeper insight.
+You can drill deeper into visualization, to get more specific information about the data. In order to carry out this function, click on the data in table chart, so it will further drill down displaying more deeper insight about the data.
 
 **For Instance**: In below chart, when you click on country it will display the states that fall under that country, for more deeper insight on clicking on State_Name it will display the list of cities that fall under that states as shown clearly in below image.
- 
+ Country_Name-->
  > **Note:**  To carryout this function you need derive it in model first.
 
 A more detailed explanation on visualization is given in visualization types and settings documents.
@@ -88,8 +88,9 @@ A more detailed explanation on visualization is given in visualization types and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTA0ODA5MSwxNTMyMTQ5NzQ5LC0xND
-gxNjAxMDU4LDMxMjk0MDI1MSwtOTM0OTcxMTIwLDE1Nzk4MzE1
-OTQsMTI5Mzk3NjYyNywxODAyNDczNDQ1LDI2Njg4ODY3Niw1OT
-czMTkxNDAsMjEzMTk5MDk4MCwxMTExMTgxMTM2XX0=
+eyJoaXN0b3J5IjpbMTQzNDc3OTk2MywxNjI5MDQ4MDkxLDE1Mz
+IxNDk3NDksLTE0ODE2MDEwNTgsMzEyOTQwMjUxLC05MzQ5NzEx
+MjAsMTU3OTgzMTU5NCwxMjkzOTc2NjI3LDE4MDI0NzM0NDUsMj
+Y2ODg4Njc2LDU5NzMxOTE0MCwyMTMxOTkwOTgwLDExMTExODEx
+MzZdfQ==
 -->
