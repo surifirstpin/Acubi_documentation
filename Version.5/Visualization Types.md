@@ -26,9 +26,9 @@
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/8f7f2a1aaa9828adcf8f829addec6abe37d9172e/images/New_version5/UD_Visualization_Types&Settings_Image1.png)
 
- ### Editing Options for Line Chart
+ *Editing Options for Line Chart*
  
- - **Line type** displays the information as a series of data points called markers. Below are the list of markers used in line chart ( spline acts as  default line type), 
+ - **Line type** displays the information as a series of data points called markers. Below are the list of markers used in line chart (spline acts as  default line type), 
    - Line
    - Spline 
    - Step
@@ -384,6 +384,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NjQwNDg5NywtMTU5NzQ0MDg3NCwtMT
-E1MjMzMTQ0Ml19
+eyJoaXN0b3J5IjpbLTI1ODIwMDEwMiwxMTk2NDA0ODk3LC0xNT
+k3NDQwODc0LC0xMTUyMzMxNDQyXX0=
 -->
