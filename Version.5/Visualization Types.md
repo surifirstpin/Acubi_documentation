@@ -56,8 +56,8 @@ Bar charts are used to compare data across different categories. You can build a
 
  **2.** Click on **Bar** tab under **General** section  to compare the data in Bar chart.
  
- ![
-](https://raw.githubusercontent.com/sv18042016/fp1/c21c91b0c8f9e243362fbefc44279936c6021d12/images/bar_chart.png)
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/1a322f67a5166b6fe77c00678ff264b7ac59252d/images/New_version5/UD_Visualization_Types&Settings_Image2.png)
 
 
 ## Pie Chart 
@@ -384,7 +384,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1ODQ2ODcyMCwtMTQ0MDI4MzY0MiwtMj
-U4MjAwMTAyLDExOTY0MDQ4OTcsLTE1OTc0NDA4NzQsLTExNTIz
-MzE0NDJdfQ==
+eyJoaXN0b3J5IjpbMjc3ODYyODg1LDIwNTg0Njg3MjAsLTE0ND
+AyODM2NDIsLTI1ODIwMDEwMiwxMTk2NDA0ODk3LC0xNTk3NDQw
+ODc0LC0xMTUyMzMxNDQyXX0=
 -->
