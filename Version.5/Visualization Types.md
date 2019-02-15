@@ -116,7 +116,7 @@ For example, when you want to buy a Laptop, you can use a radar chart to compare
 
 - **Arc field** select the dimension field to apply arc lines.
 
-- **Curve** it maximum and minimize the surface area in radar chart.
+- **Curve** it maximize and minimize the surface area in radar chart.
 
 ## Bubble chart 
 
@@ -129,7 +129,7 @@ It is used to display the data in circles. We can define each bubble using any o
 
 ## Funnel chart 
 
-Funnels helps to visualize a process that has stages and items flow sequentially from one stage to the next. Use a funnel when there is a sequential flow between stages, such as a sales process that starts with inquiry and ends with billing.
+Funnels helps to visualize a process that has stages and items flow sequentially from one stage to the next. Use a funnel when there is a sequential flow between stages, For Instance a sales process, that starts with inquiry and ends with billing.
 
 **The following section describes the editing option for bubble chart in visualization;**
  
@@ -384,6 +384,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1ODIwMDEwMiwxMTk2NDA0ODk3LC0xNT
-k3NDQwODc0LC0xMTUyMzMxNDQyXX0=
+eyJoaXN0b3J5IjpbMTE0MDk0OTA4NywtMjU4MjAwMTAyLDExOT
+Y0MDQ4OTcsLTE1OTc0NDA4NzQsLTExNTIzMzE0NDJdfQ==
 -->
