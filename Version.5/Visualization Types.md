@@ -24,7 +24,7 @@
  **1.** Click on **Line** tab under **General** section  to compare the data in line chart.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/6904440c50633ac92f461d7b7f2fd2c2d0e9b7dc/images/line_chart.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/8f7f2a1aaa9828adcf8f829addec6abe37d9172e/images/New_version5/UD_Visualization_Types&Settings_Image1.png)
 
  ### Editing Options for Line Chart
  
@@ -384,6 +384,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc0NDA4NzQsLTExNTIzMzE0NDJdfQ
-==
+eyJoaXN0b3J5IjpbMTE5NjQwNDg5NywtMTU5NzQ0MDg3NCwtMT
+E1MjMzMTQ0Ml19
 -->
