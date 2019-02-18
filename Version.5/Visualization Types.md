@@ -357,7 +357,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Format** it enables number format for numeric values.
 
-- **Currency** Using this field, you can specify the formatting for currency as of now BiPlus supports $,   ₹  ,   €  ,  £.
+- **Currency** Using this field, you can specify the formatting for currency as of now Acubi supports $,   ₹  ,   €  ,  £.
 
 - **Y-Axis** display measure values on Y-axis. 
 
@@ -402,11 +402,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc4MjQ0NDQsLTg4ODY0NzU4NywxNz
-kwMDM2NDMxLDcwMTk0OTY5MiwtMTUxNjQwNjYxMiwtMTY5MDcy
-MDUxOSwtNjE5OTkxNjA5LDcwMjkwMzc2MiwyMDYzNzg2MjkwLC
-0xODM3MDk3MjI2LC0xNzU5MzUzMTgzLC03MzA3OTI3NDMsLTE2
-ODkzMzU1OCwxNjg5Njk4MjkzLC04ODM1MTkwMSwxNzQ3NjA2Mj
-AsOTI1MDAyMTI5LDEyMTkzMzY1LC0zMjM5Nzc1NDksMjA1ODQ2
-ODcyMF19
+eyJoaXN0b3J5IjpbLTM5ODA3MTY0OSwtODg4NjQ3NTg3LDE3OT
+AwMzY0MzEsNzAxOTQ5NjkyLC0xNTE2NDA2NjEyLC0xNjkwNzIw
+NTE5LC02MTk5OTE2MDksNzAyOTAzNzYyLDIwNjM3ODYyOTAsLT
+E4MzcwOTcyMjYsLTE3NTkzNTMxODMsLTczMDc5Mjc0MywtMTY4
+OTMzNTU4LDE2ODk2OTgyOTMsLTg4MzUxOTAxLDE3NDc2MDYyMC
+w5MjUwMDIxMjksMTIxOTMzNjUsLTMyMzk3NzU0OSwyMDU4NDY4
+NzIwXX0=
 -->
