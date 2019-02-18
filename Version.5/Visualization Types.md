@@ -83,6 +83,7 @@ This section describes the editing option for Pie chart in visualization.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3ba1953c960af32db0af345fbb40776d222ee54e/images/New_version5/UD_Visualization_Types&Settings_Image5.png)
 
+
 ## Radar chart 
 
  Radar charts are a great way to compare members of a dimension in a function of several metrics.  
@@ -382,8 +383,8 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzUxOTAxLDE3NDc2MDYyMCw5MjUwMD
-IxMjksMTIxOTMzNjUsLTMyMzk3NzU0OSwyMDU4NDY4NzIwLC0x
-NDQwMjgzNjQyLC0yNTgyMDAxMDIsMTE5NjQwNDg5NywtMTU5Nz
-Q0MDg3NCwtMTE1MjMzMTQ0Ml19
+eyJoaXN0b3J5IjpbMTY4OTY5ODI5MywtODgzNTE5MDEsMTc0Nz
+YwNjIwLDkyNTAwMjEyOSwxMjE5MzM2NSwtMzIzOTc3NTQ5LDIw
+NTg0Njg3MjAsLTE0NDAyODM2NDIsLTI1ODIwMDEwMiwxMTk2ND
+A0ODk3LC0xNTk3NDQwODc0LC0xMTUyMzMxNDQyXX0=
 -->
