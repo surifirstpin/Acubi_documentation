@@ -194,6 +194,40 @@ It is used to display the data in circles. We can define each bubble using any o
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/427b27184df7c745300ef1169318ae6427ae1e56/images/New_version5/UD_Visualization_Types&Settings_Image10.png)
 
+## Table chart 
+ 
+Table chart displays the data in series making it more feasible for comparing dimensions and measure values.
+ 
+ **8.** Choose chart type **Table** under **General** section to compare data in table chart.
+ 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/b6e598ee67160c266bb9d4d30a423f520880bf63/images/table_chart.png)
+
+### Hide Pivot
+
+To hide the first or last column field values in Visualization, Select hide first or hide last check box in Data section.
+To carry out this function you need to derive a expression in calculated column.
+
+For Example : Apply substraction for OrderValue_Sum and derive the exptression in calculated column as follow;
+
+```
+pivot_offset(#{ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,0,-1)
+```
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/f5065fab3212580100d2bb0d06de4bd7085f18a7/images/hide_pivot1.png)
+
+The resultant for this expression would be seen in green colour;
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot2.png)
+
+In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. ( Applicable only for table chart). 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot3.png)
+
+
+
+
 ## Funnel chart 
 
 Funnels helps to visualize a process that has stages and items flow sequentially from one stage to the next. Use a funnel when there is a sequential flow between stages, For Instance a sales process, that starts with inquiry and ends with billing.
@@ -258,37 +292,6 @@ Gauge chart displays current status in the context of goal.
 - **Reverse** displays the measure values in reversal direction maximum to minimum.
 
 - **Hide Minmax**  hides min and maximum values in gauge target.
-
-## Table chart 
- 
-Table chart displays the data in series making it more feasible for comparing dimensions and measure values.
- 
- **8.** Click on **Table** tab under **General** section to compare data in table chart.
- 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/b6e598ee67160c266bb9d4d30a423f520880bf63/images/table_chart.png)
-
-### Hide Pivot
-
-To hide the first or last column field values in Visualization, Select hide first or hide last check box in Data section.
-To carry out this function you need to derive a expression in calculated column.
-
-For Example : Apply substraction for OrderValue_Sum and derive the exptression in calculated column as follow;
-
-```
-pivot_offset(#{ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,0,-1)
-```
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/f5065fab3212580100d2bb0d06de4bd7085f18a7/images/hide_pivot1.png)
-
-The resultant for this expression would be seen in green colour;
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot2.png)
-
-In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. ( Applicable only for table chart). 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot3.png)
 
 
 
@@ -398,11 +401,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzEyMDkxNywtMTY5MDcyMDUxOSwtNj
-E5OTkxNjA5LDcwMjkwMzc2MiwyMDYzNzg2MjkwLC0xODM3MDk3
-MjI2LC0xNzU5MzUzMTgzLC03MzA3OTI3NDMsLTE2ODkzMzU1OC
-wxNjg5Njk4MjkzLC04ODM1MTkwMSwxNzQ3NjA2MjAsOTI1MDAy
-MTI5LDEyMTkzMzY1LC0zMjM5Nzc1NDksMjA1ODQ2ODcyMCwtMT
-Q0MDI4MzY0MiwtMjU4MjAwMTAyLDExOTY0MDQ4OTcsLTE1OTc0
-NDA4NzRdfQ==
+eyJoaXN0b3J5IjpbLTE1MTY0MDY2MTIsLTE2OTA3MjA1MTksLT
+YxOTk5MTYwOSw3MDI5MDM3NjIsMjA2Mzc4NjI5MCwtMTgzNzA5
+NzIyNiwtMTc1OTM1MzE4MywtNzMwNzkyNzQzLC0xNjg5MzM1NT
+gsMTY4OTY5ODI5MywtODgzNTE5MDEsMTc0NzYwNjIwLDkyNTAw
+MjEyOSwxMjE5MzM2NSwtMzIzOTc3NTQ5LDIwNTg0Njg3MjAsLT
+E0NDAyODM2NDIsLTI1ODIwMDEwMiwxMTk2NDA0ODk3LC0xNTk3
+NDQwODc0XX0=
 -->
