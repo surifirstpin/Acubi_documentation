@@ -190,8 +190,9 @@ Bar charts are used to compare data across different categories. You can build a
 
 It is used to display the data in circles. We can define each bubble using any of our Dimension value and size by Measure value.
  
- **7.** Click on **Bubble** tab under **General** section  to compare the data in Bubble chart.
- 
+ **7.** Choose Chart Type **Bubble** under **General** section  to compare the data in Bubble chart.
+ ![
+](https://raw.githubusercontent.com/sv18042016/fp1/427b27184df7c745300ef1169318ae6427ae1e56/images/New_version5/UD_Visualization_Types&Settings_Image10.png)
 
 ## Funnel chart 
 
@@ -199,7 +200,7 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 
 **The following section describes the editing option for bubble chart in visualization;**
  
- **6.** Click on **Funnel** tab under **General** section  to compare the data in Funnel chart.
+ **8.** Choose chart type **Funnel** under **General** section  to compare the data in Funnel chart.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/caca3ad67049c43bc60a5fccae26182c81762732/images/funnel_chart.png)
@@ -397,11 +398,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzAwNDAzNjUsLTE2OTA3MjA1MTksLT
-YxOTk5MTYwOSw3MDI5MDM3NjIsMjA2Mzc4NjI5MCwtMTgzNzA5
-NzIyNiwtMTc1OTM1MzE4MywtNzMwNzkyNzQzLC0xNjg5MzM1NT
-gsMTY4OTY5ODI5MywtODgzNTE5MDEsMTc0NzYwNjIwLDkyNTAw
-MjEyOSwxMjE5MzM2NSwtMzIzOTc3NTQ5LDIwNTg0Njg3MjAsLT
-E0NDAyODM2NDIsLTI1ODIwMDEwMiwxMTk2NDA0ODk3LC0xNTk3
-NDQwODc0XX0=
+eyJoaXN0b3J5IjpbMTQwNzEyMDkxNywtMTY5MDcyMDUxOSwtNj
+E5OTkxNjA5LDcwMjkwMzc2MiwyMDYzNzg2MjkwLC0xODM3MDk3
+MjI2LC0xNzU5MzUzMTgzLC03MzA3OTI3NDMsLTE2ODkzMzU1OC
+wxNjg5Njk4MjkzLC04ODM1MTkwMSwxNzQ3NjA2MjAsOTI1MDAy
+MTI5LDEyMTkzMzY1LC0zMjM5Nzc1NDksMjA1ODQ2ODcyMCwtMT
+Q0MDI4MzY0MiwtMjU4MjAwMTAyLDExOTY0MDQ4OTcsLTE1OTc0
+NDA4NzRdfQ==
 -->
