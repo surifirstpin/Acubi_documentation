@@ -202,8 +202,10 @@ Table chart displays the data in series making it more feasible for comparing di
  
  **9.** Choose chart type **Table** under **General** section to compare data in table chart.
  
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/7e9db7322511f370a3f088a614821da70ec05e0f/images/New_version5/UD_Visualization_Types&Settings_Image11.png)
 
-### Hide Pivot
+### Hide Pivot (Calculated Column)
 
 To hide the first or last column field values in Visualization, Select hide first or hide last check box in Data section.
 To carry out this function you need to derive a expression in calculated column.
@@ -401,11 +403,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDU5MjY5NywtMTUxNjQwNjYxMiwtMT
-Y5MDcyMDUxOSwtNjE5OTkxNjA5LDcwMjkwMzc2MiwyMDYzNzg2
-MjkwLC0xODM3MDk3MjI2LC0xNzU5MzUzMTgzLC03MzA3OTI3ND
-MsLTE2ODkzMzU1OCwxNjg5Njk4MjkzLC04ODM1MTkwMSwxNzQ3
-NjA2MjAsOTI1MDAyMTI5LDEyMTkzMzY1LC0zMjM5Nzc1NDksMj
-A1ODQ2ODcyMCwtMTQ0MDI4MzY0MiwtMjU4MjAwMTAyLDExOTY0
-MDQ4OTddfQ==
+eyJoaXN0b3J5IjpbMjA3MjU4Mjk0LC0xNTE2NDA2NjEyLC0xNj
+kwNzIwNTE5LC02MTk5OTE2MDksNzAyOTAzNzYyLDIwNjM3ODYy
+OTAsLTE4MzcwOTcyMjYsLTE3NTkzNTMxODMsLTczMDc5Mjc0My
+wtMTY4OTMzNTU4LDE2ODk2OTgyOTMsLTg4MzUxOTAxLDE3NDc2
+MDYyMCw5MjUwMDIxMjksMTIxOTMzNjUsLTMyMzk3NzU0OSwyMD
+U4NDY4NzIwLC0xNDQwMjgzNjQyLC0yNTgyMDAxMDIsMTE5NjQw
+NDg5N119
 -->
