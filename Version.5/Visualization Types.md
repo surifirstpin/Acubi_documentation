@@ -183,7 +183,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 ## Bar Chart
 Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the Rows and a measure on the Columns area.
 
-**7.
+**7.** Choose chart type **Bar** from drop down list, under general section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/06087da8a8df002e219ac38e88404ea9603f4d7c/images/New_version5/UD_Visualization_Types&Settings_Image9.png)
@@ -192,7 +192,7 @@ Bar charts are used to compare data across different categories. You can build a
 
 It is used to display the data in circles. We can define each bubble using any of our Dimension value and size by Measure value.
  
- **7.** Choose Chart Type **Bubble** under **General** section  to compare the data in Bubble chart.
+ **8.** Choose Chart Type **Bubble** under **General** section  to compare the data in Bubble chart.
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/427b27184df7c745300ef1169318ae6427ae1e56/images/New_version5/UD_Visualization_Types&Settings_Image10.png)
 
@@ -200,10 +200,8 @@ It is used to display the data in circles. We can define each bubble using any o
  
 Table chart displays the data in series making it more feasible for comparing dimensions and measure values.
  
- **8.** Choose chart type **Table** under **General** section to compare data in table chart.
+ **9.** Choose chart type **Table** under **General** section to compare data in table chart.
  
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/b6e598ee67160c266bb9d4d30a423f520880bf63/images/table_chart.png)
 
 ### Hide Pivot
 
@@ -403,11 +401,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODA5NDg5LC0xNTE2NDA2NjEyLC0xNj
-kwNzIwNTE5LC02MTk5OTE2MDksNzAyOTAzNzYyLDIwNjM3ODYy
-OTAsLTE4MzcwOTcyMjYsLTE3NTkzNTMxODMsLTczMDc5Mjc0My
-wtMTY4OTMzNTU4LDE2ODk2OTgyOTMsLTg4MzUxOTAxLDE3NDc2
-MDYyMCw5MjUwMDIxMjksMTIxOTMzNjUsLTMyMzk3NzU0OSwyMD
-U4NDY4NzIwLC0xNDQwMjgzNjQyLC0yNTgyMDAxMDIsMTE5NjQw
-NDg5N119
+eyJoaXN0b3J5IjpbLTM3NDU5MjY5NywtMTUxNjQwNjYxMiwtMT
+Y5MDcyMDUxOSwtNjE5OTkxNjA5LDcwMjkwMzc2MiwyMDYzNzg2
+MjkwLC0xODM3MDk3MjI2LC0xNzU5MzUzMTgzLC03MzA3OTI3ND
+MsLTE2ODkzMzU1OCwxNjg5Njk4MjkzLC04ODM1MTkwMSwxNzQ3
+NjA2MjAsOTI1MDAyMTI5LDEyMTkzMzY1LC0zMjM5Nzc1NDksMj
+A1ODQ2ODcyMCwtMTQ0MDI4MzY0MiwtMjU4MjAwMTAyLDExOTY0
+MDQ4OTddfQ==
 -->
