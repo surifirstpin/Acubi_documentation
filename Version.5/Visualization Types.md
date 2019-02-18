@@ -65,8 +65,9 @@ Bar charts are used to compare data across different categories. You can build a
 This section describes the editing option for Pie chart in visualization. 
  
  **3.**  Choose Chart Type **Pie** from the drop down list.
+ 
  ![
-](https://raw.githubusercontent.com/sv18042016/fp1/f52c167aa93a715736ed2800ae5ca56675c54e42/images/pie_chart.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/e1868ae74d5d6d0289d45b6fa2bc71a9302ad97f/images/New_version5/UD_Visualization_Types&Settings_Image3.png)
 
 ### Editing Options for Pie Chart
  
@@ -383,7 +384,8 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTMzNjUsLTMyMzk3NzU0OSwyMDU4ND
-Y4NzIwLC0xNDQwMjgzNjQyLC0yNTgyMDAxMDIsMTE5NjQwNDg5
-NywtMTU5NzQ0MDg3NCwtMTE1MjMzMTQ0Ml19
+eyJoaXN0b3J5IjpbOTI1MDAyMTI5LDEyMTkzMzY1LC0zMjM5Nz
+c1NDksMjA1ODQ2ODcyMCwtMTQ0MDI4MzY0MiwtMjU4MjAwMTAy
+LDExOTY0MDQ4OTcsLTE1OTc0NDA4NzQsLTExNTIzMzE0NDJdfQ
+==
 -->
