@@ -142,7 +142,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Style** specify a status indicator for measure value such as default, primary, success, warning, info, danger.
 
-- **Theme**
+- **Theme** Data alignment in widget chart.
 
 - **Widget Icon** Choose a icon to symbolize widget value. 
 
@@ -392,10 +392,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzcwOTcyMjYsLTE3NTkzNTMxODMsLT
-czMDc5Mjc0MywtMTY4OTMzNTU4LDE2ODk2OTgyOTMsLTg4MzUx
-OTAxLDE3NDc2MDYyMCw5MjUwMDIxMjksMTIxOTMzNjUsLTMyMz
-k3NzU0OSwyMDU4NDY4NzIwLC0xNDQwMjgzNjQyLC0yNTgyMDAx
-MDIsMTE5NjQwNDg5NywtMTU5NzQ0MDg3NCwtMTE1MjMzMTQ0Ml
-19
+eyJoaXN0b3J5IjpbMjA2Mzc4NjI5MCwtMTgzNzA5NzIyNiwtMT
+c1OTM1MzE4MywtNzMwNzkyNzQzLC0xNjg5MzM1NTgsMTY4OTY5
+ODI5MywtODgzNTE5MDEsMTc0NzYwNjIwLDkyNTAwMjEyOSwxMj
+E5MzM2NSwtMzIzOTc3NTQ5LDIwNTg0Njg3MjAsLTE0NDAyODM2
+NDIsLTI1ODIwMDEwMiwxMTk2NDA0ODk3LC0xNTk3NDQwODc0LC
+0xMTUyMzMxNDQyXX0=
 -->
