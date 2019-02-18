@@ -74,7 +74,7 @@ This section describes the editing option for Pie chart in visualization.
 - **Show percentage**  displays percentage for each measure value in pie chart. To enable it select the **Check Box** show percentage as shown below;
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/6921e2105eb29674d2f727201df80f5be58983d5/images/show_percentage.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/9efd7408868fc3755257f26138885e2ca684e1d0/images/New_version5/UD_Visualization_Types&Settings_Image4.png)
 
 - **Polar Area** On selecting the polar area **Check Box** it enables the polar view for each dimensions in pie chart.
 
@@ -384,8 +384,8 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1MDAyMTI5LDEyMTkzMzY1LC0zMjM5Nz
-c1NDksMjA1ODQ2ODcyMCwtMTQ0MDI4MzY0MiwtMjU4MjAwMTAy
-LDExOTY0MDQ4OTcsLTE1OTc0NDA4NzQsLTExNTIzMzE0NDJdfQ
-==
+eyJoaXN0b3J5IjpbMTc0NzYwNjIwLDkyNTAwMjEyOSwxMjE5Mz
+M2NSwtMzIzOTc3NTQ5LDIwNTg0Njg3MjAsLTE0NDAyODM2NDIs
+LTI1ODIwMDEwMiwxMTk2NDA0ODk3LC0xNTk3NDQwODc0LC0xMT
+UyMzMxNDQyXX0=
 -->
