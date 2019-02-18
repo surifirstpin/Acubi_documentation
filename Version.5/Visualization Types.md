@@ -144,9 +144,9 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Theme**
 
-- **Widget Icon** Choose a icon to symbolise widget value. 
+- **Widget Icon** Choose a icon to symbolize widget value. 
 
-- **Back ground Colour**
+- **Back ground Colour** Select appropriate Back ground colour for widget chart.
 
 
 ## Bubble chart 
@@ -392,10 +392,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTI4ODQ5MywtMTc1OTM1MzE4MywtNz
-MwNzkyNzQzLC0xNjg5MzM1NTgsMTY4OTY5ODI5MywtODgzNTE5
-MDEsMTc0NzYwNjIwLDkyNTAwMjEyOSwxMjE5MzM2NSwtMzIzOT
-c3NTQ5LDIwNTg0Njg3MjAsLTE0NDAyODM2NDIsLTI1ODIwMDEw
-MiwxMTk2NDA0ODk3LC0xNTk3NDQwODc0LC0xMTUyMzMxNDQyXX
-0=
+eyJoaXN0b3J5IjpbLTE4MzcwOTcyMjYsLTE3NTkzNTMxODMsLT
+czMDc5Mjc0MywtMTY4OTMzNTU4LDE2ODk2OTgyOTMsLTg4MzUx
+OTAxLDE3NDc2MDYyMCw5MjUwMDIxMjksMTIxOTMzNjUsLTMyMz
+k3NzU0OSwyMDU4NDY4NzIwLC0xNDQwMjgzNjQyLC0yNTgyMDAx
+MDIsMTE5NjQwNDg5NywtMTU5NzQ0MDg3NCwtMTE1MjMzMTQ0Ml
+19
 -->
