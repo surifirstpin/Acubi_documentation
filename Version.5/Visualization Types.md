@@ -148,6 +148,38 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Back ground Colour** Select appropriate Back ground colour for widget chart.
 
+##  World chart 
+
+ It displays the data grouped by specific country and at the same time the grouped data regions are highlighted in the map.
+ 
+**10.** To view the **World chart** click on **world** tab under **General** section.
+
+
+ > **Note :** The values you want to define in world chart, should be defined in model section. On defining in model the data field values will be displayed here.  
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/40b704503bb7342aa38ccd68e7c30a0708959f27/images/world.png)
+ 
+- **Title** specify a title for world map.
+
+- **Flat Map** displays a flat view or "2D" vision of the map.
+
+- **Default** set default colour to display specific countries.
+
+- **Over Border** colour the border of a map region.
+
+- **Data Field** choose the data field to display it on map.	
+
+- **Tip Fields** select numbers of data fields to be displayed on map.
+
+- **Colour Field** specifies which field to be coloured.
+
+- **Colour From & To** specify the colour specific range of values in map region.
+
+- **Negative Cutoff** enabled when negatives values are applicable.
+
+- **Negative colour-from & to** Specify colour for specific range of negative values.
+
 
 ## Bubble chart 
 
@@ -258,37 +290,7 @@ In the above image you can see, hide_pivot 1st column is seen empty, so in order
 
 
 
-##  World chart 
 
- It displays the data grouped by specific country and at the same time the grouped data regions are highlighted in the map.
- 
-**10.** To view the **World chart** click on **world** tab under **General** section.
-
-
- > **Note :** The values you want to define in world chart, should be defined in model section. On defining in model the data field values will be displayed here.  
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/40b704503bb7342aa38ccd68e7c30a0708959f27/images/world.png)
- 
-- **Title** specify a title for world map.
-
-- **Flat Map** displays a flat view or "2D" vision of the map.
-
-- **Default** set default colour to display specific countries.
-
-- **Over Border** colour the border of a map region.
-
-- **Data Field** choose the data field to display it on map.	
-
-- **Tip Fields** select numbers of data fields to be displayed on map.
-
-- **Colour Field** specifies which field to be coloured.
-
-- **Colour From & To** specify the colour specific range of values in map region.
-
-- **Negative Cutoff** enabled when negatives values are applicable.
-
-- **Negative colour-from & to** Specify colour for specific range of negative values.
 
 ## Standard Settings
 
@@ -392,10 +394,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Mzc4NjI5MCwtMTgzNzA5NzIyNiwtMT
-c1OTM1MzE4MywtNzMwNzkyNzQzLC0xNjg5MzM1NTgsMTY4OTY5
-ODI5MywtODgzNTE5MDEsMTc0NzYwNjIwLDkyNTAwMjEyOSwxMj
-E5MzM2NSwtMzIzOTc3NTQ5LDIwNTg0Njg3MjAsLTE0NDAyODM2
-NDIsLTI1ODIwMDEwMiwxMTk2NDA0ODk3LC0xNTk3NDQwODc0LC
-0xMTUyMzMxNDQyXX0=
+eyJoaXN0b3J5IjpbLTEyMjkwMzI1MTgsMjA2Mzc4NjI5MCwtMT
+gzNzA5NzIyNiwtMTc1OTM1MzE4MywtNzMwNzkyNzQzLC0xNjg5
+MzM1NTgsMTY4OTY5ODI5MywtODgzNTE5MDEsMTc0NzYwNjIwLD
+kyNTAwMjEyOSwxMjE5MzM2NSwtMzIzOTc3NTQ5LDIwNTg0Njg3
+MjAsLTE0NDAyODM2NDIsLTI1ODIwMDEwMiwxMTk2NDA0ODk3LC
+0xNTk3NDQwODc0LC0xMTUyMzMxNDQyXX0=
 -->
