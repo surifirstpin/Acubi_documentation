@@ -52,9 +52,9 @@
 
 ## Horizontal Bar 
 
-Horizontal Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the Column area and a measure on the Columns area.
+Horizontal Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the Column area and a measure on row.
 
- **2.** Choose Chart Type **Horizontal Bar ** from the drop down list to compare the data in Horizontal Bar chart.
+ **2.** Choose Chart type **Horizontal Bar** from the drop down list to compare the data in Horizontal Bar chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1a322f67a5166b6fe77c00678ff264b7ac59252d/images/New_version5/UD_Visualization_Types&Settings_Image2.png)
@@ -396,10 +396,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5OTYzNDQwLDcwMjkwMzc2MiwyMDYzNz
-g2MjkwLC0xODM3MDk3MjI2LC0xNzU5MzUzMTgzLC03MzA3OTI3
-NDMsLTE2ODkzMzU1OCwxNjg5Njk4MjkzLC04ODM1MTkwMSwxNz
-Q3NjA2MjAsOTI1MDAyMTI5LDEyMTkzMzY1LC0zMjM5Nzc1NDks
-MjA1ODQ2ODcyMCwtMTQ0MDI4MzY0MiwtMjU4MjAwMTAyLDExOT
-Y0MDQ4OTcsLTE1OTc0NDA4NzQsLTExNTIzMzE0NDJdfQ==
+eyJoaXN0b3J5IjpbLTYxOTk5MTYwOSw3MDI5MDM3NjIsMjA2Mz
+c4NjI5MCwtMTgzNzA5NzIyNiwtMTc1OTM1MzE4MywtNzMwNzky
+NzQzLC0xNjg5MzM1NTgsMTY4OTY5ODI5MywtODgzNTE5MDEsMT
+c0NzYwNjIwLDkyNTAwMjEyOSwxMjE5MzM2NSwtMzIzOTc3NTQ5
+LDIwNTg0Njg3MjAsLTE0NDAyODM2NDIsLTI1ODIwMDEwMiwxMT
+k2NDA0ODk3LC0xNTk3NDQwODc0LC0xMTUyMzMxNDQyXX0=
 -->
