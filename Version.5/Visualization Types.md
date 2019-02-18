@@ -216,7 +216,7 @@ Select Stationcode, Quantity_sum and Whenmade_month, Apply pivot to Stationcode.
 pivot_offset(#{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ```
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/f5065fab3212580100d2bb0d06de4bd7085f18a7/images/hide_pivot1.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/488ee6156d0f40eb8566b427b08347106977e416/images/New_version5/UD_Visualization_Types&Settings_Image12.png)
 
 The resultant for this expression would be seen in green colour;
 
@@ -403,11 +403,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTQ5MzE2NSw3MDE5NDk2OTIsLTE1MT
-Y0MDY2MTIsLTE2OTA3MjA1MTksLTYxOTk5MTYwOSw3MDI5MDM3
-NjIsMjA2Mzc4NjI5MCwtMTgzNzA5NzIyNiwtMTc1OTM1MzE4My
-wtNzMwNzkyNzQzLC0xNjg5MzM1NTgsMTY4OTY5ODI5MywtODgz
-NTE5MDEsMTc0NzYwNjIwLDkyNTAwMjEyOSwxMjE5MzM2NSwtMz
-IzOTc3NTQ5LDIwNTg0Njg3MjAsLTE0NDAyODM2NDIsLTI1ODIw
-MDEwMl19
+eyJoaXN0b3J5IjpbLTE5NzQ2NDk0NTAsNzAxOTQ5NjkyLC0xNT
+E2NDA2NjEyLC0xNjkwNzIwNTE5LC02MTk5OTE2MDksNzAyOTAz
+NzYyLDIwNjM3ODYyOTAsLTE4MzcwOTcyMjYsLTE3NTkzNTMxOD
+MsLTczMDc5Mjc0MywtMTY4OTMzNTU4LDE2ODk2OTgyOTMsLTg4
+MzUxOTAxLDE3NDc2MDYyMCw5MjUwMDIxMjksMTIxOTMzNjUsLT
+MyMzk3NzU0OSwyMDU4NDY4NzIwLC0xNDQwMjgzNjQyLC0yNTgy
+MDAxMDJdfQ==
 -->
