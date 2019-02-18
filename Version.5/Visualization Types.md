@@ -237,8 +237,10 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  
  **9.** Choose chart type **Funnel** under **General** section  to compare the data in Funnel chart.
  
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/84af193f1ebf383092d92fc256ec7041495cca5a/images/New_version5/UD_Visualization_Types&Settings_Image15.png)
 
-**Using BiPlus you can view the funnel charts in different formats using the below check boxes:**
+**Using Acubi you can view the funnel charts in different formats using the below check boxes:**
 
  - **Sort** on selecting the check box it enables data in the sorted order in funnel chart.
   
@@ -400,11 +402,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODY0NzU4NywxNzkwMDM2NDMxLDcwMT
-k0OTY5MiwtMTUxNjQwNjYxMiwtMTY5MDcyMDUxOSwtNjE5OTkx
-NjA5LDcwMjkwMzc2MiwyMDYzNzg2MjkwLC0xODM3MDk3MjI2LC
-0xNzU5MzUzMTgzLC03MzA3OTI3NDMsLTE2ODkzMzU1OCwxNjg5
-Njk4MjkzLC04ODM1MTkwMSwxNzQ3NjA2MjAsOTI1MDAyMTI5LD
-EyMTkzMzY1LC0zMjM5Nzc1NDksMjA1ODQ2ODcyMCwtMTQ0MDI4
-MzY0Ml19
+eyJoaXN0b3J5IjpbLTIwMDc4MjQ0NDQsLTg4ODY0NzU4NywxNz
+kwMDM2NDMxLDcwMTk0OTY5MiwtMTUxNjQwNjYxMiwtMTY5MDcy
+MDUxOSwtNjE5OTkxNjA5LDcwMjkwMzc2MiwyMDYzNzg2MjkwLC
+0xODM3MDk3MjI2LC0xNzU5MzUzMTgzLC03MzA3OTI3NDMsLTE2
+ODkzMzU1OCwxNjg5Njk4MjkzLC04ODM1MTkwMSwxNzQ3NjA2Mj
+AsOTI1MDAyMTI5LDEyMTkzMzY1LC0zMjM5Nzc1NDksMjA1ODQ2
+ODcyMF19
 -->
