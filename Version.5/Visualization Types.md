@@ -92,7 +92,7 @@ For example, when you want to buy a Laptop, you can use a radar chart to compare
  **4.** Choose chart type **Radar** from drop down list.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/34c8d8bc129b2e32ded89f8d3f9816b6a8fd1624/images/radar_chart.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/751eed2fc28d82c24e883a2d567d5f389919b172/images/New_version5/UD_Visualization_Types&Settings_Image6.png)
 
 - **Points** on selecting the checkbox it enables pointers for the data range in line chart.
 
@@ -116,6 +116,32 @@ For example, when you want to buy a Laptop, you can use a radar chart to compare
 - **Arc field** select the dimension field to apply arc lines.
 
 - **Curve** it maximize and minimize the surface area in radar chart.
+
+## Widget chart 
+
+It displays one or more data series as a data graph. Widget chart is used to display the number of records created today. number of Incidents by status or department.
+
+ **9.** Click on **Widget** tab under **General** section to display the total record of the data in widget chart.
+ 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/0fffbbc444991a973205bc030a0485bfc9ef592a/images/widget_chart.png)
+
+- **Value** select the measure to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined in the underlying step.
+
+- **Format** select the number format for the measure field.
+
+- **Previous value** select the second measure value for widget.
+
+- **Change** specify the conditions for selected measures such as difference, growth, none.
+
+- **Show growth** displays the growth rate of selected measures.
+
+- **Title** specify widget title.
+
+- **Label** specify the widget label.
+
+- **Style** specify a status indicator for measure value such as default, primary, success, warning, info, danger.
+
 
 ## Bubble chart 
 
@@ -224,30 +250,7 @@ In the above image you can see, hide_pivot 1st column is seen empty, so in order
 
 
 
-## Widget chart 
 
-It displays one or more data series as a data graph. Widget chart is used to display the number of records created today. number of Incidents by status or department.
-
- **9.** Click on **Widget** tab under **General** section to display the total record of the data in widget chart.
- 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/0fffbbc444991a973205bc030a0485bfc9ef592a/images/widget_chart.png)
-
-- **Value** select the measure to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined in the underlying step.
-
-- **Format** select the number format for the measure field.
-
-- **Previous value** select the second measure value for widget.
-
-- **Change** specify the conditions for selected measures such as difference, growth, none.
-
-- **Show growth** displays the growth rate of selected measures.
-
-- **Title** specify widget title.
-
-- **Label** specify the widget label.
-
-- **Style** specify a status indicator for measure value such as default, primary, success, warning, info, danger.
 
 ##  World chart 
 
@@ -383,9 +386,9 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODkzMzU1OCwxNjg5Njk4MjkzLC04OD
-M1MTkwMSwxNzQ3NjA2MjAsOTI1MDAyMTI5LDEyMTkzMzY1LC0z
-MjM5Nzc1NDksMjA1ODQ2ODcyMCwtMTQ0MDI4MzY0MiwtMjU4Mj
-AwMTAyLDExOTY0MDQ4OTcsLTE1OTc0NDA4NzQsLTExNTIzMzE0
-NDJdfQ==
+eyJoaXN0b3J5IjpbLTczMDc5Mjc0MywtMTY4OTMzNTU4LDE2OD
+k2OTgyOTMsLTg4MzUxOTAxLDE3NDc2MDYyMCw5MjUwMDIxMjks
+MTIxOTMzNjUsLTMyMzk3NzU0OSwyMDU4NDY4NzIwLC0xNDQwMj
+gzNjQyLC0yNTgyMDAxMDIsMTE5NjQwNDg5NywtMTU5NzQ0MDg3
+NCwtMTE1MjMzMTQ0Ml19
 -->
