@@ -142,6 +142,8 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Style** specify a status indicator for measure value such as default, primary, success, warning, info, danger.
 
+- **Theme**
+
 
 ## Bubble chart 
 
@@ -386,9 +388,9 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDgyMDYzNSwtNzMwNzkyNzQzLC0xNj
-g5MzM1NTgsMTY4OTY5ODI5MywtODgzNTE5MDEsMTc0NzYwNjIw
-LDkyNTAwMjEyOSwxMjE5MzM2NSwtMzIzOTc3NTQ5LDIwNTg0Nj
-g3MjAsLTE0NDAyODM2NDIsLTI1ODIwMDEwMiwxMTk2NDA0ODk3
-LC0xNTk3NDQwODc0LC0xMTUyMzMxNDQyXX0=
+eyJoaXN0b3J5IjpbLTE3NTkzNTMxODMsLTczMDc5Mjc0MywtMT
+Y4OTMzNTU4LDE2ODk2OTgyOTMsLTg4MzUxOTAxLDE3NDc2MDYy
+MCw5MjUwMDIxMjksMTIxOTMzNjUsLTMyMzk3NzU0OSwyMDU4ND
+Y4NzIwLC0xNDQwMjgzNjQyLC0yNTgyMDAxMDIsMTE5NjQwNDg5
+NywtMTU5NzQ0MDg3NCwtMTE1MjMzMTQ0Ml19
 -->
