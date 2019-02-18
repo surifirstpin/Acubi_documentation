@@ -78,12 +78,10 @@ This section describes the editing option for Pie chart in visualization.
 
 - **Polar Area** On selecting the polar area **Check Box** it enables the polar view for each dimensions in pie chart.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/ca8620aee571293baafa06532397667001086ceb/images/polar_area.png)
-
 -  **Donut** donut chart are equal to pie chart. they show relationships of parts to a whole. select **Check Box** to enables the donut view.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/donut.png)
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/3ba1953c960af32db0af345fbb40776d222ee54e/images/New_version5/UD_Visualization_Types&Settings_Image5.png)
 
 ## Radar chart 
 
@@ -384,8 +382,8 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzYwNjIwLDkyNTAwMjEyOSwxMjE5Mz
-M2NSwtMzIzOTc3NTQ5LDIwNTg0Njg3MjAsLTE0NDAyODM2NDIs
-LTI1ODIwMDEwMiwxMTk2NDA0ODk3LC0xNTk3NDQwODc0LC0xMT
-UyMzMxNDQyXX0=
+eyJoaXN0b3J5IjpbLTg4MzUxOTAxLDE3NDc2MDYyMCw5MjUwMD
+IxMjksMTIxOTMzNjUsLTMyMzk3NzU0OSwyMDU4NDY4NzIwLC0x
+NDQwMjgzNjQyLC0yNTgyMDAxMDIsMTE5NjQwNDg5NywtMTU5Nz
+Q0MDg3NCwtMTE1MjMzMTQ0Ml19
 -->
