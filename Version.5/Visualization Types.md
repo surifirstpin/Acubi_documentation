@@ -121,7 +121,7 @@ For example, when you want to buy a Laptop, you can use a radar chart to compare
 
 It displays one or more data series as a data graph. Widget chart is used to display the number of records created today. number of Incidents by status or department.
 
- **9.** Click on **Widget** tab under **General** section to display the total record of the data in widget chart.
+ **5.** Choose **Widget** from drop-down list, it displays total number of data record in widget chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/0fffbbc444991a973205bc030a0485bfc9ef592a/images/widget_chart.png)
@@ -386,9 +386,9 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDc5Mjc0MywtMTY4OTMzNTU4LDE2OD
-k2OTgyOTMsLTg4MzUxOTAxLDE3NDc2MDYyMCw5MjUwMDIxMjks
-MTIxOTMzNjUsLTMyMzk3NzU0OSwyMDU4NDY4NzIwLC0xNDQwMj
-gzNjQyLC0yNTgyMDAxMDIsMTE5NjQwNDg5NywtMTU5NzQ0MDg3
-NCwtMTE1MjMzMTQ0Ml19
+eyJoaXN0b3J5IjpbLTE3NDgyMDYzNSwtNzMwNzkyNzQzLC0xNj
+g5MzM1NTgsMTY4OTY5ODI5MywtODgzNTE5MDEsMTc0NzYwNjIw
+LDkyNTAwMjEyOSwxMjE5MzM2NSwtMzIzOTc3NTQ5LDIwNTg0Nj
+g3MjAsLTE0NDAyODM2NDIsLTI1ODIwMDEwMiwxMTk2NDA0ODk3
+LC0xNTk3NDQwODc0LC0xMTUyMzMxNDQyXX0=
 -->
