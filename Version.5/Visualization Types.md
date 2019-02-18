@@ -54,7 +54,7 @@
 
 Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the Rows and a measure on the Columns area.
 
- **2.** Click on **Horizontal Bar** tab under **General** section  to compare the data in Horizontal Bar chart.
+ **2.** Choose Chart Type **Horizontal Bar ** from the drop down list to compare the data in Horizontal Bar chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1a322f67a5166b6fe77c00678ff264b7ac59252d/images/New_version5/UD_Visualization_Types&Settings_Image2.png)
@@ -64,12 +64,11 @@ Bar charts are used to compare data across different categories. You can build a
 
 This section describes the editing option for Pie chart in visualization. 
  
- **3.**  Click on **Pie** tab under **General** section to compare the data in pie chart.
- 
+ **3.**  Choose Chart Type **Pie** from the drop down list.
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f52c167aa93a715736ed2800ae5ca56675c54e42/images/pie_chart.png)
 
-### Editing Options for Line Chart
+### Editing Options for Pie Chart
  
 - **Show percentage**  displays percentage for each measure value in pie chart. To enable it select the **Check Box** show percentage as shown below;
 
@@ -384,7 +383,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzk3NzU0OSwyMDU4NDY4NzIwLC0xND
-QwMjgzNjQyLC0yNTgyMDAxMDIsMTE5NjQwNDg5NywtMTU5NzQ0
-MDg3NCwtMTE1MjMzMTQ0Ml19
+eyJoaXN0b3J5IjpbMTIxOTMzNjUsLTMyMzk3NzU0OSwyMDU4ND
+Y4NzIwLC0xNDQwMjgzNjQyLC0yNTgyMDAxMDIsMTE5NjQwNDg5
+NywtMTU5NzQ0MDg3NCwtMTE1MjMzMTQ0Ml19
 -->
