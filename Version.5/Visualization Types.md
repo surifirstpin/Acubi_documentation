@@ -124,7 +124,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
  **5.** Choose **Widget** from drop-down list, it displays total number of data record in widget chart.
  
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/0fffbbc444991a973205bc030a0485bfc9ef592a/images/widget_chart.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/ac06f66008071fe929798b3d8ee36e5bd5cd89bf/images/New_version5/UD_Visualization_Types&Settings_Image7.png)
 
 - **Value** select the measure to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined in the underlying step.
 
@@ -143,6 +143,10 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 - **Style** specify a status indicator for measure value such as default, primary, success, warning, info, danger.
 
 - **Theme**
+
+- **Widget Icon**  
+
+- **Back ground Colour**
 
 
 ## Bubble chart 
@@ -388,9 +392,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTkzNTMxODMsLTczMDc5Mjc0MywtMT
-Y4OTMzNTU4LDE2ODk2OTgyOTMsLTg4MzUxOTAxLDE3NDc2MDYy
-MCw5MjUwMDIxMjksMTIxOTMzNjUsLTMyMzk3NzU0OSwyMDU4ND
-Y4NzIwLC0xNDQwMjgzNjQyLC0yNTgyMDAxMDIsMTE5NjQwNDg5
-NywtMTU5NzQ0MDg3NCwtMTE1MjMzMTQ0Ml19
+eyJoaXN0b3J5IjpbMTk5NjcxMzU0NSwtMTc1OTM1MzE4MywtNz
+MwNzkyNzQzLC0xNjg5MzM1NTgsMTY4OTY5ODI5MywtODgzNTE5
+MDEsMTc0NzYwNjIwLDkyNTAwMjEyOSwxMjE5MzM2NSwtMzIzOT
+c3NTQ5LDIwNTg0Njg3MjAsLTE0NDAyODM2NDIsLTI1ODIwMDEw
+MiwxMTk2NDA0ODk3LC0xNTk3NDQwODc0LC0xMTUyMzMxNDQyXX
+0=
 -->
