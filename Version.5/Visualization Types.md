@@ -224,12 +224,10 @@ The resultant for this expression would be seen in green colour;
 ](https://raw.githubusercontent.com/sv18042016/fp1/4bd9045b7b3b1dceac68eb20c87579d484fd0c4e/images/New_version5/UD_Visualization_Types&Settings_Image13.png)
 
 In the above image you can see, in hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. Similarly to hide the last column, select hide last checkbox in data section of table chart.
-> **Note :**  Applicable only for table chart). 
+> **Note :**  Applicable only for table chart. 
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e749e7c96af56390cc3fb80fd0d1a7d17fd0bf2c/images/New_version5/UD_Visualization_Types&Settings_Image14.png)
-
-
-
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/e749e7c96af56390cc3fb80fd0d1a7d17fd0bf2c/images/New_version5/UD_Visualization_Types&Settings_Image14.png)
 
 ## Funnel chart 
 
@@ -237,10 +235,8 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 
 **The following section describes the editing option for bubble chart in visualization;**
  
- **8.** Choose chart type **Funnel** under **General** section  to compare the data in Funnel chart.
+ **9.** Choose chart type **Funnel** under **General** section  to compare the data in Funnel chart.
  
- ![
-](https://raw.githubusercontent.com/sv18042016/fp1/caca3ad67049c43bc60a5fccae26182c81762732/images/funnel_chart.png)
 
 **Using BiPlus you can view the funnel charts in different formats using the below check boxes:**
 
@@ -404,11 +400,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzQxNjM1LDE3OTAwMzY0MzEsNzAxOT
-Q5NjkyLC0xNTE2NDA2NjEyLC0xNjkwNzIwNTE5LC02MTk5OTE2
-MDksNzAyOTAzNzYyLDIwNjM3ODYyOTAsLTE4MzcwOTcyMjYsLT
-E3NTkzNTMxODMsLTczMDc5Mjc0MywtMTY4OTMzNTU4LDE2ODk2
-OTgyOTMsLTg4MzUxOTAxLDE3NDc2MDYyMCw5MjUwMDIxMjksMT
-IxOTMzNjUsLTMyMzk3NzU0OSwyMDU4NDY4NzIwLC0xNDQwMjgz
-NjQyXX0=
+eyJoaXN0b3J5IjpbLTg4ODY0NzU4NywxNzkwMDM2NDMxLDcwMT
+k0OTY5MiwtMTUxNjQwNjYxMiwtMTY5MDcyMDUxOSwtNjE5OTkx
+NjA5LDcwMjkwMzc2MiwyMDYzNzg2MjkwLC0xODM3MDk3MjI2LC
+0xNzU5MzUzMTgzLC03MzA3OTI3NDMsLTE2ODkzMzU1OCwxNjg5
+Njk4MjkzLC04ODM1MTkwMSwxNzQ3NjA2MjAsOTI1MDAyMTI5LD
+EyMTkzMzY1LC0zMjM5Nzc1NDksMjA1ODQ2ODcyMCwtMTQ0MDI4
+MzY0Ml19
 -->
