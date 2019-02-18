@@ -152,7 +152,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
  It displays the data grouped by specific country and at the same time the grouped data regions are highlighted in the map.
  
-**10.** To view the **World chart** click on **world** tab under **General** section.
+**10.** Choose chart **World** to compare the data. 
 
 
  > **Note :** The values you want to define in world chart, should be defined in model section. On defining in model the data field values will be displayed here.  
@@ -394,10 +394,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjkwMzI1MTgsMjA2Mzc4NjI5MCwtMT
-gzNzA5NzIyNiwtMTc1OTM1MzE4MywtNzMwNzkyNzQzLC0xNjg5
-MzM1NTgsMTY4OTY5ODI5MywtODgzNTE5MDEsMTc0NzYwNjIwLD
-kyNTAwMjEyOSwxMjE5MzM2NSwtMzIzOTc3NTQ5LDIwNTg0Njg3
-MjAsLTE0NDAyODM2NDIsLTI1ODIwMDEwMiwxMTk2NDA0ODk3LC
-0xNTk3NDQwODc0LC0xMTUyMzMxNDQyXX0=
+eyJoaXN0b3J5IjpbNzAyOTAzNzYyLDIwNjM3ODYyOTAsLTE4Mz
+cwOTcyMjYsLTE3NTkzNTMxODMsLTczMDc5Mjc0MywtMTY4OTMz
+NTU4LDE2ODk2OTgyOTMsLTg4MzUxOTAxLDE3NDc2MDYyMCw5Mj
+UwMDIxMjksMTIxOTMzNjUsLTMyMzk3NzU0OSwyMDU4NDY4NzIw
+LC0xNDQwMjgzNjQyLC0yNTgyMDAxMDIsMTE5NjQwNDg5NywtMT
+U5NzQ0MDg3NCwtMTE1MjMzMTQ0Ml19
 -->
