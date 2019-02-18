@@ -52,7 +52,7 @@
 
 ## Horizontal Bar 
 
-Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the Rows and a measure on the Columns area.
+Horizontal Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the Column area and a measure on the Columns area.
 
  **2.** Choose Chart Type **Horizontal Bar ** from the drop down list to compare the data in Horizontal Bar chart.
  
@@ -180,6 +180,8 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Negative colour-from & to** Specify colour for specific range of negative values.
 
+## Bar Chart
+Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the Rows and a measure on the Columns area.
 
 ## Bubble chart 
 
@@ -394,10 +396,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjgyNzkyNCw3MDI5MDM3NjIsMjA2Mz
-c4NjI5MCwtMTgzNzA5NzIyNiwtMTc1OTM1MzE4MywtNzMwNzky
-NzQzLC0xNjg5MzM1NTgsMTY4OTY5ODI5MywtODgzNTE5MDEsMT
-c0NzYwNjIwLDkyNTAwMjEyOSwxMjE5MzM2NSwtMzIzOTc3NTQ5
-LDIwNTg0Njg3MjAsLTE0NDAyODM2NDIsLTI1ODIwMDEwMiwxMT
-k2NDA0ODk3LC0xNTk3NDQwODc0LC0xMTUyMzMxNDQyXX0=
+eyJoaXN0b3J5IjpbNDU5OTYzNDQwLDcwMjkwMzc2MiwyMDYzNz
+g2MjkwLC0xODM3MDk3MjI2LC0xNzU5MzUzMTgzLC03MzA3OTI3
+NDMsLTE2ODkzMzU1OCwxNjg5Njk4MjkzLC04ODM1MTkwMSwxNz
+Q3NjA2MjAsOTI1MDAyMTI5LDEyMTkzMzY1LC0zMjM5Nzc1NDks
+MjA1ODQ2ODcyMCwtMTQ0MDI4MzY0MiwtMjU4MjAwMTAyLDExOT
+Y0MDQ4OTcsLTE1OTc0NDA4NzQsLTExNTIzMzE0NDJdfQ==
 -->
