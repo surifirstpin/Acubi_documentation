@@ -190,10 +190,8 @@ Bar charts are used to compare data across different categories. You can build a
 
 It is used to display the data in circles. We can define each bubble using any of our Dimension value and size by Measure value.
  
- **5.** Click on **Bubble** tab under **General** section  to compare the data in Bubble chart.
+ **7.** Click on **Bubble** tab under **General** section  to compare the data in Bubble chart.
  
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/d07e80177a8a6fe04619cfb40058e9789b142e88/images/bubble_chart.png)
 
 ## Funnel chart 
 
@@ -399,11 +397,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA3MjA1MTksLTYxOTk5MTYwOSw3MD
-I5MDM3NjIsMjA2Mzc4NjI5MCwtMTgzNzA5NzIyNiwtMTc1OTM1
-MzE4MywtNzMwNzkyNzQzLC0xNjg5MzM1NTgsMTY4OTY5ODI5My
-wtODgzNTE5MDEsMTc0NzYwNjIwLDkyNTAwMjEyOSwxMjE5MzM2
-NSwtMzIzOTc3NTQ5LDIwNTg0Njg3MjAsLTE0NDAyODM2NDIsLT
-I1ODIwMDEwMiwxMTk2NDA0ODk3LC0xNTk3NDQwODc0LC0xMTUy
-MzMxNDQyXX0=
+eyJoaXN0b3J5IjpbLTE1NzAwNDAzNjUsLTE2OTA3MjA1MTksLT
+YxOTk5MTYwOSw3MDI5MDM3NjIsMjA2Mzc4NjI5MCwtMTgzNzA5
+NzIyNiwtMTc1OTM1MzE4MywtNzMwNzkyNzQzLC0xNjg5MzM1NT
+gsMTY4OTY5ODI5MywtODgzNTE5MDEsMTc0NzYwNjIwLDkyNTAw
+MjEyOSwxMjE5MzM2NSwtMzIzOTc3NTQ5LDIwNTg0Njg3MjAsLT
+E0NDAyODM2NDIsLTI1ODIwMDEwMiwxMTk2NDA0ODk3LC0xNTk3
+NDQwODc0XX0=
 -->
