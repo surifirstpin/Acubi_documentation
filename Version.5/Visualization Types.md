@@ -89,7 +89,7 @@ This section describes the editing option for Pie chart in visualization.
  Radar charts are a great way to compare members of a dimension in a function of several metrics.  
 For example, when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
 
- **4.** Click on **Radar** tab under **General** section  to compare the data in  Radar chart.
+ **4.** Choose chart type **Radar** from drop down list.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/34c8d8bc129b2e32ded89f8d3f9816b6a8fd1624/images/radar_chart.png)
@@ -383,8 +383,9 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTY5ODI5MywtODgzNTE5MDEsMTc0Nz
-YwNjIwLDkyNTAwMjEyOSwxMjE5MzM2NSwtMzIzOTc3NTQ5LDIw
-NTg0Njg3MjAsLTE0NDAyODM2NDIsLTI1ODIwMDEwMiwxMTk2ND
-A0ODk3LC0xNTk3NDQwODc0LC0xMTUyMzMxNDQyXX0=
+eyJoaXN0b3J5IjpbLTE2ODkzMzU1OCwxNjg5Njk4MjkzLC04OD
+M1MTkwMSwxNzQ3NjA2MjAsOTI1MDAyMTI5LDEyMTkzMzY1LC0z
+MjM5Nzc1NDksMjA1ODQ2ODcyMCwtMTQ0MDI4MzY0MiwtMjU4Mj
+AwMTAyLDExOTY0MDQ4OTcsLTE1OTc0NDA4NzQsLTExNTIzMzE0
+NDJdfQ==
 -->
