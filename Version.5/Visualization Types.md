@@ -5,7 +5,7 @@
 
  Acubi provides an opportunity to view the data obtained in analysis report into different pictorial representation along with some standard editing options. Based on the priority, to view specific information about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. You can visualize the data in 10 different types of charts.
  - Line
- - Bar
+ - Horizontal Bar
  - Pie
  - Radar
  - Bubble
@@ -397,11 +397,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzgxNTAzMSw4NTE3MjAyMjcsLTM5OD
-A3MTY0OSwtODg4NjQ3NTg3LDE3OTAwMzY0MzEsNzAxOTQ5Njky
-LC0xNTE2NDA2NjEyLC0xNjkwNzIwNTE5LC02MTk5OTE2MDksNz
-AyOTAzNzYyLDIwNjM3ODYyOTAsLTE4MzcwOTcyMjYsLTE3NTkz
-NTMxODMsLTczMDc5Mjc0MywtMTY4OTMzNTU4LDE2ODk2OTgyOT
-MsLTg4MzUxOTAxLDE3NDc2MDYyMCw5MjUwMDIxMjksMTIxOTMz
-NjVdfQ==
+eyJoaXN0b3J5IjpbNDE4Njk4NjQxLC01MDc4MTUwMzEsODUxNz
+IwMjI3LC0zOTgwNzE2NDksLTg4ODY0NzU4NywxNzkwMDM2NDMx
+LDcwMTk0OTY5MiwtMTUxNjQwNjYxMiwtMTY5MDcyMDUxOSwtNj
+E5OTkxNjA5LDcwMjkwMzc2MiwyMDYzNzg2MjkwLC0xODM3MDk3
+MjI2LC0xNzU5MzUzMTgzLC03MzA3OTI3NDMsLTE2ODkzMzU1OC
+wxNjg5Njk4MjkzLC04ODM1MTkwMSwxNzQ3NjA2MjAsOTI1MDAy
+MTI5XX0=
 -->
