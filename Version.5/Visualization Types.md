@@ -8,12 +8,12 @@
  - Horizontal Bar
  - Pie
  - Radar
+ - Widget
+ - Bar
  - Bubble
+ - Table 
  - Funnel
  - Gauge
- - Table 
- - Widget
- - World
 
 > **Note :** Some of the options in editing list might be hidden or grayed in situations where they would conflict with other settings you have chosen.
 
@@ -397,11 +397,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE4Njk4NjQxLC01MDc4MTUwMzEsODUxNz
-IwMjI3LC0zOTgwNzE2NDksLTg4ODY0NzU4NywxNzkwMDM2NDMx
-LDcwMTk0OTY5MiwtMTUxNjQwNjYxMiwtMTY5MDcyMDUxOSwtNj
-E5OTkxNjA5LDcwMjkwMzc2MiwyMDYzNzg2MjkwLC0xODM3MDk3
-MjI2LC0xNzU5MzUzMTgzLC03MzA3OTI3NDMsLTE2ODkzMzU1OC
-wxNjg5Njk4MjkzLC04ODM1MTkwMSwxNzQ3NjA2MjAsOTI1MDAy
-MTI5XX0=
+eyJoaXN0b3J5IjpbMjAxMTAxOTk3MiwtNTA3ODE1MDMxLDg1MT
+cyMDIyNywtMzk4MDcxNjQ5LC04ODg2NDc1ODcsMTc5MDAzNjQz
+MSw3MDE5NDk2OTIsLTE1MTY0MDY2MTIsLTE2OTA3MjA1MTksLT
+YxOTk5MTYwOSw3MDI5MDM3NjIsMjA2Mzc4NjI5MCwtMTgzNzA5
+NzIyNiwtMTc1OTM1MzE4MywtNzMwNzkyNzQzLC0xNjg5MzM1NT
+gsMTY4OTY5ODI5MywtODgzNTE5MDEsMTc0NzYwNjIwLDkyNTAw
+MjEyOV19
 -->
