@@ -295,11 +295,6 @@ Gauge chart displays current status in the context of goal.
 - **Hide Minmax**  hides min and maximum values in gauge target.
 
 
-
-
-
-
-
 ## Standard Settings
 
 ### General Section 
@@ -402,11 +397,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxNzIwMjI3LC0zOTgwNzE2NDksLTg4OD
-Y0NzU4NywxNzkwMDM2NDMxLDcwMTk0OTY5MiwtMTUxNjQwNjYx
-MiwtMTY5MDcyMDUxOSwtNjE5OTkxNjA5LDcwMjkwMzc2MiwyMD
-YzNzg2MjkwLC0xODM3MDk3MjI2LC0xNzU5MzUzMTgzLC03MzA3
-OTI3NDMsLTE2ODkzMzU1OCwxNjg5Njk4MjkzLC04ODM1MTkwMS
-wxNzQ3NjA2MjAsOTI1MDAyMTI5LDEyMTkzMzY1LC0zMjM5Nzc1
-NDldfQ==
+eyJoaXN0b3J5IjpbLTUwNzgxNTAzMSw4NTE3MjAyMjcsLTM5OD
+A3MTY0OSwtODg4NjQ3NTg3LDE3OTAwMzY0MzEsNzAxOTQ5Njky
+LC0xNTE2NDA2NjEyLC0xNjkwNzIwNTE5LC02MTk5OTE2MDksNz
+AyOTAzNzYyLDIwNjM3ODYyOTAsLTE4MzcwOTcyMjYsLTE3NTkz
+NTMxODMsLTczMDc5Mjc0MywtMTY4OTMzNTU4LDE2ODk2OTgyOT
+MsLTg4MzUxOTAxLDE3NDc2MDYyMCw5MjUwMDIxMjksMTIxOTMz
+NjVdfQ==
 -->
