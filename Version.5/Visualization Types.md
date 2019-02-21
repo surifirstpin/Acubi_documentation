@@ -273,8 +273,7 @@ Gauge chart displays current status in the context of goal.
 
 - **Orange** colour indicates the maximum value attained is half the way to target and **Red** colour indicates the maximum value attained is at initial state or lower side of the target. 
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/274ea8e6aa7a779c79c78d56c4722a5dbdf2a26c/images/guage2.jpg)
+
 
 - **Value** select one of the available measure values from the drop down.
 
@@ -397,11 +396,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMTk1MTExNCwyMDExMDE5OTcyLDE1ND
-c0MjA1MzAsMjAxMTAxOTk3MiwtNTA3ODE1MDMxLDg1MTcyMDIy
-NywtMzk4MDcxNjQ5LC04ODg2NDc1ODcsMTc5MDAzNjQzMSw3MD
-E5NDk2OTIsLTE1MTY0MDY2MTIsLTE2OTA3MjA1MTksLTYxOTk5
-MTYwOSw3MDI5MDM3NjIsMjA2Mzc4NjI5MCwtMTgzNzA5NzIyNi
-wtMTc1OTM1MzE4MywtNzMwNzkyNzQzLC0xNjg5MzM1NTgsMTY4
-OTY5ODI5M119
+eyJoaXN0b3J5IjpbNzU5NjI2ODgzLDE0MjE5NTExMTQsMjAxMT
+AxOTk3MiwxNTQ3NDIwNTMwLDIwMTEwMTk5NzIsLTUwNzgxNTAz
+MSw4NTE3MjAyMjcsLTM5ODA3MTY0OSwtODg4NjQ3NTg3LDE3OT
+AwMzY0MzEsNzAxOTQ5NjkyLC0xNTE2NDA2NjEyLC0xNjkwNzIw
+NTE5LC02MTk5OTE2MDksNzAyOTAzNzYyLDIwNjM3ODYyOTAsLT
+E4MzcwOTcyMjYsLTE3NTkzNTMxODMsLTczMDc5Mjc0MywtMTY4
+OTMzNTU4XX0=
 -->
