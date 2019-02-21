@@ -396,13 +396,13 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDg2NjE0NCwxNDIxOTUxMTE0LDIwMT
-EwMTk5NzIsMTU0NzQyMDUzMCwyMDExMDE5OTcyLC01MDc4MTUw
-MzEsODUxNzIwMjI3LC0zOTgwNzE2NDksLTg4ODY0NzU4NywxNz
-kwMDM2NDMxLDcwMTk0OTY5MiwtMTUxNjQwNjYxMiwtMTY5MDcy
-MDUxOSwtNjE5OTkxNjA5LDcwMjkwMzc2MiwyMDYzNzg2MjkwLC
-0xODM3MDk3MjI2LC0xNzU5MzUzMTgzLC03MzA3OTI3NDMsLTE2
-ODkzMzU1OF19
+eyJoaXN0b3J5IjpbLTk5MjQzMTI0LDEyMjQ4NjYxNDQsMTQyMT
+k1MTExNCwyMDExMDE5OTcyLDE1NDc0MjA1MzAsMjAxMTAxOTk3
+MiwtNTA3ODE1MDMxLDg1MTcyMDIyNywtMzk4MDcxNjQ5LC04OD
+g2NDc1ODcsMTc5MDAzNjQzMSw3MDE5NDk2OTIsLTE1MTY0MDY2
+MTIsLTE2OTA3MjA1MTksLTYxOTk5MTYwOSw3MDI5MDM3NjIsMj
+A2Mzc4NjI5MCwtMTgzNzA5NzIyNiwtMTc1OTM1MzE4MywtNzMw
+NzkyNzQzXX0=
 -->
