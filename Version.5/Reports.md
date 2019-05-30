@@ -2,7 +2,7 @@
 
 > <center><h1> Reports </h1></center>
 
-Reports are the starting point for a query. retrieves the data in the desired combinations as per your business needs and how to explore particular subject area it self. It has an ability on how to pull the data and modify the report as per the needs and drill down deeper into the report for more better insights across the report.
+This section discuss Analysis reports. Reports are the starting point for a query. retrieves the data in the desired combinations as per your business needs and how to explore particular subject area it self. It has an ability on how to pull the data and modify the report as per the needs and drill down deeper into the report for more better insights across the report.
 
  To create a report, Click on **Reports Section**.
  
@@ -352,7 +352,7 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzNzIwMDE0LDEzMjg4MTEwMDQsLTE5NT
+eyJoaXN0b3J5IjpbNzgyMDgxNTYyLDEzMjg4MTEwMDQsLTE5NT
 E1MDQ3OTcsMTYyMzIxMjcxNiwtMTA1NDE3MjQ4NCwtNzU1ODA0
 NTE2LDEyNTQ3NTE4MTQsLTg0NjYxMTk2MSwtMjUyNjM3NTA3LD
 ExNDYzNTU5ODIsLTE3NzkwNTY2MTcsLTE2OTc2NTI1NzEsNTA2
