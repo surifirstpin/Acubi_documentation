@@ -127,21 +127,15 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 > **Note :** To view the **Timeline Filters** in details please go to Timeline filters document.
 
-**7.** To Add Filter to a report, Click on **Add Filter.** The report data is retrieved based on **Filter** applied if any. All the fields selected are visible in filter expression list using which you can apply filters.
 
-> **For Example :** Apply filter expression to measure field **Quantity sum is greater than or equal to 1000** in filter section and data is retrieved on based on the filters applied.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/f8001dca815cc6c014f37403d67e23f6e4ef916b/images/New_version5/UD_Reports_Image3.png)
- 
-  -  Hit the **Run** button, data is displayed based on the filters applied.
 
 **8.** Similarly, we can apply **Hidden Filters** to the report data, By Clicking on Filter Icon available in field list of a report. The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are hidden in data section.
 
 **9.** To Delete the filter applied Click **Cross Icon** as shown in the image below.
 
 
-## Order (Ascending / Descending)
+## Sorting Order (Ascending / Descending)
 
 **10.** To view the report data in ascending or descending orders, Apply Order to the Column fields, To carry out this function Click on **Add Orders** button.
 
@@ -365,11 +359,11 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0Njg3NzU2OCw4OTg2ODMzMTksLTI0Mj
-E1OTM2MiwtMjEwODYzMTUwNCw0Njk3NzU5NzEsNjM2NjczNDcz
-LDE0MzU2MzU1NjgsMjA0OTM1MTgwMCwxNzc3MTMyODQzLC0xNz
-kxNzgzNDYyLDEzMjg4MTEwMDQsLTE5NTE1MDQ3OTcsMTYyMzIx
-MjcxNiwtMTA1NDE3MjQ4NCwtNzU1ODA0NTE2LDEyNTQ3NTE4MT
-QsLTg0NjYxMTk2MSwtMjUyNjM3NTA3LDExNDYzNTU5ODIsLTE3
-NzkwNTY2MTddfQ==
+eyJoaXN0b3J5IjpbLTE3OTE5OTQzNCwtMzQ2ODc3NTY4LDg5OD
+Y4MzMxOSwtMjQyMTU5MzYyLC0yMTA4NjMxNTA0LDQ2OTc3NTk3
+MSw2MzY2NzM0NzMsMTQzNTYzNTU2OCwyMDQ5MzUxODAwLDE3Nz
+cxMzI4NDMsLTE3OTE3ODM0NjIsMTMyODgxMTAwNCwtMTk1MTUw
+NDc5NywxNjIzMjEyNzE2LC0xMDU0MTcyNDg0LC03NTU4MDQ1MT
+YsMTI1NDc1MTgxNCwtODQ2NjExOTYxLC0yNTI2Mzc1MDcsMTE0
+NjM1NTk4Ml19
 -->
