@@ -6,7 +6,7 @@ This section introduces how to explore the data in Acubi and how the query built
 
 ## Where to get started ?
 
- **Reports** are the starting point for a query. To create a report, Click on **Reports Section.**
+ **Reports** are the starting point for building a query. To create a report, Click on **Reports Section.**
 
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/11d8e2454a911ad96e6238049e8d1575e6dcd084/images/New_version5/UD_Reports_Image1.png)
@@ -373,11 +373,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 **Image 16**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTk3MDAzODIsLTEwNTQ0ODk4NCwxND
-MyODk1MTI1LDQ4MjQ3ODY4NiwtMzQ2ODc3NTY4LDg5ODY4MzMx
-OSwtMjQyMTU5MzYyLC0yMTA4NjMxNTA0LDQ2OTc3NTk3MSw2Mz
-Y2NzM0NzMsMTQzNTYzNTU2OCwyMDQ5MzUxODAwLDE3NzcxMzI4
-NDMsLTE3OTE3ODM0NjIsMTMyODgxMTAwNCwtMTk1MTUwNDc5Ny
-wxNjIzMjEyNzE2LC0xMDU0MTcyNDg0LC03NTU4MDQ1MTYsMTI1
-NDc1MTgxNF19
+eyJoaXN0b3J5IjpbOTA2MTc5ODIsLTE5OTk3MDAzODIsLTEwNT
+Q0ODk4NCwxNDMyODk1MTI1LDQ4MjQ3ODY4NiwtMzQ2ODc3NTY4
+LDg5ODY4MzMxOSwtMjQyMTU5MzYyLC0yMTA4NjMxNTA0LDQ2OT
+c3NTk3MSw2MzY2NzM0NzMsMTQzNTYzNTU2OCwyMDQ5MzUxODAw
+LDE3NzcxMzI4NDMsLTE3OTE3ODM0NjIsMTMyODgxMTAwNCwtMT
+k1MTUwNDc5NywxNjIzMjEyNzE2LC0xMDU0MTcyNDg0LC03NTU4
+MDQ1MTZdfQ==
 -->
