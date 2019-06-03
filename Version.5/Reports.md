@@ -239,8 +239,9 @@ Click on  **Calculated column**  button to enable table calculations as shown in
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/26d0a3487833ab177c6be9fe97046d96212be2fa/images/New_version5/UD_Reports_Image9.png)
-**
-After navigating to calculated column, enter below fields;
+**Image 10**
+
+ Enter Below Information in Calculated Column section.
 
 > **Note :** To Add sum amount 100 to the quantity sum as bonus declare a calculated column as below.
 
@@ -366,7 +367,7 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDkzNTk2LDE0MzI4OTUxMjUsNDgyND
+eyJoaXN0b3J5IjpbMjkyNTgxOTE3LDE0MzI4OTUxMjUsNDgyND
 c4Njg2LC0zNDY4Nzc1NjgsODk4NjgzMzE5LC0yNDIxNTkzNjIs
 LTIxMDg2MzE1MDQsNDY5Nzc1OTcxLDYzNjY3MzQ3MywxNDM1Nj
 M1NTY4LDIwNDkzNTE4MDAsMTc3NzEzMjg0MywtMTc5MTc4MzQ2
