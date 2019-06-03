@@ -20,13 +20,14 @@ To get started with Acubi Login, Follow the below steps:
 
 ## Logout
 
-Hit **Logout** button to logout from Acubi.
+Hit **Logout** button to logout from Acubi homepage.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Logout.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjY2OTY5NSwtNDQzMDE2NjQyLDI3Mz
-E3MTY3Nyw0MzU4ODk5OTcsMTA5NzMxOTE5NywtOTE4NDczOTk1
-LC0yMDA1MTY3MTE1LDI3ODYyMDc4MywtMTE4NDg0OTc3Nl19
+eyJoaXN0b3J5IjpbMTEyNTE2NjAzNSwxNzMyNjY5Njk1LC00ND
+MwMTY2NDIsMjczMTcxNjc3LDQzNTg4OTk5NywxMDk3MzE5MTk3
+LC05MTg0NzM5OTUsLTIwMDUxNjcxMTUsMjc4NjIwNzgzLC0xMT
+g0ODQ5Nzc2XX0=
 -->
