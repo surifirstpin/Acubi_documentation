@@ -61,6 +61,13 @@ In the following example we have selected **Two Dimensions and One Measure Field
 
 Report filters will narrow the reports results while allowing you to view the specific range of data. 
 
+**7.** To Add Filter to a report, Click on **Add Filter.** The report data is retrieved based on **Filter** applied if any. All the fields selected are visible in filter expression list using which you can apply filters.
+
+> **For Example :** Apply filter expression to measure field **Quantity sum is greater than or equal to 1000** in filter section and data is retrieved on based on the filters applied.
+  -  Hit the **Run** button, data is displayed based on the filters applied.
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/f8001dca815cc6c014f37403d67e23f6e4ef916b/images/New_version5/UD_Reports_Image3.png)
+ 
 **The following are the various types of filter expressions used.**
 
 | Type | Description |
@@ -359,11 +366,11 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE5OTQzNCwtMzQ2ODc3NTY4LDg5OD
-Y4MzMxOSwtMjQyMTU5MzYyLC0yMTA4NjMxNTA0LDQ2OTc3NTk3
-MSw2MzY2NzM0NzMsMTQzNTYzNTU2OCwyMDQ5MzUxODAwLDE3Nz
-cxMzI4NDMsLTE3OTE3ODM0NjIsMTMyODgxMTAwNCwtMTk1MTUw
-NDc5NywxNjIzMjEyNzE2LC0xMDU0MTcyNDg0LC03NTU4MDQ1MT
-YsMTI1NDc1MTgxNCwtODQ2NjExOTYxLC0yNTI2Mzc1MDcsMTE0
-NjM1NTk4Ml19
+eyJoaXN0b3J5IjpbNDgyNDc4Njg2LC0zNDY4Nzc1NjgsODk4Nj
+gzMzE5LC0yNDIxNTkzNjIsLTIxMDg2MzE1MDQsNDY5Nzc1OTcx
+LDYzNjY3MzQ3MywxNDM1NjM1NTY4LDIwNDkzNTE4MDAsMTc3Nz
+EzMjg0MywtMTc5MTc4MzQ2MiwxMzI4ODExMDA0LC0xOTUxNTA0
+Nzk3LDE2MjMyMTI3MTYsLTEwNTQxNzI0ODQsLTc1NTgwNDUxNi
+wxMjU0NzUxODE0LC04NDY2MTE5NjEsLTI1MjYzNzUwNywxMTQ2
+MzU1OTgyXX0=
 -->
