@@ -6,7 +6,9 @@
 
 ## How to Login Acubi ?
 
-**Click on**  http://52.29.248.194:8081/biplus
+**Click on**  http://52.29.248.194:8081/biplus , It will Navigate to Acubi login page.
+
+-  Enter  **Username** and **Password**
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bb5d4c9f6814109a9645827e267e716c0d044c2a/images/New_version5/Homepage_v5.png)
 
@@ -23,6 +25,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjkxMDA3NSwtOTE4NDczOTk1LC0yMD
+eyJoaXN0b3J5IjpbMTA5NzMxOTE5NywtOTE4NDczOTk1LC0yMD
 A1MTY3MTE1LDI3ODYyMDc4MywtMTE4NDg0OTc3Nl19
 -->
