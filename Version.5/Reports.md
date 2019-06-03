@@ -220,10 +220,9 @@ To carry out Multi-level grouping on the data extracted. Select group option for
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/8be46795cac2baf245b3ec91e0e17a3cbcae034e/images/New_version5/UD_Reports_Image8.png)
-
+**Image 9**
 
 **18.**  To find the specific field value, from the data extracted select **Find** from the field drop down.
-
 
 **19.**  To hide the specific field in the visualization charts select **Hide Visualization** in the drop down list  and to display the same select **Show visualization.**
 
@@ -367,11 +366,11 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzI2MDY5OTAsMTQzMjg5NTEyNSw0OD
-I0Nzg2ODYsLTM0Njg3NzU2OCw4OTg2ODMzMTksLTI0MjE1OTM2
-MiwtMjEwODYzMTUwNCw0Njk3NzU5NzEsNjM2NjczNDczLDE0Mz
-U2MzU1NjgsMjA0OTM1MTgwMCwxNzc3MTMyODQzLC0xNzkxNzgz
-NDYyLDEzMjg4MTEwMDQsLTE5NTE1MDQ3OTcsMTYyMzIxMjcxNi
-wtMTA1NDE3MjQ4NCwtNzU1ODA0NTE2LDEyNTQ3NTE4MTQsLTg0
-NjYxMTk2MV19
+eyJoaXN0b3J5IjpbLTY4MzEzNTQ1OCwxNDMyODk1MTI1LDQ4Mj
+Q3ODY4NiwtMzQ2ODc3NTY4LDg5ODY4MzMxOSwtMjQyMTU5MzYy
+LC0yMTA4NjMxNTA0LDQ2OTc3NTk3MSw2MzY2NzM0NzMsMTQzNT
+YzNTU2OCwyMDQ5MzUxODAwLDE3NzcxMzI4NDMsLTE3OTE3ODM0
+NjIsMTMyODgxMTAwNCwtMTk1MTUwNDc5NywxNjIzMjEyNzE2LC
+0xMDU0MTcyNDg0LC03NTU4MDQ1MTYsMTI1NDc1MTgxNCwtODQ2
+NjExOTYxXX0=
 -->
