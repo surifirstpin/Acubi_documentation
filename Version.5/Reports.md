@@ -22,14 +22,19 @@ This section introduces how to explore the data in Acubi and how the query built
  
  **3.** To refresh a report click on, **Reset** ( refresh icon). 
 
-The data in analyse sections is determined by dimensions and measures.
+## Adding Dimension and Measure fields
+
+The data in analyse sections is determined by **dimensions** and **measures.**
+
+ In AcuBi a dimension is derived as group of data and Measure is derived as information about group of data.
+
+ > **Note :** All the dimensions appear blue in  colour and all the measures appear in Orange colour in your data table.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f5a7faedfbdd7f0d9e7175835750a8f0c79a9e54/images/New_version5/UD_Reports_Image2.png)
 
-**4.**  Using **Field Picker**, select Dimensions and Measures to retrieve the data based on the selection made. In AcuBi a dimension is derived as group of data and Measure is derived as information about group of data.
+**4.**  Using **Field Picker**, select Dimensions and Measures to retrieve the data based on the selection made.
 
- > **Note :** All the dimensions appear blue in  colour and all the measures appear in Orange colour in your data table.
 
 Let us generate a query to display Stationcode (Dimension) and Order Attendant ID (Dimension) with Quantity Sum. 
 
@@ -352,11 +357,11 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyMDIyNDM5LC0yNDIxNTkzNjIsLTIxMD
-g2MzE1MDQsNDY5Nzc1OTcxLDYzNjY3MzQ3MywxNDM1NjM1NTY4
-LDIwNDkzNTE4MDAsMTc3NzEzMjg0MywtMTc5MTc4MzQ2MiwxMz
-I4ODExMDA0LC0xOTUxNTA0Nzk3LDE2MjMyMTI3MTYsLTEwNTQx
-NzI0ODQsLTc1NTgwNDUxNiwxMjU0NzUxODE0LC04NDY2MTE5Nj
-EsLTI1MjYzNzUwNywxMTQ2MzU1OTgyLC0xNzc5MDU2NjE3LC0x
-Njk3NjUyNTcxXX0=
+eyJoaXN0b3J5IjpbNjY1NTAyODgsLTI0MjE1OTM2MiwtMjEwOD
+YzMTUwNCw0Njk3NzU5NzEsNjM2NjczNDczLDE0MzU2MzU1Njgs
+MjA0OTM1MTgwMCwxNzc3MTMyODQzLC0xNzkxNzgzNDYyLDEzMj
+g4MTEwMDQsLTE5NTE1MDQ3OTcsMTYyMzIxMjcxNiwtMTA1NDE3
+MjQ4NCwtNzU1ODA0NTE2LDEyNTQ3NTE4MTQsLTg0NjYxMTk2MS
+wtMjUyNjM3NTA3LDExNDYzNTU5ODIsLTE3NzkwNTY2MTcsLTE2
+OTc2NTI1NzFdfQ==
 -->
