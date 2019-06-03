@@ -10,7 +10,7 @@ This section introduces how to explore the data in Acubi and how the query built
 
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/11d8e2454a911ad96e6238049e8d1575e6dcd084/images/New_version5/UD_Reports_Image1.png)
-Image 
+**Image 1:**
 
 **1.**  All the connection established, databases and tables used for the Reports are defined under **Project.** Depending on your business requirement you can choose appropriate project from drop down list.
 
@@ -35,7 +35,7 @@ Let us generate a query to display **Stationcode** (Dimension) and **Order Atten
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f5a7faedfbdd7f0d9e7175835750a8f0c79a9e54/images/New_version5/UD_Reports_Image2.png)
-
+**Image 2:**
 ## SQL Query 
 
 **4.**  Using **Field Picker**, select Dimensions and Measures.
@@ -45,7 +45,7 @@ To view the SQL query built click on **SQL** section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Reports_Image13.png)
-
+**Image 3:**
 
 ## Data Extract
 
@@ -53,7 +53,7 @@ To view the SQL query built click on **SQL** section.
 
 > **Note :**  Data retrieved on running a report, is visible in  **Data Section**
 
-**6.** To **hide** the Explore /Visualize section that displays dimensions and measure click on  **angle double left** icon. To display the same click  **angle double right** icon available near dimensions and measure field list.
+**6.** To **hide** the Explore /Visualize section that displays dimensions and measure click on  **angle double left** icon. To display the same click  **angle double right** icon available near dimensions and measure field list. ( Refer Image 2)
 
 ## Report Filters
 
@@ -65,6 +65,7 @@ Report filters will narrow the reports results while allowing you to view the sp
   -  Hit the **Run** button, data is displayed based on the filters applied.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f8001dca815cc6c014f37403d67e23f6e4ef916b/images/New_version5/UD_Reports_Image3.png)
+ **Image 4:** 
  
 **The following are the various types of filter expressions used.**
 
@@ -364,11 +365,11 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3ODkzMDc3LDQ4MjQ3ODY4NiwtMzQ2OD
-c3NTY4LDg5ODY4MzMxOSwtMjQyMTU5MzYyLC0yMTA4NjMxNTA0
-LDQ2OTc3NTk3MSw2MzY2NzM0NzMsMTQzNTYzNTU2OCwyMDQ5Mz
-UxODAwLDE3NzcxMzI4NDMsLTE3OTE3ODM0NjIsMTMyODgxMTAw
-NCwtMTk1MTUwNDc5NywxNjIzMjEyNzE2LC0xMDU0MTcyNDg0LC
-03NTU4MDQ1MTYsMTI1NDc1MTgxNCwtODQ2NjExOTYxLC0yNTI2
-Mzc1MDddfQ==
+eyJoaXN0b3J5IjpbLTE0NjAxMzU0MTYsNDgyNDc4Njg2LC0zND
+Y4Nzc1NjgsODk4NjgzMzE5LC0yNDIxNTkzNjIsLTIxMDg2MzE1
+MDQsNDY5Nzc1OTcxLDYzNjY3MzQ3MywxNDM1NjM1NTY4LDIwND
+kzNTE4MDAsMTc3NzEzMjg0MywtMTc5MTc4MzQ2MiwxMzI4ODEx
+MDA0LC0xOTUxNTA0Nzk3LDE2MjMyMTI3MTYsLTEwNTQxNzI0OD
+QsLTc1NTgwNDUxNiwxMjU0NzUxODE0LC04NDY2MTE5NjEsLTI1
+MjYzNzUwN119
 -->
