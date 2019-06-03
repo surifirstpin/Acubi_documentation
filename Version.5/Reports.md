@@ -18,7 +18,7 @@ This section introduces how to explore the data in Acubi and how the query built
 
 **2.** **Model** Section has different set of models developed  for Orders, Customers, Delivery, Employees, Kitchen Process and Products.
 
-**For Example:** to create a report on order based details, Select **Bi_Orders** from given drop down list. 
+**For Instance:** to create a report on order based details, Select **Bi_Orders** from given drop down list. 
  
  **3.** To refresh a report click on, **Reset** ( refresh icon). 
 
@@ -354,7 +354,7 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTYxOTg4NywtMjEwODYzMTUwNCw0Nj
+eyJoaXN0b3J5IjpbLTI0MjE1OTM2MiwtMjEwODYzMTUwNCw0Nj
 k3NzU5NzEsNjM2NjczNDczLDE0MzU2MzU1NjgsMjA0OTM1MTgw
 MCwxNzc3MTMyODQzLC0xNzkxNzgzNDYyLDEzMjg4MTEwMDQsLT
 E5NTE1MDQ3OTcsMTYyMzIxMjcxNiwtMTA1NDE3MjQ4NCwtNzU1
