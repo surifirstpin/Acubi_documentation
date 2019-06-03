@@ -190,7 +190,7 @@ Multiple dimensions in a report data are often easier to look at, when you pivot
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f28d480f0255107fbc0b02a9636003fa49ef7d0d/images/New_version5/UD_Reports_Image6.png)
-
+**Image 7
 ## Hide data in pivot 
 
 To hide pivoted data in report output, choose pivot hide first ( hides 1st column data in list) or choose pivot hide last (hides last column data in a list) in data section under **data-sets.**
@@ -214,7 +214,7 @@ By selecting group option for a field you can display the consolidated value of 
 
 To carry out Multi-level grouping on the data extracted. Select group option for two dimension fields in drop down list. 
 
-> **For Example** : To get it clear on multi grouping, i am adding one more dimension fields **Payment_mode** to the report. Select group option for **Stationcode** and **Order_attendant_ID.** Now on expanding Stationcode_2, it displays corresponding **Order_attendant_ID** on further expanding, it displays the **payment mode** for the records as shown in the image below.
+ **For Instance** : To get it clear on multi grouping, Add one more dimension fields **Payment_mode** to the report. Select group option for **Stationcode** and **Order_attendant_ID.** Now on expanding Stationcode_2, it displays corresponding **Order_attendant_ID** on further expanding, it displays the **payment mode** for the records as shown in the image below.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/8be46795cac2baf245b3ec91e0e17a3cbcae034e/images/New_version5/UD_Reports_Image8.png)
@@ -365,11 +365,11 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjg5NTEyNSw0ODI0Nzg2ODYsLTM0Nj
-g3NzU2OCw4OTg2ODMzMTksLTI0MjE1OTM2MiwtMjEwODYzMTUw
-NCw0Njk3NzU5NzEsNjM2NjczNDczLDE0MzU2MzU1NjgsMjA0OT
-M1MTgwMCwxNzc3MTMyODQzLC0xNzkxNzgzNDYyLDEzMjg4MTEw
-MDQsLTE5NTE1MDQ3OTcsMTYyMzIxMjcxNiwtMTA1NDE3MjQ4NC
-wtNzU1ODA0NTE2LDEyNTQ3NTE4MTQsLTg0NjYxMTk2MSwtMjUy
-NjM3NTA3XX0=
+eyJoaXN0b3J5IjpbLTEwMTg2OTQ5ODEsMTQzMjg5NTEyNSw0OD
+I0Nzg2ODYsLTM0Njg3NzU2OCw4OTg2ODMzMTksLTI0MjE1OTM2
+MiwtMjEwODYzMTUwNCw0Njk3NzU5NzEsNjM2NjczNDczLDE0Mz
+U2MzU1NjgsMjA0OTM1MTgwMCwxNzc3MTMyODQzLC0xNzkxNzgz
+NDYyLDEzMjg4MTEwMDQsLTE5NTE1MDQ3OTcsMTYyMzIxMjcxNi
+wtMTA1NDE3MjQ4NCwtNzU1ODA0NTE2LDEyNTQ3NTE4MTQsLTg0
+NjYxMTk2MV19
 -->
