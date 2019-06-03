@@ -35,10 +35,11 @@ The data in analyse sections is determined by **dimensions** and **measures.**
 
 **4.**  Using **Field Picker**, select Dimensions and Measures to retrieve the data based on the selection made.
 
-
+**For Instance :**
 Let us generate a query to display Stationcode (Dimension) and Order Attendant ID (Dimension) with Quantity Sum. 
 
-**5.** After Selecting dimensions and measures, hit the **Run** button to extract and display the data.
+**5.** Select dimensions and measures then hit the **Run** button to extract.
+
 In the following example we have selected **Two Dimensions and One Measure Field.**
 
 > **Note :**  Data retrieved on running a report, is visible in  **Data Section**
@@ -357,11 +358,11 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1NTAyODgsLTI0MjE1OTM2MiwtMjEwOD
-YzMTUwNCw0Njk3NzU5NzEsNjM2NjczNDczLDE0MzU2MzU1Njgs
-MjA0OTM1MTgwMCwxNzc3MTMyODQzLC0xNzkxNzgzNDYyLDEzMj
-g4MTEwMDQsLTE5NTE1MDQ3OTcsMTYyMzIxMjcxNiwtMTA1NDE3
-MjQ4NCwtNzU1ODA0NTE2LDEyNTQ3NTE4MTQsLTg0NjYxMTk2MS
-wtMjUyNjM3NTA3LDExNDYzNTU5ODIsLTE3NzkwNTY2MTcsLTE2
-OTc2NTI1NzFdfQ==
+eyJoaXN0b3J5IjpbLTE1Mjc2NzY1NTcsLTI0MjE1OTM2MiwtMj
+EwODYzMTUwNCw0Njk3NzU5NzEsNjM2NjczNDczLDE0MzU2MzU1
+NjgsMjA0OTM1MTgwMCwxNzc3MTMyODQzLC0xNzkxNzgzNDYyLD
+EzMjg4MTEwMDQsLTE5NTE1MDQ3OTcsMTYyMzIxMjcxNiwtMTA1
+NDE3MjQ4NCwtNzU1ODA0NTE2LDEyNTQ3NTE4MTQsLTg0NjYxMT
+k2MSwtMjUyNjM3NTA3LDExNDYzNTU5ODIsLTE3NzkwNTY2MTcs
+LTE2OTc2NTI1NzFdfQ==
 -->
