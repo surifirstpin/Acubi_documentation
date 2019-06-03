@@ -136,12 +136,13 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 **8.** Similarly, we can apply **Hidden Filters** to the report data, by clicking on Filter Icon available in field list of a report. The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are hidden in data section.
 
-**9.** To **Delete** the filter applied Click **Cross Icon**. ( Refer image 5) 
+**9.** To **Delete** the filter applied Click **Cross Icon**. ( Refer image 4) 
 
 
 ## Sorting Order (Ascending / Descending)
 
 **10.** To view the report data in ascending or descending orders, Apply Order to the Column fields, To carry out this function Click on **Add Orders** button.
+
   - To Delete the Order applied Click on **Cross Icon.**
  
  ![
@@ -164,7 +165,7 @@ For  **Measures** use opposite direction.
 -   Click on upper arrow to enable descending order.
 -   Click on down arrow to enable ascending order.
 
-**13.** The **Total time taken** to build a query for a report is displayed at top of the report screen and **Total number of rows** fetched displayed just below that.
+**13.** The **Total time taken** to build a query for a report is displayed at top of the report screen and **Total number of rows** fetched displayed just below it. (R
   
 **14.**  Select the  **Check Box** for totals, to display total sum values of the measure fields.
 
@@ -363,11 +364,11 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDk1OTAwMSw0ODI0Nzg2ODYsLTM0Nj
-g3NzU2OCw4OTg2ODMzMTksLTI0MjE1OTM2MiwtMjEwODYzMTUw
-NCw0Njk3NzU5NzEsNjM2NjczNDczLDE0MzU2MzU1NjgsMjA0OT
-M1MTgwMCwxNzc3MTMyODQzLC0xNzkxNzgzNDYyLDEzMjg4MTEw
-MDQsLTE5NTE1MDQ3OTcsMTYyMzIxMjcxNiwtMTA1NDE3MjQ4NC
-wtNzU1ODA0NTE2LDEyNTQ3NTE4MTQsLTg0NjYxMTk2MSwtMjUy
-NjM3NTA3XX0=
+eyJoaXN0b3J5IjpbLTE4ODkyMzAxNDQsNDgyNDc4Njg2LC0zND
+Y4Nzc1NjgsODk4NjgzMzE5LC0yNDIxNTkzNjIsLTIxMDg2MzE1
+MDQsNDY5Nzc1OTcxLDYzNjY3MzQ3MywxNDM1NjM1NTY4LDIwND
+kzNTE4MDAsMTc3NzEzMjg0MywtMTc5MTc4MzQ2MiwxMzI4ODEx
+MDA0LC0xOTUxNTA0Nzk3LDE2MjMyMTI3MTYsLTEwNTQxNzI0OD
+QsLTc1NTgwNDUxNiwxMjU0NzUxODE0LC04NDY2MTE5NjEsLTI1
+MjYzNzUwN119
 -->
