@@ -49,7 +49,7 @@ To view the SQL query built  click on **SQL** section.
 
 ## Data Extract
 
- Then hit the **Run** button to extract.
+Tit the **Run** button to extract data.
 
 In the following example we have selected **Two Dimensions and One Measure Field.**
 
@@ -365,11 +365,11 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4NjgzMzE5LC0yNDIxNTkzNjIsLTIxMD
-g2MzE1MDQsNDY5Nzc1OTcxLDYzNjY3MzQ3MywxNDM1NjM1NTY4
-LDIwNDkzNTE4MDAsMTc3NzEzMjg0MywtMTc5MTc4MzQ2MiwxMz
-I4ODExMDA0LC0xOTUxNTA0Nzk3LDE2MjMyMTI3MTYsLTEwNTQx
-NzI0ODQsLTc1NTgwNDUxNiwxMjU0NzUxODE0LC04NDY2MTE5Nj
-EsLTI1MjYzNzUwNywxMTQ2MzU1OTgyLC0xNzc5MDU2NjE3LC0x
-Njk3NjUyNTcxXX0=
+eyJoaXN0b3J5IjpbLTM0Njg3NzU2OCw4OTg2ODMzMTksLTI0Mj
+E1OTM2MiwtMjEwODYzMTUwNCw0Njk3NzU5NzEsNjM2NjczNDcz
+LDE0MzU2MzU1NjgsMjA0OTM1MTgwMCwxNzc3MTMyODQzLC0xNz
+kxNzgzNDYyLDEzMjg4MTEwMDQsLTE5NTE1MDQ3OTcsMTYyMzIx
+MjcxNiwtMTA1NDE3MjQ4NCwtNzU1ODA0NTE2LDEyNTQ3NTE4MT
+QsLTg0NjYxMTk2MSwtMjUyNjM3NTA3LDExNDYzNTU5ODIsLTE3
+NzkwNTY2MTddfQ==
 -->
