@@ -270,14 +270,15 @@ Use $ symbol to select apply operational function to the Fields.
 
 ## Data Sets
 
-Click on Charts, to view the different type of visualization image for data obtained.
+Click on Charts, to view the different type of pictorial representation for the data obtained.
 
-> **Note** : Goto Visualization Document for more details description on charts.
+> **Note** : Go to **Visualization Document** for more details description on charts.
 
 **Data** section under visualization is enabled based on the data retrieved on running a report.
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3e22fdc921e2f9e483420be1116042428e7f566a/images/New_version5/UD_Reports_Image12.png)
-
+**Image 13**
 
  **Parameters applicable on the data retrieved are explained as below;**
 
@@ -368,11 +369,11 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTU4ODcxMiwxNDMyODk1MTI1LDQ4Mj
-Q3ODY4NiwtMzQ2ODc3NTY4LDg5ODY4MzMxOSwtMjQyMTU5MzYy
-LC0yMTA4NjMxNTA0LDQ2OTc3NTk3MSw2MzY2NzM0NzMsMTQzNT
-YzNTU2OCwyMDQ5MzUxODAwLDE3NzcxMzI4NDMsLTE3OTE3ODM0
-NjIsMTMyODgxMTAwNCwtMTk1MTUwNDc5NywxNjIzMjEyNzE2LC
-0xMDU0MTcyNDg0LC03NTU4MDQ1MTYsMTI1NDc1MTgxNCwtODQ2
-NjExOTYxXX0=
+eyJoaXN0b3J5IjpbMzY4Njk2ODE3LDE0MzI4OTUxMjUsNDgyND
+c4Njg2LC0zNDY4Nzc1NjgsODk4NjgzMzE5LC0yNDIxNTkzNjIs
+LTIxMDg2MzE1MDQsNDY5Nzc1OTcxLDYzNjY3MzQ3MywxNDM1Nj
+M1NTY4LDIwNDkzNTE4MDAsMTc3NzEzMjg0MywtMTc5MTc4MzQ2
+MiwxMzI4ODExMDA0LC0xOTUxNTA0Nzk3LDE2MjMyMTI3MTYsLT
+EwNTQxNzI0ODQsLTc1NTgwNDUxNiwxMjU0NzUxODE0LC04NDY2
+MTE5NjFdfQ==
 -->
