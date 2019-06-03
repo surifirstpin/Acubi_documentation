@@ -18,11 +18,10 @@ To get started with Acubi Login, Follow the below steps:
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/Homepage_v5.png)
 
-> **Note :** You can set desired **Dashboard** or **Report** on *
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQ5MzUxNzgsNDM1ODg5OTk3LDEwOT
-czMTkxOTcsLTkxODQ3Mzk5NSwtMjAwNTE2NzExNSwyNzg2MjA3
-ODMsLTExODQ4NDk3NzZdfQ==
+eyJoaXN0b3J5IjpbMjczMTcxNjc3LDQzNTg4OTk5NywxMDk3Mz
+E5MTk3LC05MTg0NzM5OTUsLTIwMDUxNjcxMTUsMjc4NjIwNzgz
+LC0xMTg0ODQ5Nzc2XX0=
 -->
