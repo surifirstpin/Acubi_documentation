@@ -38,7 +38,7 @@ The data in analyse sections is determined by **dimensions** and **measures.**
 **For Instance :**
 Let us generate a query to display Stationcode (Dimension) and Order Attendant ID (Dimension) with Quantity Sum. 
 
-**5.** Select dimensions and measures then hit the **Run** button to extract.
+**5.** On selecting  dimensions and measures then hit the **Run** button to extract.
 
 In the following example we have selected **Two Dimensions and One Measure Field.**
 
@@ -358,11 +358,11 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjc2NzY1NTcsLTI0MjE1OTM2MiwtMj
-EwODYzMTUwNCw0Njk3NzU5NzEsNjM2NjczNDczLDE0MzU2MzU1
-NjgsMjA0OTM1MTgwMCwxNzc3MTMyODQzLC0xNzkxNzgzNDYyLD
-EzMjg4MTEwMDQsLTE5NTE1MDQ3OTcsMTYyMzIxMjcxNiwtMTA1
-NDE3MjQ4NCwtNzU1ODA0NTE2LDEyNTQ3NTE4MTQsLTg0NjYxMT
-k2MSwtMjUyNjM3NTA3LDExNDYzNTU5ODIsLTE3NzkwNTY2MTcs
-LTE2OTc2NTI1NzFdfQ==
+eyJoaXN0b3J5IjpbMTAwMzU5NTE0NCwtMjQyMTU5MzYyLC0yMT
+A4NjMxNTA0LDQ2OTc3NTk3MSw2MzY2NzM0NzMsMTQzNTYzNTU2
+OCwyMDQ5MzUxODAwLDE3NzcxMzI4NDMsLTE3OTE3ODM0NjIsMT
+MyODgxMTAwNCwtMTk1MTUwNDc5NywxNjIzMjEyNzE2LC0xMDU0
+MTcyNDg0LC03NTU4MDQ1MTYsMTI1NDc1MTgxNCwtODQ2NjExOT
+YxLC0yNTI2Mzc1MDcsMTE0NjM1NTk4MiwtMTc3OTA1NjYxNywt
+MTY5NzY1MjU3MV19
 -->
