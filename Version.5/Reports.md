@@ -367,17 +367,17 @@ Filter are used to extract only specific data you want to view. this function is
 
 -   **Filter**  filters added in this section is automatically reflected in the filter section of dashboard reports.
 
-Click Save to **Save** the Report in Data Base.
+Click **Save** to save a report in Database.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 **Image 16**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQ0ODk4NCwxNDMyODk1MTI1LDQ4Mj
-Q3ODY4NiwtMzQ2ODc3NTY4LDg5ODY4MzMxOSwtMjQyMTU5MzYy
-LC0yMTA4NjMxNTA0LDQ2OTc3NTk3MSw2MzY2NzM0NzMsMTQzNT
-YzNTU2OCwyMDQ5MzUxODAwLDE3NzcxMzI4NDMsLTE3OTE3ODM0
-NjIsMTMyODgxMTAwNCwtMTk1MTUwNDc5NywxNjIzMjEyNzE2LC
-0xMDU0MTcyNDg0LC03NTU4MDQ1MTYsMTI1NDc1MTgxNCwtODQ2
-NjExOTYxXX0=
+eyJoaXN0b3J5IjpbLTE5OTk3MDAzODIsLTEwNTQ0ODk4NCwxND
+MyODk1MTI1LDQ4MjQ3ODY4NiwtMzQ2ODc3NTY4LDg5ODY4MzMx
+OSwtMjQyMTU5MzYyLC0yMTA4NjMxNTA0LDQ2OTc3NTk3MSw2Mz
+Y2NzM0NzMsMTQzNTYzNTU2OCwyMDQ5MzUxODAwLDE3NzcxMzI4
+NDMsLTE3OTE3ODM0NjIsMTMyODgxMTAwNCwtMTk1MTUwNDc5Ny
+wxNjIzMjEyNzE2LC0xMDU0MTcyNDg0LC03NTU4MDQ1MTYsMTI1
+NDc1MTgxNF19
 -->
