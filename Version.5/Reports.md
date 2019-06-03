@@ -132,14 +132,11 @@ Report filters will narrow the reports results while allowing you to view the sp
 |**is not null**                   |data which is not equal to null
 |**is null**                       |data which is equal to null
 
-> **Note :** To view the **Timeline Filters** in details please go to Timeline filters document.
+> **Note :** To view the **Timeline Filters** in details please go to Timeline filters document in Technical Documents.
 
+**8.** Similarly, we can apply **Hidden Filters** to the report data, by clicking on Filter Icon available in field list of a report. The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are hidden in data section.
 
-
-
-**8.** Similarly, we can apply **Hidden Filters** to the report data, By Clicking on Filter Icon available in field list of a report. The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are hidden in data section.
-
-**9.** To Delete the filter applied Click **Cross Icon** as shown in the image below.
+**9.** To **Delete** the filter applied Click **Cross Icon** as shown in the image below.
 
 
 ## Sorting Order (Ascending / Descending)
@@ -150,6 +147,7 @@ Report filters will narrow the reports results while allowing you to view the sp
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ee732d48c976b66c2738b922a177c466513a35f4/images/New_version5/UD_Reports_Image4.png)
+**Image 5:** 
 
 **11.** To hide the **Filter** or **Order** sections, click on angle-double-up icon on to far right of the order section. To un-hide the same click on angle-double-down icon.
 
@@ -366,11 +364,11 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzUwNTEyNDgsNDgyNDc4Njg2LC0zND
-Y4Nzc1NjgsODk4NjgzMzE5LC0yNDIxNTkzNjIsLTIxMDg2MzE1
-MDQsNDY5Nzc1OTcxLDYzNjY3MzQ3MywxNDM1NjM1NTY4LDIwND
-kzNTE4MDAsMTc3NzEzMjg0MywtMTc5MTc4MzQ2MiwxMzI4ODEx
-MDA0LC0xOTUxNTA0Nzk3LDE2MjMyMTI3MTYsLTEwNTQxNzI0OD
-QsLTc1NTgwNDUxNiwxMjU0NzUxODE0LC04NDY2MTE5NjEsLTI1
-MjYzNzUwN119
+eyJoaXN0b3J5IjpbLTI1ODEzOTMyMCw0ODI0Nzg2ODYsLTM0Nj
+g3NzU2OCw4OTg2ODMzMTksLTI0MjE1OTM2MiwtMjEwODYzMTUw
+NCw0Njk3NzU5NzEsNjM2NjczNDczLDE0MzU2MzU1NjgsMjA0OT
+M1MTgwMCwxNzc3MTMyODQzLC0xNzkxNzgzNDYyLDEzMjg4MTEw
+MDQsLTE5NTE1MDQ3OTcsMTYyMzIxMjcxNiwtMTA1NDE3MjQ4NC
+wtNzU1ODA0NTE2LDEyNTQ3NTE4MTQsLTg0NjYxMTk2MSwtMjUy
+NjM3NTA3XX0=
 -->
