@@ -290,7 +290,7 @@ Click on Charts, to view the different type of pictorial representation for the 
 
 - **Datasets** this section enables you to perform alignment, set currency formats, group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
 
-- **Legend** it will enable you to change the label for measure value in visualization charts as shown below.
+- **Legend** it will enable you to change the label for measure value in visualization charts. (Refer Image 13)
 
 ##  Format
 
@@ -335,12 +335,13 @@ Click on Charts, to view the different type of pictorial representation for the 
 
 ## Save Report
 
-**21.** Click Save Button to Save the Report.
+**21.** Click **Save** Button to Save the Report.
 
-  -  You will be navigated to Save Report Page. Fill the following fields to save the report.
+  -  It will navigate to Save Report Page. Fill the following fields to save the report.
   
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/4d53ac9064e170dbaa096a06ba3517219d691b1c/images/New_version5/UD_Reports_Image14.png)
+**Image 15**
 
 -   **Report Name**  Name identifier for a report. ( Acubi allows special character but does not support any spaces )
     
@@ -369,7 +370,7 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTQwMTI3MiwxNDMyODk1MTI1LDQ4Mj
+eyJoaXN0b3J5IjpbLTYyODM3ODQwNiwxNDMyODk1MTI1LDQ4Mj
 Q3ODY4NiwtMzQ2ODc3NTY4LDg5ODY4MzMxOSwtMjQyMTU5MzYy
 LC0yMTA4NjMxNTA0LDQ2OTc3NTk3MSw2MzY2NzM0NzMsMTQzNT
 YzNTU2OCwyMDQ5MzUxODAwLDE3NzcxMzI4NDMsLTE3OTE3ODM0
