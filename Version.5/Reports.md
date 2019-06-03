@@ -190,7 +190,8 @@ Multiple dimensions in a report data are often easier to look at, when you pivot
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f28d480f0255107fbc0b02a9636003fa49ef7d0d/images/New_version5/UD_Reports_Image6.png)
-**Image 7
+**Image 7**
+
 ## Hide data in pivot 
 
 To hide pivoted data in report output, choose pivot hide first ( hides 1st column data in list) or choose pivot hide last (hides last column data in a list) in data section under **data-sets.**
@@ -203,6 +204,7 @@ To hide pivoted data in report output, choose pivot hide first ( hides 1st colum
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ab443ab38f10897e313c0d3e30800e0828c5d811/images/New_version5/UD_Reports_Image7.png)
+**Image 8**
 
 ## Group / Un-Group
 
@@ -365,7 +367,7 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg2OTQ5ODEsMTQzMjg5NTEyNSw0OD
+eyJoaXN0b3J5IjpbLTE4NzI2MDY5OTAsMTQzMjg5NTEyNSw0OD
 I0Nzg2ODYsLTM0Njg3NzU2OCw4OTg2ODMzMTksLTI0MjE1OTM2
 MiwtMjEwODYzMTUwNCw0Njk3NzU5NzEsNjM2NjczNDczLDE0Mz
 U2MzU1NjgsMjA0OTM1MTgwMCwxNzc3MTMyODQzLC0xNzkxNzgz
