@@ -165,7 +165,7 @@ For  **Measures** use opposite direction.
 -   Click on upper arrow to enable descending order.
 -   Click on down arrow to enable ascending order.
 
-**13.** The **Total time taken** to build a query for a report is displayed at top of the report screen and **Total number of rows** fetched displayed just below it. (R
+**13.** The **Total time taken** to build a query for a report is displayed at top of the report screen and **Total number of rows** fetched displayed just below it. (Refer image 5)
   
 **14.**  Select the  **Check Box** for totals, to display total sum values of the measure fields.
 
@@ -176,12 +176,13 @@ For  **Measures** use opposite direction.
 Multiple dimensions in a report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. 
 **Pivot can be applied in 2 ways :**
  
-**a.** To apply pivot **Before Retrieving** the data, Click on pivot icon at field selection.
+**a.** To apply pivot **Before Retrieving** the data, Click on pivot icon at field selection. (Refer image 6)
 
-**b.** To Apply pivot **After Retrieving** the data, select List icon, then choose Pivot option from field drop down list. 
+**b.** To Apply pivot **After Retrieving** the data, select List icon, then choose Pivot option from field drop down list. (Refer image 6)
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/853361b4c4a583c5fb273a41c7e497f2dc1564e1/images/New_version5/UD_Reports_Image5.png)
+**Image 6:**
 
 > **Note :** incase if you are using multiple pivot, make sure you have at least one un-pivoted dimension and a measure value.
 
@@ -364,7 +365,7 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODkyMzAxNDQsNDgyNDc4Njg2LC0zND
+eyJoaXN0b3J5IjpbLTIwODIwMzAyNzYsNDgyNDc4Njg2LC0zND
 Y4Nzc1NjgsODk4NjgzMzE5LC0yNDIxNTkzNjIsLTIxMDg2MzE1
 MDQsNDY5Nzc1OTcxLDYzNjY3MzQ3MywxNDM1NjM1NTY4LDIwND
 kzNTE4MDAsMTc3NzEzMjg0MywtMTc5MTc4MzQ2MiwxMzI4ODEx
