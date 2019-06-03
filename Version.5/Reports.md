@@ -224,7 +224,7 @@ To carry out Multi-level grouping on the data extracted. Select group option for
 
 **18.**  To find the specific field value, from the data extracted select **Find** from the field drop down.
 
-**19.**  To hide the specific field in the visualization charts select **Hide Visualization** in the drop down list  and to display the same select **Show visualization.**
+**19.**  To hide the specific field in the visualization charts select **Hide Visualization** in the drop down list  and to display the same select **Show visualization.** (Refer Image 8)
 
 **20.**  To remove a specific field column from the extracted list, select **Remove** from drop down list.
 
@@ -239,7 +239,7 @@ Click on  **Calculated column**  button to enable table calculations as shown in
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/26d0a3487833ab177c6be9fe97046d96212be2fa/images/New_version5/UD_Reports_Image9.png)
-
+**
 After navigating to calculated column, enter below fields;
 
 > **Note :** To Add sum amount 100 to the quantity sum as bonus declare a calculated column as below.
@@ -366,11 +366,11 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzEzNTQ1OCwxNDMyODk1MTI1LDQ4Mj
-Q3ODY4NiwtMzQ2ODc3NTY4LDg5ODY4MzMxOSwtMjQyMTU5MzYy
-LC0yMTA4NjMxNTA0LDQ2OTc3NTk3MSw2MzY2NzM0NzMsMTQzNT
-YzNTU2OCwyMDQ5MzUxODAwLDE3NzcxMzI4NDMsLTE3OTE3ODM0
-NjIsMTMyODgxMTAwNCwtMTk1MTUwNDc5NywxNjIzMjEyNzE2LC
-0xMDU0MTcyNDg0LC03NTU4MDQ1MTYsMTI1NDc1MTgxNCwtODQ2
-NjExOTYxXX0=
+eyJoaXN0b3J5IjpbMTI5NDkzNTk2LDE0MzI4OTUxMjUsNDgyND
+c4Njg2LC0zNDY4Nzc1NjgsODk4NjgzMzE5LC0yNDIxNTkzNjIs
+LTIxMDg2MzE1MDQsNDY5Nzc1OTcxLDYzNjY3MzQ3MywxNDM1Nj
+M1NTY4LDIwNDkzNTE4MDAsMTc3NzEzMjg0MywtMTc5MTc4MzQ2
+MiwxMzI4ODExMDA0LC0xOTUxNTA0Nzk3LDE2MjMyMTI3MTYsLT
+EwNTQxNzI0ODQsLTc1NTgwNDUxNiwxMjU0NzUxODE0LC04NDY2
+MTE5NjFdfQ==
 -->
