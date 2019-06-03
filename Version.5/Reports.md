@@ -42,11 +42,14 @@ Let us generate a query to display Stationcode (Dimension) and Order Attendant I
 
 ## SQL Query 
 
-To view the SQL query built on retrieving data in report, click on **SQL** section.
+To view the SQL query built  click on **SQL** section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Reports_Image13.png)
- then hit the **Run** button to extract.
+
+## Data Extract
+
+ Then hit the **Run** button to extract.
 
 In the following example we have selected **Two Dimensions and One Measure Field.**
 
@@ -362,11 +365,11 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQ5MzM1MzMsLTI0MjE1OTM2MiwtMj
-EwODYzMTUwNCw0Njk3NzU5NzEsNjM2NjczNDczLDE0MzU2MzU1
-NjgsMjA0OTM1MTgwMCwxNzc3MTMyODQzLC0xNzkxNzgzNDYyLD
-EzMjg4MTEwMDQsLTE5NTE1MDQ3OTcsMTYyMzIxMjcxNiwtMTA1
-NDE3MjQ4NCwtNzU1ODA0NTE2LDEyNTQ3NTE4MTQsLTg0NjYxMT
-k2MSwtMjUyNjM3NTA3LDExNDYzNTU5ODIsLTE3NzkwNTY2MTcs
-LTE2OTc2NTI1NzFdfQ==
+eyJoaXN0b3J5IjpbODk4NjgzMzE5LC0yNDIxNTkzNjIsLTIxMD
+g2MzE1MDQsNDY5Nzc1OTcxLDYzNjY3MzQ3MywxNDM1NjM1NTY4
+LDIwNDkzNTE4MDAsMTc3NzEzMjg0MywtMTc5MTc4MzQ2MiwxMz
+I4ODExMDA0LC0xOTUxNTA0Nzk3LDE2MjMyMTI3MTYsLTEwNTQx
+NzI0ODQsLTc1NTgwNDUxNiwxMjU0NzUxODE0LC04NDY2MTE5Nj
+EsLTI1MjYzNzUwNywxMTQ2MzU1OTgyLC0xNzc5MDU2NjE3LC0x
+Njk3NjUyNTcxXX0=
 -->
