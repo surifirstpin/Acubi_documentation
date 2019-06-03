@@ -2,7 +2,7 @@
 
 > <center><h1> Reports </h1></center>
 
-This section discuss how the query is built and how the data retrieved is represented in desired combinations based on the requirement and how efficiently explores particular subject area itself. Acubi reports have an ability to pull the data and modify the report as per the needs and drill down deeper into the Analytic reports for more better insights across the report.
+This section discuss, how the query is built and how the data retrieved is represented in desired combinations based on the requirement and how efficiently explores particular subject area itself. Acubi reports have an ability to pull the data and modify the report as per the needs and drill down deeper into the Analytic reports for more better insights across the report.
 
 
  To create a report, Click on **Reports Section**.
@@ -353,11 +353,11 @@ Click Save to **Save** the Report in Data Base.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTM1MTgwMCwxNzc3MTMyODQzLC0xNz
-kxNzgzNDYyLDEzMjg4MTEwMDQsLTE5NTE1MDQ3OTcsMTYyMzIx
-MjcxNiwtMTA1NDE3MjQ4NCwtNzU1ODA0NTE2LDEyNTQ3NTE4MT
-QsLTg0NjYxMTk2MSwtMjUyNjM3NTA3LDExNDYzNTU5ODIsLTE3
-NzkwNTY2MTcsLTE2OTc2NTI1NzEsNTA2NjIyMzczLC0xNTc3NT
-MzNDU5LDEyNTY2MzEwNSwyMDgwNzYxMDI0LDE1NDk4OTI3OCwx
-NzQ0NTIyMjA4XX0=
+eyJoaXN0b3J5IjpbMTQzNTYzNTU2OCwyMDQ5MzUxODAwLDE3Nz
+cxMzI4NDMsLTE3OTE3ODM0NjIsMTMyODgxMTAwNCwtMTk1MTUw
+NDc5NywxNjIzMjEyNzE2LC0xMDU0MTcyNDg0LC03NTU4MDQ1MT
+YsMTI1NDc1MTgxNCwtODQ2NjExOTYxLC0yNTI2Mzc1MDcsMTE0
+NjM1NTk4MiwtMTc3OTA1NjYxNywtMTY5NzY1MjU3MSw1MDY2Mj
+IzNzMsLTE1Nzc1MzM0NTksMTI1NjYzMTA1LDIwODA3NjEwMjQs
+MTU0OTg5Mjc4XX0=
 -->
