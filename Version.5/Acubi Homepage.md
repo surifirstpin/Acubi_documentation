@@ -6,9 +6,7 @@
 
 ## How to Login Acubi ?
 
-  Use the following navigation path to Login AcuBi.
-  
-**Link :** http://52.29.248.194:8081/biplus
+**Click on**  http://52.29.248.194:8081/biplus
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bb5d4c9f6814109a9645827e267e716c0d044c2a/images/New_version5/Homepage_v5.png)
 
@@ -25,6 +23,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4NDgyNjQ0LC05MTg0NzM5OTUsLTIwMD
-UxNjcxMTUsMjc4NjIwNzgzLC0xMTg0ODQ5Nzc2XX0=
+eyJoaXN0b3J5IjpbMTYyMjkxMDA3NSwtOTE4NDczOTk1LC0yMD
+A1MTY3MTE1LDI3ODYyMDc4MywtMTE4NDg0OTc3Nl19
 -->
