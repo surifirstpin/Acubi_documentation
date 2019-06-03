@@ -357,8 +357,9 @@ Click on Charts, to view the different type of pictorial representation for the 
     
 ## Saving under specific tag
 
-Reports built are saved under  **Work space**  tag.
-All the Reports generated can be saved under any **Pare
+
+All the Reports generated can be saved under any **Parent or Child Tag** available under **Workspace.**
+
 
 ## Defining Filter fields
 
@@ -370,8 +371,9 @@ Click Save to **Save** the Report in Data Base.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
+**Image 16**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjkxNjAxMCwxNDMyODk1MTI1LDQ4Mj
+eyJoaXN0b3J5IjpbLTEwNTQ0ODk4NCwxNDMyODk1MTI1LDQ4Mj
 Q3ODY4NiwtMzQ2ODc3NTY4LDg5ODY4MzMxOSwtMjQyMTU5MzYy
 LC0yMTA4NjMxNTA0LDQ2OTc3NTk3MSw2MzY2NzM0NzMsMTQzNT
 YzNTU2OCwyMDQ5MzUxODAwLDE3NzcxMzI4NDMsLTE3OTE3ODM0
