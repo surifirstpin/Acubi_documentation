@@ -38,7 +38,9 @@ As shown in the image there multiple editing options provided to **Pie chart**, 
 To hide the first or last column field data  in visualization, Select hide first or hide last check box in Data section. 
 To carry out this function, derive a expression in calculated column.
 
-**For Example :**  Apply Pivot to **whenmade_month** under data section. Apply subtraction for Order Value_Sum and derive the expression in calculated column as follow ;
+**For Example :**  Apply Pivot to **whenmade_month** under data section. 
+Derive following expression  in calculated column as follow ;
+
 >**Note :** Use $ to select the fields and later Replace it with # to Fetch the accurate values.	
 ```
 pivot_offset( ${ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
@@ -86,11 +88,11 @@ A more detailed explanation on visualization is given in visualization types and
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c0acf39f26482bbef006df3ae981d22e8067f00/images/New_version5/UD_Visualisation_Overview_Image7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODgzOTYxMiwtMTk3Nzc5NzIzNSwtMT
-Y3MzQzMzgxMiwxMjMwNDcwMjM0LC0xMzU1MTY0ODg0LC0xMTcx
-NzgyMDAyLC0xMTkwNDUyOTkzLC02MDk3NTUxMCw4ODM2NTcyMz
-ksMTYyOTA0ODA5MSwxNTMyMTQ5NzQ5LC0xNDgxNjAxMDU4LDMx
-Mjk0MDI1MSwtOTM0OTcxMTIwLDE1Nzk4MzE1OTQsMTI5Mzk3Nj
-YyNywxODAyNDczNDQ1LDI2Njg4ODY3Niw1OTczMTkxNDAsMjEz
-MTk5MDk4MF19
+eyJoaXN0b3J5IjpbLTE4NjE0NjMwMDcsLTQzODgzOTYxMiwtMT
+k3Nzc5NzIzNSwtMTY3MzQzMzgxMiwxMjMwNDcwMjM0LC0xMzU1
+MTY0ODg0LC0xMTcxNzgyMDAyLC0xMTkwNDUyOTkzLC02MDk3NT
+UxMCw4ODM2NTcyMzksMTYyOTA0ODA5MSwxNTMyMTQ5NzQ5LC0x
+NDgxNjAxMDU4LDMxMjk0MDI1MSwtOTM0OTcxMTIwLDE1Nzk4Mz
+E1OTQsMTI5Mzk3NjYyNywxODAyNDczNDQ1LDI2Njg4ODY3Niw1
+OTczMTkxNDBdfQ==
 -->
