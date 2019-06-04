@@ -11,7 +11,7 @@ Visualization in AcuBi creates impressive graphs and charts based on query resul
 
 **Basic overview on how visualization works ;**
 
-In Reports section you can configure data and visualization together, So once you share a query user will get a visualization picture and data as well.
+Under reports section you can together configure data and visualization, So once you share a query user will get a visualization picture and data as well.
 
 **For Instance** : Consider consider a pie chart, For which create a report to fetch Order details.  In this example we will query  **Stationcode, Whenmade_Month and order_value_sum.** Apply filter to Whenmade_month to a limit the data  to January, February and March. ( Pie chart supports maximum 20 division)
 
@@ -88,10 +88,10 @@ A more detailed explanation on visualization is given in visualization types and
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c0acf39f26482bbef006df3ae981d22e8067f00/images/New_version5/UD_Visualisation_Overview_Image7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NjkxOTg5NSwtMTE3MTc4MjAwMiwtMT
-E5MDQ1Mjk5MywtNjA5NzU1MTAsODgzNjU3MjM5LDE2MjkwNDgw
-OTEsMTUzMjE0OTc0OSwtMTQ4MTYwMTA1OCwzMTI5NDAyNTEsLT
-kzNDk3MTEyMCwxNTc5ODMxNTk0LDEyOTM5NzY2MjcsMTgwMjQ3
-MzQ0NSwyNjY4ODg2NzYsNTk3MzE5MTQwLDIxMzE5OTA5ODAsMT
-ExMTE4MTEzNl19
+eyJoaXN0b3J5IjpbLTEzNTUxNjQ4ODQsLTExNzE3ODIwMDIsLT
+ExOTA0NTI5OTMsLTYwOTc1NTEwLDg4MzY1NzIzOSwxNjI5MDQ4
+MDkxLDE1MzIxNDk3NDksLTE0ODE2MDEwNTgsMzEyOTQwMjUxLC
+05MzQ5NzExMjAsMTU3OTgzMTU5NCwxMjkzOTc2NjI3LDE4MDI0
+NzM0NDUsMjY2ODg4Njc2LDU5NzMxOTE0MCwyMTMxOTkwOTgwLD
+ExMTExODExMzZdfQ==
 -->
