@@ -42,7 +42,8 @@
     
 - **Points**  will display the data by specifying the points on the chart.
 
-- **Point style** will specify how the data points will appear on chart. below are the following options available. 
+- **Point style** will specify how the data points will appear on chart. 
+Below are the following options available. 
   - Circle
   - Triangle
   - Rectangle
@@ -401,11 +402,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTc5MjY3OCw4MTYxNzc5NzMsMTE3MD
-cyMzcxOCwtOTkyNDMxMjQsMTIyNDg2NjE0NCwxNDIxOTUxMTE0
-LDIwMTEwMTk5NzIsMTU0NzQyMDUzMCwyMDExMDE5OTcyLC01MD
-c4MTUwMzEsODUxNzIwMjI3LC0zOTgwNzE2NDksLTg4ODY0NzU4
-NywxNzkwMDM2NDMxLDcwMTk0OTY5MiwtMTUxNjQwNjYxMiwtMT
-Y5MDcyMDUxOSwtNjE5OTkxNjA5LDcwMjkwMzc2MiwyMDYzNzg2
-MjkwXX0=
+eyJoaXN0b3J5IjpbMjgwODc4ODcyLDgxNjE3Nzk3MywxMTcwNz
+IzNzE4LC05OTI0MzEyNCwxMjI0ODY2MTQ0LDE0MjE5NTExMTQs
+MjAxMTAxOTk3MiwxNTQ3NDIwNTMwLDIwMTEwMTk5NzIsLTUwNz
+gxNTAzMSw4NTE3MjAyMjcsLTM5ODA3MTY0OSwtODg4NjQ3NTg3
+LDE3OTAwMzY0MzEsNzAxOTQ5NjkyLC0xNTE2NDA2NjEyLC0xNj
+kwNzIwNTE5LC02MTk5OTE2MDksNzAyOTAzNzYyLDIwNjM3ODYy
+OTBdfQ==
 -->
