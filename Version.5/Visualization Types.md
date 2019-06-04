@@ -67,7 +67,7 @@ Horizontal Bar charts are used to compare data across different categories. You 
 
 ## Pie Chart 
 
-This section describes the editing option for Pie chart in visualization. 
+PIE chart are divided into slices to provide the numerical used to compare the dataThis section describes the editing option for Pie chart in visualization. 
  
  **3.**  Choose Chart Type **Pie** from the drop down list.
  
@@ -403,11 +403,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjUxNDM5LDI4MDg3ODg3Miw4MTYxNz
-c5NzMsMTE3MDcyMzcxOCwtOTkyNDMxMjQsMTIyNDg2NjE0NCwx
-NDIxOTUxMTE0LDIwMTEwMTk5NzIsMTU0NzQyMDUzMCwyMDExMD
-E5OTcyLC01MDc4MTUwMzEsODUxNzIwMjI3LC0zOTgwNzE2NDks
-LTg4ODY0NzU4NywxNzkwMDM2NDMxLDcwMTk0OTY5MiwtMTUxNj
-QwNjYxMiwtMTY5MDcyMDUxOSwtNjE5OTkxNjA5LDcwMjkwMzc2
-Ml19
+eyJoaXN0b3J5IjpbLTE3MTA5MzA2MjAsLTYxMjUxNDM5LDI4MD
+g3ODg3Miw4MTYxNzc5NzMsMTE3MDcyMzcxOCwtOTkyNDMxMjQs
+MTIyNDg2NjE0NCwxNDIxOTUxMTE0LDIwMTEwMTk5NzIsMTU0Nz
+QyMDUzMCwyMDExMDE5OTcyLC01MDc4MTUwMzEsODUxNzIwMjI3
+LC0zOTgwNzE2NDksLTg4ODY0NzU4NywxNzkwMDM2NDMxLDcwMT
+k0OTY5MiwtMTUxNjQwNjYxMiwtMTY5MDcyMDUxOSwtNjE5OTkx
+NjA5XX0=
 -->
