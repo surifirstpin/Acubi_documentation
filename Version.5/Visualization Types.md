@@ -64,7 +64,6 @@ Horizontal Bar charts are used to compare data across different categories. You 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1a322f67a5166b6fe77c00678ff264b7ac59252d/images/New_version5/UD_Visualization_Types&Settings_Image2.png)
 **Image 2**
-
 ## Pie Chart 
 
 PIE chart are divided into slices to provide the numerical proportion of the data.
@@ -73,7 +72,7 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e1868ae74d5d6d0289d45b6fa2bc71a9302ad97f/images/New_version5/UD_Visualization_Types&Settings_Image3.png)
-
+**Image 3**
 ### Editing Options in Pie Chart
  
 - **Show percentage**  displays percentage for each measure value in pie chart. To enable it select the **Check Box** show percentage as shown below;
@@ -84,7 +83,7 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
 - **Polar Area** On selecting the checkbox polar area, it enables the polar view for each dimensions in pie chart.
 
 -  **Donut** chart are equal to pie chart. They show relationships of parts to a whole. 
-- Select*Check Box** to enables the donut view.
+- Select checkbox to enable Donut view.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3ba1953c960af32db0af345fbb40776d222ee54e/images/New_version5/UD_Visualization_Types&Settings_Image5.png)
@@ -404,7 +403,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjEyNTE1NiwtNjEyNTE0MzksMjgwOD
+eyJoaXN0b3J5IjpbMTM1OTUxNTkzMiwtNjEyNTE0MzksMjgwOD
 c4ODcyLDgxNjE3Nzk3MywxMTcwNzIzNzE4LC05OTI0MzEyNCwx
 MjI0ODY2MTQ0LDE0MjE5NTExMTQsMjAxMTAxOTk3MiwxNTQ3ND
 IwNTMwLDIwMTEwMTk5NzIsLTUwNzgxNTAzMSw4NTE3MjAyMjcs
