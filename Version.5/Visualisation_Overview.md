@@ -85,13 +85,13 @@ You can drill deeper into visualization, to get more specific information about 
 
  > **Note:**  To carryout this function you need derive it in model first.
 
-> **Note : **A more detailed explanation on visualization is given in visualization types and settings documents.
-
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c0acf39f26482bbef006df3ae981d22e8067f00/images/New_version5/UD_Visualisation_Overview_Image7.png)
 **Image 7**
+
+> **Note : **A more detailed explanation on visualization is given in visualization types and settings documents.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTI1NTcxMzMsNTE3NjE3MywtNDM4OD
+eyJoaXN0b3J5IjpbLTExMzQ5MzMyODksNTE3NjE3MywtNDM4OD
 M5NjEyLC0xOTc3Nzk3MjM1LC0xNjczNDMzODEyLDEyMzA0NzAy
 MzQsLTEzNTUxNjQ4ODQsLTExNzE3ODIwMDIsLTExOTA0NTI5OT
 MsLTYwOTc1NTEwLDg4MzY1NzIzOSwxNjI5MDQ4MDkxLDE1MzIx
