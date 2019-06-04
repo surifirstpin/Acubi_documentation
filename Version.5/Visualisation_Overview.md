@@ -14,17 +14,13 @@ Visualization in AcuBi creates impressive graphs and charts based on query resul
 Under reports section data and visualization are configured together, So once you share a query user will get a visualization picture and data as well.
 
 **For Instance** :  Create a report to fetch Order details and query Stationcode, Whenmade_Month and order_value_sum. Apply **filter** to whenmade_month to limit the data  to January, February and March. 
-Now Consider a pie Chart in visualization section. ( Pie chart supports maximum 20 division)
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/588793b3bdaa6683973fbe70ceaf6b591ff25fb2/images/New_version5/UD_Visualisation_Overview_Image1.png)
 
-
 After selecting dimensions and measures, run the report to display the fetched data for Order details.
 
-
-
-## Visualization- Adds Life to Data
+**For Instance:** Consider a pie Chart in visualization section. ( Pie chart supports maximum 20 division)
 
 Click on **Charts** tab, to configure different type of visualization images for your query. 
 Under **General** tab, click on the type of chart you want to view.
@@ -89,11 +85,11 @@ A more detailed explanation on visualization is given in visualization types and
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c0acf39f26482bbef006df3ae981d22e8067f00/images/New_version5/UD_Visualisation_Overview_Image7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzc3OTcyMzUsLTE2NzM0MzM4MTIsMT
-IzMDQ3MDIzNCwtMTM1NTE2NDg4NCwtMTE3MTc4MjAwMiwtMTE5
-MDQ1Mjk5MywtNjA5NzU1MTAsODgzNjU3MjM5LDE2MjkwNDgwOT
-EsMTUzMjE0OTc0OSwtMTQ4MTYwMTA1OCwzMTI5NDAyNTEsLTkz
-NDk3MTEyMCwxNTc5ODMxNTk0LDEyOTM5NzY2MjcsMTgwMjQ3Mz
-Q0NSwyNjY4ODg2NzYsNTk3MzE5MTQwLDIxMzE5OTA5ODAsMTEx
-MTE4MTEzNl19
+eyJoaXN0b3J5IjpbMTA1ODM0MTU5NywtMTk3Nzc5NzIzNSwtMT
+Y3MzQzMzgxMiwxMjMwNDcwMjM0LC0xMzU1MTY0ODg0LC0xMTcx
+NzgyMDAyLC0xMTkwNDUyOTkzLC02MDk3NTUxMCw4ODM2NTcyMz
+ksMTYyOTA0ODA5MSwxNTMyMTQ5NzQ5LC0xNDgxNjAxMDU4LDMx
+Mjk0MDI1MSwtOTM0OTcxMTIwLDE1Nzk4MzE1OTQsMTI5Mzk3Nj
+YyNywxODAyNDczNDQ1LDI2Njg4ODY3Niw1OTczMTkxNDAsMjEz
+MTk5MDk4MF19
 -->
