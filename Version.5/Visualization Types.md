@@ -93,7 +93,8 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
 ## Radar chart 
 
  Radar charts are a great way to compare members of a dimension in a function of several metrics.  
-For example, when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
+ 
+**Example:** when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
 
  **4.** Choose chart type **Radar** from drop down list.
 
@@ -404,11 +405,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjg1MTQ0NjMsLTYxMjUxNDM5LDI4MD
-g3ODg3Miw4MTYxNzc5NzMsMTE3MDcyMzcxOCwtOTkyNDMxMjQs
-MTIyNDg2NjE0NCwxNDIxOTUxMTE0LDIwMTEwMTk5NzIsMTU0Nz
-QyMDUzMCwyMDExMDE5OTcyLC01MDc4MTUwMzEsODUxNzIwMjI3
-LC0zOTgwNzE2NDksLTg4ODY0NzU4NywxNzkwMDM2NDMxLDcwMT
-k0OTY5MiwtMTUxNjQwNjYxMiwtMTY5MDcyMDUxOSwtNjE5OTkx
-NjA5XX0=
+eyJoaXN0b3J5IjpbLTEwNzkxMjcxNzAsLTE3Mjg1MTQ0NjMsLT
+YxMjUxNDM5LDI4MDg3ODg3Miw4MTYxNzc5NzMsMTE3MDcyMzcx
+OCwtOTkyNDMxMjQsMTIyNDg2NjE0NCwxNDIxOTUxMTE0LDIwMT
+EwMTk5NzIsMTU0NzQyMDUzMCwyMDExMDE5OTcyLC01MDc4MTUw
+MzEsODUxNzIwMjI3LC0zOTgwNzE2NDksLTg4ODY0NzU4NywxNz
+kwMDM2NDMxLDcwMTk0OTY5MiwtMTUxNjQwNjYxMiwtMTY5MDcy
+MDUxOV19
 -->
