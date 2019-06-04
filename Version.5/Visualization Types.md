@@ -63,7 +63,7 @@ Horizontal Bar charts are used to compare data across different categories. You 
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1a322f67a5166b6fe77c00678ff264b7ac59252d/images/New_version5/UD_Visualization_Types&Settings_Image2.png)
-
+**Image 2**
 
 ## Pie Chart 
 
@@ -403,11 +403,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjYyNTYyODgsMjgwODc4ODcyLDgxNj
-E3Nzk3MywxMTcwNzIzNzE4LC05OTI0MzEyNCwxMjI0ODY2MTQ0
-LDE0MjE5NTExMTQsMjAxMTAxOTk3MiwxNTQ3NDIwNTMwLDIwMT
-EwMTk5NzIsLTUwNzgxNTAzMSw4NTE3MjAyMjcsLTM5ODA3MTY0
-OSwtODg4NjQ3NTg3LDE3OTAwMzY0MzEsNzAxOTQ5NjkyLC0xNT
-E2NDA2NjEyLC0xNjkwNzIwNTE5LC02MTk5OTE2MDksNzAyOTAz
-NzYyXX0=
+eyJoaXN0b3J5IjpbLTYxMjUxNDM5LDI4MDg3ODg3Miw4MTYxNz
+c5NzMsMTE3MDcyMzcxOCwtOTkyNDMxMjQsMTIyNDg2NjE0NCwx
+NDIxOTUxMTE0LDIwMTEwMTk5NzIsMTU0NzQyMDUzMCwyMDExMD
+E5OTcyLC01MDc4MTUwMzEsODUxNzIwMjI3LC0zOTgwNzE2NDks
+LTg4ODY0NzU4NywxNzkwMDM2NDMxLDcwMTk0OTY5MiwtMTUxNj
+QwNjYxMiwtMTY5MDcyMDUxOSwtNjE5OTkxNjA5LDcwMjkwMzc2
+Ml19
 -->
