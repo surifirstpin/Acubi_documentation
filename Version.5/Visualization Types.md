@@ -67,21 +67,21 @@ Horizontal Bar charts are used to compare data across different categories. You 
 
 ## Pie Chart 
 
-PIE chart are divided into slices to provide the numerical used to compare the dataThis section describes the editing option for Pie chart in visualization. 
+PIE chart are divided into slices to provide the numerical proportion of the data.
  
  **3.**  Choose Chart Type **Pie** from the drop down list.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e1868ae74d5d6d0289d45b6fa2bc71a9302ad97f/images/New_version5/UD_Visualization_Types&Settings_Image3.png)
 
-### Editing Options for Pie Chart
+### Editing Options in Pie Chart
  
 - **Show percentage**  displays percentage for each measure value in pie chart. To enable it select the **Check Box** show percentage as shown below;
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9efd7408868fc3755257f26138885e2ca684e1d0/images/New_version5/UD_Visualization_Types&Settings_Image4.png)
 
-- **Polar Area** On selecting the polar area **Check Box** it enables the polar view for each dimensions in pie chart.
+- **Polar Area** On selecting the checkbox polar area, it enables the polar view for each dimensions in pie chart.
 
 -  **Donut** donut chart are equal to pie chart. they show relationships of parts to a whole. select **Check Box** to enables the donut view.
 
@@ -403,11 +403,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA5MzA2MjAsLTYxMjUxNDM5LDI4MD
-g3ODg3Miw4MTYxNzc5NzMsMTE3MDcyMzcxOCwtOTkyNDMxMjQs
-MTIyNDg2NjE0NCwxNDIxOTUxMTE0LDIwMTEwMTk5NzIsMTU0Nz
-QyMDUzMCwyMDExMDE5OTcyLC01MDc4MTUwMzEsODUxNzIwMjI3
-LC0zOTgwNzE2NDksLTg4ODY0NzU4NywxNzkwMDM2NDMxLDcwMT
-k0OTY5MiwtMTUxNjQwNjYxMiwtMTY5MDcyMDUxOSwtNjE5OTkx
-NjA5XX0=
+eyJoaXN0b3J5IjpbMTY2Mzc5NzE1LC02MTI1MTQzOSwyODA4Nz
+g4NzIsODE2MTc3OTczLDExNzA3MjM3MTgsLTk5MjQzMTI0LDEy
+MjQ4NjYxNDQsMTQyMTk1MTExNCwyMDExMDE5OTcyLDE1NDc0Mj
+A1MzAsMjAxMTAxOTk3MiwtNTA3ODE1MDMxLDg1MTcyMDIyNywt
+Mzk4MDcxNjQ5LC04ODg2NDc1ODcsMTc5MDAzNjQzMSw3MDE5ND
+k2OTIsLTE1MTY0MDY2MTIsLTE2OTA3MjA1MTksLTYxOTk5MTYw
+OV19
 -->
