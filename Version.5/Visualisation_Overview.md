@@ -20,9 +20,10 @@ Under reports section data and visualization are configured together, So once yo
 
 After selecting dimensions and measures, run the report to display the fetched data for Order details.
 
-**For Instance:** Consider a pie Chart in visualization section. ( Pie chart supports maximum 20 division)
+> **Note:** Consider a pie Chart in visualization section. ( Pie chart supports maximum 20 division)
 
-Click on **Charts** tab, to configure different type of visualization images for your query. 
+Click on **Charts** tab, to view different type of visualization images available for your query.
+ 
 Under **General** tab, click on the type of chart you want to view.
 
 **For instance:** Consider **Pie Chart,** for better understanding.
@@ -85,7 +86,7 @@ A more detailed explanation on visualization is given in visualization types and
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c0acf39f26482bbef006df3ae981d22e8067f00/images/New_version5/UD_Visualisation_Overview_Image7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODM0MTU5NywtMTk3Nzc5NzIzNSwtMT
+eyJoaXN0b3J5IjpbMTIwMzIxNDk4NywtMTk3Nzc5NzIzNSwtMT
 Y3MzQzMzgxMiwxMjMwNDcwMjM0LC0xMzU1MTY0ODg0LC0xMTcx
 NzgyMDAyLC0xMTkwNDUyOTkzLC02MDk3NTUxMCw4ODM2NTcyMz
 ksMTYyOTA0ODA5MSwxNTMyMTQ5NzQ5LC0xNDgxNjAxMDU4LDMx
