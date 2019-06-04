@@ -71,14 +71,14 @@ In the above image you can see, hide_pivot 1st column is seen empty, so in order
 
 To refine and enhance the data obtained in AcuBi, It is provided with good number of customizing options.
 
-**For Instance** : Select **Percentage** checkbox in Pie chart which displays the quantity sum percentage of each month in percentage. 
+**For Instance** : Select checkbox **Percentage** in Pie chart which displays the quantity sum of each month in percentage. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/caef96a364da60995f83c18399b0f6c4b340ea46/images/New_version5/UD_Visualisation_Overview_Image6.png)
 
 ## Deeper insights in visualization
 
-You can drill deeper into visualization, to get more specific information about the data. In order to carry out this function, click on the data in table chart, so it will further drill down displaying more deeper insight about the data.
+You can drill deeper into visualization, to get more specific information about the data obtained. In order to carry out this function, single click on the data in table chart, so it will further drill down displaying more deeper insight about the data.
 
 **For Instance**: In below chart, when you click on country it will display the states that fall under that country, for more deeper insight on clicking on State_Name it will display the list of cities that fall under that states as shown clearly in below image.
 *Country_Name-->State_Name-->City_Name*
@@ -91,7 +91,7 @@ A more detailed explanation on visualization is given in visualization types and
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c0acf39f26482bbef006df3ae981d22e8067f00/images/New_version5/UD_Visualisation_Overview_Image7.png)
 **Image 6**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTg3MDY1Nyw1MTc2MTczLC00Mzg4Mz
+eyJoaXN0b3J5IjpbLTMwODc1OTA1Myw1MTc2MTczLC00Mzg4Mz
 k2MTIsLTE5Nzc3OTcyMzUsLTE2NzM0MzM4MTIsMTIzMDQ3MDIz
 NCwtMTM1NTE2NDg4NCwtMTE3MTc4MjAwMiwtMTE5MDQ1Mjk5My
 wtNjA5NzU1MTAsODgzNjU3MjM5LDE2MjkwNDgwOTEsMTUzMjE0
