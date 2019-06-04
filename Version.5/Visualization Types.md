@@ -11,6 +11,7 @@
  - Pie
  - Radar
  - Widget
+ - World
  - Bar
  - Bubble
  - Table 
@@ -400,11 +401,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDcyMzcxOCwtOTkyNDMxMjQsMTIyND
-g2NjE0NCwxNDIxOTUxMTE0LDIwMTEwMTk5NzIsMTU0NzQyMDUz
-MCwyMDExMDE5OTcyLC01MDc4MTUwMzEsODUxNzIwMjI3LC0zOT
-gwNzE2NDksLTg4ODY0NzU4NywxNzkwMDM2NDMxLDcwMTk0OTY5
-MiwtMTUxNjQwNjYxMiwtMTY5MDcyMDUxOSwtNjE5OTkxNjA5LD
-cwMjkwMzc2MiwyMDYzNzg2MjkwLC0xODM3MDk3MjI2LC0xNzU5
-MzUzMTgzXX0=
+eyJoaXN0b3J5IjpbODE2MTc3OTczLDExNzA3MjM3MTgsLTk5Mj
+QzMTI0LDEyMjQ4NjYxNDQsMTQyMTk1MTExNCwyMDExMDE5OTcy
+LDE1NDc0MjA1MzAsMjAxMTAxOTk3MiwtNTA3ODE1MDMxLDg1MT
+cyMDIyNywtMzk4MDcxNjQ5LC04ODg2NDc1ODcsMTc5MDAzNjQz
+MSw3MDE5NDk2OTIsLTE1MTY0MDY2MTIsLTE2OTA3MjA1MTksLT
+YxOTk5MTYwOSw3MDI5MDM3NjIsMjA2Mzc4NjI5MCwtMTgzNzA5
+NzIyNl19
 -->
