@@ -115,7 +115,7 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
   - Line
   - Dash
   
-- **Reverse scale** on selecting the checkbox the values shown in the chart will be reversed, i.e. if the 10 highest values are shown and the box is checked, then chart will  show the 10 lowest values.
+- **Reverse scale** on selecting the checkbox, it display the reversal side othe values shown in the chart will be reversed, i.e. if the 10 highest values are shown and the box is checked, then chart will  show the 10 lowest values.
 
 - **Show ticklabels** on selecting the checkbox  it enables measure values on y-axis.
 
@@ -406,7 +406,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3NjUxOTg3LC0xNzI4NTE0NDYzLC02MT
+eyJoaXN0b3J5IjpbMTY0Njg0MzQ5LC0xNzI4NTE0NDYzLC02MT
 I1MTQzOSwyODA4Nzg4NzIsODE2MTc3OTczLDExNzA3MjM3MTgs
 LTk5MjQzMTI0LDEyMjQ4NjYxNDQsMTQyMTk1MTExNCwyMDExMD
 E5OTcyLDE1NDc0MjA1MzAsMjAxMTAxOTk3MiwtNTA3ODE1MDMx
