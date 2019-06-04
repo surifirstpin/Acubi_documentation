@@ -89,9 +89,9 @@ A more detailed explanation on visualization is given in visualization types and
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c0acf39f26482bbef006df3ae981d22e8067f00/images/New_version5/UD_Visualisation_Overview_Image7.png)
-**Image **
+**Image 6**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjI0OTg0NjEsLTQzODgzOTYxMiwtMT
+eyJoaXN0b3J5IjpbLTEwODg3NzQ2OTMsLTQzODgzOTYxMiwtMT
 k3Nzc5NzIzNSwtMTY3MzQzMzgxMiwxMjMwNDcwMjM0LC0xMzU1
 MTY0ODg0LC0xMTcxNzgyMDAyLC0xMTkwNDUyOTkzLC02MDk3NT
 UxMCw4ODM2NTcyMzksMTYyOTA0ODA5MSwxNTMyMTQ5NzQ5LC0x
