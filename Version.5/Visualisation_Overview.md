@@ -69,9 +69,9 @@ In the above image you can see, hide_pivot 1st column is seen empty, so in order
 
 ## Refine Visualization
 
-To refine and enhance the data obtained in AcuBi, there are good number of customizing options available in Acubi Visualization section.
+To refine and enhance the data obtained in AcuBi, It is provided with good number of customizing options.
 
-For Instance : Consider a Pie chart, and select **Percentage** checkbox, which displays the quantity sum percentage of each month. 
+**For Instance** : fo Pie chart, select **Percentage** checkbox, which displays the quantity sum percentage of each month. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/caef96a364da60995f83c18399b0f6c4b340ea46/images/New_version5/UD_Visualisation_Overview_Image6.png)
@@ -91,7 +91,7 @@ A more detailed explanation on visualization is given in visualization types and
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c0acf39f26482bbef006df3ae981d22e8067f00/images/New_version5/UD_Visualisation_Overview_Image7.png)
 **Image 6**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjI0MjcwOSw1MTc2MTczLC00Mzg4Mz
+eyJoaXN0b3J5IjpbMTYyNjQ0NDgxMiw1MTc2MTczLC00Mzg4Mz
 k2MTIsLTE5Nzc3OTcyMzUsLTE2NzM0MzM4MTIsMTIzMDQ3MDIz
 NCwtMTM1NTE2NDg4NCwtMTE3MTc4MjAwMiwtMTE5MDQ1Mjk5My
 wtNjA5NzU1MTAsODgzNjU3MjM5LDE2MjkwNDgwOTEsMTUzMjE0
