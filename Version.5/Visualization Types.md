@@ -79,6 +79,7 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9efd7408868fc3755257f26138885e2ca684e1d0/images/New_version5/UD_Visualization_Types&Settings_Image4.png)
+**Image 4**
 
 - **Polar Area** On selecting the checkbox polar area, it enables the polar view for each dimensions in pie chart.
 
@@ -87,7 +88,7 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3ba1953c960af32db0af345fbb40776d222ee54e/images/New_version5/UD_Visualization_Types&Settings_Image5.png)
-
+**Image 5**
 
 ## Radar chart 
 
@@ -403,11 +404,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTUxNTkzMiwtNjEyNTE0MzksMjgwOD
-c4ODcyLDgxNjE3Nzk3MywxMTcwNzIzNzE4LC05OTI0MzEyNCwx
-MjI0ODY2MTQ0LDE0MjE5NTExMTQsMjAxMTAxOTk3MiwxNTQ3ND
-IwNTMwLDIwMTEwMTk5NzIsLTUwNzgxNTAzMSw4NTE3MjAyMjcs
-LTM5ODA3MTY0OSwtODg4NjQ3NTg3LDE3OTAwMzY0MzEsNzAxOT
-Q5NjkyLC0xNTE2NDA2NjEyLC0xNjkwNzIwNTE5LC02MTk5OTE2
-MDldfQ==
+eyJoaXN0b3J5IjpbLTE3Mjg1MTQ0NjMsLTYxMjUxNDM5LDI4MD
+g3ODg3Miw4MTYxNzc5NzMsMTE3MDcyMzcxOCwtOTkyNDMxMjQs
+MTIyNDg2NjE0NCwxNDIxOTUxMTE0LDIwMTEwMTk5NzIsMTU0Nz
+QyMDUzMCwyMDExMDE5OTcyLC01MDc4MTUwMzEsODUxNzIwMjI3
+LC0zOTgwNzE2NDksLTg4ODY0NzU4NywxNzkwMDM2NDMxLDcwMT
+k0OTY5MiwtMTUxNjQwNjYxMiwtMTY5MDcyMDUxOSwtNjE5OTkx
+NjA5XX0=
 -->
