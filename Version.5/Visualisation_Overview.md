@@ -71,7 +71,7 @@ In the above image you can see, hide_pivot 1st column is seen empty, so in order
 
 To refine and enhance the data obtained in AcuBi, It is provided with good number of customizing options.
 
-**For Instance** : fo Pie chart, select **Percentage** checkbox, which displays the quantity sum percentage of each month. 
+**For Instance** : In Pie chart, select **Percentage** checkbox, which displays the quantity sum percentage of each month. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/caef96a364da60995f83c18399b0f6c4b340ea46/images/New_version5/UD_Visualisation_Overview_Image6.png)
@@ -91,11 +91,11 @@ A more detailed explanation on visualization is given in visualization types and
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c0acf39f26482bbef006df3ae981d22e8067f00/images/New_version5/UD_Visualisation_Overview_Image7.png)
 **Image 6**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjQ0NDgxMiw1MTc2MTczLC00Mzg4Mz
-k2MTIsLTE5Nzc3OTcyMzUsLTE2NzM0MzM4MTIsMTIzMDQ3MDIz
-NCwtMTM1NTE2NDg4NCwtMTE3MTc4MjAwMiwtMTE5MDQ1Mjk5My
-wtNjA5NzU1MTAsODgzNjU3MjM5LDE2MjkwNDgwOTEsMTUzMjE0
-OTc0OSwtMTQ4MTYwMTA1OCwzMTI5NDAyNTEsLTkzNDk3MTEyMC
-wxNTc5ODMxNTk0LDEyOTM5NzY2MjcsMTgwMjQ3MzQ0NSwyNjY4
-ODg2NzZdfQ==
+eyJoaXN0b3J5IjpbMTAwNjY4OTQ0LDUxNzYxNzMsLTQzODgzOT
+YxMiwtMTk3Nzc5NzIzNSwtMTY3MzQzMzgxMiwxMjMwNDcwMjM0
+LC0xMzU1MTY0ODg0LC0xMTcxNzgyMDAyLC0xMTkwNDUyOTkzLC
+02MDk3NTUxMCw4ODM2NTcyMzksMTYyOTA0ODA5MSwxNTMyMTQ5
+NzQ5LC0xNDgxNjAxMDU4LDMxMjk0MDI1MSwtOTM0OTcxMTIwLD
+E1Nzk4MzE1OTQsMTI5Mzk3NjYyNywxODAyNDczNDQ1LDI2Njg4
+ODY3Nl19
 -->
