@@ -3,7 +3,9 @@
 
 <center><h1>Visualization Types and Settings</h1></center>
 
- Visualization provides an opportunity to view the data obtained in analysis report into different pictorial representation along with some standard editing options. Based on the priority, to view specific information about the data retrieved. Each type of visualization charts have different setting which can be customized for its appearance. You can visualize the data in Acubi in 10 different types of charts.
+ Visualization provides an opportunity to view the data obtained in analysis report into different pictorial representation along with some standard editing options. Based on the priority, to view specific information about the data retrieved. Each type of visualization charts have different setting which can be customized for its appearance. 
+ 
+ ***Types of visualization charts in Acubi;***
  - Line
  - Horizontal Bar
  - Pie
@@ -398,7 +400,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDU0MDUwMiwtOTkyNDMxMjQsMTIyND
+eyJoaXN0b3J5IjpbMTE3MDcyMzcxOCwtOTkyNDMxMjQsMTIyND
 g2NjE0NCwxNDIxOTUxMTE0LDIwMTEwMTk5NzIsMTU0NzQyMDUz
 MCwyMDExMDE5OTcyLC01MDc4MTUwMzEsODUxNzIwMjI3LC0zOT
 gwNzE2NDksLTg4ODY0NzU4NywxNzkwMDM2NDMxLDcwMTk0OTY5
