@@ -100,6 +100,7 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/751eed2fc28d82c24e883a2d567d5f389919b172/images/New_version5/UD_Visualization_Types&Settings_Image6.png)
+**Image 6**
 
 - **Points** on selecting the checkbox it enables pointers for the data range in line chart.
 
@@ -405,11 +406,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzkxMjcxNzAsLTE3Mjg1MTQ0NjMsLT
-YxMjUxNDM5LDI4MDg3ODg3Miw4MTYxNzc5NzMsMTE3MDcyMzcx
-OCwtOTkyNDMxMjQsMTIyNDg2NjE0NCwxNDIxOTUxMTE0LDIwMT
-EwMTk5NzIsMTU0NzQyMDUzMCwyMDExMDE5OTcyLC01MDc4MTUw
-MzEsODUxNzIwMjI3LC0zOTgwNzE2NDksLTg4ODY0NzU4NywxNz
-kwMDM2NDMxLDcwMTk0OTY5MiwtMTUxNjQwNjYxMiwtMTY5MDcy
-MDUxOV19
+eyJoaXN0b3J5IjpbNjU3NjUxOTg3LC0xNzI4NTE0NDYzLC02MT
+I1MTQzOSwyODA4Nzg4NzIsODE2MTc3OTczLDExNzA3MjM3MTgs
+LTk5MjQzMTI0LDEyMjQ4NjYxNDQsMTQyMTk1MTExNCwyMDExMD
+E5OTcyLDE1NDc0MjA1MzAsMjAxMTAxOTk3MiwtNTA3ODE1MDMx
+LDg1MTcyMDIyNywtMzk4MDcxNjQ5LC04ODg2NDc1ODcsMTc5MD
+AzNjQzMSw3MDE5NDk2OTIsLTE1MTY0MDY2MTIsLTE2OTA3MjA1
+MTldfQ==
 -->
