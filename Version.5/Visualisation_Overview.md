@@ -90,13 +90,13 @@ You can drill deeper into visualization, to get more specific information about 
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c0acf39f26482bbef006df3ae981d22e8067f00/images/New_version5/UD_Visualisation_Overview_Image7.png)
 **Image 7**
 
-> **Note : **A more detailed explanation on visualization is given in visualization types and settings documents.
+> **Note :** A more detailed explanation on visualization is given in visualization types and settings documents.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyODMyNjgxLC0xMTM0OTMzMjg5LDUxNz
-YxNzMsLTQzODgzOTYxMiwtMTk3Nzc5NzIzNSwtMTY3MzQzMzgx
-MiwxMjMwNDcwMjM0LC0xMzU1MTY0ODg0LC0xMTcxNzgyMDAyLC
-0xMTkwNDUyOTkzLC02MDk3NTUxMCw4ODM2NTcyMzksMTYyOTA0
-ODA5MSwxNTMyMTQ5NzQ5LC0xNDgxNjAxMDU4LDMxMjk0MDI1MS
-wtOTM0OTcxMTIwLDE1Nzk4MzE1OTQsMTI5Mzk3NjYyNywxODAy
-NDczNDQ1XX0=
+eyJoaXN0b3J5IjpbLTE2Mjk4MDI1ODMsNTYyODMyNjgxLC0xMT
+M0OTMzMjg5LDUxNzYxNzMsLTQzODgzOTYxMiwtMTk3Nzc5NzIz
+NSwtMTY3MzQzMzgxMiwxMjMwNDcwMjM0LC0xMzU1MTY0ODg0LC
+0xMTcxNzgyMDAyLC0xMTkwNDUyOTkzLC02MDk3NTUxMCw4ODM2
+NTcyMzksMTYyOTA0ODA5MSwxNTMyMTQ5NzQ5LC0xNDgxNjAxMD
+U4LDMxMjk0MDI1MSwtOTM0OTcxMTIwLDE1Nzk4MzE1OTQsMTI5
+Mzk3NjYyN119
 -->
