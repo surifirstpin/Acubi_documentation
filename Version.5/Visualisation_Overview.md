@@ -17,6 +17,7 @@ Under reports section data and visualization are configured together, So once yo
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/588793b3bdaa6683973fbe70ceaf6b591ff25fb2/images/New_version5/UD_Visualisation_Overview_Image1.png)
+**image 1**
 
 After selecting dimensions and measures, run the report to display the fetched data for Order details.
 
@@ -24,12 +25,13 @@ After selecting dimensions and measures, run the report to display the fetched d
 
 Click on **Charts** tab, to view different type of visualization images available for your query.
  
-Under **General** tab, Select the chart type **PIE** from available drop-down list.
+Under **General** tab, Select the chart type **PIE** from available drop-down list. ( Refer image 2)
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/588793b3bdaa6683973fbe70ceaf6b591ff25fb2/images/New_version5/UD_Visualisation_Overview_Image2.png)
+**Image 2**
 
-As shown in above image there multiple editing options provided to **Pie chart**, Similarly you can also view types of visualization options available in AcuBi.
+As shown in the image there multiple editing options provided to **Pie chart**, Similarly you can also view types of visualization options available in AcuBi.
 
 ## Hide Pivot
 
@@ -84,11 +86,11 @@ A more detailed explanation on visualization is given in visualization types and
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c0acf39f26482bbef006df3ae981d22e8067f00/images/New_version5/UD_Visualisation_Overview_Image7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzMwNTY1OTcsLTE5Nzc3OTcyMzUsLT
-E2NzM0MzM4MTIsMTIzMDQ3MDIzNCwtMTM1NTE2NDg4NCwtMTE3
-MTc4MjAwMiwtMTE5MDQ1Mjk5MywtNjA5NzU1MTAsODgzNjU3Mj
-M5LDE2MjkwNDgwOTEsMTUzMjE0OTc0OSwtMTQ4MTYwMTA1OCwz
-MTI5NDAyNTEsLTkzNDk3MTEyMCwxNTc5ODMxNTk0LDEyOTM5Nz
-Y2MjcsMTgwMjQ3MzQ0NSwyNjY4ODg2NzYsNTk3MzE5MTQwLDIx
-MzE5OTA5ODBdfQ==
+eyJoaXN0b3J5IjpbLTg3MjYwMTUxOCwtMTk3Nzc5NzIzNSwtMT
+Y3MzQzMzgxMiwxMjMwNDcwMjM0LC0xMzU1MTY0ODg0LC0xMTcx
+NzgyMDAyLC0xMTkwNDUyOTkzLC02MDk3NTUxMCw4ODM2NTcyMz
+ksMTYyOTA0ODA5MSwxNTMyMTQ5NzQ5LC0xNDgxNjAxMDU4LDMx
+Mjk0MDI1MSwtOTM0OTcxMTIwLDE1Nzk4MzE1OTQsMTI5Mzk3Nj
+YyNywxODAyNDczNDQ1LDI2Njg4ODY3Niw1OTczMTkxNDAsMjEz
+MTk5MDk4MF19
 -->
