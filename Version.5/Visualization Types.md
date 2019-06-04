@@ -83,7 +83,8 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
 
 - **Polar Area** On selecting the checkbox polar area, it enables the polar view for each dimensions in pie chart.
 
--  **Donut** donut chart are equal to pie chart. they show relationships of parts to a whole. select **Check Box** to enables the donut view.
+-  **Donut** chart are equal to pie chart. They show relationships of parts to a whole. 
+- Select*Check Box** to enables the donut view.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3ba1953c960af32db0af345fbb40776d222ee54e/images/New_version5/UD_Visualization_Types&Settings_Image5.png)
@@ -403,11 +404,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2Mzc5NzE1LC02MTI1MTQzOSwyODA4Nz
-g4NzIsODE2MTc3OTczLDExNzA3MjM3MTgsLTk5MjQzMTI0LDEy
-MjQ4NjYxNDQsMTQyMTk1MTExNCwyMDExMDE5OTcyLDE1NDc0Mj
-A1MzAsMjAxMTAxOTk3MiwtNTA3ODE1MDMxLDg1MTcyMDIyNywt
-Mzk4MDcxNjQ5LC04ODg2NDc1ODcsMTc5MDAzNjQzMSw3MDE5ND
-k2OTIsLTE1MTY0MDY2MTIsLTE2OTA3MjA1MTksLTYxOTk5MTYw
-OV19
+eyJoaXN0b3J5IjpbLTc5NjEyNTE1NiwtNjEyNTE0MzksMjgwOD
+c4ODcyLDgxNjE3Nzk3MywxMTcwNzIzNzE4LC05OTI0MzEyNCwx
+MjI0ODY2MTQ0LDE0MjE5NTExMTQsMjAxMTAxOTk3MiwxNTQ3ND
+IwNTMwLDIwMTEwMTk5NzIsLTUwNzgxNTAzMSw4NTE3MjAyMjcs
+LTM5ODA3MTY0OSwtODg4NjQ3NTg3LDE3OTAwMzY0MzEsNzAxOT
+Q5NjkyLC0xNTE2NDA2NjEyLC0xNjkwNzIwNTE5LC02MTk5OTE2
+MDldfQ==
 -->
