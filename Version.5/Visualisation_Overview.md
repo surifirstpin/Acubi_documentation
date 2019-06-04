@@ -47,11 +47,13 @@ pivot_offset( ${ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ```
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ba6e2d3a06a7fd83e84e6344095e5c673abbea8d/images/New_version5/UD_Visualisation_Overview_Image3.png)
+**Image 3**
 
 The resultant for this expression would be seen in green colour;
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e9c507879e500b4be6a758a27d99c4ddb4806335/images/New_version5/UD_Visualisation_Overview_Image4.png)
+**Image 4**
 
 In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. Similarly you can hide last column by selecting the check box pivot hide last. (Applicable only for table chart). 
 
@@ -88,7 +90,7 @@ A more detailed explanation on visualization is given in visualization types and
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c0acf39f26482bbef006df3ae981d22e8067f00/images/New_version5/UD_Visualisation_Overview_Image7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjE0NjMwMDcsLTQzODgzOTYxMiwtMT
+eyJoaXN0b3J5IjpbLTE5MTEyMjc1OTQsLTQzODgzOTYxMiwtMT
 k3Nzc5NzIzNSwtMTY3MzQzMzgxMiwxMjMwNDcwMjM0LC0xMzU1
 MTY0ODg0LC0xMTcxNzgyMDAyLC0xMTkwNDUyOTkzLC02MDk3NT
 UxMCw4ODM2NTcyMzksMTYyOTA0ODA5MSwxNTMyMTQ5NzQ5LC0x
