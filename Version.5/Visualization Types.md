@@ -40,7 +40,7 @@
    - Area-Step
    - Scatter
     
-- **Points**  will display the the data by specifying the points on the chart.
+- **Points**  will display the data by specifying the points on the chart.
 
 - **Point style** will specify how the data points will appear on chart. below are the following options available. 
   - Circle
@@ -401,11 +401,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2MTc3OTczLDExNzA3MjM3MTgsLTk5Mj
-QzMTI0LDEyMjQ4NjYxNDQsMTQyMTk1MTExNCwyMDExMDE5OTcy
-LDE1NDc0MjA1MzAsMjAxMTAxOTk3MiwtNTA3ODE1MDMxLDg1MT
-cyMDIyNywtMzk4MDcxNjQ5LC04ODg2NDc1ODcsMTc5MDAzNjQz
-MSw3MDE5NDk2OTIsLTE1MTY0MDY2MTIsLTE2OTA3MjA1MTksLT
-YxOTk5MTYwOSw3MDI5MDM3NjIsMjA2Mzc4NjI5MCwtMTgzNzA5
-NzIyNl19
+eyJoaXN0b3J5IjpbMTM3NTc5MjY3OCw4MTYxNzc5NzMsMTE3MD
+cyMzcxOCwtOTkyNDMxMjQsMTIyNDg2NjE0NCwxNDIxOTUxMTE0
+LDIwMTEwMTk5NzIsMTU0NzQyMDUzMCwyMDExMDE5OTcyLC01MD
+c4MTUwMzEsODUxNzIwMjI3LC0zOTgwNzE2NDksLTg4ODY0NzU4
+NywxNzkwMDM2NDMxLDcwMTk0OTY5MiwtMTUxNjQwNjYxMiwtMT
+Y5MDcyMDUxOSwtNjE5OTkxNjA5LDcwMjkwMzc2MiwyMDYzNzg2
+MjkwXX0=
 -->
