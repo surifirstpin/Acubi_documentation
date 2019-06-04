@@ -75,27 +75,27 @@ To refine and enhance the data obtained in AcuBi, It is provided with good numbe
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/caef96a364da60995f83c18399b0f6c4b340ea46/images/New_version5/UD_Visualisation_Overview_Image6.png)
-
+**Image 6**
 ## Deeper insights in visualization
 
-You can drill deeper into visualization, to get more specific information about the data obtained. In order to carry out this function, single click on the data in table chart, so it will further drill down displaying more deeper insight about the data.
+You can drill deeper into visualization, to get more specific information about the data obtained. In order to carry out this function, single click on the data field in table chart, it will further drill down displaying more deeper insight about the data field.
 
 **For Instance**: In below chart, when you click on country it will display the states that fall under that country, for more deeper insight on clicking on State_Name it will display the list of cities that fall under that states as shown clearly in below image.
 *Country_Name-->State_Name-->City_Name*
 
  > **Note:**  To carryout this function you need derive it in model first.
 
-A more detailed explanation on visualization is given in visualization types and settings documents.
+> **Note : **A more detailed explanation on visualization is given in visualization types and settings documents.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c0acf39f26482bbef006df3ae981d22e8067f00/images/New_version5/UD_Visualisation_Overview_Image7.png)
-**Image 6**
+**Image 7**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwODc1OTA1Myw1MTc2MTczLC00Mzg4Mz
-k2MTIsLTE5Nzc3OTcyMzUsLTE2NzM0MzM4MTIsMTIzMDQ3MDIz
-NCwtMTM1NTE2NDg4NCwtMTE3MTc4MjAwMiwtMTE5MDQ1Mjk5My
-wtNjA5NzU1MTAsODgzNjU3MjM5LDE2MjkwNDgwOTEsMTUzMjE0
-OTc0OSwtMTQ4MTYwMTA1OCwzMTI5NDAyNTEsLTkzNDk3MTEyMC
-wxNTc5ODMxNTk0LDEyOTM5NzY2MjcsMTgwMjQ3MzQ0NSwyNjY4
-ODg2NzZdfQ==
+eyJoaXN0b3J5IjpbLTExOTI1NTcxMzMsNTE3NjE3MywtNDM4OD
+M5NjEyLC0xOTc3Nzk3MjM1LC0xNjczNDMzODEyLDEyMzA0NzAy
+MzQsLTEzNTUxNjQ4ODQsLTExNzE3ODIwMDIsLTExOTA0NTI5OT
+MsLTYwOTc1NTEwLDg4MzY1NzIzOSwxNjI5MDQ4MDkxLDE1MzIx
+NDk3NDksLTE0ODE2MDEwNTgsMzEyOTQwMjUxLC05MzQ5NzExMj
+AsMTU3OTgzMTU5NCwxMjkzOTc2NjI3LDE4MDI0NzM0NDUsMjY2
+ODg4Njc2XX0=
 -->
