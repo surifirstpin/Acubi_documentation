@@ -3,7 +3,7 @@
 
 <center><h1>Visualization Types and Settings</h1></center>
 
- Visuali provides an opportunity to view the data obtained in analysis report into different pictorial representation along with some standard editing options. Based on the priority, to view specific information about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. You can visualize the data in 10 different types of charts.
+ Visualization provides an opportunity to view the data obtained in analysis report into different pictorial representation along with some standard editing options. Based on the priority, to view specific information about the data retrieved. Each type of visualization charts have different setting which can be customized for its appearance. You can visualize the data in Acubi in 10 different types of charts.
  - Line
  - Horizontal Bar
  - Pie
@@ -398,11 +398,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDAxMzUzMzEsLTk5MjQzMTI0LDEyMj
-Q4NjYxNDQsMTQyMTk1MTExNCwyMDExMDE5OTcyLDE1NDc0MjA1
-MzAsMjAxMTAxOTk3MiwtNTA3ODE1MDMxLDg1MTcyMDIyNywtMz
-k4MDcxNjQ5LC04ODg2NDc1ODcsMTc5MDAzNjQzMSw3MDE5NDk2
-OTIsLTE1MTY0MDY2MTIsLTE2OTA3MjA1MTksLTYxOTk5MTYwOS
-w3MDI5MDM3NjIsMjA2Mzc4NjI5MCwtMTgzNzA5NzIyNiwtMTc1
-OTM1MzE4M119
+eyJoaXN0b3J5IjpbMTUyNDU0MDUwMiwtOTkyNDMxMjQsMTIyND
+g2NjE0NCwxNDIxOTUxMTE0LDIwMTEwMTk5NzIsMTU0NzQyMDUz
+MCwyMDExMDE5OTcyLC01MDc4MTUwMzEsODUxNzIwMjI3LC0zOT
+gwNzE2NDksLTg4ODY0NzU4NywxNzkwMDM2NDMxLDcwMTk0OTY5
+MiwtMTUxNjQwNjYxMiwtMTY5MDcyMDUxOSwtNjE5OTkxNjA5LD
+cwMjkwMzc2MiwyMDYzNzg2MjkwLC0xODM3MDk3MjI2LC0xNzU5
+MzUzMTgzXX0=
 -->
