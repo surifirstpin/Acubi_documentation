@@ -3,7 +3,7 @@
 
 <center><h1>Visualization Overview</h1></center>
 
-This section describes a basic overview on visualization and its functionality.
+This section discuss a basic overview on visualization and its functionality.
 
 > **Note :**  A more detailed explanation is mentioned clearly in **Visualization Types and Settings** document
 
@@ -88,9 +88,9 @@ A more detailed explanation on visualization is given in visualization types and
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c0acf39f26482bbef006df3ae981d22e8067f00/images/New_version5/UD_Visualisation_Overview_Image7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTc1NTEwLDg4MzY1NzIzOSwxNjI5MD
-Q4MDkxLDE1MzIxNDk3NDksLTE0ODE2MDEwNTgsMzEyOTQwMjUx
-LC05MzQ5NzExMjAsMTU3OTgzMTU5NCwxMjkzOTc2NjI3LDE4MD
-I0NzM0NDUsMjY2ODg4Njc2LDU5NzMxOTE0MCwyMTMxOTkwOTgw
-LDExMTExODExMzZdfQ==
+eyJoaXN0b3J5IjpbNzY1MjU5MjAyLC02MDk3NTUxMCw4ODM2NT
+cyMzksMTYyOTA0ODA5MSwxNTMyMTQ5NzQ5LC0xNDgxNjAxMDU4
+LDMxMjk0MDI1MSwtOTM0OTcxMTIwLDE1Nzk4MzE1OTQsMTI5Mz
+k3NjYyNywxODAyNDczNDQ1LDI2Njg4ODY3Niw1OTczMTkxNDAs
+MjEzMTk5MDk4MCwxMTExMTgxMTM2XX0=
 -->
