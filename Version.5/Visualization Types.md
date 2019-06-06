@@ -189,7 +189,8 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 - **Negative colour-from & to** Specify colour for specific range of negative values.
 
 ## Bar Chart
-Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the Rows and a measure on the Columns area.
+
+Bar charts are used to compare data across different categories. Bar chart is built by placing a dimension on a row and a measure on the column area.
 
 **7.** Choose chart type **Bar** from drop down list, under general section.
 
@@ -406,11 +407,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTkwODQyMiwtNTk3OTU2NTk5LC0xNT
-c5NjMwMDU1LDEyNTA3ODcyNzEsLTE2NjU0OTg1NjIsLTE3Mjg1
-MTQ0NjMsLTYxMjUxNDM5LDI4MDg3ODg3Miw4MTYxNzc5NzMsMT
-E3MDcyMzcxOCwtOTkyNDMxMjQsMTIyNDg2NjE0NCwxNDIxOTUx
-MTE0LDIwMTEwMTk5NzIsMTU0NzQyMDUzMCwyMDExMDE5OTcyLC
-01MDc4MTUwMzEsODUxNzIwMjI3LC0zOTgwNzE2NDksLTg4ODY0
-NzU4N119
+eyJoaXN0b3J5IjpbNzExOTIyMiwxNDU5OTA4NDIyLC01OTc5NT
+Y1OTksLTE1Nzk2MzAwNTUsMTI1MDc4NzI3MSwtMTY2NTQ5ODU2
+MiwtMTcyODUxNDQ2MywtNjEyNTE0MzksMjgwODc4ODcyLDgxNj
+E3Nzk3MywxMTcwNzIzNzE4LC05OTI0MzEyNCwxMjI0ODY2MTQ0
+LDE0MjE5NTExMTQsMjAxMTAxOTk3MiwxNTQ3NDIwNTMwLDIwMT
+EwMTk5NzIsLTUwNzgxNTAzMSw4NTE3MjAyMjcsLTM5ODA3MTY0
+OV19
 -->
