@@ -338,7 +338,7 @@ Gauge chart displays current status in the context of goal.
 
 ### X-Axis Menu Options
 
-- **Axis type** specifies the how x-axis scale for Line, Bar, Bubble is calculated and displayed.
+- **Axis type** specifies how x-axis scale for Line, Bar, Bubble is calculated and displayed.
 
   - **Indexed** specifies the data to be plotted in numeric values starting from zero on x-axis.
    
@@ -418,11 +418,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTk4MjcwMCwxMTc0MzAwOTYwLDkzOT
-I2Mjk5OCw0MDAzNzkwNTIsLTQzNzE0MzU4LC0xMTU1NzYzODEw
-LDE5ODIyMjU4NDAsLTExMzM0NzUzMzIsMTQ1OTkwODQyMiwtNT
-k3OTU2NTk5LC0xNTc5NjMwMDU1LDEyNTA3ODcyNzEsLTE2NjU0
-OTg1NjIsLTE3Mjg1MTQ0NjMsLTYxMjUxNDM5LDI4MDg3ODg3Mi
-w4MTYxNzc5NzMsMTE3MDcyMzcxOCwtOTkyNDMxMjQsMTIyNDg2
-NjE0NF19
+eyJoaXN0b3J5IjpbLTY2ODY0MDE2NSwxMjg5OTgyNzAwLDExNz
+QzMDA5NjAsOTM5MjYyOTk4LDQwMDM3OTA1MiwtNDM3MTQzNTgs
+LTExNTU3NjM4MTAsMTk4MjIyNTg0MCwtMTEzMzQ3NTMzMiwxND
+U5OTA4NDIyLC01OTc5NTY1OTksLTE1Nzk2MzAwNTUsMTI1MDc4
+NzI3MSwtMTY2NTQ5ODU2MiwtMTcyODUxNDQ2MywtNjEyNTE0Mz
+ksMjgwODc4ODcyLDgxNjE3Nzk3MywxMTcwNzIzNzE4LC05OTI0
+MzEyNF19
 -->
