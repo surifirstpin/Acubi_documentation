@@ -292,7 +292,7 @@ Gauge chart displays current status in the context of goal.
 **Image 16**
 
 - **Orange** colour indicates, maximum value attained is half the way to target.
--  **Red** colour indicates, maximum value attained is at initial state or lower side of the target. 
+-  **Red** colour indicates, maximum value attained is at initial state or lower side to the target. 
 
 ![
 ](https://github.com/sv18042016/fp1/blob/3ff08da67be44bb345a23a3e47e19f4ab62a4553/images/New_version5/UD_Visualization_Types&Settings_Image17.png?raw=true)
@@ -418,11 +418,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQxMzYxNzYsMTE3NDMwMDk2MCw5Mz
-kyNjI5OTgsNDAwMzc5MDUyLC00MzcxNDM1OCwtMTE1NTc2Mzgx
-MCwxOTgyMjI1ODQwLC0xMTMzNDc1MzMyLDE0NTk5MDg0MjIsLT
-U5Nzk1NjU5OSwtMTU3OTYzMDA1NSwxMjUwNzg3MjcxLC0xNjY1
-NDk4NTYyLC0xNzI4NTE0NDYzLC02MTI1MTQzOSwyODA4Nzg4Nz
-IsODE2MTc3OTczLDExNzA3MjM3MTgsLTk5MjQzMTI0LDEyMjQ4
-NjYxNDRdfQ==
+eyJoaXN0b3J5IjpbMTI4OTk4MjcwMCwxMTc0MzAwOTYwLDkzOT
+I2Mjk5OCw0MDAzNzkwNTIsLTQzNzE0MzU4LC0xMTU1NzYzODEw
+LDE5ODIyMjU4NDAsLTExMzM0NzUzMzIsMTQ1OTkwODQyMiwtNT
+k3OTU2NTk5LC0xNTc5NjMwMDU1LDEyNTA3ODcyNzEsLTE2NjU0
+OTg1NjIsLTE3Mjg1MTQ0NjMsLTYxMjUxNDM5LDI4MDg3ODg3Mi
+w4MTYxNzc5NzMsMTE3MDcyMzcxOCwtOTkyNDMxMjQsMTIyNDg2
+NjE0NF19
 -->
