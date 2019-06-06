@@ -238,7 +238,7 @@ The resultant for this expression would be seen in green colour;
 ](https://raw.githubusercontent.com/sv18042016/fp1/4bd9045b7b3b1dceac68eb20c87579d484fd0c4e/images/New_version5/UD_Visualization_Types&Settings_Image13.png)
 **Image 13**
 
-In the above image you can see, for pivot_hide 1st column is seen empty, to hide this select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. Similarly to hide the last column, select hide last checkbox in data section of table chart.
+In the above image you can see, for pivot_hide 1st column is seen empty, to hide this select checkbox **pivot hide first** in **Data Section** of visualisation. Similarly to hide the last column, select hide last checkbox in data section of table chart.
 > **Note :**  Applicable only for table chart. 
 
 ![
@@ -413,11 +413,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjIyNTg0MCwtMTEzMzQ3NTMzMiwxND
-U5OTA4NDIyLC01OTc5NTY1OTksLTE1Nzk2MzAwNTUsMTI1MDc4
-NzI3MSwtMTY2NTQ5ODU2MiwtMTcyODUxNDQ2MywtNjEyNTE0Mz
-ksMjgwODc4ODcyLDgxNjE3Nzk3MywxMTcwNzIzNzE4LC05OTI0
-MzEyNCwxMjI0ODY2MTQ0LDE0MjE5NTExMTQsMjAxMTAxOTk3Mi
-wxNTQ3NDIwNTMwLDIwMTEwMTk5NzIsLTUwNzgxNTAzMSw4NTE3
-MjAyMjddfQ==
+eyJoaXN0b3J5IjpbLTExNTU3NjM4MTAsMTk4MjIyNTg0MCwtMT
+EzMzQ3NTMzMiwxNDU5OTA4NDIyLC01OTc5NTY1OTksLTE1Nzk2
+MzAwNTUsMTI1MDc4NzI3MSwtMTY2NTQ5ODU2MiwtMTcyODUxND
+Q2MywtNjEyNTE0MzksMjgwODc4ODcyLDgxNjE3Nzk3MywxMTcw
+NzIzNzE4LC05OTI0MzEyNCwxMjI0ODY2MTQ0LDE0MjE5NTExMT
+QsMjAxMTAxOTk3MiwxNTQ3NDIwNTMwLDIwMTEwMTk5NzIsLTUw
+NzgxNTAzMV19
 -->
