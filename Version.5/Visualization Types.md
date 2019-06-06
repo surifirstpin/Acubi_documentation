@@ -296,6 +296,7 @@ Gauge chart displays current status in the context of goal.
 
 ![
 ](https://github.com/sv18042016/fp1/blob/3ff08da67be44bb345a23a3e47e19f4ab62a4553/images/New_version5/UD_Visualization_Types&Settings_Image17.png?raw=true)
+**Image 17**
 
 - **Value** select one of the available measure values from the drop down.
 
@@ -417,12 +418,13 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
+**Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwOTI0NDU5LDEyODk5ODI3MDAsMTE3ND
-MwMDk2MCw5MzkyNjI5OTgsNDAwMzc5MDUyLC00MzcxNDM1OCwt
-MTE1NTc2MzgxMCwxOTgyMjI1ODQwLC0xMTMzNDc1MzMyLDE0NT
-k5MDg0MjIsLTU5Nzk1NjU5OSwtMTU3OTYzMDA1NSwxMjUwNzg3
-MjcxLC0xNjY1NDk4NTYyLC0xNzI4NTE0NDYzLC02MTI1MTQzOS
-wyODA4Nzg4NzIsODE2MTc3OTczLDExNzA3MjM3MTgsLTk5MjQz
-MTI0XX0=
+eyJoaXN0b3J5IjpbLTE3ODEwNjYzNTIsMTI4OTk4MjcwMCwxMT
+c0MzAwOTYwLDkzOTI2Mjk5OCw0MDAzNzkwNTIsLTQzNzE0MzU4
+LC0xMTU1NzYzODEwLDE5ODIyMjU4NDAsLTExMzM0NzUzMzIsMT
+Q1OTkwODQyMiwtNTk3OTU2NTk5LC0xNTc5NjMwMDU1LDEyNTA3
+ODcyNzEsLTE2NjU0OTg1NjIsLTE3Mjg1MTQ0NjMsLTYxMjUxND
+M5LDI4MDg3ODg3Miw4MTYxNzc5NzMsMTE3MDcyMzcxOCwtOTky
+NDMxMjRdfQ==
 -->
