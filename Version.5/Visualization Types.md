@@ -271,7 +271,7 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  
  - **Dynamic Height** on selecting this check box it will display the height depending on the numeric range of the data retrieved in funnel chart. 
  
- **For instance** higher the value is referred with more height and lower value is referred with low height.
+ **For instance** higher the value, higher the height and lower the value displays minimum height range
  
  - **Dynamic Slope** on selecting the checkbox it will display the potential covered based on the value.For example higher value is referred with bigger slope and lower value is referred with smaller slope.
 
@@ -417,7 +417,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzMyODk4NSw0MDAzNzkwNTIsLTQzNz
+eyJoaXN0b3J5IjpbLTM0NTY5Mjk3OSw0MDAzNzkwNTIsLTQzNz
 E0MzU4LC0xMTU1NzYzODEwLDE5ODIyMjU4NDAsLTExMzM0NzUz
 MzIsMTQ1OTkwODQyMiwtNTk3OTU2NTk5LC0xNTc5NjMwMDU1LD
 EyNTA3ODcyNzEsLTE2NjU0OTg1NjIsLTE3Mjg1MTQ0NjMsLTYx
