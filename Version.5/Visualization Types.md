@@ -261,15 +261,15 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 
  - **Sort** on selecting this check box, it enables data in the sorted order in funnel chart.
   
- - **Curved** on selecting this check box it will display the funnel chart in curved view.
+ - **Curved** on selecting this check box it will display, funnel chart in curved view.
  
- - **Pinched** on selecting this check box it will display the compressed view of the funnel chart.
+ - **Pinched** on selecting this check box it will display, compressed view of the funnel chart.
   
- - **Inverted** on selecting the check box it will display the funnel chart in reversed or bottom up position.
+ - **Inverted** on selecting this check box it will display, funnel chart in reversed or bottom up position.
  
- - **Highlight on Hover**  on selecting the check box it will highlight each section by placing a cursor on it.
+ - **Highlight on Hover**  on selecting this check box it will highlight each section by placing a cursor on it.
  
- - **Dynamic Height** on selecting the check box it will display the height as per the values in funnel chart. For instance higher value is referred with more height and lower value is referred with low height.
+ - **Dynamic Height** on selecting this check box it will display the height depending on the values in funnel chart. For instance higher value is referred with more height and lower value is referred with low height.
  
  - **Dynamic Slope** on selecting the checkbox it will display the potential covered based on the value.For example higher value is referred with bigger slope and lower value is referred with smaller slope.
 
@@ -415,11 +415,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwMzc5MDUyLC00MzcxNDM1OCwtMTE1NT
-c2MzgxMCwxOTgyMjI1ODQwLC0xMTMzNDc1MzMyLDE0NTk5MDg0
-MjIsLTU5Nzk1NjU5OSwtMTU3OTYzMDA1NSwxMjUwNzg3MjcxLC
-0xNjY1NDk4NTYyLC0xNzI4NTE0NDYzLC02MTI1MTQzOSwyODA4
-Nzg4NzIsODE2MTc3OTczLDExNzA3MjM3MTgsLTk5MjQzMTI0LD
-EyMjQ4NjYxNDQsMTQyMTk1MTExNCwyMDExMDE5OTcyLDE1NDc0
-MjA1MzBdfQ==
+eyJoaXN0b3J5IjpbLTE1NDk0OTIxOTYsNDAwMzc5MDUyLC00Mz
+cxNDM1OCwtMTE1NTc2MzgxMCwxOTgyMjI1ODQwLC0xMTMzNDc1
+MzMyLDE0NTk5MDg0MjIsLTU5Nzk1NjU5OSwtMTU3OTYzMDA1NS
+wxMjUwNzg3MjcxLC0xNjY1NDk4NTYyLC0xNzI4NTE0NDYzLC02
+MTI1MTQzOSwyODA4Nzg4NzIsODE2MTc3OTczLDExNzA3MjM3MT
+gsLTk5MjQzMTI0LDEyMjQ4NjYxNDQsMTQyMTk1MTExNCwyMDEx
+MDE5OTcyXX0=
 -->
