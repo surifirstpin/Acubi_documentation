@@ -238,12 +238,13 @@ The resultant for this expression would be seen in green colour;
 ](https://raw.githubusercontent.com/sv18042016/fp1/4bd9045b7b3b1dceac68eb20c87579d484fd0c4e/images/New_version5/UD_Visualization_Types&Settings_Image13.png)
 **Image 13**
 
-In the above image you can see, for pivot_hide 1st column is seen empty, to hide this select checkbox **pivot hide first** in **Data Section** of visualisation. Similarly to hide the last column, select hide last checkbox in data section of table chart.
+In the above image you can see, for pivot_hide 1st column is seen empty, to hide this select checkbox **pivot hide first** in **Data Section** of visualisation. Similarly to hide the last column, select checkbox for Hide_last in data section of table chart.
+
 > **Note :**  Applicable only for table chart. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e749e7c96af56390cc3fb80fd0d1a7d17fd0bf2c/images/New_version5/UD_Visualization_Types&Settings_Image14.png)
-
+**Image 14**
 ## Funnel chart 
 
 Funnels helps to visualize a process that has stages and items flow sequentially from one stage to the next. Use a funnel when there is a sequential flow between stages, For Instance a sales process, that starts with inquiry and ends with billing.
@@ -413,11 +414,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTU3NjM4MTAsMTk4MjIyNTg0MCwtMT
-EzMzQ3NTMzMiwxNDU5OTA4NDIyLC01OTc5NTY1OTksLTE1Nzk2
-MzAwNTUsMTI1MDc4NzI3MSwtMTY2NTQ5ODU2MiwtMTcyODUxND
-Q2MywtNjEyNTE0MzksMjgwODc4ODcyLDgxNjE3Nzk3MywxMTcw
-NzIzNzE4LC05OTI0MzEyNCwxMjI0ODY2MTQ0LDE0MjE5NTExMT
-QsMjAxMTAxOTk3MiwxNTQ3NDIwNTMwLDIwMTEwMTk5NzIsLTUw
-NzgxNTAzMV19
+eyJoaXN0b3J5IjpbLTc4NTYxNzY2MCwtMTE1NTc2MzgxMCwxOT
+gyMjI1ODQwLC0xMTMzNDc1MzMyLDE0NTk5MDg0MjIsLTU5Nzk1
+NjU5OSwtMTU3OTYzMDA1NSwxMjUwNzg3MjcxLC0xNjY1NDk4NT
+YyLC0xNzI4NTE0NDYzLC02MTI1MTQzOSwyODA4Nzg4NzIsODE2
+MTc3OTczLDExNzA3MjM3MTgsLTk5MjQzMTI0LDEyMjQ4NjYxND
+QsMTQyMTk1MTExNCwyMDExMDE5OTcyLDE1NDc0MjA1MzAsMjAx
+MTAxOTk3Ml19
 -->
