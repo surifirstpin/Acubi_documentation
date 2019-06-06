@@ -236,8 +236,9 @@ The resultant for this expression would be seen in green colour;
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/4bd9045b7b3b1dceac68eb20c87579d484fd0c4e/images/New_version5/UD_Visualization_Types&Settings_Image13.png)
+**Image 13**
 
-In the above image you can see, in hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. Similarly to hide the last column, select hide last checkbox in data section of table chart.
+In the above image you can see, for pivot_hide 1st column is seen empty, to hide this  select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. Similarly to hide the last column, select hide last checkbox in data section of table chart.
 > **Note :**  Applicable only for table chart. 
 
 ![
@@ -412,7 +413,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczMzM0OTY2LC0xMTMzNDc1MzMyLDE0NT
+eyJoaXN0b3J5IjpbNzYwNTU4NDQ2LC0xMTMzNDc1MzMyLDE0NT
 k5MDg0MjIsLTU5Nzk1NjU5OSwtMTU3OTYzMDA1NSwxMjUwNzg3
 MjcxLC0xNjY1NDk4NTYyLC0xNzI4NTE0NDYzLC02MTI1MTQzOS
 wyODA4Nzg4NzIsODE2MTc3OTczLDExNzA3MjM3MTgsLTk5MjQz
