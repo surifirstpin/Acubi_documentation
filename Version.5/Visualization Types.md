@@ -381,7 +381,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - **Include Zero** displays measure values starting from zero.
 
-- **Position** you can can align the y-axis to left or right side of the chart.
+- **Position** you can align the y-axis to left or right side of the chart.
 
 **Reference Lines** enables the creation of reference lines in a chart.
 
@@ -418,11 +418,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODY0MDE2NSwxMjg5OTgyNzAwLDExNz
-QzMDA5NjAsOTM5MjYyOTk4LDQwMDM3OTA1MiwtNDM3MTQzNTgs
-LTExNTU3NjM4MTAsMTk4MjIyNTg0MCwtMTEzMzQ3NTMzMiwxND
-U5OTA4NDIyLC01OTc5NTY1OTksLTE1Nzk2MzAwNTUsMTI1MDc4
-NzI3MSwtMTY2NTQ5ODU2MiwtMTcyODUxNDQ2MywtNjEyNTE0Mz
-ksMjgwODc4ODcyLDgxNjE3Nzk3MywxMTcwNzIzNzE4LC05OTI0
-MzEyNF19
+eyJoaXN0b3J5IjpbMjcwOTI0NDU5LDEyODk5ODI3MDAsMTE3ND
+MwMDk2MCw5MzkyNjI5OTgsNDAwMzc5MDUyLC00MzcxNDM1OCwt
+MTE1NTc2MzgxMCwxOTgyMjI1ODQwLC0xMTMzNDc1MzMyLDE0NT
+k5MDg0MjIsLTU5Nzk1NjU5OSwtMTU3OTYzMDA1NSwxMjUwNzg3
+MjcxLC0xNjY1NDk4NTYyLC0xNzI4NTE0NDYzLC02MTI1MTQzOS
+wyODA4Nzg4NzIsODE2MTc3OTczLDExNzA3MjM3MTgsLTk5MjQz
+MTI0XX0=
 -->
