@@ -222,13 +222,15 @@ Table chart displays the data in series making it more feasible for comparing di
 To hide the first or last column field values in Table Chart, Select hide first or hide last check box in Data section of visualization.
 To carry out this function you need to derive an expression in calculated column first.  
 Select Stationcode, Quantity_sum and Whenmade_month, Apply pivot to Stationcode.
-**For Example** : Apply subtraction for Quantity_Sum and derive the expression in calculated column as follow;
+
+**For Instance** :  derive the following expression in calculated column first;
 
 ```
 pivot_offset(#{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ```
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/488ee6156d0f40eb8566b427b08347106977e416/images/New_version5/UD_Visualization_Types&Settings_Image12.png)
+**Image 12**
 
 The resultant for this expression would be seen in green colour;
 
@@ -410,11 +412,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzM0NzUzMzIsMTQ1OTkwODQyMiwtNT
-k3OTU2NTk5LC0xNTc5NjMwMDU1LDEyNTA3ODcyNzEsLTE2NjU0
-OTg1NjIsLTE3Mjg1MTQ0NjMsLTYxMjUxNDM5LDI4MDg3ODg3Mi
-w4MTYxNzc5NzMsMTE3MDcyMzcxOCwtOTkyNDMxMjQsMTIyNDg2
-NjE0NCwxNDIxOTUxMTE0LDIwMTEwMTk5NzIsMTU0NzQyMDUzMC
-wyMDExMDE5OTcyLC01MDc4MTUwMzEsODUxNzIwMjI3LC0zOTgw
-NzE2NDldfQ==
+eyJoaXN0b3J5IjpbNjczMzM0OTY2LC0xMTMzNDc1MzMyLDE0NT
+k5MDg0MjIsLTU5Nzk1NjU5OSwtMTU3OTYzMDA1NSwxMjUwNzg3
+MjcxLC0xNjY1NDk4NTYyLC0xNzI4NTE0NDYzLC02MTI1MTQzOS
+wyODA4Nzg4NzIsODE2MTc3OTczLDExNzA3MjM3MTgsLTk5MjQz
+MTI0LDEyMjQ4NjYxNDQsMTQyMTk1MTExNCwyMDExMDE5OTcyLD
+E1NDc0MjA1MzAsMjAxMTAxOTk3MiwtNTA3ODE1MDMxLDg1MTcy
+MDIyN119
 -->
