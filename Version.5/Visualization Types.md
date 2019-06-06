@@ -257,9 +257,9 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 ](https://raw.githubusercontent.com/sv18042016/fp1/84af193f1ebf383092d92fc256ec7041495cca5a/images/New_version5/UD_Visualization_Types&Settings_Image15.png)
 **Image 15**
 
-Funnel charts can be viewed following ways;
+***Funnel charts can be viewed in following ways;***
 
- - **Sort** on selecting the check box it enables data in the sorted order in funnel chart.
+ - **Sort** on selecting this check box, it enables data in the sorted order in funnel chart.
   
  - **Curved** on selecting this check box it will display the funnel chart in curved view.
  
@@ -415,11 +415,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzE0MzU4LC0xMTU1NzYzODEwLDE5OD
-IyMjU4NDAsLTExMzM0NzUzMzIsMTQ1OTkwODQyMiwtNTk3OTU2
-NTk5LC0xNTc5NjMwMDU1LDEyNTA3ODcyNzEsLTE2NjU0OTg1Nj
-IsLTE3Mjg1MTQ0NjMsLTYxMjUxNDM5LDI4MDg3ODg3Miw4MTYx
-Nzc5NzMsMTE3MDcyMzcxOCwtOTkyNDMxMjQsMTIyNDg2NjE0NC
-wxNDIxOTUxMTE0LDIwMTEwMTk5NzIsMTU0NzQyMDUzMCwyMDEx
-MDE5OTcyXX0=
+eyJoaXN0b3J5IjpbNDAwMzc5MDUyLC00MzcxNDM1OCwtMTE1NT
+c2MzgxMCwxOTgyMjI1ODQwLC0xMTMzNDc1MzMyLDE0NTk5MDg0
+MjIsLTU5Nzk1NjU5OSwtMTU3OTYzMDA1NSwxMjUwNzg3MjcxLC
+0xNjY1NDk4NTYyLC0xNzI4NTE0NDYzLC02MTI1MTQzOSwyODA4
+Nzg4NzIsODE2MTc3OTczLDExNzA3MjM3MTgsLTk5MjQzMTI0LD
+EyMjQ4NjYxNDQsMTQyMTk1MTExNCwyMDExMDE5OTcyLDE1NDc0
+MjA1MzBdfQ==
 -->
