@@ -40,7 +40,8 @@ To carry out this function, derive a expression in calculated column.
 **For Example :**  Apply Pivot to **whenmade_month** under data section. 
 Derive following expression  in calculated column as follow ;
 
->**Note :** Use $ to select the fields and later Replace it with # to Fetch the accurate values.	
+>**Note :** Use $ to select the fields and later Replace it with # to Fetch the acc
+>urate values.	
 ```
 pivot_offset( ${ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ```
@@ -91,11 +92,11 @@ You can drill deeper into visualization, to get more specific information about 
 
 > **Note :** A more detailed explanation on visualization is given in visualization types and settings documents.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzQ0NDg5LC0xNjI5ODAyNTgzLDU2Mj
-gzMjY4MSwtMTEzNDkzMzI4OSw1MTc2MTczLC00Mzg4Mzk2MTIs
-LTE5Nzc3OTcyMzUsLTE2NzM0MzM4MTIsMTIzMDQ3MDIzNCwtMT
-M1NTE2NDg4NCwtMTE3MTc4MjAwMiwtMTE5MDQ1Mjk5MywtNjA5
-NzU1MTAsODgzNjU3MjM5LDE2MjkwNDgwOTEsMTUzMjE0OTc0OS
-wtMTQ4MTYwMTA1OCwzMTI5NDAyNTEsLTkzNDk3MTEyMCwxNTc5
-ODMxNTk0XX0=
+eyJoaXN0b3J5IjpbLTE3ODY0MjM4OTcsLTk5MzQ0NDg5LC0xNj
+I5ODAyNTgzLDU2MjgzMjY4MSwtMTEzNDkzMzI4OSw1MTc2MTcz
+LC00Mzg4Mzk2MTIsLTE5Nzc3OTcyMzUsLTE2NzM0MzM4MTIsMT
+IzMDQ3MDIzNCwtMTM1NTE2NDg4NCwtMTE3MTc4MjAwMiwtMTE5
+MDQ1Mjk5MywtNjA5NzU1MTAsODgzNjU3MjM5LDE2MjkwNDgwOT
+EsMTUzMjE0OTc0OSwtMTQ4MTYwMTA1OCwzMTI5NDAyNTEsLTkz
+NDk3MTEyMF19
 -->
