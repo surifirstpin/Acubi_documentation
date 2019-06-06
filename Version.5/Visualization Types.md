@@ -158,12 +158,12 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 ##  World chart 
 
- It displays the data grouped by specific country and at the same time the grouped data regions are highlighted in the map.
+ It displays the data grouped by specific country and at the same time highlights the grouped data regions in the map.
  
 **6.** Choose chart type **World** from drop down list. 
 
 
- > **Note :** The values you want to define in world chart, should be defined in model section. On defining in model the data field values will be displayed here.  
+ > **Note :** The values you want to define in world chartshould be defined in model section. On defining in model the data field values will be displayed here.  
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b4d06a116e6f5919fd87b2e6d003a889f0f2f0fd/images/New_version5/UD_Visualization_Types&Settings_Image8.png)
@@ -406,11 +406,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyNjc1MjgsLTU5Nzk1NjU5OSwtMTU3OT
-YzMDA1NSwxMjUwNzg3MjcxLC0xNjY1NDk4NTYyLC0xNzI4NTE0
-NDYzLC02MTI1MTQzOSwyODA4Nzg4NzIsODE2MTc3OTczLDExNz
-A3MjM3MTgsLTk5MjQzMTI0LDEyMjQ4NjYxNDQsMTQyMTk1MTEx
-NCwyMDExMDE5OTcyLDE1NDc0MjA1MzAsMjAxMTAxOTk3MiwtNT
-A3ODE1MDMxLDg1MTcyMDIyNywtMzk4MDcxNjQ5LC04ODg2NDc1
-ODddfQ==
+eyJoaXN0b3J5IjpbLTE0MTY4MTA0ODIsLTU5Nzk1NjU5OSwtMT
+U3OTYzMDA1NSwxMjUwNzg3MjcxLC0xNjY1NDk4NTYyLC0xNzI4
+NTE0NDYzLC02MTI1MTQzOSwyODA4Nzg4NzIsODE2MTc3OTczLD
+ExNzA3MjM3MTgsLTk5MjQzMTI0LDEyMjQ4NjYxNDQsMTQyMTk1
+MTExNCwyMDExMDE5OTcyLDE1NDc0MjA1MzAsMjAxMTAxOTk3Mi
+wtNTA3ODE1MDMxLDg1MTcyMDIyNywtMzk4MDcxNjQ5LC04ODg2
+NDc1ODddfQ==
 -->
