@@ -134,7 +134,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 ](https://raw.githubusercontent.com/sv18042016/fp1/ac06f66008071fe929798b3d8ee36e5bd5cd89bf/images/New_version5/UD_Visualization_Types&Settings_Image7.png)
 **Image 7**
 
-- **Value** select the measure to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined in the underlying step.
+ **Value** select the field value (measure) to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined in the underlying step.
 
 - **Format** select the number format for the measure field.
 
@@ -406,11 +406,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0NjExODUyLC01OTc5NTY1OTksLTE1Nz
-k2MzAwNTUsMTI1MDc4NzI3MSwtMTY2NTQ5ODU2MiwtMTcyODUx
-NDQ2MywtNjEyNTE0MzksMjgwODc4ODcyLDgxNjE3Nzk3MywxMT
-cwNzIzNzE4LC05OTI0MzEyNCwxMjI0ODY2MTQ0LDE0MjE5NTEx
-MTQsMjAxMTAxOTk3MiwxNTQ3NDIwNTMwLDIwMTEwMTk5NzIsLT
-UwNzgxNTAzMSw4NTE3MjAyMjcsLTM5ODA3MTY0OSwtODg4NjQ3
-NTg3XX0=
+eyJoaXN0b3J5IjpbLTc1NzE2NjQ4OSwtNTk3OTU2NTk5LC0xNT
+c5NjMwMDU1LDEyNTA3ODcyNzEsLTE2NjU0OTg1NjIsLTE3Mjg1
+MTQ0NjMsLTYxMjUxNDM5LDI4MDg3ODg3Miw4MTYxNzc5NzMsMT
+E3MDcyMzcxOCwtOTkyNDMxMjQsMTIyNDg2NjE0NCwxNDIxOTUx
+MTE0LDIwMTEwMTk5NzIsMTU0NzQyMDUzMCwyMDExMDE5OTcyLC
+01MDc4MTUwMzEsODUxNzIwMjI3LC0zOTgwNzE2NDksLTg4ODY0
+NzU4N119
 -->
