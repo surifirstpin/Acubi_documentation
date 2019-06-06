@@ -275,7 +275,7 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 
 **For instance:** higher value is referred with bigger slope and lower value is referred with smaller slope.
 
- - **Load Animation** on selecting the check box the column values in funnel chart will appear as moving image.
+ - **Load Animation** on selecting this check box the column values in funnel chart will appear as moving image.
 
 
 ##  Gauge Chart 
@@ -417,7 +417,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5Njk0MTM3LDQwMDM3OTA1MiwtNDM3MT
+eyJoaXN0b3J5IjpbOTM5MjYyOTk4LDQwMDM3OTA1MiwtNDM3MT
 QzNTgsLTExNTU3NjM4MTAsMTk4MjIyNTg0MCwtMTEzMzQ3NTMz
 MiwxNDU5OTA4NDIyLC01OTc5NTY1OTksLTE1Nzk2MzAwNTUsMT
 I1MDc4NzI3MSwtMTY2NTQ5ODU2MiwtMTcyODUxNDQ2MywtNjEy
