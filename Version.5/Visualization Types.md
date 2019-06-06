@@ -271,9 +271,9 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  
  - **Dynamic Height** on selecting this check box it will display the height depending on the numeric range of the data retrieved in funnel chart. 
  
- **For instance** higher the value, higher the height and lower the value displays minimum height range
- 
- - **Dynamic Slope** on selecting the checkbox it will display the potential covered based on the value.For example higher value is referred with bigger slope and lower value is referred with smaller slope.
+ - **Dynamic Slope** on selecting this checkbox it will display the potential covered based on the value range.
+
+**For instance:** higher value is referred with bigger slope and lower value is referred with smaller slope.
 
  - **Load Animation** on selecting the check box the column values in funnel chart will appear as moving image.
 
@@ -417,11 +417,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTY5Mjk3OSw0MDAzNzkwNTIsLTQzNz
-E0MzU4LC0xMTU1NzYzODEwLDE5ODIyMjU4NDAsLTExMzM0NzUz
-MzIsMTQ1OTkwODQyMiwtNTk3OTU2NTk5LC0xNTc5NjMwMDU1LD
-EyNTA3ODcyNzEsLTE2NjU0OTg1NjIsLTE3Mjg1MTQ0NjMsLTYx
-MjUxNDM5LDI4MDg3ODg3Miw4MTYxNzc5NzMsMTE3MDcyMzcxOC
-wtOTkyNDMxMjQsMTIyNDg2NjE0NCwxNDIxOTUxMTE0LDIwMTEw
-MTk5NzJdfQ==
+eyJoaXN0b3J5IjpbNzc5Njk0MTM3LDQwMDM3OTA1MiwtNDM3MT
+QzNTgsLTExNTU3NjM4MTAsMTk4MjIyNTg0MCwtMTEzMzQ3NTMz
+MiwxNDU5OTA4NDIyLC01OTc5NTY1OTksLTE1Nzk2MzAwNTUsMT
+I1MDc4NzI3MSwtMTY2NTQ5ODU2MiwtMTcyODUxNDQ2MywtNjEy
+NTE0MzksMjgwODc4ODcyLDgxNjE3Nzk3MywxMTcwNzIzNzE4LC
+05OTI0MzEyNCwxMjI0ODY2MTQ0LDE0MjE5NTExMTQsMjAxMTAx
+OTk3Ml19
 -->
