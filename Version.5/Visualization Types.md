@@ -167,7 +167,8 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b4d06a116e6f5919fd87b2e6d003a889f0f2f0fd/images/New_version5/UD_Visualization_Types&Settings_Image8.png)
- 
+ **Image 8**
+
 - **Title** specify a title for world map.
 
 - **Flat Map** displays a flat view or "2D" vision of the map.
@@ -190,7 +191,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 ## Bar Chart
 
-Bar charts are used to compare data across different categories. Bar chart is built by placing a dimension on a row and a measure on a column area.
+Bar charts are used to compare data across different categories. Bar chart is built by placing a dimension on a row and measure on a column area.
 
 **7.** Choose chart type **Bar** from drop down list, under general section.
 
@@ -407,11 +408,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzMTY0NzQyLDE0NTk5MDg0MjIsLTU5Nz
-k1NjU5OSwtMTU3OTYzMDA1NSwxMjUwNzg3MjcxLC0xNjY1NDk4
-NTYyLC0xNzI4NTE0NDYzLC02MTI1MTQzOSwyODA4Nzg4NzIsOD
-E2MTc3OTczLDExNzA3MjM3MTgsLTk5MjQzMTI0LDEyMjQ4NjYx
-NDQsMTQyMTk1MTExNCwyMDExMDE5OTcyLDE1NDc0MjA1MzAsMj
-AxMTAxOTk3MiwtNTA3ODE1MDMxLDg1MTcyMDIyNywtMzk4MDcx
-NjQ5XX0=
+eyJoaXN0b3J5IjpbMTY4NDA0NTM2NCwxNDU5OTA4NDIyLC01OT
+c5NTY1OTksLTE1Nzk2MzAwNTUsMTI1MDc4NzI3MSwtMTY2NTQ5
+ODU2MiwtMTcyODUxNDQ2MywtNjEyNTE0MzksMjgwODc4ODcyLD
+gxNjE3Nzk3MywxMTcwNzIzNzE4LC05OTI0MzEyNCwxMjI0ODY2
+MTQ0LDE0MjE5NTExMTQsMjAxMTAxOTk3MiwxNTQ3NDIwNTMwLD
+IwMTEwMTk5NzIsLTUwNzgxNTAzMSw4NTE3MjAyMjcsLTM5ODA3
+MTY0OV19
 -->
