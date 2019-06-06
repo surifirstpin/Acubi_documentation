@@ -215,10 +215,11 @@ Table chart displays the data in series making it more feasible for comparing di
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/7e9db7322511f370a3f088a614821da70ec05e0f/images/New_version5/UD_Visualization_Types&Settings_Image11.png)
+**Image 11**
 
 ### Hide Pivot (Calculated Column)
 
-To hide the first or last column field values in Visualization, Select hide first or hide last check box in Data section.
+To hide the first or last column field values in Table Chart, Select hide first or hide last check box in Data section of visualization.
 To carry out this function you need to derive a expression in calculated column.  
 Select Stationcode, Quantity_sum and Whenmade_month, Apply pivot to Stationcode.
 **For Example** : Apply subtraction for Quantity_Sum and derive the expression in calculated column as follow;
@@ -409,11 +410,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3OTQ2MDIyLDE0NTk5MDg0MjIsLTU5Nz
-k1NjU5OSwtMTU3OTYzMDA1NSwxMjUwNzg3MjcxLC0xNjY1NDk4
-NTYyLC0xNzI4NTE0NDYzLC02MTI1MTQzOSwyODA4Nzg4NzIsOD
-E2MTc3OTczLDExNzA3MjM3MTgsLTk5MjQzMTI0LDEyMjQ4NjYx
-NDQsMTQyMTk1MTExNCwyMDExMDE5OTcyLDE1NDc0MjA1MzAsMj
-AxMTAxOTk3MiwtNTA3ODE1MDMxLDg1MTcyMDIyNywtMzk4MDcx
-NjQ5XX0=
+eyJoaXN0b3J5IjpbMTk1MDU1NzgwMCwxNDU5OTA4NDIyLC01OT
+c5NTY1OTksLTE1Nzk2MzAwNTUsMTI1MDc4NzI3MSwtMTY2NTQ5
+ODU2MiwtMTcyODUxNDQ2MywtNjEyNTE0MzksMjgwODc4ODcyLD
+gxNjE3Nzk3MywxMTcwNzIzNzE4LC05OTI0MzEyNCwxMjI0ODY2
+MTQ0LDE0MjE5NTExMTQsMjAxMTAxOTk3MiwxNTQ3NDIwNTMwLD
+IwMTEwMTk5NzIsLTUwNzgxNTAzMSw4NTE3MjAyMjcsLTM5ODA3
+MTY0OV19
 -->
