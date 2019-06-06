@@ -163,7 +163,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 **6.** Choose chart type **World** from drop down list. 
 
 
- > **Note :** The values you want to define in world chartshould be defined in model section. On defining in model the data field values will be displayed here.  
+ > **Note :** The values you want to define in world chart should be defined in model section initially to display them here. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b4d06a116e6f5919fd87b2e6d003a889f0f2f0fd/images/New_version5/UD_Visualization_Types&Settings_Image8.png)
@@ -406,11 +406,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTY4MTA0ODIsLTU5Nzk1NjU5OSwtMT
-U3OTYzMDA1NSwxMjUwNzg3MjcxLC0xNjY1NDk4NTYyLC0xNzI4
-NTE0NDYzLC02MTI1MTQzOSwyODA4Nzg4NzIsODE2MTc3OTczLD
-ExNzA3MjM3MTgsLTk5MjQzMTI0LDEyMjQ4NjYxNDQsMTQyMTk1
-MTExNCwyMDExMDE5OTcyLDE1NDc0MjA1MzAsMjAxMTAxOTk3Mi
-wtNTA3ODE1MDMxLDg1MTcyMDIyNywtMzk4MDcxNjQ5LC04ODg2
-NDc1ODddfQ==
+eyJoaXN0b3J5IjpbMTQ1OTkwODQyMiwtNTk3OTU2NTk5LC0xNT
+c5NjMwMDU1LDEyNTA3ODcyNzEsLTE2NjU0OTg1NjIsLTE3Mjg1
+MTQ0NjMsLTYxMjUxNDM5LDI4MDg3ODg3Miw4MTYxNzc5NzMsMT
+E3MDcyMzcxOCwtOTkyNDMxMjQsMTIyNDg2NjE0NCwxNDIxOTUx
+MTE0LDIwMTEwMTk5NzIsMTU0NzQyMDUzMCwyMDExMDE5OTcyLC
+01MDc4MTUwMzEsODUxNzIwMjI3LC0zOTgwNzE2NDksLTg4ODY0
+NzU4N119
 -->
