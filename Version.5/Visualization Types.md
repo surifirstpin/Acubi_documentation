@@ -247,16 +247,17 @@ In the above image you can see, for pivot_hide 1st column is seen empty, to hide
 **Image 14**
 ## Funnel chart 
 
-Funnels helps to visualize a process that has stages and items flow sequentially from one stage to the next. Use a funnel when there is a sequential flow between stages, For Instance a sales process, that starts with inquiry and ends with billing.
+Funnels helps to visualize a process that has stages and items flow sequentially from stage one to next. Use a funnel when there is a sequential flow between stages, For Instance a sales process, that starts with inquiry and ends with billing.
 
-**The following section describes the editing option for bubble chart in visualization;**
+**The following section describes the editing option for Funnel chart in Charts;**
  
  **9.** Choose chart type **Funnel** under **General** section  to compare the data in Funnel chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/84af193f1ebf383092d92fc256ec7041495cca5a/images/New_version5/UD_Visualization_Types&Settings_Image15.png)
+**Image 15**
 
-**Using Acubi you can view the funnel charts in different formats using the below check boxes:**
+an be viewechart cFunnek 
 
  - **Sort** on selecting the check box it enables data in the sorted order in funnel chart.
   
@@ -414,11 +415,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTYxNzY2MCwtMTE1NTc2MzgxMCwxOT
-gyMjI1ODQwLC0xMTMzNDc1MzMyLDE0NTk5MDg0MjIsLTU5Nzk1
-NjU5OSwtMTU3OTYzMDA1NSwxMjUwNzg3MjcxLC0xNjY1NDk4NT
-YyLC0xNzI4NTE0NDYzLC02MTI1MTQzOSwyODA4Nzg4NzIsODE2
-MTc3OTczLDExNzA3MjM3MTgsLTk5MjQzMTI0LDEyMjQ4NjYxND
-QsMTQyMTk1MTExNCwyMDExMDE5OTcyLDE1NDc0MjA1MzAsMjAx
-MTAxOTk3Ml19
+eyJoaXN0b3J5IjpbMjQxOTgyMzg2LC0xMTU1NzYzODEwLDE5OD
+IyMjU4NDAsLTExMzM0NzUzMzIsMTQ1OTkwODQyMiwtNTk3OTU2
+NTk5LC0xNTc5NjMwMDU1LDEyNTA3ODcyNzEsLTE2NjU0OTg1Nj
+IsLTE3Mjg1MTQ0NjMsLTYxMjUxNDM5LDI4MDg3ODg3Miw4MTYx
+Nzc5NzMsMTE3MDcyMzcxOCwtOTkyNDMxMjQsMTIyNDg2NjE0NC
+wxNDIxOTUxMTE0LDIwMTEwMTk5NzIsMTU0NzQyMDUzMCwyMDEx
+MDE5OTcyXX0=
 -->
