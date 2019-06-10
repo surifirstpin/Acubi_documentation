@@ -110,7 +110,7 @@ After logging into AcuBi Home Page, Click on **Dashboard** Section.
 
 You can refer the existing lookup, based on which a new lookup is created to retrieve the data based on referred lookup. In this way  you can extract the data depending on referred lookup field.
 
-   -   **Referred** on selecting the referred checkbox the following lookup will extract the data based on the previously created lookup for which the referred checkbox is enabled.
+   -   **Referred** on selecting the referred checkbox the next following lookup will extract the data based on the previously created lookup for which the referred checkbox is enabled.
  
 ## Report Listeners 
 
@@ -120,6 +120,7 @@ The Listeners option allows to register callbacks to be notified when an event i
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/fdf32389df2e4c179a67ce4349c25c445af98cef/images/New_version5/UD_Dashboard_image8.png)
 **Image 8**
+
 ***Fill up the Report Listener Section ;***
 
    - **Reports** :  Displays the dashboard reports.
@@ -154,11 +155,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 **Image 9**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDYwOTYxLDIwNzE0MjM4MzEsMTE1MD
-Y2MjU2MCwtMTQ4NTE4MjI0MSwtNjg4MDE1ODY0LDc1NzQ2MjQ5
-MywtODQwMDYwMzcwLC01MTIxMzkyNDYsLTc0NDU0NDcyMSwtNz
-c0MzAzNDQ2LC0yODI0NjQ3NDQsLTY5ODEzNzMyNiw0MjYxMzU2
-MzQsNTAyNDcyMTk3LC05NjQ5MDEwMzksMTk4NzI3MTQxNywtMT
-I1MTczMDIzNiwyMDI5NTU3Nzc4LC05MzQ1MzM4MzAsLTE4NzM3
-MTc1NDVdfQ==
+eyJoaXN0b3J5IjpbNTg1MDU3NDE2LC00NTQ2MDk2MSwyMDcxND
+IzODMxLDExNTA2NjI1NjAsLTE0ODUxODIyNDEsLTY4ODAxNTg2
+NCw3NTc0NjI0OTMsLTg0MDA2MDM3MCwtNTEyMTM5MjQ2LC03ND
+Q1NDQ3MjEsLTc3NDMwMzQ0NiwtMjgyNDY0NzQ0LC02OTgxMzcz
+MjYsNDI2MTM1NjM0LDUwMjQ3MjE5NywtOTY0OTAxMDM5LDE5OD
+cyNzE0MTcsLTEyNTE3MzAyMzYsMjAyOTU1Nzc3OCwtOTM0NTMz
+ODMwXX0=
 -->
