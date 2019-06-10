@@ -327,13 +327,13 @@ Gauge chart displays current status in the context of goal.
 
 - **Label** Specify label text.
 
-- **Padding** specifies spacing at the top,bottom,left and right side of the charts.
+- **Padding** specifies spacing at the top, bottom, left and right side of the charts.
 
 - **Tooltips** points the first measure value of the column field.
 
 - **Grouped Tooltips** points all the measure values of the column field.
 
-- **Show legend** on selecting the checkbox it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
+- **Show legend** on selecting the checkbox, it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
 
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 
@@ -420,11 +420,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODEwNjYzNTIsMTI4OTk4MjcwMCwxMT
-c0MzAwOTYwLDkzOTI2Mjk5OCw0MDAzNzkwNTIsLTQzNzE0MzU4
-LC0xMTU1NzYzODEwLDE5ODIyMjU4NDAsLTExMzM0NzUzMzIsMT
-Q1OTkwODQyMiwtNTk3OTU2NTk5LC0xNTc5NjMwMDU1LDEyNTA3
-ODcyNzEsLTE2NjU0OTg1NjIsLTE3Mjg1MTQ0NjMsLTYxMjUxND
-M5LDI4MDg3ODg3Miw4MTYxNzc5NzMsMTE3MDcyMzcxOCwtOTky
-NDMxMjRdfQ==
+eyJoaXN0b3J5IjpbLTgxNzkwNTc3NiwtMTc4MTA2NjM1MiwxMj
+g5OTgyNzAwLDExNzQzMDA5NjAsOTM5MjYyOTk4LDQwMDM3OTA1
+MiwtNDM3MTQzNTgsLTExNTU3NjM4MTAsMTk4MjIyNTg0MCwtMT
+EzMzQ3NTMzMiwxNDU5OTA4NDIyLC01OTc5NTY1OTksLTE1Nzk2
+MzAwNTUsMTI1MDc4NzI3MSwtMTY2NTQ5ODU2MiwtMTcyODUxND
+Q2MywtNjEyNTE0MzksMjgwODc4ODcyLDgxNjE3Nzk3MywxMTcw
+NzIzNzE4XX0=
 -->
