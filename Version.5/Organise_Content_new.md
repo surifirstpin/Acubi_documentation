@@ -27,12 +27,9 @@ The Sharing status displays type of privacy setting enabled for a dashboard or r
  -   **Share** Orange colour with group icon indicates dashboard or reports shared to specific set of groups.
  -   **Private** Grey colour indicates dashboard or reports saved under private section.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/93fab44572b6a9c124a7c80f1ec840cd0488f319/images/organise_full.png)
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODI1MjA1MSwtMTU1MTI1NDU1NywtOD
-IyNDA5OTg3LC0xNDQ0NDkzMTA1LC0xNTkyMzExNDI2LC0xNTUz
-NTY5NTc1LDc1MTYwMDI0NiwtMTU5NDcwNzE1XX0=
+eyJoaXN0b3J5IjpbMTUxNTA4NjAxMSwtNzA4MjUyMDUxLC0xNT
+UxMjU0NTU3LC04MjI0MDk5ODcsLTE0NDQ0OTMxMDUsLTE1OTIz
+MTE0MjYsLTE1NTM1Njk1NzUsNzUxNjAwMjQ2LC0xNTk0NzA3MT
+VdfQ==
 -->
