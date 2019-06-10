@@ -18,7 +18,7 @@ Acubi allows user in editing and managing access level, allows  users to make ne
 **Let us see how it works,**
 - To set dashboard on Home page click **Set Home page** Icon.
 - To edit the dashboard or report click  **Edit**  icon.
-- To delete the dashboard or report permanently from database Click on  **Delete**  icon.
+- To delete the dashboard or report permanently from database lick **Delete**  icon.
 
 ## Managing Access
 
@@ -33,7 +33,7 @@ The Sharing status displays type of privacy setting is enabled to the dashboard 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI1OTcyODUsLTE1NTEyNTQ1NTcsLT
-gyMjQwOTk4NywtMTQ0NDQ5MzEwNSwtMTU5MjMxMTQyNiwtMTU1
-MzU2OTU3NSw3NTE2MDAyNDYsLTE1OTQ3MDcxNV19
+eyJoaXN0b3J5IjpbMTc0NDc4ODEsLTE1NTEyNTQ1NTcsLTgyMj
+QwOTk4NywtMTQ0NDQ5MzEwNSwtMTU5MjMxMTQyNiwtMTU1MzU2
+OTU3NSw3NTE2MDAyNDYsLTE1OTQ3MDcxNV19
 -->
