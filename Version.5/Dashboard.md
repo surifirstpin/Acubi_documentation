@@ -5,6 +5,7 @@ Dashboard provides access to view multiple reports in single dashboard layout, t
 ## View Dashboard
 
 After logging into AcuBi Home Page, Click on **Dashboard** Section.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e633a63e9f980e7bcc0cfcd76e32592477ab197f/images/New_version5/UD_Dashboard_image1_1.png)
 **Image 1**
 
@@ -18,14 +19,14 @@ After logging into AcuBi Home Page, Click on **Dashboard** Section.
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Dashboard_image2.png)
 **Image 2**
 
- - To view the existing dashboard report click on dashboard report name from the list. 
+ - To view the existing dashboard report click on dashboard report name in the list. 
  -  It will navigate to dashboard report. ( Refer image 3)
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a139aa668a28e43d5ac7a91829062729877b0e09/images/New_version5/UD_Dashboard_image3.png)
 **Image 3**
 
- - Left side of the dashboard displays global filters used, Use **Apply** Button to re-apply any new filters to the dashboard report.
+ - Left side of the dashboard displays global filters used, Use **Apply** Button to re-apply any new filters addes to the dashboard report.
   - Click **Save,** to save the filters applied.
   - To revert back to previously applied filter, click on **Default** Button. 
   - Right side of the Dashboard displays different dashboard reports layout.
@@ -152,11 +153,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 **Image 9**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODUxODIyNDEsLTY4ODAxNTg2NCw3NT
-c0NjI0OTMsLTg0MDA2MDM3MCwtNTEyMTM5MjQ2LC03NDQ1NDQ3
-MjEsLTc3NDMwMzQ0NiwtMjgyNDY0NzQ0LC02OTgxMzczMjYsND
-I2MTM1NjM0LDUwMjQ3MjE5NywtOTY0OTAxMDM5LDE5ODcyNzE0
-MTcsLTEyNTE3MzAyMzYsMjAyOTU1Nzc3OCwtOTM0NTMzODMwLC
-0xODczNzE3NTQ1LC01MjUwMTc1ODIsLTE3MTAyODk3ODksMTk4
-MDY1MDY2NV19
+eyJoaXN0b3J5IjpbMTgzNTEwNDUsLTE0ODUxODIyNDEsLTY4OD
+AxNTg2NCw3NTc0NjI0OTMsLTg0MDA2MDM3MCwtNTEyMTM5MjQ2
+LC03NDQ1NDQ3MjEsLTc3NDMwMzQ0NiwtMjgyNDY0NzQ0LC02OT
+gxMzczMjYsNDI2MTM1NjM0LDUwMjQ3MjE5NywtOTY0OTAxMDM5
+LDE5ODcyNzE0MTcsLTEyNTE3MzAyMzYsMjAyOTU1Nzc3OCwtOT
+M0NTMzODMwLC0xODczNzE3NTQ1LC01MjUwMTc1ODIsLTE3MTAy
+ODk3ODldfQ==
 -->
