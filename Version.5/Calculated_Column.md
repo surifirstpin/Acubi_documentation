@@ -29,6 +29,7 @@ Once navigated to Calculated Column Window, Enter the below fields.
 
 - **Field name** unique identifier name to refer calculated column.
 
+Field name 
 - **Label** specify a identifier name to calculated column the way it should be displayed in the data table.
 
 - **Data type** data type format for the result (string,number).
@@ -439,8 +440,8 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzIwNjEwOCwtMjAzODc3MzM2MSwtMT
-A2OTI2NTczNiw1NTYzMDQ0NjgsLTE1MTUxNTIxMjMsNDI5MjE1
-OTg5LDIwMjM2MzcyMywxNTY5NTYyODI2LDEyMjI1MjMzNzMsLT
-EyMjU3ODAxMjcsLTI0MzEzODE2NywtNjc1NDc1MjU1XX0=
+eyJoaXN0b3J5IjpbLTE4NDIxMjU0NDcsLTIwMzg3NzMzNjEsLT
+EwNjkyNjU3MzYsNTU2MzA0NDY4LC0xNTE1MTUyMTIzLDQyOTIx
+NTk4OSwyMDIzNjM3MjMsMTU2OTU2MjgyNiwxMjIyNTIzMzczLC
+0xMjI1NzgwMTI3LC0yNDMxMzgxNjcsLTY3NTQ3NTI1NV19
 -->
