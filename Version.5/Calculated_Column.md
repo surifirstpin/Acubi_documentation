@@ -404,10 +404,10 @@ bi.add(${ROOT.BI_ORDERS.sum_ORDERVALUE},2)
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e82ad6a8e255ac06e670f49b05f503b9bfd45c6f/images/New_version5/UD_CalculatedColumn_image7.png)
-
+**Image 6**
 ## Calculate Column with Pivot Offset
 
->**For Instance:**  To view the difference between quantity sum bthe months. Select Whenmade Month and apply as follow
+>**For Instance:**  To view the difference between quantity sum of different months. Select Whenmade Month and apply as follow
 
 We can get quantity_sum difference of each month for specific customer using Pivot_Offset() function.
 
@@ -438,7 +438,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzA4MTMyMSwtMjAzODc3MzM2MSwtMT
+eyJoaXN0b3J5IjpbLTM4NzQ3MjU4NywtMjAzODc3MzM2MSwtMT
 A2OTI2NTczNiw1NTYzMDQ0NjgsLTE1MTUxNTIxMjMsNDI5MjE1
 OTg5LDIwMjM2MzcyMywxNTY5NTYyODI2LDEyMjI1MjMzNzMsLT
 EyMjU3ODAxMjcsLTI0MzEzODE2NywtNjc1NDc1MjU1XX0=
