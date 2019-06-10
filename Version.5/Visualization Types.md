@@ -333,7 +333,7 @@ Gauge chart displays current status in the context of goal.
 
 - **Grouped Tooltips** points all the measure values of the column field.
 
-- **Show legend** on selecting the checkbox, it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
+- **Show legend** on selecting this checkbox, it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
 
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 
@@ -420,7 +420,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzkwNTc3NiwtMTc4MTA2NjM1MiwxMj
+eyJoaXN0b3J5IjpbMTI5MDg4NTg1MywtMTc4MTA2NjM1MiwxMj
 g5OTgyNzAwLDExNzQzMDA5NjAsOTM5MjYyOTk4LDQwMDM3OTA1
 MiwtNDM3MTQzNTgsLTExNTU3NjM4MTAsMTk4MjIyNTg0MCwtMT
 EzMzQ3NTMzMiwxNDU5OTA4NDIyLC01OTc5NTY1OTksLTE1Nzk2
