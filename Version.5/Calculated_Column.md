@@ -24,7 +24,7 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 Click on **Calculated Column** button it will navigate to calculated column window,
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5d7fedc6c4dd0810eb6be0995b321cd924b2cd71/images/New_version5/UD_CalculatedColumn_image1.png)
-
+**Image 1**
 Once navigated to Calculated Column Window, Enter the below fields.
 
 - **Field name** unique identifier name to refer calculated column.
@@ -41,22 +41,22 @@ Once navigated to Calculated Column Window, Enter the below fields.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d90ab34e275e9daaab297e54345228bcad1986f9/images/New_version5/UD_CalculatedColumn_image2.png)
-
+**Image 2**
 -  **Calculate on Raw data :**   if enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
 
-*I. To Find the Column total of a measure value*
+***Example I : To Find the Column total of a measure value***
 ```
 col_total( #{ROOT.BI_ORDERS.sum_RATE_2677} )
 ```
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/029914c6f76a051db3647fa3285211aef352e345/images/New_version5/UD_CalculatedColumn_image4.png)
-
+**Image 3**
 - Click **Ok** after deriving an expression,  all the values based on calculation, is shown up in green colour as shown in below image,
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/67a5ac6ae8faa249a688ed35320ff1b2e8a7ebb0/images/New_version5/UD_CalculatedColumn_image5.png)
-
+**strong text**
 ## Mathematical operation 
 
 Custom made mathematical operations can be performed in **calculated column section.**
@@ -439,8 +439,8 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzIwNjEwOCwtMjAzODc3MzM2MSwtMT
-A2OTI2NTczNiw1NTYzMDQ0NjgsLTE1MTUxNTIxMjMsNDI5MjE1
-OTg5LDIwMjM2MzcyMywxNTY5NTYyODI2LDEyMjI1MjMzNzMsLT
-EyMjU3ODAxMjcsLTI0MzEzODE2NywtNjc1NDc1MjU1XX0=
+eyJoaXN0b3J5IjpbLTE0ODEzMDIxOTEsLTIwMzg3NzMzNjEsLT
+EwNjkyNjU3MzYsNTU2MzA0NDY4LC0xNTE1MTUyMTIzLDQyOTIx
+NTk4OSwyMDIzNjM3MjMsMTU2OTU2MjgyNiwxMjIyNTIzMzczLC
+0xMjI1NzgwMTI3LC0yNDMxMzgxNjcsLTY3NTQ3NTI1NV19
 -->
