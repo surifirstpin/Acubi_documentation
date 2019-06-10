@@ -5,8 +5,7 @@
 
 This section describes how to edit existing reports and dashboards. 
 Acubi allows user in editing and managing access level, allows  users to make necessary changes to the content such as;
- 
-  -  Editing Reports and Dashboards.
+   -  Editing Reports and Dashboards.
    -  Specifying which users and groups as authority to access the data.
    -  Renaming, and Deleting. 
    - Assigning Thumbnails( Only Admin has access to upload a thumbnail).
@@ -14,12 +13,12 @@ Acubi allows user in editing and managing access level, allows  users to make ne
    
    ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/2c3e9b591017dd6316a4091ad35abfae69bf2082/images/New_version5/UD_Edit_Content_Image1.png)
+**Image 1**
 
 **Let us see how it works,**
-
-- To set dashboard on Home page click on **Set Home page** Icon.
-- To edit the dashboard or report click on  **Edit**  icon.
-- To delete the dashboard or report permanently Click on  **Delete**  icon.
+- To set dashboard on Home page click **Set Home page** Icon.
+- To edit the dashboard or report click  **Edit**  icon.
+- To delete the dashboard or report permanently from database Click on  **Delete**  icon.
 
 ## Managing Access
 
@@ -34,7 +33,7 @@ The Sharing status displays type of privacy setting is enabled to the dashboard 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDUxMzg5MzYsLTE1NTEyNTQ1NTcsLT
+eyJoaXN0b3J5IjpbLTIwNTI1OTcyODUsLTE1NTEyNTQ1NTcsLT
 gyMjQwOTk4NywtMTQ0NDQ5MzEwNSwtMTU5MjMxMTQyNiwtMTU1
 MzU2OTU3NSw3NTE2MDAyNDYsLTE1OTQ3MDcxNV19
 -->
