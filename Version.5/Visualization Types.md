@@ -368,7 +368,7 @@ Gauge chart displays current status in the context of goal.
 ### Y-Axis
 
 - **Axis** select the measures values on y-axis  to enable
-editing options for y-axis in Line, Bar and bubble chart.
+editing options for y-axis in Line, for Bar and bubble chart.
 
 - **Axis label** Text label for x-axis.
 
@@ -420,11 +420,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDg4NTg1MywtMTc4MTA2NjM1MiwxMj
-g5OTgyNzAwLDExNzQzMDA5NjAsOTM5MjYyOTk4LDQwMDM3OTA1
-MiwtNDM3MTQzNTgsLTExNTU3NjM4MTAsMTk4MjIyNTg0MCwtMT
-EzMzQ3NTMzMiwxNDU5OTA4NDIyLC01OTc5NTY1OTksLTE1Nzk2
-MzAwNTUsMTI1MDc4NzI3MSwtMTY2NTQ5ODU2MiwtMTcyODUxND
-Q2MywtNjEyNTE0MzksMjgwODc4ODcyLDgxNjE3Nzk3MywxMTcw
-NzIzNzE4XX0=
+eyJoaXN0b3J5IjpbMTQzMjQ4NTI2OCwxMjkwODg1ODUzLC0xNz
+gxMDY2MzUyLDEyODk5ODI3MDAsMTE3NDMwMDk2MCw5MzkyNjI5
+OTgsNDAwMzc5MDUyLC00MzcxNDM1OCwtMTE1NTc2MzgxMCwxOT
+gyMjI1ODQwLC0xMTMzNDc1MzMyLDE0NTk5MDg0MjIsLTU5Nzk1
+NjU5OSwtMTU3OTYzMDA1NSwxMjUwNzg3MjcxLC0xNjY1NDk4NT
+YyLC0xNzI4NTE0NDYzLC02MTI1MTQzOSwyODA4Nzg4NzIsODE2
+MTc3OTczXX0=
 -->
