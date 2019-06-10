@@ -1,6 +1,6 @@
 <center><h1>Dashboard</h1></center>
 
-Dashboard provides access to view multiple reports in single dashboard layout, in this way it provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive and can re-arrange the titles. After configuring a dashboard to your interest, you can share it with your team. You can create as many dashboards as you want, so you can alter each dashboard to the specific needs of the people who use it.
+Dashboard provides access to view multiple reports in single dashboard layout, this way it provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive and can re-arrange the titles. After configuring a dashboard to your interest, you can share it with your team. You can create as many dashboards as you want, so you can alter each dashboard to the specific needs of the people who use it.
 
 ## View Dashboard
 
@@ -8,7 +8,7 @@ After logging into AcuBi Home Page, Click on **Dashboard**.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Dashboard_image1.png)
-
+**Image 1**
   - It will navigate to Dashboard section. It consist of list of Tags, Dashboards and Reports Saved under **My Space** structure.
 
    - To View a specific dashboard, enter the dashboard name in given **Search Option**. 
@@ -17,13 +17,13 @@ After logging into AcuBi Home Page, Click on **Dashboard**.
   
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Dashboard_image2.png)
-
+**Image 2**
  - To view the existing dashboard report click on dashboard report from the list. 
  -  It will navigate to dashboard report as shown in below image. 
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a139aa668a28e43d5ac7a91829062729877b0e09/images/New_version5/UD_Dashboard_image3.png)
-
+**Image 3**
 
  - Left side of the dashboard displays global filters used, Use **Apply** Button to re-apply any new filters to the dashboard report.
   - Click **Save,** to save the filters applied.
@@ -151,11 +151,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjEzOTI0NiwtNzQ0NTQ0NzIxLC03Nz
-QzMDM0NDYsLTI4MjQ2NDc0NCwtNjk4MTM3MzI2LDQyNjEzNTYz
-NCw1MDI0NzIxOTcsLTk2NDkwMTAzOSwxOTg3MjcxNDE3LC0xMj
-UxNzMwMjM2LDIwMjk1NTc3NzgsLTkzNDUzMzgzMCwtMTg3Mzcx
-NzU0NSwtNTI1MDE3NTgyLC0xNzEwMjg5Nzg5LDE5ODA2NTA2Nj
-UsNjk1Nzg5Mzk2LDEzOTA0NTgyODMsMTU5OTM4NjIzOSwyNTg4
-MDgyMTldfQ==
+eyJoaXN0b3J5IjpbOTAwNTI3Mzg0LC01MTIxMzkyNDYsLTc0ND
+U0NDcyMSwtNzc0MzAzNDQ2LC0yODI0NjQ3NDQsLTY5ODEzNzMy
+Niw0MjYxMzU2MzQsNTAyNDcyMTk3LC05NjQ5MDEwMzksMTk4Nz
+I3MTQxNywtMTI1MTczMDIzNiwyMDI5NTU3Nzc4LC05MzQ1MzM4
+MzAsLTE4NzM3MTc1NDUsLTUyNTAxNzU4MiwtMTcxMDI4OTc4OS
+wxOTgwNjUwNjY1LDY5NTc4OTM5NiwxMzkwNDU4MjgzLDE1OTkz
+ODYyMzldfQ==
 -->
