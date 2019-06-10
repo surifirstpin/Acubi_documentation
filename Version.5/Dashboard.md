@@ -4,7 +4,7 @@ Dashboard provides access to view multiple reports in single dashboard layout, t
 
 ## View Dashboard
 
-After logging into AcuBi Home Page, Click on **Dashboard**.
+After logging into AcuBi Home Page, Click on **Dashboard** Section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Dashboard_image1.png)
@@ -152,7 +152,7 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 **Image 9**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Nzc1MDcwNywtNTEyMTM5MjQ2LC03ND
+eyJoaXN0b3J5IjpbLTg0MDA2MDM3MCwtNTEyMTM5MjQ2LC03ND
 Q1NDQ3MjEsLTc3NDMwMzQ0NiwtMjgyNDY0NzQ0LC02OTgxMzcz
 MjYsNDI2MTM1NjM0LDUwMjQ3MjE5NywtOTY0OTAxMDM5LDE5OD
 cyNzE0MTcsLTEyNTE3MzAyMzYsMjAyOTU1Nzc3OCwtOTM0NTMz
