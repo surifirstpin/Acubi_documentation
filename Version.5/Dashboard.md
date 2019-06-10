@@ -88,11 +88,12 @@ After logging into AcuBi Home Page, Click on **Dashboard** Section.
 
 **5.** To Add Lookups to Dashboard reports, Click on Lookups Tab.
 
-> **Note ** Lookup works only for string field.
+> **Note:** Lookup works only for string field.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd243725834336dcd901b72f730e584eb164d89c/images/New_version5/UD_Dashboard_image7.png)
 **Image 7**
+
 **Fill up the lookup section ;**
 
    -   **Lookup name :**  Name Identifier for lookup field.
@@ -153,11 +154,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 **Image 9**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTQyMzgzMSwxMTUwNjYyNTYwLC0xND
-g1MTgyMjQxLC02ODgwMTU4NjQsNzU3NDYyNDkzLC04NDAwNjAz
-NzAsLTUxMjEzOTI0NiwtNzQ0NTQ0NzIxLC03NzQzMDM0NDYsLT
-I4MjQ2NDc0NCwtNjk4MTM3MzI2LDQyNjEzNTYzNCw1MDI0NzIx
-OTcsLTk2NDkwMTAzOSwxOTg3MjcxNDE3LC0xMjUxNzMwMjM2LD
-IwMjk1NTc3NzgsLTkzNDUzMzgzMCwtMTg3MzcxNzU0NSwtNTI1
-MDE3NTgyXX0=
+eyJoaXN0b3J5IjpbLTQ1NDYwOTYxLDIwNzE0MjM4MzEsMTE1MD
+Y2MjU2MCwtMTQ4NTE4MjI0MSwtNjg4MDE1ODY0LDc1NzQ2MjQ5
+MywtODQwMDYwMzcwLC01MTIxMzkyNDYsLTc0NDU0NDcyMSwtNz
+c0MzAzNDQ2LC0yODI0NjQ3NDQsLTY5ODEzNzMyNiw0MjYxMzU2
+MzQsNTAyNDcyMTk3LC05NjQ5MDEwMzksMTk4NzI3MTQxNywtMT
+I1MTczMDIzNiwyMDI5NTU3Nzc4LC05MzQ1MzM4MzAsLTE4NzM3
+MTc1NDVdfQ==
 -->
