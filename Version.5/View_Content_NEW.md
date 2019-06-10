@@ -9,14 +9,14 @@ One of the best ways to start using Acubi is to navigate around the existing My 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d9c267871ed467a0bbf143c1bf8c4137012cb6d4/images/New_version5/UD_Viewing_Content_Image4.png)
-
+**Ima**
 ## Navigating to Saved Content 
 
 ### 1. TAGS
 
 Click on any specific tag which you would like to view. it will navigate to tag location and displays the Dashboard, Reports, child tags saved under this specific tag.
 
-**For Instance :** Here i am Selecting **ParentTag_Public**, it displays the Tags and dashboard reports that fall under this specific tag structure as shown below.
+**For Instance :** Here i am selecting **ParentTag_Public**, it displays the Tags and dashboard reports that fall under this specific tag structure as shown below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/69d5beb04063249964516e10e7358d38b3641f29/images/New_version5/UD_Viewing_Content_Image1.png)
 
@@ -40,7 +40,7 @@ For instance : Here we are selecting report Quantity_Sum_Bonus.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDA1NDQ2NSwxMjM0NTM0NzU3LC0zOD
-I2MDM5MjEsLTEwMDI5NTQyNzYsMTk4ODk0MTEzMiwtNjYwODAy
-MDY0XX0=
+eyJoaXN0b3J5IjpbLTE0MzQ0MzMxNzAsMTIzNDUzNDc1NywtMz
+gyNjAzOTIxLC0xMDAyOTU0Mjc2LDE5ODg5NDExMzIsLTY2MDgw
+MjA2NF19
 -->
