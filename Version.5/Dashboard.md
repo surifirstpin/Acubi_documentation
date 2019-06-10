@@ -31,14 +31,14 @@ After logging into AcuBi Home Page, Click on **Dashboard** Section.
   - To revert back to previously applied filter, click on **Default** Button. 
   - Right side of the Dashboard displays different dashboard reports layout.
   
-***Now, Let us See how to create a New dashboard.***
+ ## Creating Dashboard
  
- ## Create Dashboard
 Under Dashboard Section,  Choose **New->Dashboard** from the given drop down list. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/99b04bcdbb9f776bd4ac2f0a851841fe9dcbbc34/images/New_version5/UD_Dashboard_image4.png)
 **Image 4**
+
 ## Select Layout
 
    **Layout formats are categorized in 2 ways,**
@@ -153,11 +153,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 **Image 9**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTEwNDUsLTE0ODUxODIyNDEsLTY4OD
-AxNTg2NCw3NTc0NjI0OTMsLTg0MDA2MDM3MCwtNTEyMTM5MjQ2
-LC03NDQ1NDQ3MjEsLTc3NDMwMzQ0NiwtMjgyNDY0NzQ0LC02OT
-gxMzczMjYsNDI2MTM1NjM0LDUwMjQ3MjE5NywtOTY0OTAxMDM5
-LDE5ODcyNzE0MTcsLTEyNTE3MzAyMzYsMjAyOTU1Nzc3OCwtOT
-M0NTMzODMwLC0xODczNzE3NTQ1LC01MjUwMTc1ODIsLTE3MTAy
-ODk3ODldfQ==
+eyJoaXN0b3J5IjpbMTE1MDY2MjU2MCwtMTQ4NTE4MjI0MSwtNj
+g4MDE1ODY0LDc1NzQ2MjQ5MywtODQwMDYwMzcwLC01MTIxMzky
+NDYsLTc0NDU0NDcyMSwtNzc0MzAzNDQ2LC0yODI0NjQ3NDQsLT
+Y5ODEzNzMyNiw0MjYxMzU2MzQsNTAyNDcyMTk3LC05NjQ5MDEw
+MzksMTk4NzI3MTQxNywtMTI1MTczMDIzNiwyMDI5NTU3Nzc4LC
+05MzQ1MzM4MzAsLTE4NzM3MTc1NDUsLTUyNTAxNzU4MiwtMTcx
+MDI4OTc4OV19
 -->
