@@ -37,7 +37,7 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/99b04bcdbb9f776bd4ac2f0a851841fe9dcbbc34/images/New_version5/UD_Dashboard_image4.png)
-
+**Image 4**
 ## Select Layout
 
    **Layout formats are categorized in 2 ways,**
@@ -48,7 +48,7 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3b8137ddf669d251a2e9ea3f26fa8b6bde3a8984/images/New_version5/UD_Dashboard_image5.png)
-
+**Image 5**
 
 **2.**   Select the Layout using drop-down list and add reports to the layout.
 
@@ -67,6 +67,7 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1dd11662359a18e0f370aa3058e7fd6281328220/images/New_version5/UD_Dashboard_image6.png)
+**Image 6**
 
 **Fill up the dashboard global filter section;**
 
@@ -90,7 +91,7 @@ Under Dashboard Section,  Choose **New->Dashboard** from the given drop down lis
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd243725834336dcd901b72f730e584eb164d89c/images/New_version5/UD_Dashboard_image7.png)
-
+**Image 7**
 **Fill up the lookup section ;**
 
    -   **Lookup name :**  Name Identifier for lookup field.
@@ -116,7 +117,7 @@ The Listeners option allows to register callbacks to be notified when an event i
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/fdf32389df2e4c179a67ce4349c25c445af98cef/images/New_version5/UD_Dashboard_image8.png)
-
+**Image 8**
 ***Fill up the Report Listener Section ;***
 
    - **Reports** :  Displays the dashboard reports.
@@ -149,13 +150,13 @@ The Listeners option allows to register callbacks to be notified when an event i
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
-
+**Image 9**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwNTI3Mzg0LC01MTIxMzkyNDYsLTc0ND
-U0NDcyMSwtNzc0MzAzNDQ2LC0yODI0NjQ3NDQsLTY5ODEzNzMy
-Niw0MjYxMzU2MzQsNTAyNDcyMTk3LC05NjQ5MDEwMzksMTk4Nz
-I3MTQxNywtMTI1MTczMDIzNiwyMDI5NTU3Nzc4LC05MzQ1MzM4
-MzAsLTE4NzM3MTc1NDUsLTUyNTAxNzU4MiwtMTcxMDI4OTc4OS
-wxOTgwNjUwNjY1LDY5NTc4OTM5NiwxMzkwNDU4MjgzLDE1OTkz
-ODYyMzldfQ==
+eyJoaXN0b3J5IjpbMjA0Nzc1MDcwNywtNTEyMTM5MjQ2LC03ND
+Q1NDQ3MjEsLTc3NDMwMzQ0NiwtMjgyNDY0NzQ0LC02OTgxMzcz
+MjYsNDI2MTM1NjM0LDUwMjQ3MjE5NywtOTY0OTAxMDM5LDE5OD
+cyNzE0MTcsLTEyNTE3MzAyMzYsMjAyOTU1Nzc3OCwtOTM0NTMz
+ODMwLC0xODczNzE3NTQ1LC01MjUwMTc1ODIsLTE3MTAyODk3OD
+ksMTk4MDY1MDY2NSw2OTU3ODkzOTYsMTM5MDQ1ODI4MywxNTk5
+Mzg2MjM5XX0=
 -->
