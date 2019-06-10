@@ -18,8 +18,8 @@ After logging into AcuBi Home Page, Click on **Dashboard** Section.
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Dashboard_image2.png)
 **Image 2**
 
- - To view the existing dashboard report click on dashboard report from the list. 
- -  It will navigate to dashboard report as shown in below image. 
+ - To view the existing dashboard report click on dashboard report name from the list. 
+ -  It will navigate to dashboard report. ( Refer image 3)
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a139aa668a28e43d5ac7a91829062729877b0e09/images/New_version5/UD_Dashboard_image3.png)
@@ -152,11 +152,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 **Image 9**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTE5NjYwOSwtNjg4MDE1ODY0LDc1Nz
-Q2MjQ5MywtODQwMDYwMzcwLC01MTIxMzkyNDYsLTc0NDU0NDcy
-MSwtNzc0MzAzNDQ2LC0yODI0NjQ3NDQsLTY5ODEzNzMyNiw0Mj
-YxMzU2MzQsNTAyNDcyMTk3LC05NjQ5MDEwMzksMTk4NzI3MTQx
-NywtMTI1MTczMDIzNiwyMDI5NTU3Nzc4LC05MzQ1MzM4MzAsLT
-E4NzM3MTc1NDUsLTUyNTAxNzU4MiwtMTcxMDI4OTc4OSwxOTgw
-NjUwNjY1XX0=
+eyJoaXN0b3J5IjpbLTE0ODUxODIyNDEsLTY4ODAxNTg2NCw3NT
+c0NjI0OTMsLTg0MDA2MDM3MCwtNTEyMTM5MjQ2LC03NDQ1NDQ3
+MjEsLTc3NDMwMzQ0NiwtMjgyNDY0NzQ0LC02OTgxMzczMjYsND
+I2MTM1NjM0LDUwMjQ3MjE5NywtOTY0OTAxMDM5LDE5ODcyNzE0
+MTcsLTEyNTE3MzAyMzYsMjAyOTU1Nzc3OCwtOTM0NTMzODMwLC
+0xODczNzE3NTQ1LC01MjUwMTc1ODIsLTE3MTAyODk3ODksMTk4
+MDY1MDY2NV19
 -->
