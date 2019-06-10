@@ -33,7 +33,7 @@ After logging into AcuBi Home Page, Click on **Dashboard** Section.
   
  ## Creating Dashboard
  
-Under Dashboard Section,  Choose **New->Dashboard** from the given drop down list. 
+**1.** Under Dashboard Section,  Choose **New->Dashboard** from the given drop down list. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/99b04bcdbb9f776bd4ac2f0a851841fe9dcbbc34/images/New_version5/UD_Dashboard_image4.png)
@@ -153,11 +153,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 **Image 9**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDY2MjU2MCwtMTQ4NTE4MjI0MSwtNj
-g4MDE1ODY0LDc1NzQ2MjQ5MywtODQwMDYwMzcwLC01MTIxMzky
-NDYsLTc0NDU0NDcyMSwtNzc0MzAzNDQ2LC0yODI0NjQ3NDQsLT
-Y5ODEzNzMyNiw0MjYxMzU2MzQsNTAyNDcyMTk3LC05NjQ5MDEw
-MzksMTk4NzI3MTQxNywtMTI1MTczMDIzNiwyMDI5NTU3Nzc4LC
-05MzQ1MzM4MzAsLTE4NzM3MTc1NDUsLTUyNTAxNzU4MiwtMTcx
-MDI4OTc4OV19
+eyJoaXN0b3J5IjpbLTEyNzE3MzE1MTcsMTE1MDY2MjU2MCwtMT
+Q4NTE4MjI0MSwtNjg4MDE1ODY0LDc1NzQ2MjQ5MywtODQwMDYw
+MzcwLC01MTIxMzkyNDYsLTc0NDU0NDcyMSwtNzc0MzAzNDQ2LC
+0yODI0NjQ3NDQsLTY5ODEzNzMyNiw0MjYxMzU2MzQsNTAyNDcy
+MTk3LC05NjQ5MDEwMzksMTk4NzI3MTQxNywtMTI1MTczMDIzNi
+wyMDI5NTU3Nzc4LC05MzQ1MzM4MzAsLTE4NzM3MTc1NDUsLTUy
+NTAxNzU4Ml19
 -->
