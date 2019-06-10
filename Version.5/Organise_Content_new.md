@@ -3,9 +3,9 @@
 
 <center><h1>Organize Content</h1></center>
 
-This Section describes how to edit the Reports and dashboard. 
+This Section describes how to edit the reports and dashboard. 
 Acubi allows user in editing and managing access level, allows  users to make necessary changes to the content such as;
-  
+ 
   -  Editing Reports and Dashboards.
    -  Specifying which users and groups as  authority to access the data.
    -  Renaming, and Deleting. 
@@ -34,7 +34,7 @@ The Sharing status displays type of privacy setting is enabled to the dashboard 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTEyNTQ1NTcsLTgyMjQwOTk4NywtMT
-Q0NDQ5MzEwNSwtMTU5MjMxMTQyNiwtMTU1MzU2OTU3NSw3NTE2
-MDAyNDYsLTE1OTQ3MDcxNV19
+eyJoaXN0b3J5IjpbLTEyMzExNTU5MywtMTU1MTI1NDU1NywtOD
+IyNDA5OTg3LC0xNDQ0NDkzMTA1LC0xNTkyMzExNDI2LC0xNTUz
+NTY5NTc1LDc1MTYwMDI0NiwtMTU5NDcwNzE1XX0=
 -->
