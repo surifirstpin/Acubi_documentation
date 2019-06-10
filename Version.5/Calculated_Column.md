@@ -303,7 +303,7 @@ bi.add(${ROOT.BI_Order.sum_ORDERVALUE},2000)
 
 ## Usage of #plugin# for Grid View
 
-Plugin operators provides complete authority on creation, editing and deleting of raw data. It allows customization of data using JavaScript API language  as per the business requirement.
+Plugin operators provides complete authority on creating, editing and deleting the raw data. It allows customization of data using JavaScript API language  as per the business requirement.
 
  **biCalculation.pluginData.raw**  holds the Raw JSON data and can be transformed as per the requirement.
 
@@ -328,8 +328,7 @@ return item;
 ## Calculate Custom Functions
 
 It will execute a series of actions on a database record and returns a particular value.
- 
- 
+  
  ```
 /*START*/
 
@@ -439,8 +438,8 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjY5MTEwOSwtMjAzODc3MzM2MSwtMT
-A2OTI2NTczNiw1NTYzMDQ0NjgsLTE1MTUxNTIxMjMsNDI5MjE1
-OTg5LDIwMjM2MzcyMywxNTY5NTYyODI2LDEyMjI1MjMzNzMsLT
-EyMjU3ODAxMjcsLTI0MzEzODE2NywtNjc1NDc1MjU1XX0=
+eyJoaXN0b3J5IjpbLTIxMjUwNzQwMzUsLTIwMzg3NzMzNjEsLT
+EwNjkyNjU3MzYsNTU2MzA0NDY4LC0xNTE1MTUyMTIzLDQyOTIx
+NTk4OSwyMDIzNjM3MjMsMTU2OTU2MjgyNiwxMjIyNTIzMzczLC
+0xMjI1NzgwMTI3LC0yNDMxMzgxNjcsLTY3NTQ3NTI1NV19
 -->
