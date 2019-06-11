@@ -415,16 +415,15 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 **For Example :** Consider below image, which displays the format section for table chart.
 
-
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjQ4NTI2OCwxMjkwODg1ODUzLC0xNz
-gxMDY2MzUyLDEyODk5ODI3MDAsMTE3NDMwMDk2MCw5MzkyNjI5
-OTgsNDAwMzc5MDUyLC00MzcxNDM1OCwtMTE1NTc2MzgxMCwxOT
-gyMjI1ODQwLC0xMTMzNDc1MzMyLDE0NTk5MDg0MjIsLTU5Nzk1
-NjU5OSwtMTU3OTYzMDA1NSwxMjUwNzg3MjcxLC0xNjY1NDk4NT
-YyLC0xNzI4NTE0NDYzLC02MTI1MTQzOSwyODA4Nzg4NzIsODE2
-MTc3OTczXX0=
+eyJoaXN0b3J5IjpbNzM4MTczNzk4LDE0MzI0ODUyNjgsMTI5MD
+g4NTg1MywtMTc4MTA2NjM1MiwxMjg5OTgyNzAwLDExNzQzMDA5
+NjAsOTM5MjYyOTk4LDQwMDM3OTA1MiwtNDM3MTQzNTgsLTExNT
+U3NjM4MTAsMTk4MjIyNTg0MCwtMTEzMzQ3NTMzMiwxNDU5OTA4
+NDIyLC01OTc5NTY1OTksLTE1Nzk2MzAwNTUsMTI1MDc4NzI3MS
+wtMTY2NTQ5ODU2MiwtMTcyODUxNDQ2MywtNjEyNTE0MzksMjgw
+ODc4ODcyXX0=
 -->
