@@ -8,7 +8,7 @@ Acubi allows user in editing and managing access level, allows  users to make ne
    -  Editing Reports and Dashboards.
    -  Specifying which users and groups as authority to access the data.
    -  Renaming, and Deleting. 
-   - Assigning Thumbnails( Only Admin has access to upload a thumbnail).
+   - Assigning Thumbnails (only Admin has access to upload a thumbnail).
    -  Set Report and Dashboard to Home page.
    
    ![
@@ -28,8 +28,8 @@ The Sharing status displays type of privacy setting enabled for a dashboard or r
  -   **Private** Grey colour indicates dashboard or reports saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTA4NjAxMSwtNzA4MjUyMDUxLC0xNT
-UxMjU0NTU3LC04MjI0MDk5ODcsLTE0NDQ0OTMxMDUsLTE1OTIz
-MTE0MjYsLTE1NTM1Njk1NzUsNzUxNjAwMjQ2LC0xNTk0NzA3MT
-VdfQ==
+eyJoaXN0b3J5IjpbLTExOTQxNjgzNzMsMTUxNTA4NjAxMSwtNz
+A4MjUyMDUxLC0xNTUxMjU0NTU3LC04MjI0MDk5ODcsLTE0NDQ0
+OTMxMDUsLTE1OTIzMTE0MjYsLTE1NTM1Njk1NzUsNzUxNjAwMj
+Q2LC0xNTk0NzA3MTVdfQ==
 -->
