@@ -90,12 +90,15 @@ You can drill deeper into visualization, to get more specific information about 
 **Image 7**
 
 > **Note :** A more detailed explanation on visualization is given in visualization types and settings documents.
+
+[
+]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzQ0NDg5LDg2NDY2NDk2NSwtOTkzND
-Q0ODksLTk5MzQ0NDg5LC0xNjI5ODAyNTgzLDU2MjgzMjY4MSwt
-MTEzNDkzMzI4OSw1MTc2MTczLC00Mzg4Mzk2MTIsLTE5Nzc3OT
-cyMzUsLTE2NzM0MzM4MTIsMTIzMDQ3MDIzNCwtMTM1NTE2NDg4
-NCwtMTE3MTc4MjAwMiwtMTE5MDQ1Mjk5MywtNjA5NzU1MTAsOD
-gzNjU3MjM5LDE2MjkwNDgwOTEsMTUzMjE0OTc0OSwtMTQ4MTYw
-MTA1OF19
+eyJoaXN0b3J5IjpbLTE5MDAyODM4MSwtOTkzNDQ0ODksODY0Nj
+Y0OTY1LC05OTM0NDQ4OSwtOTkzNDQ0ODksLTE2Mjk4MDI1ODMs
+NTYyODMyNjgxLC0xMTM0OTMzMjg5LDUxNzYxNzMsLTQzODgzOT
+YxMiwtMTk3Nzc5NzIzNSwtMTY3MzQzMzgxMiwxMjMwNDcwMjM0
+LC0xMzU1MTY0ODg0LC0xMTcxNzgyMDAyLC0xMTkwNDUyOTkzLC
+02MDk3NTUxMCw4ODM2NTcyMzksMTYyOTA0ODA5MSwxNTMyMTQ5
+NzQ5XX0=
 -->
