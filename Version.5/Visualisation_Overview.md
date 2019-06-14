@@ -91,10 +91,8 @@ You can drill deeper into visualization, to get more specific information about 
 
 > **Note :** A more detailed explanation on visualization is given in visualization types and settings documents.
 
-[
-]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDAyODM4MSwtOTkzNDQ0ODksODY0Nj
+eyJoaXN0b3J5IjpbMTA1MjgxMjI5MywtOTkzNDQ0ODksODY0Nj
 Y0OTY1LC05OTM0NDQ4OSwtOTkzNDQ0ODksLTE2Mjk4MDI1ODMs
 NTYyODMyNjgxLC0xMTM0OTMzMjg5LDUxNzYxNzMsLTQzODgzOT
 YxMiwtMTk3Nzc5NzIzNSwtMTY3MzQzMzgxMiwxMjMwNDcwMjM0
