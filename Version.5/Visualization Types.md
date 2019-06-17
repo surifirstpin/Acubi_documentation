@@ -206,6 +206,7 @@ Bubble Chart displays the data in circles. We can define each bubble using any o
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/427b27184df7c745300ef1169318ae6427ae1e56/images/New_version5/UD_Visualization_Types&Settings_Image10.png)
 **Image 10**
+
 ## Table chart 
  
 Table chart displays the data in series making it more feasible for comparing dimensions and measure values.
@@ -418,11 +419,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE4MTM0LDczODE3Mzc5OCwxNDMyND
-g1MjY4LDEyOTA4ODU4NTMsLTE3ODEwNjYzNTIsMTI4OTk4Mjcw
-MCwxMTc0MzAwOTYwLDkzOTI2Mjk5OCw0MDAzNzkwNTIsLTQzNz
-E0MzU4LC0xMTU1NzYzODEwLDE5ODIyMjU4NDAsLTExMzM0NzUz
-MzIsMTQ1OTkwODQyMiwtNTk3OTU2NTk5LC0xNTc5NjMwMDU1LD
-EyNTA3ODcyNzEsLTE2NjU0OTg1NjIsLTE3Mjg1MTQ0NjMsLTYx
-MjUxNDM5XX0=
+eyJoaXN0b3J5IjpbNTcyMjU5MjI0LC0yMTQxODEzNCw3MzgxNz
+M3OTgsMTQzMjQ4NTI2OCwxMjkwODg1ODUzLC0xNzgxMDY2MzUy
+LDEyODk5ODI3MDAsMTE3NDMwMDk2MCw5MzkyNjI5OTgsNDAwMz
+c5MDUyLC00MzcxNDM1OCwtMTE1NTc2MzgxMCwxOTgyMjI1ODQw
+LC0xMTMzNDc1MzMyLDE0NTk5MDg0MjIsLTU5Nzk1NjU5OSwtMT
+U3OTYzMDA1NSwxMjUwNzg3MjcxLC0xNjY1NDk4NTYyLC0xNzI4
+NTE0NDYzXX0=
 -->
