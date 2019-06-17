@@ -154,14 +154,13 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Widget Icon** Choose a icon to symbolize widget value. 
 
-- **Background Colour** Select appropriate Back ground colour for widget chart.
+- **Background Colour** Select appropriate background colour for widget chart.
 
 ##  World chart 
 
  It displays the data grouped by specific country and at the same time highlights the grouped data regions in the map.
  
 **6.** Choose chart type **World** from drop down list. 
-
 
  > **Note :** The values you want to define in world chart should be defined in model section initially to display them here. 
 
@@ -419,11 +418,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzYwMTA3MzYsNzM4MTczNzk4LDE0Mz
-I0ODUyNjgsMTI5MDg4NTg1MywtMTc4MTA2NjM1MiwxMjg5OTgy
-NzAwLDExNzQzMDA5NjAsOTM5MjYyOTk4LDQwMDM3OTA1MiwtND
-M3MTQzNTgsLTExNTU3NjM4MTAsMTk4MjIyNTg0MCwtMTEzMzQ3
-NTMzMiwxNDU5OTA4NDIyLC01OTc5NTY1OTksLTE1Nzk2MzAwNT
-UsMTI1MDc4NzI3MSwtMTY2NTQ5ODU2MiwtMTcyODUxNDQ2Mywt
-NjEyNTE0MzldfQ==
+eyJoaXN0b3J5IjpbLTIxNDE4MTM0LDczODE3Mzc5OCwxNDMyND
+g1MjY4LDEyOTA4ODU4NTMsLTE3ODEwNjYzNTIsMTI4OTk4Mjcw
+MCwxMTc0MzAwOTYwLDkzOTI2Mjk5OCw0MDAzNzkwNTIsLTQzNz
+E0MzU4LC0xMTU1NzYzODEwLDE5ODIyMjU4NDAsLTExMzM0NzUz
+MzIsMTQ1OTkwODQyMiwtNTk3OTU2NTk5LC0xNTc5NjMwMDU1LD
+EyNTA3ODcyNzEsLTE2NjU0OTg1NjIsLTE3Mjg1MTQ0NjMsLTYx
+MjUxNDM5XX0=
 -->
