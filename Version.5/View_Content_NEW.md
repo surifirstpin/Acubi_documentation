@@ -31,7 +31,7 @@ Click on any specific tag which you would like to view. it will navigate to tag 
  **Image 3**
  ### 3. Reports
 
-To view the existing report in Acubi, Click on any specific report. it will display the report output and global filters used in reports.
+To view the existing report in Acubi, Click on any specific report,it will display the report output and global filters used in reports.
 
 **For instance** : Here we are selecting report Quantity_Sum_Bonus.
 
@@ -41,7 +41,7 @@ To view the existing report in Acubi, Click on any specific report. it will disp
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzYzMjY5NjQsMTMxOTU4NjUyNiwxMj
-M0NTM0NzU3LC0zODI2MDM5MjEsLTEwMDI5NTQyNzYsMTk4ODk0
-MTEzMiwtNjYwODAyMDY0XX0=
+eyJoaXN0b3J5IjpbMTg5NTMxNDU3MCwtMTczNjMyNjk2NCwxMz
+E5NTg2NTI2LDEyMzQ1MzQ3NTcsLTM4MjYwMzkyMSwtMTAwMjk1
+NDI3NiwxOTg4OTQxMTMyLC02NjA4MDIwNjRdfQ==
 -->
