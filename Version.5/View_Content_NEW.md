@@ -10,6 +10,7 @@ One of the best ways to start using Acubi is to navigate around the existing My 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d9c267871ed467a0bbf143c1bf8c4137012cb6d4/images/New_version5/UD_Viewing_Content_Image4.png)
 **Image 1**
+
 ## Navigating to Saved Content 
 
 ### 1. TAGS
@@ -40,7 +41,7 @@ To view the existing report in Acubi, Click on any specific report. it will disp
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTU4NjUyNiwxMjM0NTM0NzU3LC0zOD
-I2MDM5MjEsLTEwMDI5NTQyNzYsMTk4ODk0MTEzMiwtNjYwODAy
-MDY0XX0=
+eyJoaXN0b3J5IjpbLTE3MzYzMjY5NjQsMTMxOTU4NjUyNiwxMj
+M0NTM0NzU3LC0zODI2MDM5MjEsLTEwMDI5NTQyNzYsMTk4ODk0
+MTEzMiwtNjYwODAyMDY0XX0=
 -->
