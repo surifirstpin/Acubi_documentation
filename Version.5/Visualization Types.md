@@ -410,7 +410,7 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 - **Icon** Select a icon for the data retrieved based on condition.
 
-- **Before number** Align the icon before or after the data.
+- **Before number** Align the icon before the data value.
 
 
 **For Example :** Consider below image, which displays the format section for table chart.
@@ -419,11 +419,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyMjU5MjI0LC0yMTQxODEzNCw3MzgxNz
-M3OTgsMTQzMjQ4NTI2OCwxMjkwODg1ODUzLC0xNzgxMDY2MzUy
-LDEyODk5ODI3MDAsMTE3NDMwMDk2MCw5MzkyNjI5OTgsNDAwMz
-c5MDUyLC00MzcxNDM1OCwtMTE1NTc2MzgxMCwxOTgyMjI1ODQw
-LC0xMTMzNDc1MzMyLDE0NTk5MDg0MjIsLTU5Nzk1NjU5OSwtMT
-U3OTYzMDA1NSwxMjUwNzg3MjcxLC0xNjY1NDk4NTYyLC0xNzI4
-NTE0NDYzXX0=
+eyJoaXN0b3J5IjpbLTEyMDk4OTE5OTYsNTcyMjU5MjI0LC0yMT
+QxODEzNCw3MzgxNzM3OTgsMTQzMjQ4NTI2OCwxMjkwODg1ODUz
+LC0xNzgxMDY2MzUyLDEyODk5ODI3MDAsMTE3NDMwMDk2MCw5Mz
+kyNjI5OTgsNDAwMzc5MDUyLC00MzcxNDM1OCwtMTE1NTc2Mzgx
+MCwxOTgyMjI1ODQwLC0xMTMzNDc1MzMyLDE0NTk5MDg0MjIsLT
+U5Nzk1NjU5OSwtMTU3OTYzMDA1NSwxMjUwNzg3MjcxLC0xNjY1
+NDk4NTYyXX0=
 -->
