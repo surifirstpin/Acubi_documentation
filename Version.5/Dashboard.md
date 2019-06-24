@@ -1,4 +1,4 @@
-<center><h1>Dashboard</h1></center>
+<center><h1>DASHBOARD</h1></center>
 
 Dashboard provides access to view multiple reports in single dashboard layout, this way it provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive and can re-arrange the titles. After configuring a dashboard to your interest, you can share it with your team. You can create as many dashboards as you want, so you can alter each dashboard to the specific needs of the people who use it.
 
@@ -155,11 +155,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 **Image 9**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5OTA3ODEyLC00NTQ2MDk2MSwyMDcxND
-IzODMxLDExNTA2NjI1NjAsLTE0ODUxODIyNDEsLTY4ODAxNTg2
-NCw3NTc0NjI0OTMsLTg0MDA2MDM3MCwtNTEyMTM5MjQ2LC03ND
-Q1NDQ3MjEsLTc3NDMwMzQ0NiwtMjgyNDY0NzQ0LC02OTgxMzcz
-MjYsNDI2MTM1NjM0LDUwMjQ3MjE5NywtOTY0OTAxMDM5LDE5OD
-cyNzE0MTcsLTEyNTE3MzAyMzYsMjAyOTU1Nzc3OCwtOTM0NTMz
-ODMwXX0=
+eyJoaXN0b3J5IjpbNDk5MTc4MDg0LDg4OTkwNzgxMiwtNDU0Nj
+A5NjEsMjA3MTQyMzgzMSwxMTUwNjYyNTYwLC0xNDg1MTgyMjQx
+LC02ODgwMTU4NjQsNzU3NDYyNDkzLC04NDAwNjAzNzAsLTUxMj
+EzOTI0NiwtNzQ0NTQ0NzIxLC03NzQzMDM0NDYsLTI4MjQ2NDc0
+NCwtNjk4MTM3MzI2LDQyNjEzNTYzNCw1MDI0NzIxOTcsLTk2ND
+kwMTAzOSwxOTg3MjcxNDE3LC0xMjUxNzMwMjM2LDIwMjk1NTc3
+NzhdfQ==
 -->
