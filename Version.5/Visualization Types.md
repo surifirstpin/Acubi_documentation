@@ -1,6 +1,6 @@
 
 
-<center><h1>Visualization Types and Settings</h1></center>
+<center><h2>VISUALIZATION TYPES AND SETTINGS</h2></center>
 
  Visualization provides an opportunity to view the data obtained in analysis report into different pictorial representation along with some standard editing options. Based on the priority, to view specific information about the data retrieved. Each type of visualization charts have different setting which can be customized for its appearance. 
  
@@ -419,11 +419,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk4OTE5OTYsNTcyMjU5MjI0LC0yMT
-QxODEzNCw3MzgxNzM3OTgsMTQzMjQ4NTI2OCwxMjkwODg1ODUz
-LC0xNzgxMDY2MzUyLDEyODk5ODI3MDAsMTE3NDMwMDk2MCw5Mz
-kyNjI5OTgsNDAwMzc5MDUyLC00MzcxNDM1OCwtMTE1NTc2Mzgx
-MCwxOTgyMjI1ODQwLC0xMTMzNDc1MzMyLDE0NTk5MDg0MjIsLT
-U5Nzk1NjU5OSwtMTU3OTYzMDA1NSwxMjUwNzg3MjcxLC0xNjY1
-NDk4NTYyXX0=
+eyJoaXN0b3J5IjpbNTkwOTYyMzcyLDU3MjI1OTIyNCwtMjE0MT
+gxMzQsNzM4MTczNzk4LDE0MzI0ODUyNjgsMTI5MDg4NTg1Mywt
+MTc4MTA2NjM1MiwxMjg5OTgyNzAwLDExNzQzMDA5NjAsOTM5Mj
+YyOTk4LDQwMDM3OTA1MiwtNDM3MTQzNTgsLTExNTU3NjM4MTAs
+MTk4MjIyNTg0MCwtMTEzMzQ3NTMzMiwxNDU5OTA4NDIyLC01OT
+c5NTY1OTksLTE1Nzk2MzAwNTUsMTI1MDc4NzI3MSwtMTY2NTQ5
+ODU2Ml19
 -->
