@@ -2,7 +2,7 @@
 
 
 
-<center><h1>AcuBi HomePage</h1></center>
+<center><h1>ACUBI HOMEPAGE</h1></center>
 
 ## How to Login Acubi ?
 
@@ -26,8 +26,8 @@ Hit **Logout** button to logout from Acubi homepage.
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Logout.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTE2NjAzNSwxNzMyNjY5Njk1LC00ND
-MwMTY2NDIsMjczMTcxNjc3LDQzNTg4OTk5NywxMDk3MzE5MTk3
-LC05MTg0NzM5OTUsLTIwMDUxNjcxMTUsMjc4NjIwNzgzLC0xMT
-g0ODQ5Nzc2XX0=
+eyJoaXN0b3J5IjpbMTc4NTM2NDM1LDE3MzI2Njk2OTUsLTQ0Mz
+AxNjY0MiwyNzMxNzE2NzcsNDM1ODg5OTk3LDEwOTczMTkxOTcs
+LTkxODQ3Mzk5NSwtMjAwNTE2NzExNSwyNzg2MjA3ODMsLTExOD
+Q4NDk3NzZdfQ==
 -->
