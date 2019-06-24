@@ -1,7 +1,7 @@
 
 
 
-<center><h1>VIEW CONTENT</h1></center>
+<center><h2>VIEW CONTENT</h2></center>
 
 This section explains on how to view the existing files saved under **My Space** in AcuBi.
 
@@ -41,7 +41,7 @@ To view the existing report in Acubi, Click on any specific report,it will displ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzczNDE4Miw4Nzk4NDQ2MTgsMTg5NT
+eyJoaXN0b3J5IjpbMjA3MzMxNDUwMiw4Nzk4NDQ2MTgsMTg5NT
 MxNDU3MCwtMTczNjMyNjk2NCwxMzE5NTg2NTI2LDEyMzQ1MzQ3
 NTcsLTM4MjYwMzkyMSwtMTAwMjk1NDI3NiwxOTg4OTQxMTMyLC
 02NjA4MDIwNjRdfQ==
