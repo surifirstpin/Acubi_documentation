@@ -1,7 +1,7 @@
 
 
 
-<center><h1>CALCULATED COLUMN</h1></center>
+<center><h2>CALCULATED COLUMN</h2></center>
 
 Table calculations enable you to easily create on-the-fly metrics, which are similar to formulas found in Excel sheets. These extracted columns will be shown-up in green colour, in the data table. Using calculated column you can perform mathematical, logical (true/false), lexical (text-based), and date-based calculations on the dimensions, measures, and other table calculations in your query. 
 
@@ -440,9 +440,9 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDEwNzk1MCw2NTI0Nzg2MzgsLTM4Nz
-Q3MjU4NywtMjAzODc3MzM2MSwtMTA2OTI2NTczNiw1NTYzMDQ0
-NjgsLTE1MTUxNTIxMjMsNDI5MjE1OTg5LDIwMjM2MzcyMywxNT
-Y5NTYyODI2LDEyMjI1MjMzNzMsLTEyMjU3ODAxMjcsLTI0MzEz
-ODE2NywtNjc1NDc1MjU1XX0=
+eyJoaXN0b3J5IjpbLTE1ODg0MTAzMjQsMTA4NDEwNzk1MCw2NT
+I0Nzg2MzgsLTM4NzQ3MjU4NywtMjAzODc3MzM2MSwtMTA2OTI2
+NTczNiw1NTYzMDQ0NjgsLTE1MTUxNTIxMjMsNDI5MjE1OTg5LD
+IwMjM2MzcyMywxNTY5NTYyODI2LDEyMjI1MjMzNzMsLTEyMjU3
+ODAxMjcsLTI0MzEzODE2NywtNjc1NDc1MjU1XX0=
 -->
