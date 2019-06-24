@@ -1,6 +1,6 @@
 
 
-<center><h1>VISUALIZATION OVERVIEW</h1></center>
+<center><h2>VISUALIZATION OVERVIEW</h2></center>
 
 This section provides basic overview on visualization and its functionality.
 
@@ -93,11 +93,11 @@ You can drill deeper into visualization, to get more specific information about 
 > **Note :** A more detailed explanation on visualization is given in visualization types and settings documents.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ3MzUxNzcsLTE0MTE3NzMyMjUsMT
-A1MjgxMjI5MywtOTkzNDQ0ODksODY0NjY0OTY1LC05OTM0NDQ4
-OSwtOTkzNDQ0ODksLTE2Mjk4MDI1ODMsNTYyODMyNjgxLC0xMT
-M0OTMzMjg5LDUxNzYxNzMsLTQzODgzOTYxMiwtMTk3Nzc5NzIz
-NSwtMTY3MzQzMzgxMiwxMjMwNDcwMjM0LC0xMzU1MTY0ODg0LC
-0xMTcxNzgyMDAyLC0xMTkwNDUyOTkzLC02MDk3NTUxMCw4ODM2
-NTcyMzldfQ==
+eyJoaXN0b3J5IjpbMTI3ODMyNjgwNywtMTQxMTc3MzIyNSwxMD
+UyODEyMjkzLC05OTM0NDQ4OSw4NjQ2NjQ5NjUsLTk5MzQ0NDg5
+LC05OTM0NDQ4OSwtMTYyOTgwMjU4Myw1NjI4MzI2ODEsLTExMz
+Q5MzMyODksNTE3NjE3MywtNDM4ODM5NjEyLC0xOTc3Nzk3MjM1
+LC0xNjczNDMzODEyLDEyMzA0NzAyMzQsLTEzNTUxNjQ4ODQsLT
+ExNzE3ODIwMDIsLTExOTA0NTI5OTMsLTYwOTc1NTEwLDg4MzY1
+NzIzOV19
 -->
