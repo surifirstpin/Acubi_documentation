@@ -5,7 +5,7 @@
   - [Visualization Overview](Visualisation_Overview.md)
   - [Visualization Types](Visualization_Types.md)
   - [Dashboard](Dashboard.md)
-  - [View_Content](View_Content_NEW.md)
+  - [View Content](View_Content_NEW.md)
   - [Organize Content](Organise_Content_new.md)
     
 <!--- User Documentation(version.1)
