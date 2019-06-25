@@ -1,5 +1,4 @@
- 
-- Getting started 
+  
   - [Acubi Homepage](Acubi Homepage.md)
   - [Reports](Reports.md)  
   - [Calculated Column](Calculated_Column.md) 
