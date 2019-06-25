@@ -2,7 +2,7 @@
 
 > <center><h2> REPORTS </h2></center>
 
-This section introduces how to explore the data in Acubi and how the query built, data retrieved and represented in desired combinations based on your business requirement and how efficiently explores particular subject area itself. Acubi reports have an ability to pull the data and modify the report as per the needs and drill down deeper for more better insights across the report.
+This section introduces how to explore the data in AcuBi and how the query built, data retrieved and represented in desired combinations based on your business requirement and how efficiently explores particular subject area itself. AcuBi reports have an ability to pull the data and modify the report as per the needs and drill down deeper for more better insights across the report.
 
 ## Where to get started ?
 
@@ -347,7 +347,7 @@ Click on Charts, to view the different type of pictorial representation for the 
 ](https://raw.githubusercontent.com/sv18042016/fp1/4d53ac9064e170dbaa096a06ba3517219d691b1c/images/New_version5/UD_Reports_Image14.png)
 **Image 15**
 
--   **Report Name**  Name identifier for a report. ( Acubi allows special character but does not support any spaces )
+-   **Report Name**  Name identifier for a report. ( AcuBi allows special character but does not support any spaces )
     
 -   **Title**  label for the report the way you want it to appear.
     
@@ -377,11 +377,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 **Image 16**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjUxNzAzNzAsLTEwMzMxMDg4MDAsOT
-A2MTc5ODIsLTE5OTk3MDAzODIsLTEwNTQ0ODk4NCwxNDMyODk1
-MTI1LDQ4MjQ3ODY4NiwtMzQ2ODc3NTY4LDg5ODY4MzMxOSwtMj
-QyMTU5MzYyLC0yMTA4NjMxNTA0LDQ2OTc3NTk3MSw2MzY2NzM0
-NzMsMTQzNTYzNTU2OCwyMDQ5MzUxODAwLDE3NzcxMzI4NDMsLT
-E3OTE3ODM0NjIsMTMyODgxMTAwNCwtMTk1MTUwNDc5NywxNjIz
-MjEyNzE2XX0=
+eyJoaXN0b3J5IjpbLTUzMTExMTQ1OCwtMjAyNTE3MDM3MCwtMT
+AzMzEwODgwMCw5MDYxNzk4MiwtMTk5OTcwMDM4MiwtMTA1NDQ4
+OTg0LDE0MzI4OTUxMjUsNDgyNDc4Njg2LC0zNDY4Nzc1NjgsOD
+k4NjgzMzE5LC0yNDIxNTkzNjIsLTIxMDg2MzE1MDQsNDY5Nzc1
+OTcxLDYzNjY3MzQ3MywxNDM1NjM1NTY4LDIwNDkzNTE4MDAsMT
+c3NzEzMjg0MywtMTc5MTc4MzQ2MiwxMzI4ODExMDA0LC0xOTUx
+NTA0Nzk3XX0=
 -->
