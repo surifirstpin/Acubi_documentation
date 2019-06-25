@@ -31,13 +31,13 @@ Once navigated to Calculated Column Window, Enter the below fields.
 ](https://raw.githubusercontent.com/sv18042016/fp1/d90ab34e275e9daaab297e54345228bcad1986f9/images/New_version5/UD_CalculatedColumn_image2.png)
 
 **Image 2**
-- **Field name** unique identifier name to refer calculated column.
+- **Field name :** unique identifier name to refer calculated column.
 
-- **Label** specify a identifier name to calculated column the way it should be displayed in the data table.
+- **Label :** specify a identifier name to calculated column the way it should be displayed in the data table.
 
-- **Data type** data type format for the result (string,number).
+- **Data Type :** data type format for the result (string,number).
 
-- **Field type** derives whether the result is dimension or measure.
+- **Field Type :** derives whether the result is dimension or measure.
 
 - **Calculation** Derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
 
@@ -359,7 +359,7 @@ bi._Fname(input_param1, input_param2,..input_paramN)
 
 - **Parameter Name Field :** Returns the field from global parameter it is applicable in 3 different ways ;
 
- **1.**  **Static value** Global parameters refers to a static value.
+ **1.**  **Static value :** Global parameters refers to a static value.
 
  ```
   bi.in_global_keys( ["Parameter_Column_Name "],["Reference string" ],"Global_parameter.field")
@@ -370,7 +370,7 @@ bi._Fname(input_param1, input_param2,..input_paramN)
 bi.in_global_keys( ["Station_Name"],["Station_1" ],"Calc_ONRAW.value")
 ```
 
-**2.** **Reference value** Global parameters refers to reference value.
+**2.** **Reference value :** Global parameters refers to reference value.
 
 ```
   bi.in_global_keys( ["Parameter_Column_Name "],["database column" ],"Global_parameter.field")
@@ -381,7 +381,7 @@ bi.in_global_keys( ["Station_Name"],["Station_1" ],"Calc_ONRAW.value")
 bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"Calc_ONRAW.value")
 ```
 
-**3. Login Name(User Id)** Provide Access based on Login ID.
+**3. Login Name(User Id) :** Provide Access based on Login ID.
 
 ```
 bi.in_global_keys(["ParameterColumnName","ParameterUserID"],["DatabaseField","bi._globals("#userid#")"],"ParameterName.Field"])
@@ -441,7 +441,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDExODQ2NiwtMTU4ODQxMDMyNCwxMD
+eyJoaXN0b3J5IjpbMjEwNDQwMDYyNCwtMTU4ODQxMDMyNCwxMD
 g0MTA3OTUwLDY1MjQ3ODYzOCwtMzg3NDcyNTg3LC0yMDM4Nzcz
 MzYxLC0xMDY5MjY1NzM2LDU1NjMwNDQ2OCwtMTUxNTE1MjEyMy
 w0MjkyMTU5ODksMjAyMzYzNzIzLDE1Njk1NjI4MjYsMTIyMjUy
