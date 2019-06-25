@@ -28,13 +28,15 @@ Hit **Logout** button to logout from AcuBi homepage.
 ##Forgot password
 
   - In case if there is any mismatch in credentials while logging in, Click **Forgot Password**. 
-  - It will navigate to Reset password screen
-  ![
+  
+  - It will navigate to Reset password screen.
+  
+ ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d64bc97c7d2aa0cb8e2c35fa8f9905bd274388f1/images/New_version5/ud_homepage_forgot%20password.png)
 **Image 4**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyNjA0NDE3LC0xMjU1MDg2NDc2LDE3OD
-UzNjQzNSwxNzMyNjY5Njk1LC00NDMwMTY2NDIsMjczMTcxNjc3
-LDQzNTg4OTk5NywxMDk3MzE5MTk3LC05MTg0NzM5OTUsLTIwMD
-UxNjcxMTUsMjc4NjIwNzgzLC0xMTg0ODQ5Nzc2XX0=
+eyJoaXN0b3J5IjpbLTE5NjM1NDc5ODksLTEyNTUwODY0NzYsMT
+c4NTM2NDM1LDE3MzI2Njk2OTUsLTQ0MzAxNjY0MiwyNzMxNzE2
+NzcsNDM1ODg5OTk3LDEwOTczMTkxOTcsLTkxODQ3Mzk5NSwtMj
+AwNTE2NzExNSwyNzg2MjA3ODMsLTExODQ4NDk3NzZdfQ==
 -->
