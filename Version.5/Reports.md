@@ -38,7 +38,7 @@ Let us generate a query to display **Stationcode** (Dimension) and **Order Atten
 **Image 2:**
 ## SQL Query 
 
-**4.**  Using **Field Picker**, select Dimensions and Measures.
+**4.**  Using **Field Picker (Search)**, select Dimensions and Measures.
 the query is built in SQL Section based on the selection made and the joins derived in model section.
 
 To view the SQL query built click on **SQL** section.
@@ -377,11 +377,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 **Image 16**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTY1ODI3MCwtNTMxMTExNDU4LC0yMD
-I1MTcwMzcwLC0xMDMzMTA4ODAwLDkwNjE3OTgyLC0xOTk5NzAw
-MzgyLC0xMDU0NDg5ODQsMTQzMjg5NTEyNSw0ODI0Nzg2ODYsLT
-M0Njg3NzU2OCw4OTg2ODMzMTksLTI0MjE1OTM2MiwtMjEwODYz
-MTUwNCw0Njk3NzU5NzEsNjM2NjczNDczLDE0MzU2MzU1NjgsMj
-A0OTM1MTgwMCwxNzc3MTMyODQzLC0xNzkxNzgzNDYyLDEzMjg4
-MTEwMDRdfQ==
+eyJoaXN0b3J5IjpbLTUzMTQ4MTg1OSwxMTIxNjU4MjcwLC01Mz
+ExMTE0NTgsLTIwMjUxNzAzNzAsLTEwMzMxMDg4MDAsOTA2MTc5
+ODIsLTE5OTk3MDAzODIsLTEwNTQ0ODk4NCwxNDMyODk1MTI1LD
+Q4MjQ3ODY4NiwtMzQ2ODc3NTY4LDg5ODY4MzMxOSwtMjQyMTU5
+MzYyLC0yMTA4NjMxNTA0LDQ2OTc3NTk3MSw2MzY2NzM0NzMsMT
+QzNTYzNTU2OCwyMDQ5MzUxODAwLDE3NzcxMzI4NDMsLTE3OTE3
+ODM0NjJdfQ==
 -->
