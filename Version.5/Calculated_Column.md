@@ -353,11 +353,11 @@ bi._Fname(input_param1, input_param2,..input_paramN)
  bi.in_global_keys(["ParameterColumnName"] ["DatabaseValue"],"ParameterName.Field"])
 ```
 
-- **Parameter Column Name** Refer the key name from global parameter.
+- **Parameter Column Name :** Refer the key name from global parameter.
 
--  **Database Value** Refers database value.
+-  **Database Value :** Refers database value.
 
-- **Parameter Name Field** Returns the field from global parameter it is applicable in 3 different ways ;
+- **Parameter Name Field :** Returns the field from global parameter it is applicable in 3 different ways ;
 
  **1.**  **Static value** Global parameters refers to a static value.
 
@@ -441,7 +441,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTgyODc3NiwtMTU4ODQxMDMyNCwxMD
+eyJoaXN0b3J5IjpbLTM3NDExODQ2NiwtMTU4ODQxMDMyNCwxMD
 g0MTA3OTUwLDY1MjQ3ODYzOCwtMzg3NDcyNTg3LC0yMDM4Nzcz
 MzYxLC0xMDY5MjY1NzM2LDU1NjMwNDQ2OCwtMTUxNTE1MjEyMy
 w0MjkyMTU5ODksMjAyMzYzNzIzLDE1Njk1NjI4MjYsMTIyMjUy
