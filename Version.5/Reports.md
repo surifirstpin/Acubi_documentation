@@ -180,9 +180,9 @@ For  **Measures** use opposite direction.
 Multiple dimensions in a report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. 
 **Pivot can be applied in 2 ways :**
  
-**a.** To apply pivot **Before Retrieving** the data, Click on pivot icon at field selection. (Refer image 6)
+**a.** To apply pivot **before retrieving** the data, Click on pivot icon at field selection. (Refer image 6)
 
-**b.** To Apply pivot **After Retrieving** the data, select List icon, then choose Pivot option from field drop down list. (Refer image 6)
+**b.** To Apply pivot **after retrieving** the data, select List icon, then choose Pivot option from field drop down list. (Refer image 6)
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/853361b4c4a583c5fb273a41c7e497f2dc1564e1/images/New_version5/UD_Reports_Image5.png)
@@ -377,11 +377,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 **Image 16**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTExMTQ1OCwtMjAyNTE3MDM3MCwtMT
-AzMzEwODgwMCw5MDYxNzk4MiwtMTk5OTcwMDM4MiwtMTA1NDQ4
-OTg0LDE0MzI4OTUxMjUsNDgyNDc4Njg2LC0zNDY4Nzc1NjgsOD
-k4NjgzMzE5LC0yNDIxNTkzNjIsLTIxMDg2MzE1MDQsNDY5Nzc1
-OTcxLDYzNjY3MzQ3MywxNDM1NjM1NTY4LDIwNDkzNTE4MDAsMT
-c3NzEzMjg0MywtMTc5MTc4MzQ2MiwxMzI4ODExMDA0LC0xOTUx
-NTA0Nzk3XX0=
+eyJoaXN0b3J5IjpbMTEyMTY1ODI3MCwtNTMxMTExNDU4LC0yMD
+I1MTcwMzcwLC0xMDMzMTA4ODAwLDkwNjE3OTgyLC0xOTk5NzAw
+MzgyLC0xMDU0NDg5ODQsMTQzMjg5NTEyNSw0ODI0Nzg2ODYsLT
+M0Njg3NzU2OCw4OTg2ODMzMTksLTI0MjE1OTM2MiwtMjEwODYz
+MTUwNCw0Njk3NzU5NzEsNjM2NjczNDczLDE0MzU2MzU1NjgsMj
+A0OTM1MTgwMCwxNzc3MTMyODQzLC0xNzkxNzgzNDYyLDEzMjg4
+MTEwMDRdfQ==
 -->
