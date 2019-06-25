@@ -25,8 +25,12 @@ Click on **Calculated Column** button it will navigate to calculated column wind
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5d7fedc6c4dd0810eb6be0995b321cd924b2cd71/images/New_version5/UD_CalculatedColumn_image1.png)
 **Image 1**
-Once navigated to Calculated Column Window, Enter the below fields.
 
+Once navigated to Calculated Column Window, Enter the below fields.
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/d90ab34e275e9daaab297e54345228bcad1986f9/images/New_version5/UD_CalculatedColumn_image2.png)
+
+**Image 2**
 - **Field name** unique identifier name to refer calculated column.
 
 - **Label** specify a identifier name to calculated column the way it should be displayed in the data table.
@@ -39,9 +43,6 @@ Once navigated to Calculated Column Window, Enter the below fields.
 
 > **Note :** Replace Dollar Symbol with Hashtag to fetch the appropriate data.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/d90ab34e275e9daaab297e54345228bcad1986f9/images/New_version5/UD_CalculatedColumn_image2.png)
-**Image 2**
 -  **Calculate on Raw data :**   if enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
 
 ***Example I : To Find the Column total of a measure value***
@@ -440,9 +441,10 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODg0MTAzMjQsMTA4NDEwNzk1MCw2NT
-I0Nzg2MzgsLTM4NzQ3MjU4NywtMjAzODc3MzM2MSwtMTA2OTI2
-NTczNiw1NTYzMDQ0NjgsLTE1MTUxNTIxMjMsNDI5MjE1OTg5LD
-IwMjM2MzcyMywxNTY5NTYyODI2LDEyMjI1MjMzNzMsLTEyMjU3
-ODAxMjcsLTI0MzEzODE2NywtNjc1NDc1MjU1XX0=
+eyJoaXN0b3J5IjpbLTMxMTgyODc3NiwtMTU4ODQxMDMyNCwxMD
+g0MTA3OTUwLDY1MjQ3ODYzOCwtMzg3NDcyNTg3LC0yMDM4Nzcz
+MzYxLC0xMDY5MjY1NzM2LDU1NjMwNDQ2OCwtMTUxNTE1MjEyMy
+w0MjkyMTU5ODksMjAyMzYzNzIzLDE1Njk1NjI4MjYsMTIyMjUy
+MzM3MywtMTIyNTc4MDEyNywtMjQzMTM4MTY3LC02NzU0NzUyNT
+VdfQ==
 -->
