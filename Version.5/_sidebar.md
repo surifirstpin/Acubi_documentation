@@ -1,32 +1,14 @@
  
 - Getting started 
-  - [Database Connection](DatabaseConnection.md)
-  
-  
-- Model
-  - [Model](model01.md)
-  
-- Visualize
-  - [Analysis](DataRun.md) 
-  - [Timeline Filters](Timeline Filters.md)
-  - [Calculated Column](CalculatedColumn.md)
-  - [Visualization](Visualization.md)
-  - [Saving Reports](SavingReports.md)
-
-- Dashboards
-  - [Organize](Organize.md)
-  - [Tags](Tags.md)
-  - [Reports](SReports.md)  
+  - [Acubi Homepage](Acubi Homepage.md)
+  - [Reports](Reports.md)  
+  - [Calculated Column](Calculated_Column.md) 
+  - [Visualization Overview](Visualisation_Overview.md)
+  - [Visualization Types](Visualization Types.md)
   - [Dashboard](Dashboard.md)
-  
-- Sql Runner
-  - [Sql Runner](SQL Runner.md)
-  
-- Settings
-  - [Admin Privileges](AdminPrivileges.md)
-  - [Global Parameters](GlobalParameters.md)  
-  - [Global Functions](GlobalFunctions.md)
-  
+  - [View_Content](View_Content_NEW.md)
+  - [Organize Content](Organise_Content_new.md)
+    
 <!--- User Documentation(version.1)
   - [How to Login BiPlus](How to Login BiPlus.md)
   - [How to Browse Report](How to browse reports.md)
