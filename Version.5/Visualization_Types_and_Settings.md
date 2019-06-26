@@ -82,7 +82,7 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
 
 - **Polar Area :** On selecting the checkbox polar area, it enables the polar view for each dimensions in pie chart.
 
--  **Donut** chart are equal to pie chart. They show relationships of parts to a whole. 
+-  **Donut :** chart are equal to pie chart. They show relationships of parts to a whole. 
 - Select checkbox to enable Donut view.
 
 ![
@@ -101,9 +101,9 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
 ](https://raw.githubusercontent.com/sv18042016/fp1/751eed2fc28d82c24e883a2d567d5f389919b172/images/New_version5/UD_Visualization_Types&Settings_Image6.png)
 **Image 6**
 
-- **Points** on selecting the checkbox it enables pointers for the data range in line chart.
+- **Points :** on selecting the checkbox it enables pointers for the data range in line chart.
 
-- **Point style** will specify how the data points will appear on chart. below are the following options are available. 
+- **Point style :** will specify how the data points will appear on chart. below are the following options are available. 
   - Circle
   - Triangle
   - Rectangle
@@ -424,11 +424,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzM0NTk3OCw1Nzc4OTc5NjQsOTY3OT
-AzNzQ2LC00NTkwODMwODUsNTcyMjU5MjI0LC0yMTQxODEzNCw3
-MzgxNzM3OTgsMTQzMjQ4NTI2OCwxMjkwODg1ODUzLC0xNzgxMD
-Y2MzUyLDEyODk5ODI3MDAsMTE3NDMwMDk2MCw5MzkyNjI5OTgs
-NDAwMzc5MDUyLC00MzcxNDM1OCwtMTE1NTc2MzgxMCwxOTgyMj
-I1ODQwLC0xMTMzNDc1MzMyLDE0NTk5MDg0MjIsLTU5Nzk1NjU5
-OV19
+eyJoaXN0b3J5IjpbNDI5MTc0MzY4LDU3Nzg5Nzk2NCw5Njc5MD
+M3NDYsLTQ1OTA4MzA4NSw1NzIyNTkyMjQsLTIxNDE4MTM0LDcz
+ODE3Mzc5OCwxNDMyNDg1MjY4LDEyOTA4ODU4NTMsLTE3ODEwNj
+YzNTIsMTI4OTk4MjcwMCwxMTc0MzAwOTYwLDkzOTI2Mjk5OCw0
+MDAzNzkwNTIsLTQzNzE0MzU4LC0xMTU1NzYzODEwLDE5ODIyMj
+U4NDAsLTExMzM0NzUzMzIsMTQ1OTkwODQyMiwtNTk3OTU2NTk5
+XX0=
 -->
