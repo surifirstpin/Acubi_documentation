@@ -74,13 +74,13 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
 **Image 3**
 ### Editing Options in Pie Chart
  
-- **Show percentage**  displays percentage for each measure value in pie chart. To enable it select the **Check Box** show percentage as shown below;
+- **Show percentage :**  displays percentage for each measure value in pie chart. To enable it select the **Check Box** show percentage as shown below;
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9efd7408868fc3755257f26138885e2ca684e1d0/images/New_version5/UD_Visualization_Types&Settings_Image4.png)
 **Image 4**
 
-- **Polar Area** On selecting the checkbox polar area, it enables the polar view for each dimensions in pie chart.
+- **Polar Area :** On selecting the checkbox polar area, it enables the polar view for each dimensions in pie chart.
 
 -  **Donut** chart are equal to pie chart. They show relationships of parts to a whole. 
 - Select checkbox to enable Donut view.
@@ -424,11 +424,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzMyNTY2ODYsNTc3ODk3OTY0LDk2Nz
-kwMzc0NiwtNDU5MDgzMDg1LDU3MjI1OTIyNCwtMjE0MTgxMzQs
-NzM4MTczNzk4LDE0MzI0ODUyNjgsMTI5MDg4NTg1MywtMTc4MT
-A2NjM1MiwxMjg5OTgyNzAwLDExNzQzMDA5NjAsOTM5MjYyOTk4
-LDQwMDM3OTA1MiwtNDM3MTQzNTgsLTExNTU3NjM4MTAsMTk4Mj
-IyNTg0MCwtMTEzMzQ3NTMzMiwxNDU5OTA4NDIyLC01OTc5NTY1
-OTldfQ==
+eyJoaXN0b3J5IjpbLTgxNzM0NTk3OCw1Nzc4OTc5NjQsOTY3OT
+AzNzQ2LC00NTkwODMwODUsNTcyMjU5MjI0LC0yMTQxODEzNCw3
+MzgxNzM3OTgsMTQzMjQ4NTI2OCwxMjkwODg1ODUzLC0xNzgxMD
+Y2MzUyLDEyODk5ODI3MDAsMTE3NDMwMDk2MCw5MzkyNjI5OTgs
+NDAwMzc5MDUyLC00MzcxNDM1OCwtMTE1NTc2MzgxMCwxOTgyMj
+I1ODQwLC0xMTMzNDc1MzMyLDE0NTk5MDg0MjIsLTU5Nzk1NjU5
+OV19
 -->
