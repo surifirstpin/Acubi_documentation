@@ -31,7 +31,7 @@
 
  ***Editing Options for Line Chart***
  
- - **Line type** displays the information as a series of data points called markers. Below are the list of markers used in line chart (spline acts as  default line type), 
+ - **Line type :** displays the information as a series of data points called markers. Below are the list of markers used in line chart (spline acts as  default line type), 
    - Line
    - Spline 
    - Step
@@ -40,9 +40,9 @@
    - Area-Step
    - Scatter
     
-- **Points**  will display the data by specifying the points on the chart.
+- **Points :**  will display the data by specifying the points on the chart.
 
-- **Point style** will specify how the data points will appear on chart. 
+- **Point style :** will specify how the data points will appear on chart. 
 Below are the following options available. 
   - Circle
   - Triangle
@@ -424,11 +424,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3ODk3OTY0LDk2NzkwMzc0NiwtNDU5MD
-gzMDg1LDU3MjI1OTIyNCwtMjE0MTgxMzQsNzM4MTczNzk4LDE0
-MzI0ODUyNjgsMTI5MDg4NTg1MywtMTc4MTA2NjM1MiwxMjg5OT
-gyNzAwLDExNzQzMDA5NjAsOTM5MjYyOTk4LDQwMDM3OTA1Miwt
-NDM3MTQzNTgsLTExNTU3NjM4MTAsMTk4MjIyNTg0MCwtMTEzMz
-Q3NTMzMiwxNDU5OTA4NDIyLC01OTc5NTY1OTksLTE1Nzk2MzAw
-NTVdfQ==
+eyJoaXN0b3J5IjpbLTE4NzMyNTY2ODYsNTc3ODk3OTY0LDk2Nz
+kwMzc0NiwtNDU5MDgzMDg1LDU3MjI1OTIyNCwtMjE0MTgxMzQs
+NzM4MTczNzk4LDE0MzI0ODUyNjgsMTI5MDg4NTg1MywtMTc4MT
+A2NjM1MiwxMjg5OTgyNzAwLDExNzQzMDA5NjAsOTM5MjYyOTk4
+LDQwMDM3OTA1MiwtNDM3MTQzNTgsLTExNTU3NjM4MTAsMTk4Mj
+IyNTg0MCwtMTEzMzQ3NTMzMiwxNDU5OTA4NDIyLC01OTc5NTY1
+OTldfQ==
 -->
