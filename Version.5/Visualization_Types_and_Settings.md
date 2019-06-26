@@ -292,7 +292,7 @@ Gauge chart displays current status in the context of goal.
 **Image 16**
 
 - **Orange** colour indicates, maximum value attained is half the way to target.
--  **Red** colour indicates, maximum value attained is at initial state or lower side to the target. 
+-  **Red** colour indicates, maximum value attained is at initial state or lower side to the target.  
 
 ![
 ](https://github.com/sv18042016/fp1/blob/3ff08da67be44bb345a23a3e47e19f4ab62a4553/images/New_version5/UD_Visualization_Types&Settings_Image17.png?raw=true)
@@ -334,7 +334,7 @@ Gauge chart displays current status in the context of goal.
 - **Grouped Tooltips** points all the measure values of the column field.
 
 - **Show legend** on selecting this checkbox, it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
-- **Display Labels**
+- **Display Labels** enables labels on charts.
 
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 
@@ -424,11 +424,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDM0MzEyNSwtNDU5MDgzMDg1LDU3Mj
-I1OTIyNCwtMjE0MTgxMzQsNzM4MTczNzk4LDE0MzI0ODUyNjgs
-MTI5MDg4NTg1MywtMTc4MTA2NjM1MiwxMjg5OTgyNzAwLDExNz
-QzMDA5NjAsOTM5MjYyOTk4LDQwMDM3OTA1MiwtNDM3MTQzNTgs
-LTExNTU3NjM4MTAsMTk4MjIyNTg0MCwtMTEzMzQ3NTMzMiwxND
-U5OTA4NDIyLC01OTc5NTY1OTksLTE1Nzk2MzAwNTUsMTI1MDc4
-NzI3MV19
+eyJoaXN0b3J5IjpbOTY3OTAzNzQ2LC00NTkwODMwODUsNTcyMj
+U5MjI0LC0yMTQxODEzNCw3MzgxNzM3OTgsMTQzMjQ4NTI2OCwx
+MjkwODg1ODUzLC0xNzgxMDY2MzUyLDEyODk5ODI3MDAsMTE3ND
+MwMDk2MCw5MzkyNjI5OTgsNDAwMzc5MDUyLC00MzcxNDM1OCwt
+MTE1NTc2MzgxMCwxOTgyMjI1ODQwLC0xMTMzNDc1MzMyLDE0NT
+k5MDg0MjIsLTU5Nzk1NjU5OSwtMTU3OTYzMDA1NSwxMjUwNzg3
+MjcxXX0=
 -->
