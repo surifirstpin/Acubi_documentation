@@ -354,7 +354,9 @@ Gauge chart displays current status in the context of goal.
 - **Axis label** Text label for x-axis.
 
 **Reference Lines** enables the creation of reference lines in a chart.
-
+ - **Grid Colour**  Enable colour for grid.
+ - **Font Colour** Enable colour for labels on X-axis.
+ - **Font Size** enable font size for labels on X-axis.
  - **Reference** specify a indicator name. 
   
  - **Type** specify reference type as line or  area.
@@ -375,7 +377,9 @@ editing options for y-axis in Line, for Bar and bubble chart.
 - **Format** it enables number format for numeric values.
 
 - **Currency** Using this field, you can specify the formatting for currency as of now Acubi supports $,   ₹  ,   €  ,  £.
-
+ - **Grid Colour**  Enable colour for grid.
+ - **Font Colour** Enable colour for labels on Y-axis.
+ - **Font Size** enable font size for labels on Y-axis.
 - **Y-Axis** display measure values on Y-axis. 
 
 - **Show Grid** enables the grid display for measures on y-axis.
@@ -419,11 +423,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTA4MzA4NSw1NzIyNTkyMjQsLTIxND
-E4MTM0LDczODE3Mzc5OCwxNDMyNDg1MjY4LDEyOTA4ODU4NTMs
-LTE3ODEwNjYzNTIsMTI4OTk4MjcwMCwxMTc0MzAwOTYwLDkzOT
-I2Mjk5OCw0MDAzNzkwNTIsLTQzNzE0MzU4LC0xMTU1NzYzODEw
-LDE5ODIyMjU4NDAsLTExMzM0NzUzMzIsMTQ1OTkwODQyMiwtNT
-k3OTU2NTk5LC0xNTc5NjMwMDU1LDEyNTA3ODcyNzEsLTE2NjU0
-OTg1NjJdfQ==
+eyJoaXN0b3J5IjpbMTkzMDAxOTc5NSwtNDU5MDgzMDg1LDU3Mj
+I1OTIyNCwtMjE0MTgxMzQsNzM4MTczNzk4LDE0MzI0ODUyNjgs
+MTI5MDg4NTg1MywtMTc4MTA2NjM1MiwxMjg5OTgyNzAwLDExNz
+QzMDA5NjAsOTM5MjYyOTk4LDQwMDM3OTA1MiwtNDM3MTQzNTgs
+LTExNTU3NjM4MTAsMTk4MjIyNTg0MCwtMTEzMzQ3NTMzMiwxND
+U5OTA4NDIyLC01OTc5NTY1OTksLTE1Nzk2MzAwNTUsMTI1MDc4
+NzI3MV19
 -->
