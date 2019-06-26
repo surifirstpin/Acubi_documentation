@@ -116,13 +116,13 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
   
 - **Reverse scale** on selecting the checkbox, it display the reversal side of data displayed in radar chart i.e. if the 10 highest values are shown in radar chart ,on selecting the checkbox, then it will display 10 lowest values.
 
-- **Show ticklabels** on selecting this checkbox, it enables measure values on y-axis.
+- **Show Tick labels :** on selecting this checkbox, it enables measure values on y-axis.
 
-- **Show arc lines** on selecting this checkbox, it points the dimension fields in radar chart.
+- **Show arc lines :** on selecting this checkbox, it points the dimension fields in radar chart.
 
-- **Arc field** select the dimension field to apply arc lines.
+- **Arc field :** select the dimension field to apply arc lines.
 
-- **Curve** it maximize and minimize the surface area in radar chart.
+- **Curve :** it maximize and minimize the surface area in radar chart.
 
 ## Widget chart 
 
@@ -134,7 +134,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 ](https://raw.githubusercontent.com/sv18042016/fp1/ac06f66008071fe929798b3d8ee36e5bd5cd89bf/images/New_version5/UD_Visualization_Types&Settings_Image7.png)
 **Image 7**
 
- **Value** select the field value (measure field) to display in the widget. This specify the measure field if you have multiple measure value defined in the underlying step.
+ **Value :** select the field value (measure field) to display in the widget. This specify the measure field if you have multiple measure value defined in the underlying step.
 
 - **Format** select the number format for the measure field.
 
@@ -424,11 +424,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5MTc0MzY4LDU3Nzg5Nzk2NCw5Njc5MD
-M3NDYsLTQ1OTA4MzA4NSw1NzIyNTkyMjQsLTIxNDE4MTM0LDcz
-ODE3Mzc5OCwxNDMyNDg1MjY4LDEyOTA4ODU4NTMsLTE3ODEwNj
-YzNTIsMTI4OTk4MjcwMCwxMTc0MzAwOTYwLDkzOTI2Mjk5OCw0
-MDAzNzkwNTIsLTQzNzE0MzU4LC0xMTU1NzYzODEwLDE5ODIyMj
-U4NDAsLTExMzM0NzUzMzIsMTQ1OTkwODQyMiwtNTk3OTU2NTk5
-XX0=
+eyJoaXN0b3J5IjpbLTE4MDI5MzE0MTYsNTc3ODk3OTY0LDk2Nz
+kwMzc0NiwtNDU5MDgzMDg1LDU3MjI1OTIyNCwtMjE0MTgxMzQs
+NzM4MTczNzk4LDE0MzI0ODUyNjgsMTI5MDg4NTg1MywtMTc4MT
+A2NjM1MiwxMjg5OTgyNzAwLDExNzQzMDA5NjAsOTM5MjYyOTk4
+LDQwMDM3OTA1MiwtNDM3MTQzNTgsLTExNTU3NjM4MTAsMTk4Mj
+IyNTg0MCwtMTEzMzQ3NTMzMiwxNDU5OTA4NDIyLC01OTc5NTY1
+OTldfQ==
 -->
