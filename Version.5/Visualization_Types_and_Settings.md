@@ -150,7 +150,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Style** specify a status indicator for measure value such as default, primary, success, warning, info, danger.
 
-- **Theme** Data alignment in widget chart.
+- **Theme** Data alignment in widget chart. Select using drop down list.
 
 - **Widget Icon** Choose a icon to symbolize widget value. 
 
@@ -424,11 +424,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3OTAzNzQ2LC00NTkwODMwODUsNTcyMj
-U5MjI0LC0yMTQxODEzNCw3MzgxNzM3OTgsMTQzMjQ4NTI2OCwx
-MjkwODg1ODUzLC0xNzgxMDY2MzUyLDEyODk5ODI3MDAsMTE3ND
-MwMDk2MCw5MzkyNjI5OTgsNDAwMzc5MDUyLC00MzcxNDM1OCwt
-MTE1NTc2MzgxMCwxOTgyMjI1ODQwLC0xMTMzNDc1MzMyLDE0NT
-k5MDg0MjIsLTU5Nzk1NjU5OSwtMTU3OTYzMDA1NSwxMjUwNzg3
-MjcxXX0=
+eyJoaXN0b3J5IjpbLTYwOTY3MTY3OSw5Njc5MDM3NDYsLTQ1OT
+A4MzA4NSw1NzIyNTkyMjQsLTIxNDE4MTM0LDczODE3Mzc5OCwx
+NDMyNDg1MjY4LDEyOTA4ODU4NTMsLTE3ODEwNjYzNTIsMTI4OT
+k4MjcwMCwxMTc0MzAwOTYwLDkzOTI2Mjk5OCw0MDAzNzkwNTIs
+LTQzNzE0MzU4LC0xMTU1NzYzODEwLDE5ODIyMjU4NDAsLTExMz
+M0NzUzMzIsMTQ1OTkwODQyMiwtNTk3OTU2NTk5LC0xNTc5NjMw
+MDU1XX0=
 -->
