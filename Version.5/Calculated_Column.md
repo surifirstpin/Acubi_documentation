@@ -25,7 +25,7 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5d7fedc6c4dd0810eb6be0995b321cd924b2cd71/images/New_version5/UD_CalculatedColumn_image1.png)
 **Image 1**
 
-Click on **Calculated Column** button it will navigate to calculated column window,Once navigated to Calculated Column Window, Enter the below fields.
+Click on **Calculated Column** button (Refer Image 1) it will navigate to calculated column window(Refer Image 2),Once navigated to Calculated Column Window, Enter the below fields.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d90ab34e275e9daaab297e54345228bcad1986f9/images/New_version5/UD_CalculatedColumn_image2.png)
 
@@ -440,7 +440,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzMzA1MzA4LC00MDY5ODI3MjIsMjEwND
+eyJoaXN0b3J5IjpbODQxNzE3ODExLC00MDY5ODI3MjIsMjEwND
 QwMDYyNCwtMTU4ODQxMDMyNCwxMDg0MTA3OTUwLDY1MjQ3ODYz
 OCwtMzg3NDcyNTg3LC0yMDM4NzczMzYxLC0xMDY5MjY1NzM2LD
 U1NjMwNDQ2OCwtMTUxNTE1MjEyMyw0MjkyMTU5ODksMjAyMzYz
