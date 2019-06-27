@@ -29,7 +29,7 @@ Hit **Logout** button to logout from AcuBi homepage.
 **Image 3**
 ## Forgot password
 
-  - In case if there is any credentials mismatch while logging in, Click **Forgot Password**. 
+  - In case if there is any credentials mismatch while logging in, Click **Forgot Password**. to reset your password. 
   
   - It will navigate to Reset password screen.
   
@@ -38,10 +38,10 @@ Hit **Logout** button to logout from AcuBi homepage.
 
 **Image 4**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDg0MDcxOSwxNDM5MDc3NDcwLDIzOT
-c0MTcwMSwtODA4NDk4OTU3LC0xOTYzNTQ3OTg5LC0xMjU1MDg2
-NDc2LDE3ODUzNjQzNSwxNzMyNjY5Njk1LC00NDMwMTY2NDIsMj
-czMTcxNjc3LDQzNTg4OTk5NywxMDk3MzE5MTk3LC05MTg0NzM5
-OTUsLTIwMDUxNjcxMTUsMjc4NjIwNzgzLC0xMTg0ODQ5Nzc2XX
-0=
+eyJoaXN0b3J5IjpbLTEzNjQ5OTExODksMTQzOTA3NzQ3MCwyMz
+k3NDE3MDEsLTgwODQ5ODk1NywtMTk2MzU0Nzk4OSwtMTI1NTA4
+NjQ3NiwxNzg1MzY0MzUsMTczMjY2OTY5NSwtNDQzMDE2NjQyLD
+I3MzE3MTY3Nyw0MzU4ODk5OTcsMTA5NzMxOTE5NywtOTE4NDcz
+OTk1LC0yMDA1MTY3MTE1LDI3ODYyMDc4MywtMTE4NDg0OTc3Nl
+19
 -->
