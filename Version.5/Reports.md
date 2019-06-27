@@ -100,10 +100,6 @@ Report filters will narrow the reports results while allowing you to view the sp
 |**doesn’t end with**              | should not end with mentioned sub-string                  |
 
 ## Integer
-|  |  |
-|--|--|
-|  |  |
-
 
 |			**Example**            |						**Description**                         |                                                                                 
 |------------------------------|------------------------------------------------------------|
@@ -385,11 +381,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjYzOTExNTgsLTY5NjEzNDM3NSw1Mz
-g3OTMwMCwxMTIxNjU4MjcwLC01MzExMTE0NTgsLTIwMjUxNzAz
-NzAsLTEwMzMxMDg4MDAsOTA2MTc5ODIsLTE5OTk3MDAzODIsLT
-EwNTQ0ODk4NCwxNDMyODk1MTI1LDQ4MjQ3ODY4NiwtMzQ2ODc3
-NTY4LDg5ODY4MzMxOSwtMjQyMTU5MzYyLC0yMTA4NjMxNTA0LD
-Q2OTc3NTk3MSw2MzY2NzM0NzMsMTQzNTYzNTU2OCwyMDQ5MzUx
-ODAwXX0=
+eyJoaXN0b3J5IjpbLTUwMzQ5MDY1MCwtNjk2MTM0Mzc1LDUzOD
+c5MzAwLDExMjE2NTgyNzAsLTUzMTExMTQ1OCwtMjAyNTE3MDM3
+MCwtMTAzMzEwODgwMCw5MDYxNzk4MiwtMTk5OTcwMDM4MiwtMT
+A1NDQ4OTg0LDE0MzI4OTUxMjUsNDgyNDc4Njg2LC0zNDY4Nzc1
+NjgsODk4NjgzMzE5LC0yNDIxNTkzNjIsLTIxMDg2MzE1MDQsND
+Y5Nzc1OTcxLDYzNjY3MzQ3MywxNDM1NjM1NTY4LDIwNDkzNTE4
+MDBdfQ==
 -->
