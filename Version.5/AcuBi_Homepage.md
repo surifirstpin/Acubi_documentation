@@ -30,17 +30,17 @@ Hit **Logout** button to logout from AcuBi homepage.
 ## Forgot password
 
   - To Reset password, Click **Forgot Password.**
-  - It will navigate to Reset password screen. 
+  - It will navigate to Reset password screen. Enter email id to access reset password link to set new password.
   
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d64bc97c7d2aa0cb8e2c35fa8f9905bd274388f1/images/New_version5/ud_homepage_forgot%20password.png)
 
 **Image 4**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4ODM3NTU1LDIwMDEwNTU5ODUsMTQzOT
-A3NzQ3MCwyMzk3NDE3MDEsLTgwODQ5ODk1NywtMTk2MzU0Nzk4
-OSwtMTI1NTA4NjQ3NiwxNzg1MzY0MzUsMTczMjY2OTY5NSwtND
-QzMDE2NjQyLDI3MzE3MTY3Nyw0MzU4ODk5OTcsMTA5NzMxOTE5
-NywtOTE4NDczOTk1LC0yMDA1MTY3MTE1LDI3ODYyMDc4MywtMT
-E4NDg0OTc3Nl19
+eyJoaXN0b3J5IjpbMjEwMDMzOTAxNSwyMDAxMDU1OTg1LDE0Mz
+kwNzc0NzAsMjM5NzQxNzAxLC04MDg0OTg5NTcsLTE5NjM1NDc5
+ODksLTEyNTUwODY0NzYsMTc4NTM2NDM1LDE3MzI2Njk2OTUsLT
+Q0MzAxNjY0MiwyNzMxNzE2NzcsNDM1ODg5OTk3LDEwOTczMTkx
+OTcsLTkxODQ3Mzk5NSwtMjAwNTE2NzExNSwyNzg2MjA3ODMsLT
+ExODQ4NDk3NzZdfQ==
 -->
