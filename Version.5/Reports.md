@@ -376,12 +376,19 @@ Click **Save** to save a report in Database.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
 **Image 16**
+
+## Download Data
+
+To download a report, click on **Download (icon)** button as shown in the image below.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/5a68b571a6877022b46ef3e420be86459ec39b07/images/download_data.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTQ4MTg1OSwxMTIxNjU4MjcwLC01Mz
-ExMTE0NTgsLTIwMjUxNzAzNzAsLTEwMzMxMDg4MDAsOTA2MTc5
-ODIsLTE5OTk3MDAzODIsLTEwNTQ0ODk4NCwxNDMyODk1MTI1LD
-Q4MjQ3ODY4NiwtMzQ2ODc3NTY4LDg5ODY4MzMxOSwtMjQyMTU5
-MzYyLC0yMTA4NjMxNTA0LDQ2OTc3NTk3MSw2MzY2NzM0NzMsMT
-QzNTYzNTU2OCwyMDQ5MzUxODAwLDE3NzcxMzI4NDMsLTE3OTE3
-ODM0NjJdfQ==
+eyJoaXN0b3J5IjpbNTM4NzkzMDAsMTEyMTY1ODI3MCwtNTMxMT
+ExNDU4LC0yMDI1MTcwMzcwLC0xMDMzMTA4ODAwLDkwNjE3OTgy
+LC0xOTk5NzAwMzgyLC0xMDU0NDg5ODQsMTQzMjg5NTEyNSw0OD
+I0Nzg2ODYsLTM0Njg3NzU2OCw4OTg2ODMzMTksLTI0MjE1OTM2
+MiwtMjEwODYzMTUwNCw0Njk3NzU5NzEsNjM2NjczNDczLDE0Mz
+U2MzU1NjgsMjA0OTM1MTgwMCwxNzc3MTMyODQzLC0xNzkxNzgz
+NDYyXX0=
 -->
