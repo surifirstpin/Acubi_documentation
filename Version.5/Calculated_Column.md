@@ -39,7 +39,7 @@ Once navigated to Calculated Column Window, Enter the below fields.
 
 - **Field Type :** derives whether the result is dimension or measure.
 
-- **Calculation** Derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
+- **Calculation :** Derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
 
 > **Note :** Replace Dollar Symbol with Hashtag to fetch the appropriate data.
 
@@ -306,7 +306,7 @@ bi.add(${ROOT.BI_Order.sum_ORDERVALUE},2000)
 
 Plugin operators provides complete authority on creating, editing and deleting the raw data. It allows customization of data using JavaScript API language  as per the business requirement.
 
- **biCalculation.pluginData.raw**  holds the Raw JSON data and can be transformed as per the requirement.
+ **biCalculation.pluginData.raw :**  holds the Raw JSON data and can be transformed as per the requirement.
 
 ```
 #plugin#
@@ -441,10 +441,10 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDQwMDYyNCwtMTU4ODQxMDMyNCwxMD
-g0MTA3OTUwLDY1MjQ3ODYzOCwtMzg3NDcyNTg3LC0yMDM4Nzcz
-MzYxLC0xMDY5MjY1NzM2LDU1NjMwNDQ2OCwtMTUxNTE1MjEyMy
-w0MjkyMTU5ODksMjAyMzYzNzIzLDE1Njk1NjI4MjYsMTIyMjUy
-MzM3MywtMTIyNTc4MDEyNywtMjQzMTM4MTY3LC02NzU0NzUyNT
-VdfQ==
+eyJoaXN0b3J5IjpbLTE3MDk2MDM2NjQsMjEwNDQwMDYyNCwtMT
+U4ODQxMDMyNCwxMDg0MTA3OTUwLDY1MjQ3ODYzOCwtMzg3NDcy
+NTg3LC0yMDM4NzczMzYxLC0xMDY5MjY1NzM2LDU1NjMwNDQ2OC
+wtMTUxNTE1MjEyMyw0MjkyMTU5ODksMjAyMzYzNzIzLDE1Njk1
+NjI4MjYsMTIyMjUyMzM3MywtMTIyNTc4MDEyNywtMjQzMTM4MT
+Y3LC02NzU0NzUyNTVdfQ==
 -->
