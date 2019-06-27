@@ -31,19 +31,19 @@ Once navigated to Calculated Column Window, Enter the below fields.
 ](https://raw.githubusercontent.com/sv18042016/fp1/d90ab34e275e9daaab297e54345228bcad1986f9/images/New_version5/UD_CalculatedColumn_image2.png)
 
 **Image 2**
-- **Field name :** unique identifier name to refer calculated column.
+- **Field name:**   Unique identifier name to refer calculated column.
 
-- **Label :** specify a identifier name to calculated column the way it should be displayed in the data table.
+- **Label:**             Specify a identifier name to calculated column the way it should be displayed in the data table.
 
-- **Data Type :** data type format for the result (string,number).
+- **Data Type:**    Data type format for the result (string,number).
 
-- **Field Type :** derives whether the result is dimension or measure.
+- **Field Type :**   Derives whether the result is dimension or measure.
 
-- **Calculation :** Derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
+- **Calculation:**  Derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
 
 > **Note :** Replace Dollar Symbol with Hashtag to fetch the appropriate data.
 
--  **Calculate on Raw data :**   if enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
+-  **Calculate on Raw data:**   if enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
 
 ***Example I : To Find the Column total of a measure value***
 ```
@@ -441,10 +441,10 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDk2MDM2NjQsMjEwNDQwMDYyNCwtMT
-U4ODQxMDMyNCwxMDg0MTA3OTUwLDY1MjQ3ODYzOCwtMzg3NDcy
-NTg3LC0yMDM4NzczMzYxLC0xMDY5MjY1NzM2LDU1NjMwNDQ2OC
-wtMTUxNTE1MjEyMyw0MjkyMTU5ODksMjAyMzYzNzIzLDE1Njk1
-NjI4MjYsMTIyMjUyMzM3MywtMTIyNTc4MDEyNywtMjQzMTM4MT
-Y3LC02NzU0NzUyNTVdfQ==
+eyJoaXN0b3J5IjpbMjg5NjExMzQ2LDIxMDQ0MDA2MjQsLTE1OD
+g0MTAzMjQsMTA4NDEwNzk1MCw2NTI0Nzg2MzgsLTM4NzQ3MjU4
+NywtMjAzODc3MzM2MSwtMTA2OTI2NTczNiw1NTYzMDQ0NjgsLT
+E1MTUxNTIxMjMsNDI5MjE1OTg5LDIwMjM2MzcyMywxNTY5NTYy
+ODI2LDEyMjI1MjMzNzMsLTEyMjU3ODAxMjcsLTI0MzEzODE2Ny
+wtNjc1NDc1MjU1XX0=
 -->
