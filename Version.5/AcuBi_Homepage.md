@@ -3,7 +3,7 @@
 
 
 <center><h2>AcuBI HOMEPAGE</h1></center>
-fggfbgfhfgh
+
 ## How to Login AcuBi ?
 
 To get started with AcuBi Login, Follow the below steps:
@@ -36,9 +36,9 @@ Hit **Logout** button to logout from AcuBi homepage.
 
 **Image 4**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDg5NzcwMSwyMzk3NDE3MDEsLTgwOD
-Q5ODk1NywtMTk2MzU0Nzk4OSwtMTI1NTA4NjQ3NiwxNzg1MzY0
-MzUsMTczMjY2OTY5NSwtNDQzMDE2NjQyLDI3MzE3MTY3Nyw0Mz
-U4ODk5OTcsMTA5NzMxOTE5NywtOTE4NDczOTk1LC0yMDA1MTY3
-MTE1LDI3ODYyMDc4MywtMTE4NDg0OTc3Nl19
+eyJoaXN0b3J5IjpbMjM5NzQxNzAxLDIzOTc0MTcwMSwtODA4ND
+k4OTU3LC0xOTYzNTQ3OTg5LC0xMjU1MDg2NDc2LDE3ODUzNjQz
+NSwxNzMyNjY5Njk1LC00NDMwMTY2NDIsMjczMTcxNjc3LDQzNT
+g4OTk5NywxMDk3MzE5MTk3LC05MTg0NzM5OTUsLTIwMDUxNjcx
+MTUsMjc4NjIwNzgzLC0xMTg0ODQ5Nzc2XX0=
 -->
