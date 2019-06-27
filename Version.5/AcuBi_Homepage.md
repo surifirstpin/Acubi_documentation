@@ -29,19 +29,18 @@ Hit **Logout** button to logout from AcuBi homepage.
 **Image 3**
 ## Forgot password
 
-  - In case if there is any credentials mismatch while logging in, Click **Forgot Password**.to reset your password. 
-  
-  - It will navigate to Reset password screen.
+  - To Reset password, Click **Forgot Password.**
+  - It will navigate to Reset password screen. 
   
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d64bc97c7d2aa0cb8e2c35fa8f9905bd274388f1/images/New_version5/ud_homepage_forgot%20password.png)
 
 **Image 4**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTA1NTk4NSwxNDM5MDc3NDcwLDIzOT
-c0MTcwMSwtODA4NDk4OTU3LC0xOTYzNTQ3OTg5LC0xMjU1MDg2
-NDc2LDE3ODUzNjQzNSwxNzMyNjY5Njk1LC00NDMwMTY2NDIsMj
-czMTcxNjc3LDQzNTg4OTk5NywxMDk3MzE5MTk3LC05MTg0NzM5
-OTUsLTIwMDUxNjcxMTUsMjc4NjIwNzgzLC0xMTg0ODQ5Nzc2XX
-0=
+eyJoaXN0b3J5IjpbMzM4ODM3NTU1LDIwMDEwNTU5ODUsMTQzOT
+A3NzQ3MCwyMzk3NDE3MDEsLTgwODQ5ODk1NywtMTk2MzU0Nzk4
+OSwtMTI1NTA4NjQ3NiwxNzg1MzY0MzUsMTczMjY2OTY5NSwtND
+QzMDE2NjQyLDI3MzE3MTY3Nyw0MzU4ODk5OTcsMTA5NzMxOTE5
+NywtOTE4NDczOTk1LC0yMDA1MTY3MTE1LDI3ODYyMDc4MywtMT
+E4NDg0OTc3Nl19
 -->
