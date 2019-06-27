@@ -25,7 +25,7 @@ Hit **Logout** button to logout from AcuBi homepage.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Logout.png)
 
-##Forgot password
+## Forgot password
 
   - In case if there is any mismatch in credentials while logging in, Click **Forgot Password**. 
   
@@ -35,9 +35,9 @@ Hit **Logout** button to logout from AcuBi homepage.
 ](https://raw.githubusercontent.com/sv18042016/fp1/d64bc97c7d2aa0cb8e2c35fa8f9905bd274388f1/images/New_version5/ud_homepage_forgot%20password.png)
 **Image 4**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODQ5ODk1NywtMTk2MzU0Nzk4OSwtMT
-I1NTA4NjQ3NiwxNzg1MzY0MzUsMTczMjY2OTY5NSwtNDQzMDE2
-NjQyLDI3MzE3MTY3Nyw0MzU4ODk5OTcsMTA5NzMxOTE5NywtOT
-E4NDczOTk1LC0yMDA1MTY3MTE1LDI3ODYyMDc4MywtMTE4NDg0
-OTc3Nl19
+eyJoaXN0b3J5IjpbLTk4NjE2MTc3MywtODA4NDk4OTU3LC0xOT
+YzNTQ3OTg5LC0xMjU1MDg2NDc2LDE3ODUzNjQzNSwxNzMyNjY5
+Njk1LC00NDMwMTY2NDIsMjczMTcxNjc3LDQzNTg4OTk5NywxMD
+k3MzE5MTk3LC05MTg0NzM5OTUsLTIwMDUxNjcxMTUsMjc4NjIw
+NzgzLC0xMTg0ODQ5Nzc2XX0=
 -->
