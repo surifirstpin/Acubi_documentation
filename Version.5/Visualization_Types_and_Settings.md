@@ -114,13 +114,13 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
   - Line
   - Dash
   
-- **Reverse scale** on selecting the checkbox, it display the reversal side of data displayed in radar chart i.e. if the 10 highest values are shown in radar chart ,on selecting the checkbox, then it will display 10 lowest values.
+- **Reverse Scale** on selecting the checkbox, it display the reversal side of data displayed in radar chart i.e. if the 10 highest values are shown in radar chart ,on selecting the checkbox, then it will display 10 lowest values.
 
-- **Show Tick labels :** on selecting this checkbox, it enables measure values on y-axis.
+- **Show Tick Labels :** on selecting this checkbox, it enables measure values on y-axis.
 
-- **Show arc lines :** on selecting this checkbox, it points the dimension fields in radar chart.
+- **Show Arc Lines :** on selecting this checkbox, it points the dimension fields in radar chart.
 
-- **Arc field :** select the dimension field to apply arc lines.
+- **Arc Field :** select the dimension field to apply arc lines.
 
 - **Curve :** it maximize and minimize the surface area in radar chart.
 
@@ -138,11 +138,11 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Format** select the number format for the measure field.
 
-- **Previous value** select the alternative measure field, to calculate the difference of growth in widget.
+- **Previous Value** select the alternative measure field, to calculate the difference of growth in widget.
 
 - **Change** specify the conditions for selected measures such as difference, growth, none.
 
-- **Show growth** displays the growth rate of selected measures.
+- **Show Growth** displays the growth rate of selected measures.
 
 - **Title** specify widget title.
 
@@ -424,11 +424,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI5MzE0MTYsNTc3ODk3OTY0LDk2Nz
-kwMzc0NiwtNDU5MDgzMDg1LDU3MjI1OTIyNCwtMjE0MTgxMzQs
-NzM4MTczNzk4LDE0MzI0ODUyNjgsMTI5MDg4NTg1MywtMTc4MT
-A2NjM1MiwxMjg5OTgyNzAwLDExNzQzMDA5NjAsOTM5MjYyOTk4
-LDQwMDM3OTA1MiwtNDM3MTQzNTgsLTExNTU3NjM4MTAsMTk4Mj
-IyNTg0MCwtMTEzMzQ3NTMzMiwxNDU5OTA4NDIyLC01OTc5NTY1
-OTldfQ==
+eyJoaXN0b3J5IjpbLTEwMDM1ODU1MjgsLTE4MDI5MzE0MTYsNT
+c3ODk3OTY0LDk2NzkwMzc0NiwtNDU5MDgzMDg1LDU3MjI1OTIy
+NCwtMjE0MTgxMzQsNzM4MTczNzk4LDE0MzI0ODUyNjgsMTI5MD
+g4NTg1MywtMTc4MTA2NjM1MiwxMjg5OTgyNzAwLDExNzQzMDA5
+NjAsOTM5MjYyOTk4LDQwMDM3OTA1MiwtNDM3MTQzNTgsLTExNT
+U3NjM4MTAsMTk4MjIyNTg0MCwtMTEzMzQ3NTMzMiwxNDU5OTA4
+NDIyXX0=
 -->
