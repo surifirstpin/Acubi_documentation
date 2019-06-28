@@ -53,7 +53,7 @@ After logging into AcuBi Home Page, Click on **Dashboard** Section.
 
 **2.**   Select the Layout using drop-down list.
 
-**3.** To add Reports to layout selected, use Search option to choose the report Select the grid and click on report you wish to add or Click on **Add** link available next to report name under work space. 
+**3.** To add Reports to layout selected, Select the grid, use Search option to choose the report  and click on report you wish to add or Click on **Add** link available next to report name under work space. 
 
 **4.** To Add Global Filters to the dashboard, Click on **Add Global Filters** Button.
 
@@ -155,11 +155,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 **Image 9**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3MDg4ODU3LC0yMDgwODY5NDY2LDg4OT
-kwNzgxMiwtNDU0NjA5NjEsMjA3MTQyMzgzMSwxMTUwNjYyNTYw
-LC0xNDg1MTgyMjQxLC02ODgwMTU4NjQsNzU3NDYyNDkzLC04ND
-AwNjAzNzAsLTUxMjEzOTI0NiwtNzQ0NTQ0NzIxLC03NzQzMDM0
-NDYsLTI4MjQ2NDc0NCwtNjk4MTM3MzI2LDQyNjEzNTYzNCw1MD
-I0NzIxOTcsLTk2NDkwMTAzOSwxOTg3MjcxNDE3LC0xMjUxNzMw
-MjM2XX0=
+eyJoaXN0b3J5IjpbLTE2MzEwMjI2MTksLTIwODA4Njk0NjYsOD
+g5OTA3ODEyLC00NTQ2MDk2MSwyMDcxNDIzODMxLDExNTA2NjI1
+NjAsLTE0ODUxODIyNDEsLTY4ODAxNTg2NCw3NTc0NjI0OTMsLT
+g0MDA2MDM3MCwtNTEyMTM5MjQ2LC03NDQ1NDQ3MjEsLTc3NDMw
+MzQ0NiwtMjgyNDY0NzQ0LC02OTgxMzczMjYsNDI2MTM1NjM0LD
+UwMjQ3MjE5NywtOTY0OTAxMDM5LDE5ODcyNzE0MTcsLTEyNTE3
+MzAyMzZdfQ==
 -->
