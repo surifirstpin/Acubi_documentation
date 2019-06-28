@@ -1,5 +1,5 @@
   
-  - [Acubi Homepage](AcuBi_Homepage.md)
+  - [AcuBi Homepage](AcuBi_Homepage.md)
   - [Reports](Reports.md)  
   - [Calculated Column](Calculated_Column.md) 
   - [Visualization Overview](Visualisation_Overview.md)
