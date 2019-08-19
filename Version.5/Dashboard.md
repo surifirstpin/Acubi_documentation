@@ -49,19 +49,19 @@ After logging into AcuBi Home Page, Click on <b>Dashboard</b> Section.
    
 - <b>Flow Layout</b> This layout is provided with a scroll bar option to define your layout appropriately.
 
-- **Grid (Fixed) Layout** All the reports in this layout will fit into single screen.
+- <b>Grid (Fixed) Layout</b> All the reports in this layout will fit into single screen.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3b8137ddf669d251a2e9ea3f26fa8b6bde3a8984/images/New_version5/UD_Dashboard_image5.png)
-**Image 5**
+<b><font color = "Black"> Image 5</b>
 
-**2.**   Select the Layout using drop-down list.
+<b>2.</b>   Select the Layout using drop-down list.
 
-**3.** To add reports to layout selected, Select the grid, use **Search** option enter report name and click on **Add** link available next to report name under work space. 
+<b>3.</b> To add reports to layout selected, Select the grid, use **Search** option enter report name and click on <b>Add</b> link available next to report name under work space. 
 
-**4.** To Add Global Filters to the dashboard, Click on **Add Global Filters** Button.
+<b>4.</b> To Add Global Filters to the dashboard, Click on <b>Add Global Filters</b> Button.
 
-**Dashboard global Filters** allows user to view limited data by applying filters on dashboard reports and it supports following filter types string, number, date and lookup.
+<b>Dashboard global Filters** allows user to view limited data by applying filters on dashboard reports and it supports following filter types string, number, date and lookup.
  
 | **Type** | **Description** |
 |  ------ | ------ |
@@ -159,11 +159,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 **Image 9**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzM4MjIxMDAsLTIxMzk3MjU2NDcsLT
-IwODA4Njk0NjYsODg5OTA3ODEyLC00NTQ2MDk2MSwyMDcxNDIz
-ODMxLDExNTA2NjI1NjAsLTE0ODUxODIyNDEsLTY4ODAxNTg2NC
-w3NTc0NjI0OTMsLTg0MDA2MDM3MCwtNTEyMTM5MjQ2LC03NDQ1
-NDQ3MjEsLTc3NDMwMzQ0NiwtMjgyNDY0NzQ0LC02OTgxMzczMj
-YsNDI2MTM1NjM0LDUwMjQ3MjE5NywtOTY0OTAxMDM5LDE5ODcy
-NzE0MTddfQ==
+eyJoaXN0b3J5IjpbMTg3MTA2OTcyMywtMTQzMzgyMjEwMCwtMj
+EzOTcyNTY0NywtMjA4MDg2OTQ2Niw4ODk5MDc4MTIsLTQ1NDYw
+OTYxLDIwNzE0MjM4MzEsMTE1MDY2MjU2MCwtMTQ4NTE4MjI0MS
+wtNjg4MDE1ODY0LDc1NzQ2MjQ5MywtODQwMDYwMzcwLC01MTIx
+MzkyNDYsLTc0NDU0NDcyMSwtNzc0MzAzNDQ2LC0yODI0NjQ3ND
+QsLTY5ODEzNzMyNiw0MjYxMzU2MzQsNTAyNDcyMTk3LC05NjQ5
+MDEwMzldfQ==
 -->
