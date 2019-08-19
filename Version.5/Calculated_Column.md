@@ -46,15 +46,17 @@ Click on <b>Calculated Column</b> button (Refer Image 1) it will navigate to cal
 
 -  <b>Calculate on Raw data:</b>   if enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
 
-<b>Example I :</b> To Find the Column total of a measure value***
+<b>Example I :</b> To Find the Column total of a measure value
+
 ```
 col_total( #{ROOT.BI_ORDERS.sum_RATE_2677} )
 ```
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/029914c6f76a051db3647fa3285211aef352e345/images/New_version5/UD_CalculatedColumn_image4.png)
-**Image 3**
-- Click **Ok** after deriving an expression,  all the values based on calculation, is shown up in green colour as shown in below image,
+<b><font color = "Black"> Image 3</b>
+
+- Click <b>Ok</b> after deriving an expression,  all the values based on calculation, is shown up in green color as shown in below image,
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/67a5ac6ae8faa249a688ed35320ff1b2e8a7ebb0/images/New_version5/UD_CalculatedColumn_image5.png)
@@ -442,7 +444,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTIzODAzNCw4NDE3MTc4MTEsLTQwNj
+eyJoaXN0b3J5IjpbMTc3ODI4ODc2MSw4NDE3MTc4MTEsLTQwNj
 k4MjcyMiwyMTA0NDAwNjI0LC0xNTg4NDEwMzI0LDEwODQxMDc5
 NTAsNjUyNDc4NjM4LC0zODc0NzI1ODcsLTIwMzg3NzMzNjEsLT
 EwNjkyNjU3MzYsNTU2MzA0NDY4LC0xNTE1MTUyMTIzLDQyOTIx
