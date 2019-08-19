@@ -36,17 +36,17 @@ Click on <b>Calculated Column</b> button (Refer Image 1) it will navigate to cal
 
 - <b>Label:</b> Specify a identifier name to calculated column the way it should be displayed in the data table.
 
-- **Data Type:**    Data type format for the result (string,number).
+- <b>Data Type:</b>    Data type format for the result (string,number).
 
-- **Field Type :**   Derives whether the result is dimension or measure.
+- <b>Field Type :</b>  Derives whether the result is dimension or measure.
 
-- **Calculation:**  Derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
+- <b>Calculation:</b>  Derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
 
-> **Note :** Replace Dollar Symbol with Hashtag to fetch the appropriate data.
+> < b>Note :</b> Replace Dollar Symbol with Hashtag to fetch the appropriate data.
 
--  **Calculate on Raw data:**   if enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
+-  <b>Calculate on Raw data:</b>   if enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
 
-***Example I : To Find the Column total of a measure value***
+<b>Example I :</b> To Find the Column total of a measure value***
 ```
 col_total( #{ROOT.BI_ORDERS.sum_RATE_2677} )
 ```
@@ -442,7 +442,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDY5NzkxNiw4NDE3MTc4MTEsLTQwNj
+eyJoaXN0b3J5IjpbMTg5OTIzODAzNCw4NDE3MTc4MTEsLTQwNj
 k4MjcyMiwyMTA0NDAwNjI0LC0xNTg4NDEwMzI0LDEwODQxMDc5
 NTAsNjUyNDc4NjM4LC0zODc0NzI1ODcsLTIwMzg3NzMzNjEsLT
 EwNjkyNjU3MzYsNTU2MzA0NDY4LC0xNTE1MTUyMTIzLDQyOTIx
