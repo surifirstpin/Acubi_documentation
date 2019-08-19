@@ -119,23 +119,23 @@ You can refer the existing lookup, based on which a new lookup is created to ret
 ## Report Listeners 
 
 The Listeners option allows to register callbacks to be notified when an event is detected on a specific label.
-**For instance** if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report_1, it results in filter applied on report_1 it self and report_2 will remain unaffected.
+<b>For instance</b> if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report_1, it results in filter applied on report_1 it self and report_2 will remain unaffected.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/fdf32389df2e4c179a67ce4349c25c445af98cef/images/New_version5/UD_Dashboard_image8.png)
-**Image 8**
+<b><font color = "Black"> Image 8</b>
 
-***Fill up the Report Listener Section ;***
+<b><i>Fill up the Report Listener Section ;</i></b>
 
-   - **Reports** :  Displays the dashboard reports.
+   - <b>Reports</b> :  Displays the dashboard reports.
    
-   -  **Add Listener :**  Adds multiple filters to reports.
+   -  <b>Add Listener :</b> Adds multiple filters to reports.
    
-   -   **Listen Filter :**  refers to filter option available.
+   -   <b>Listen Filter :</B>  refers to filter option available.
     
-   -   **Apply to field :**  applies filter options to field column in a report.
+   -   <b>Apply to field :</b>  applies filter options to field column in a report.
     
-**8.** Click **Save** button It will navigate to **Save Dashboard** section.
+*8.** Click **Save** button It will navigate to **Save Dashboard** section.
 
 ***Fill up save dashboard section :***
 
@@ -159,11 +159,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 **Image 9**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzMjg2MDQyLC0xNDMzODIyMTAwLC0yMT
-M5NzI1NjQ3LC0yMDgwODY5NDY2LDg4OTkwNzgxMiwtNDU0NjA5
-NjEsMjA3MTQyMzgzMSwxMTUwNjYyNTYwLC0xNDg1MTgyMjQxLC
-02ODgwMTU4NjQsNzU3NDYyNDkzLC04NDAwNjAzNzAsLTUxMjEz
-OTI0NiwtNzQ0NTQ0NzIxLC03NzQzMDM0NDYsLTI4MjQ2NDc0NC
-wtNjk4MTM3MzI2LDQyNjEzNTYzNCw1MDI0NzIxOTcsLTk2NDkw
-MTAzOV19
+eyJoaXN0b3J5IjpbLTExNjQ2MzIyMzAsLTE0MzM4MjIxMDAsLT
+IxMzk3MjU2NDcsLTIwODA4Njk0NjYsODg5OTA3ODEyLC00NTQ2
+MDk2MSwyMDcxNDIzODMxLDExNTA2NjI1NjAsLTE0ODUxODIyND
+EsLTY4ODAxNTg2NCw3NTc0NjI0OTMsLTg0MDA2MDM3MCwtNTEy
+MTM5MjQ2LC03NDQ1NDQ3MjEsLTc3NDMwMzQ0NiwtMjgyNDY0Nz
+Q0LC02OTgxMzczMjYsNDI2MTM1NjM0LDUwMjQ3MjE5NywtOTY0
+OTAxMDM5XX0=
 -->
