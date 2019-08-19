@@ -8,13 +8,13 @@
 
 To get started with AcuBi Login, Follow the below steps:
 
-**Click on**  [http://18.196.122.102:8081/acubiLogin](http://18.196.122.102:8081/acubiLogin)  to Navigate to AcuBi login page as shown in below image.
+<b>Click on</b>  [http://18.196.122.102:8081/acubiLogin](http://18.196.122.102:8081/acubiLogin)  to Navigate to AcuBi login page as shown in below image.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bb5d4c9f6814109a9645827e267e716c0d044c2a/images/New_version5/Homepage_v5.png)
 
-**Image 1**
+<b><font color = "Black"> Image 1</b>
 
--  Enter  **Username** and **Password**
+-  Enter  <b>Username</and **Password**
 - Hit the  **Login** button navigate to AcuBi  Homepage
 
 ![
@@ -37,10 +37,10 @@ Hit **Logout** button to logout from AcuBi homepage.
 
 **Image 4**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjY1NzM1LDIxMDAzMzkwMTUsMjAwMT
-A1NTk4NSwxNDM5MDc3NDcwLDIzOTc0MTcwMSwtODA4NDk4OTU3
-LC0xOTYzNTQ3OTg5LC0xMjU1MDg2NDc2LDE3ODUzNjQzNSwxNz
-MyNjY5Njk1LC00NDMwMTY2NDIsMjczMTcxNjc3LDQzNTg4OTk5
-NywxMDk3MzE5MTk3LC05MTg0NzM5OTUsLTIwMDUxNjcxMTUsMj
-c4NjIwNzgzLC0xMTg0ODQ5Nzc2XX0=
+eyJoaXN0b3J5IjpbMTUxMzExMDQwNCwyMTI2NjU3MzUsMjEwMD
+MzOTAxNSwyMDAxMDU1OTg1LDE0MzkwNzc0NzAsMjM5NzQxNzAx
+LC04MDg0OTg5NTcsLTE5NjM1NDc5ODksLTEyNTUwODY0NzYsMT
+c4NTM2NDM1LDE3MzI2Njk2OTUsLTQ0MzAxNjY0MiwyNzMxNzE2
+NzcsNDM1ODg5OTk3LDEwOTczMTkxOTcsLTkxODQ3Mzk5NSwtMj
+AwNTE2NzExNSwyNzg2MjA3ODMsLTExODQ4NDk3NzZdfQ==
 -->
