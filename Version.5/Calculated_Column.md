@@ -393,7 +393,7 @@ bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"
 bi.in_global_keys(["ParameterColumnName","ParameterUserID"],["DatabaseField","bi._globals("#userid#")"],"ParameterName.Field"])
 ```
 
-><b>For Example:** 
+><b>For Example:</b>
 ```
 bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661} 
 ,bi._globals("#userid#")],"CalcCol_Stage2.SeizeLimit)
@@ -401,9 +401,9 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
 
 ## Calculate on Raw functionality
 
-By enabling the field **Calculate on Raw**, the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
+By enabling the field <b>Calculate on Raw</b>, the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
  
->**For Instance:**  consider the below image, which represents calculated data with disabling calculate on raw.
+><b>For Instance:</b>  consider the below image, which represents calculated data with disabling calculate on raw.
 
 ```
 bi.add(${ROOT.BI_ORDERS.sum_ORDERVALUE},2)
@@ -411,10 +411,12 @@ bi.add(${ROOT.BI_ORDERS.sum_ORDERVALUE},2)
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e82ad6a8e255ac06e670f49b05f503b9bfd45c6f/images/New_version5/UD_CalculatedColumn_image7.png)
-**Image 6**
+
+<b><font color = "Black"> Image 6</b>
+
 ## Calculate Column with Pivot Offset
 
->**For Instance:**  To view the difference between quantity sum of different months. Select Whenmade Month and apply as follow
+><b>For Instance:</b>  To view the difference between quantity sum of different months. Select Whenmade Month and apply as follow
 
 We can get quantity_sum difference of each month for specific customer using Pivot_Offset() function.
 
@@ -447,10 +449,11 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4Mjc2NjcsODQxNzE3ODExLC00MDY5OD
-I3MjIsMjEwNDQwMDYyNCwtMTU4ODQxMDMyNCwxMDg0MTA3OTUw
-LDY1MjQ3ODYzOCwtMzg3NDcyNTg3LC0yMDM4NzczMzYxLC0xMD
-Y5MjY1NzM2LDU1NjMwNDQ2OCwtMTUxNTE1MjEyMyw0MjkyMTU5
-ODksMjAyMzYzNzIzLDE1Njk1NjI4MjYsMTIyMjUyMzM3MywtMT
-IyNTc4MDEyNywtMjQzMTM4MTY3LC02NzU0NzUyNTVdfQ==
+eyJoaXN0b3J5IjpbLTExNzA4MjcxNzAsODQxNzE3ODExLC00MD
+Y5ODI3MjIsMjEwNDQwMDYyNCwtMTU4ODQxMDMyNCwxMDg0MTA3
+OTUwLDY1MjQ3ODYzOCwtMzg3NDcyNTg3LC0yMDM4NzczMzYxLC
+0xMDY5MjY1NzM2LDU1NjMwNDQ2OCwtMTUxNTE1MjEyMyw0Mjky
+MTU5ODksMjAyMzYzNzIzLDE1Njk1NjI4MjYsMTIyMjUyMzM3My
+wtMTIyNTc4MDEyNywtMjQzMTM4MTY3LC02NzU0NzUyNTVdfQ==
+
 -->
