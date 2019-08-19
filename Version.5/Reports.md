@@ -18,17 +18,17 @@ This section introduces how to explore the data in AcuBi and how the query built
 
 <b>2. Model</b> Section has different set of models developed  for Orders, Customers, Delivery, Employees, Kitchen Process and Products.
 
-<b>For Instance:</b> to create a report on order based details, Select **Bi_Orders** from given drop down list. 
+<b>For Instance:</b> to create a report on order based details, Select <b>Bi_Orders</b> from given drop down list. 
  
- **3.** To refresh a report click on, **Reset** ( refresh icon). 
+ <b>3.</b> To refresh a report click on, <b>Reset</b> ( refresh icon). 
 
 ## Adding Dimension and Measure fields
 
-The data in analyse sections is determined by **dimensions** and **measures.**
+The data in analyse sections is determined by  <b> Dimensions</b> and <b>Measures.</b>
 
  In AcuBi a dimension is derived as group of data and Measure is derived as information about group of data.
 
- > **Note :** All the dimensions appear blue in  colour and all the measures appear in Orange colour in your data table.
+ > <b>Note :</b> All the dimensions appear blue in  color and all the measures appear in Orange color in your data table.
  
  **For Instance :**
 Let us generate a query to display **Stationcode** (Dimension) and **Order Attendant ID** (Dimension) with **Quantity Sum.**
@@ -381,11 +381,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTAyODMzLC01MDM0OTA2NTAsLTY5Nj
-EzNDM3NSw1Mzg3OTMwMCwxMTIxNjU4MjcwLC01MzExMTE0NTgs
-LTIwMjUxNzAzNzAsLTEwMzMxMDg4MDAsOTA2MTc5ODIsLTE5OT
-k3MDAzODIsLTEwNTQ0ODk4NCwxNDMyODk1MTI1LDQ4MjQ3ODY4
-NiwtMzQ2ODc3NTY4LDg5ODY4MzMxOSwtMjQyMTU5MzYyLC0yMT
-A4NjMxNTA0LDQ2OTc3NTk3MSw2MzY2NzM0NzMsMTQzNTYzNTU2
-OF19
+eyJoaXN0b3J5IjpbLTUwMTM5MzczNywtNTAzNDkwNjUwLC02OT
+YxMzQzNzUsNTM4NzkzMDAsMTEyMTY1ODI3MCwtNTMxMTExNDU4
+LC0yMDI1MTcwMzcwLC0xMDMzMTA4ODAwLDkwNjE3OTgyLC0xOT
+k5NzAwMzgyLC0xMDU0NDg5ODQsMTQzMjg5NTEyNSw0ODI0Nzg2
+ODYsLTM0Njg3NzU2OCw4OTg2ODMzMTksLTI0MjE1OTM2MiwtMj
+EwODYzMTUwNCw0Njk3NzU5NzEsNjM2NjczNDczLDE0MzU2MzU1
+NjhdfQ==
 -->
