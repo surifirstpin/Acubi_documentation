@@ -39,14 +39,15 @@ Let us generate a query to display <b>Stationcode</b> (Dimension) and <b>Order A
 
 ## SQL Query 
 
-**4.**  Using **Field Picker (Search)**, select Dimensions and Measures.
+<b>4.</b>  Using <b>Field Picker (Search)</b>, select Dimensions and Measures.
 the query is built in SQL Section based on the selection made and the joins derived in model section.
 
-To view the SQL query built click on **SQL** section.
+To view the SQL query built click on <b>SQL</b> section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Reports_Image13.png)
-**Image 3:**
+
+<b><font color = "Black"> Image 2</b>
 
 ## Data Extract
 
@@ -382,7 +383,7 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODk3NDc1ODYsLTUwMTM5MzczNywtNT
+eyJoaXN0b3J5IjpbLTE3MDk0NTY5MDksLTUwMTM5MzczNywtNT
 AzNDkwNjUwLC02OTYxMzQzNzUsNTM4NzkzMDAsMTEyMTY1ODI3
 MCwtNTMxMTExNDU4LC0yMDI1MTcwMzcwLC0xMDMzMTA4ODAwLD
 kwNjE3OTgyLC0xOTk5NzAwMzgyLC0xMDU0NDg5ODQsMTQzMjg5
