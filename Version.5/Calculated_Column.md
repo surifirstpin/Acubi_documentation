@@ -84,7 +84,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 ](https://raw.githubusercontent.com/sv18042016/fp1/340745900965253034efea65f9f328c7535d7f25/images/New_version5/UD_CalculatedColumn_image9.png)
 <b><font color = "Black"> Image 6</b>
 
-AcuBi supports following functionalities in calculated column :**
+<b>AcuBi supports following functionalities in calculated column :</b>
 
 ### General
 | **Name**| **Description**  | **Usage and  Example**|
@@ -301,8 +301,8 @@ AcuBi supports following functionalities in calculated column :**
 
 Perform Arithmetic operation on desired fields in calculated columns.
 
- **For Example:**
- To add an amount 2000 to the column field **order value sum**, derive the following expression in calculated column screen.
+ <b>For Example:</b>
+ To add an amount 2000 to the column field <b>order value sum</b>, derive the following expression in calculated column screen.
  ```
 bi.add(${ROOT.BI_Order.sum_ORDERVALUE},2000)
 ```
@@ -312,7 +312,7 @@ bi.add(${ROOT.BI_Order.sum_ORDERVALUE},2000)
 
 Plugin operators provides complete authority on creating, editing and deleting the raw data. It allows customization of data using JavaScript API language  as per the business requirement.
 
- **biCalculation.pluginData.raw :**  holds the Raw JSON data and can be transformed as per the requirement.
+ <b>biCalculation.pluginData.raw :</b>  holds the Raw JSON data and can be transformed as per the requirement.
 
 ```
 #plugin#
@@ -359,7 +359,7 @@ bi._Fname(input_param1, input_param2,..input_paramN)
  bi.in_global_keys(["ParameterColumnName"] ["DatabaseValue"],"ParameterName.Field"])
 ```
 
-- **Parameter Column Name:** Refer the key name from global parameter.
+- <b>Parameter Column Name: Refer the key name from global parameter.
 
 -  **Database Value:**                 Refers database value.
 
@@ -447,11 +447,10 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDI3NjM5MzMsODQxNzE3ODExLC00MD
-Y5ODI3MjIsMjEwNDQwMDYyNCwtMTU4ODQxMDMyNCwxMDg0MTA3
-OTUwLDY1MjQ3ODYzOCwtMzg3NDcyNTg3LC0yMDM4NzczMzYxLC
-0xMDY5MjY1NzM2LDU1NjMwNDQ2OCwtMTUxNTE1MjEyMyw0Mjky
-MTU5ODksMjAyMzYzNzIzLDE1Njk1NjI4MjYsMTIyMjUyMzM3My
-wtMTIyNTc4MDEyNywtMjQzMTM4MTY3LC02NzU0NzUyNTVdfQ==
-
+eyJoaXN0b3J5IjpbNDg0MDY1NjQ5LDg0MTcxNzgxMSwtNDA2OT
+gyNzIyLDIxMDQ0MDA2MjQsLTE1ODg0MTAzMjQsMTA4NDEwNzk1
+MCw2NTI0Nzg2MzgsLTM4NzQ3MjU4NywtMjAzODc3MzM2MSwtMT
+A2OTI2NTczNiw1NTYzMDQ0NjgsLTE1MTUxNTIxMjMsNDI5MjE1
+OTg5LDIwMjM2MzcyMywxNTY5NTYyODI2LDEyMjI1MjMzNzMsLT
+EyMjU3ODAxMjcsLTI0MzEzODE2NywtNjc1NDc1MjU1XX0=
 -->
