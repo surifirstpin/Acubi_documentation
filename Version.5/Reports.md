@@ -31,11 +31,12 @@ The data in analyse sections is determined by  <b> Dimensions</b> and <b>Measure
  > <b>Note :</b> All the dimensions appear blue in  color and all the measures appear in Orange color in your data table.
  
  **For Instance :**
-Let us generate a query to display **Stationcode** (Dimension) and **Order Attendant ID** (Dimension) with **Quantity Sum.**
+Let us generate a query to display <b>Stationcode</b> (Dimension) and <b>Order Attendant ID</b> (Dimension) with <b>Quantity Sum.</b>
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f5a7faedfbdd7f0d9e7175835750a8f0c79a9e54/images/New_version5/UD_Reports_Image2.png)
-**Image 2:**
+<b><font color = "Black"> Image 1</b>
+
 ## SQL Query 
 
 **4.**  Using **Field Picker (Search)**, select Dimensions and Measures.
@@ -381,11 +382,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTM5MzczNywtNTAzNDkwNjUwLC02OT
-YxMzQzNzUsNTM4NzkzMDAsMTEyMTY1ODI3MCwtNTMxMTExNDU4
-LC0yMDI1MTcwMzcwLC0xMDMzMTA4ODAwLDkwNjE3OTgyLC0xOT
-k5NzAwMzgyLC0xMDU0NDg5ODQsMTQzMjg5NTEyNSw0ODI0Nzg2
-ODYsLTM0Njg3NzU2OCw4OTg2ODMzMTksLTI0MjE1OTM2MiwtMj
-EwODYzMTUwNCw0Njk3NzU5NzEsNjM2NjczNDczLDE0MzU2MzU1
-NjhdfQ==
+eyJoaXN0b3J5IjpbLTE4ODk3NDc1ODYsLTUwMTM5MzczNywtNT
+AzNDkwNjUwLC02OTYxMzQzNzUsNTM4NzkzMDAsMTEyMTY1ODI3
+MCwtNTMxMTExNDU4LC0yMDI1MTcwMzcwLC0xMDMzMTA4ODAwLD
+kwNjE3OTgyLC0xOTk5NzAwMzgyLC0xMDU0NDg5ODQsMTQzMjg5
+NTEyNSw0ODI0Nzg2ODYsLTM0Njg3NzU2OCw4OTg2ODMzMTksLT
+I0MjE1OTM2MiwtMjEwODYzMTUwNCw0Njk3NzU5NzEsNjM2Njcz
+NDczXX0=
 -->
