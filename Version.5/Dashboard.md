@@ -135,23 +135,23 @@ The Listeners option allows to register callbacks to be notified when an event i
     
    -   <b>Apply to field :</b>  applies filter options to field column in a report.
     
-*8.** Click **Save** button It will navigate to **Save Dashboard** section.
+<b>8.</b> Click <b>Save</b> button It will navigate to <b>Save Dashboard</b> section.
 
-***Fill up save dashboard section :***
+<b><i>Fill up save dashboard section :</i></b>
 
-   -   **Name :**  name identifier for dashboard created.
+   -   <b>Name : </b> name identifier for dashboard created.
                               
-   -   **Title :**  title to refer the dashboard.
+   -   <b>Title :</B>  title to refer the dashboard.
     
-   -   **Info :**  summary information for dashboard created.
+   -   <b>Info :</B>  summary information for dashboard created.
     
-   **Share Status**   Enable any of the following privacy option to save the dashboard.
+   <b>Share Status</b>   Enable any of the following privacy option to save the dashboard.
     
-   -  **Private()** It enable access for user itself.
+   -  <b>Private()</B> It enable access for user itself.
    
-   -  **Public()**   It enable access for all the users. 
+   -  <b>Public()</B>   It enable access for all the users. 
    
-    -  **Share()** It enable access for specific set of users.
+    -  <B>Share()</B> It enable access for specific set of users.
   
 **9.** Choose the tag where you would like to save **Dashboard Reports** and click **Save.**
 
@@ -159,11 +159,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 **Image 9**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQ2MzIyMzAsLTE0MzM4MjIxMDAsLT
-IxMzk3MjU2NDcsLTIwODA4Njk0NjYsODg5OTA3ODEyLC00NTQ2
-MDk2MSwyMDcxNDIzODMxLDExNTA2NjI1NjAsLTE0ODUxODIyND
-EsLTY4ODAxNTg2NCw3NTc0NjI0OTMsLTg0MDA2MDM3MCwtNTEy
-MTM5MjQ2LC03NDQ1NDQ3MjEsLTc3NDMwMzQ0NiwtMjgyNDY0Nz
-Q0LC02OTgxMzczMjYsNDI2MTM1NjM0LDUwMjQ3MjE5NywtOTY0
-OTAxMDM5XX0=
+eyJoaXN0b3J5IjpbLTMwNDA2NDM2LC0xNDMzODIyMTAwLC0yMT
+M5NzI1NjQ3LC0yMDgwODY5NDY2LDg4OTkwNzgxMiwtNDU0NjA5
+NjEsMjA3MTQyMzgzMSwxMTUwNjYyNTYwLC0xNDg1MTgyMjQxLC
+02ODgwMTU4NjQsNzU3NDYyNDkzLC04NDAwNjAzNzAsLTUxMjEz
+OTI0NiwtNzQ0NTQ0NzIxLC03NzQzMDM0NDYsLTI4MjQ2NDc0NC
+wtNjk4MTM3MzI2LDQyNjEzNTYzNCw1MDI0NzIxOTcsLTk2NDkw
+MTAzOV19
 -->
