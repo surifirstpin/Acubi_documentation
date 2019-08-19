@@ -90,31 +90,31 @@ After logging into AcuBi Home Page, Click on <b>Dashboard</b> Section.
 
  Adding lookup to dashboard will refer set of query or list of items in filters.
 
-<b5.** To Add Lookups to Dashboard reports, Click on Lookups Tab.
+<b>5.</b> To Add Lookups to Dashboard reports, Click on Lookups Tab.
 
-> **Note:** Lookup works only for string field.
+> <b>Note:</B> Lookup works only for string field.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd243725834336dcd901b72f730e584eb164d89c/images/New_version5/UD_Dashboard_image7.png)
-**Image 7**
+<b><font color = "Black"> Image 7</b>
 
-**Fill up the lookup section ;**
+<b>Fill up the lookup section ;</b>
 
-   -   **Lookup name :**  Name Identifier for lookup field.
+   -   <b>Lookup name :</B> Name Identifier for lookup field.
    
-    -   **Lookup Type :**  Refers to item or query type.
+    -   <b>Lookup Type :</b>  Refers to item or query type.
    
-   -  **Connection**  Connection are referred only for Queries and it is disabled for Items.
+   -  <b>Connection</b>  Connection are referred only for Queries and it is disabled for Items.
      
-   **6.** Click on **Test Lookup.**
+   <b>6.</B> Click on <b>Test Lookup.</b>
    
-   -   **Multiple Selections :**  Enables the selection of list, for multiple data.
+   -   <b>Multiple Selections :< /b> Enables the selection of list, for multiple data.
 
 ## Dependency Filters
 
 You can refer the existing lookup, based on which a new lookup is created to retrieve the data based on referred lookup. In this way  you can extract the data depending on referred lookup field.
 
-   -   **Referred** on selecting the referred checkbox the next following lookup will extract the data based on the previously created lookup for which the referred checkbox is enabled.
+   -   <b>Referred</b> on selecting the referred checkbox the next following lookup will extract the data based on the previously created lookup for which the referred checkbox is enabled.
  
 ## Report Listeners 
 
@@ -159,11 +159,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 **Image 9**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjk1MTMzOSwtMTQzMzgyMjEwMCwtMj
-EzOTcyNTY0NywtMjA4MDg2OTQ2Niw4ODk5MDc4MTIsLTQ1NDYw
-OTYxLDIwNzE0MjM4MzEsMTE1MDY2MjU2MCwtMTQ4NTE4MjI0MS
-wtNjg4MDE1ODY0LDc1NzQ2MjQ5MywtODQwMDYwMzcwLC01MTIx
-MzkyNDYsLTc0NDU0NDcyMSwtNzc0MzAzNDQ2LC0yODI0NjQ3ND
-QsLTY5ODEzNzMyNiw0MjYxMzU2MzQsNTAyNDcyMTk3LC05NjQ5
-MDEwMzldfQ==
+eyJoaXN0b3J5IjpbNDMzMjg2MDQyLC0xNDMzODIyMTAwLC0yMT
+M5NzI1NjQ3LC0yMDgwODY5NDY2LDg4OTkwNzgxMiwtNDU0NjA5
+NjEsMjA3MTQyMzgzMSwxMTUwNjYyNTYwLC0xNDg1MTgyMjQxLC
+02ODgwMTU4NjQsNzU3NDYyNDkzLC04NDAwNjAzNzAsLTUxMjEz
+OTI0NiwtNzQ0NTQ0NzIxLC03NzQzMDM0NDYsLTI4MjQ2NDc0NC
+wtNjk4MTM3MzI2LDQyNjEzNTYzNCw1MDI0NzIxOTcsLTk2NDkw
+MTAzOV19
 -->
