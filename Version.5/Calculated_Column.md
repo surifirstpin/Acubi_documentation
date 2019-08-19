@@ -359,41 +359,41 @@ bi._Fname(input_param1, input_param2,..input_paramN)
  bi.in_global_keys(["ParameterColumnName"] ["DatabaseValue"],"ParameterName.Field"])
 ```
 
-- <b>Parameter Column Name: Refer the key name from global parameter.
+- <b>Parameter Column Name:</b> Refer the key name from global parameter.
 
--  **Database Value:**                 Refers database value.
+-  <b>Database Value:</b>               Refers database value.
 
-- **Parameter Name Field:**      Returns the field from global parameter it is applicable in 3 different ways ;
+- <b>Parameter Name Field:</b>      Returns the field from global parameter it is applicable in 3 different ways ;
 
- **1.**  **Static value:**               Global parameters refers to a static value.
+ <b>1.</b>  <b>Static value:</b>            Global parameters refers to a static value.
 
  ```
   bi.in_global_keys( ["Parameter_Column_Name "],["Reference string" ],"Global_parameter.field")
 ```
 
->**For Example:**
+><b>For Example:</b>
 ``` 
 bi.in_global_keys( ["Station_Name"],["Station_1" ],"Calc_ONRAW.value")
 ```
 
-**2.** **Reference value:** Global parameters refers to reference value.
+<b>2.</b> <b>Reference value:< /b>Global parameters refers to reference value.
 
 ```
   bi.in_global_keys( ["Parameter_Column_Name "],["database column" ],"Global_parameter.field")
 ```
 
->**For Example:** 
+><b>For Example:</b>
 ```
 bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"Calc_ONRAW.value")
 ```
 
-**3. Login Name(User Id):** Provide Access based on Login ID.
+<b>3. Login Name(User Id):</b> Provide Access based on Login ID.
 
 ```
 bi.in_global_keys(["ParameterColumnName","ParameterUserID"],["DatabaseField","bi._globals("#userid#")"],"ParameterName.Field"])
 ```
 
->**For Example:** 
+><b>For Example:** 
 ```
 bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661} 
 ,bi._globals("#userid#")],"CalcCol_Stage2.SeizeLimit)
@@ -447,10 +447,10 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0MDY1NjQ5LDg0MTcxNzgxMSwtNDA2OT
-gyNzIyLDIxMDQ0MDA2MjQsLTE1ODg0MTAzMjQsMTA4NDEwNzk1
-MCw2NTI0Nzg2MzgsLTM4NzQ3MjU4NywtMjAzODc3MzM2MSwtMT
-A2OTI2NTczNiw1NTYzMDQ0NjgsLTE1MTUxNTIxMjMsNDI5MjE1
-OTg5LDIwMjM2MzcyMywxNTY5NTYyODI2LDEyMjI1MjMzNzMsLT
-EyMjU3ODAxMjcsLTI0MzEzODE2NywtNjc1NDc1MjU1XX0=
+eyJoaXN0b3J5IjpbODM4Mjc2NjcsODQxNzE3ODExLC00MDY5OD
+I3MjIsMjEwNDQwMDYyNCwtMTU4ODQxMDMyNCwxMDg0MTA3OTUw
+LDY1MjQ3ODYzOCwtMzg3NDcyNTg3LC0yMDM4NzczMzYxLC0xMD
+Y5MjY1NzM2LDU1NjMwNDQ2OCwtMTUxNTE1MjEyMyw0MjkyMTU5
+ODksMjAyMzYzNzIzLDE1Njk1NjI4MjYsMTIyMjUyMzM3MywtMT
+IyNTc4MDEyNywtMjQzMTM4MTY3LC02NzU0NzUyNTVdfQ==
 -->
