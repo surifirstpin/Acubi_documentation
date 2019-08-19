@@ -4,16 +4,16 @@ Dashboard provides access to view multiple reports in single dashboard layout, t
 
 ## View Dashboard
 
-After logging into AcuBi Home Page, Click on **Dashboard** Section.
+After logging into AcuBi Home Page, Click on <b>Dashboard</b> Section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e633a63e9f980e7bcc0cfcd76e32592477ab197f/images/New_version5/UD_Dashboard_image1_1.png)
-**Image 1**
+<b><font color = "Black"> Image 1</b>
 
-  - It will navigate to Dashboard section. It consist of list of Tags, Dashboards and Reports Saved under **My Space** structure.
+  - It will navigate to Dashboard section. It consist of list of Tags, Dashboards and Reports Saved under <b>My Space</b> structure.
 
-   - To View a specific dashboard, enter the dashboard name in given **Search Option**. 
-  - To View the dashboards and reports in List view, Click on **List View**.
-  - To view the dashboards and reports in folder view, Click on **Folder View.**
+   - To View a specific dashboard, enter the dashboard name in given <b>Search Option.</B>
+  - To View the dashboards and reports in List view, Click on <b>List View</b>.
+  - To view the dashboards and reports in folder view, Click on <b>Folder View.</b>
   
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Dashboard_image2.png)
@@ -155,11 +155,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 **Image 9**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzk3MjU2NDcsLTIwODA4Njk0NjYsOD
-g5OTA3ODEyLC00NTQ2MDk2MSwyMDcxNDIzODMxLDExNTA2NjI1
-NjAsLTE0ODUxODIyNDEsLTY4ODAxNTg2NCw3NTc0NjI0OTMsLT
-g0MDA2MDM3MCwtNTEyMTM5MjQ2LC03NDQ1NDQ3MjEsLTc3NDMw
-MzQ0NiwtMjgyNDY0NzQ0LC02OTgxMzczMjYsNDI2MTM1NjM0LD
-UwMjQ3MjE5NywtOTY0OTAxMDM5LDE5ODcyNzE0MTcsLTEyNTE3
-MzAyMzZdfQ==
+eyJoaXN0b3J5IjpbLTU5ODY2MTU5OSwtMjEzOTcyNTY0NywtMj
+A4MDg2OTQ2Niw4ODk5MDc4MTIsLTQ1NDYwOTYxLDIwNzE0MjM4
+MzEsMTE1MDY2MjU2MCwtMTQ4NTE4MjI0MSwtNjg4MDE1ODY0LD
+c1NzQ2MjQ5MywtODQwMDYwMzcwLC01MTIxMzkyNDYsLTc0NDU0
+NDcyMSwtNzc0MzAzNDQ2LC0yODI0NjQ3NDQsLTY5ODEzNzMyNi
+w0MjYxMzU2MzQsNTAyNDcyMTk3LC05NjQ5MDEwMzksMTk4NzI3
+MTQxN119
 -->
