@@ -77,14 +77,14 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 ```
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ee0e74160647a6b555b17942cc2b738fc83d0480/images/New_version5/UD_CalculatedColumn_image6.png)
-**Image 5**
+ <b><font color = "Black"> Image 5</b>
   - Click **ok**.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/340745900965253034efea65f9f328c7535d7f25/images/New_version5/UD_CalculatedColumn_image9.png)
-**Image 6**
+<b><font color = "Black"> Image 6</b>
 
-**AcuBi supports following functionalities in calculated column :**
+AcuBi supports following functionalities in calculated column :**
 
 ### General
 | **Name**| **Description**  | **Usage and  Example**|
@@ -447,7 +447,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjk1NTQ2MjMsODQxNzE3ODExLC00MD
+eyJoaXN0b3J5IjpbLTEwNDI3NjM5MzMsODQxNzE3ODExLC00MD
 Y5ODI3MjIsMjEwNDQwMDYyNCwtMTU4ODQxMDMyNCwxMDg0MTA3
 OTUwLDY1MjQ3ODYzOCwtMzg3NDcyNTg3LC0yMDM4NzczMzYxLC
 0xMDY5MjY1NzM2LDU1NjMwNDQ2OCwtMTUxNTE1MjEyMyw0Mjky
