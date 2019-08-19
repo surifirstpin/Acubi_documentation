@@ -61,7 +61,7 @@ After logging into AcuBi Home Page, Click on <b>Dashboard</b> Section.
 
 <b>4.</b> To Add Global Filters to the dashboard, Click on <b>Add Global Filters</b> Button.
 
-<b>Dashboard global Filters** allows user to view limited data by applying filters on dashboard reports and it supports following filter types string, number, date and lookup.
+<b>Dashboard global Filters</B> allows user to view limited data by applying filters on dashboard reports and it supports following filter types string, number, date and lookup.
  
 | **Type** | **Description** |
 |  ------ | ------ |
@@ -72,25 +72,25 @@ After logging into AcuBi Home Page, Click on <b>Dashboard</b> Section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1dd11662359a18e0f370aa3058e7fd6281328220/images/New_version5/UD_Dashboard_image6.png)
-**Image 6**
+<b><font color = "Black"> Image 6</b>
 
-**Fill up the dashboard global filter section;**
+<b>Fill up the dashboard global filter section;</B>
 
- -   **Filter Name :**  identifier name to the filter applicable.
+ -   <b>Filter Name :</B>  identifier name to the filter applicable.
 
-  -   **Filter Type :**  type of filter used ( Eg: string, date, number).
+  -   <b>Filter Type :</B>  type of filter used ( Eg: string, date, number).
 
-  -   **Operator :**  filter option to be applied on the fields.
+  -   <b>Operator :</b>  filter option to be applied on the fields.
 
 
-> **Note 1:** Timeline filters, accepts only text. A detailed information on timeline filters are available in Technical Documents.
-> **Note  2:** You need to add Loookups before creating Global filters.
+> <b>Note 1:</b> Timeline filters, accepts only text. A detailed information on timeline filters are available in Technical Documents.
+> <b>Note  2:</B> You need to add Loookups before creating Global filters.
 
 ## Lookups
 
  Adding lookup to dashboard will refer set of query or list of items in filters.
 
-**5.** To Add Lookups to Dashboard reports, Click on Lookups Tab.
+<b5.** To Add Lookups to Dashboard reports, Click on Lookups Tab.
 
 > **Note:** Lookup works only for string field.
 
@@ -159,7 +159,7 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 **Image 9**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTA2OTcyMywtMTQzMzgyMjEwMCwtMj
+eyJoaXN0b3J5IjpbMTEyNjk1MTMzOSwtMTQzMzgyMjEwMCwtMj
 EzOTcyNTY0NywtMjA4MDg2OTQ2Niw4ODk5MDc4MTIsLTQ1NDYw
 OTYxLDIwNzE0MjM4MzEsMTE1MDY2MjU2MCwtMTQ4NTE4MjI0MS
 wtNjg4MDE1ODY0LDc1NzQ2MjQ5MywtODQwMDYwMzcwLC01MTIx
