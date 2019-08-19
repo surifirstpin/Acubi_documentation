@@ -424,7 +424,7 @@ ${ROOT.BI_ORDERS.sum_QUANTITY} -bi.pivot_offset( #{ROOT.BI_ORDERS.sum_QUANTITY} 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ee0e74160647a6b555b17942cc2b738fc83d0480/images/New_version5/UD_CalculatedColumn_image8.png)
-**Image 7**
+<b><font color = "Black"> Image 7</b>
 
 ## Local Function
 
@@ -445,15 +445,14 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 ```
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/52b7c4357f0c07e4a89b14f018cf3d877a5ba4f3/images/cal_local_fucntion.png)
-**Image 8**
+<b><font color = "Black"> Image 8</b>
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA4MjcxNzAsODQxNzE3ODExLC00MD
-Y5ODI3MjIsMjEwNDQwMDYyNCwtMTU4ODQxMDMyNCwxMDg0MTA3
-OTUwLDY1MjQ3ODYzOCwtMzg3NDcyNTg3LC0yMDM4NzczMzYxLC
-0xMDY5MjY1NzM2LDU1NjMwNDQ2OCwtMTUxNTE1MjEyMyw0Mjky
-MTU5ODksMjAyMzYzNzIzLDE1Njk1NjI4MjYsMTIyMjUyMzM3My
-wtMTIyNTc4MDEyNywtMjQzMTM4MTY3LC02NzU0NzUyNTVdfQ==
-
+eyJoaXN0b3J5IjpbMTMzODUzNTcyMCw4NDE3MTc4MTEsLTQwNj
+k4MjcyMiwyMTA0NDAwNjI0LC0xNTg4NDEwMzI0LDEwODQxMDc5
+NTAsNjUyNDc4NjM4LC0zODc0NzI1ODcsLTIwMzg3NzMzNjEsLT
+EwNjkyNjU3MzYsNTU2MzA0NDY4LC0xNTE1MTUyMTIzLDQyOTIx
+NTk4OSwyMDIzNjM3MjMsMTU2OTU2MjgyNiwxMjIyNTIzMzczLC
+0xMjI1NzgwMTI3LC0yNDMxMzgxNjcsLTY3NTQ3NTI1NV19
 -->
