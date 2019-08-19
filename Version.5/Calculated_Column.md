@@ -13,26 +13,28 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 
 - It controls or access the data with user wise calculations.
 
-- Optimize and transform the data using  **#plugin#**  functionality.
+- Optimize and transform the data using  <b>#plugin#</b>  functionality.
 
 - Define a function or use a global function, to be applied on the required data fields.
  
-> **Note:** The functions support JavaScript API.
+> <b>Note:</b> The functions support JavaScript API.
 
 ### Deriving Expression
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5d7fedc6c4dd0810eb6be0995b321cd924b2cd71/images/New_version5/UD_CalculatedColumn_image1.png)
-**Image 1**
+<b><font color = "Black"> Image 1</b>
 
-Click on **Calculated Column** button (Refer Image 1) it will navigate to calculated column window(Refer Image 2),Once navigated to Calculated Column Window, Enter the below fields.
+Click on <b>Calculated Column</b> button (Refer Image 1) it will navigate to calculated column window(Refer Image 2),Once navigated to Calculated Column Window, Enter the below fields.
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d90ab34e275e9daaab297e54345228bcad1986f9/images/New_version5/UD_CalculatedColumn_image2.png)
 
-**Image 2**
-- **Field name:**   Unique identifier name to refer calculated column.
+<b><font color = "Black"> Image 2</b>
 
-- **Label:**             Specify a identifier name to calculated column the way it should be displayed in the data table.
+- <b>Field name:</b>   Unique identifier name to refer calculated column.
+
+- <b>Label:</b> Specify a identifier name to calculated column the way it should be displayed in the data table.
 
 - **Data Type:**    Data type format for the result (string,number).
 
@@ -440,10 +442,10 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxNzE3ODExLC00MDY5ODI3MjIsMjEwND
-QwMDYyNCwtMTU4ODQxMDMyNCwxMDg0MTA3OTUwLDY1MjQ3ODYz
-OCwtMzg3NDcyNTg3LC0yMDM4NzczMzYxLC0xMDY5MjY1NzM2LD
-U1NjMwNDQ2OCwtMTUxNTE1MjEyMyw0MjkyMTU5ODksMjAyMzYz
-NzIzLDE1Njk1NjI4MjYsMTIyMjUyMzM3MywtMTIyNTc4MDEyNy
-wtMjQzMTM4MTY3LC02NzU0NzUyNTVdfQ==
+eyJoaXN0b3J5IjpbLTU0MDY5NzkxNiw4NDE3MTc4MTEsLTQwNj
+k4MjcyMiwyMTA0NDAwNjI0LC0xNTg4NDEwMzI0LDEwODQxMDc5
+NTAsNjUyNDc4NjM4LC0zODc0NzI1ODcsLTIwMzg3NzMzNjEsLT
+EwNjkyNjU3MzYsNTU2MzA0NDY4LC0xNTE1MTUyMTIzLDQyOTIx
+NTk4OSwyMDIzNjM3MjMsMTU2OTU2MjgyNiwxMjIyNTIzMzczLC
+0xMjI1NzgwMTI3LC0yNDMxMzgxNjcsLTY3NTQ3NTI1NV19
 -->
