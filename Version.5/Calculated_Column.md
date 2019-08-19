@@ -54,20 +54,23 @@ col_total( #{ROOT.BI_ORDERS.sum_RATE_2677} )
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/029914c6f76a051db3647fa3285211aef352e345/images/New_version5/UD_CalculatedColumn_image4.png)
+
 <b><font color = "Black"> Image 3</b>
 
 - Click <b>Ok</b> after deriving an expression,  all the values based on calculation, is shown up in green color as shown in below image,
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/67a5ac6ae8faa249a688ed35320ff1b2e8a7ebb0/images/New_version5/UD_CalculatedColumn_image5.png)
-**Image 4**
+
+<b><font color = "Black"> Image 4</b>
+
 ## Mathematical operation 
 
-Custom made mathematical operations can be performed in **calculated column section.**
+Custom made mathematical operations can be performed in <b>calculated column section.</b>
 
-**Example 1 :**
+<b>Example 1 :</b>
 
- To Calculate **Number of Working Days** in each month, use the following expression in calculation column window as shown below ;
+ To Calculate <b>Number of Working Days</b> in each month, use the following expression in calculation column window as shown below ;
  
 ```
 bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE}) 
@@ -444,10 +447,11 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODI4ODc2MSw4NDE3MTc4MTEsLTQwNj
-k4MjcyMiwyMTA0NDAwNjI0LC0xNTg4NDEwMzI0LDEwODQxMDc5
-NTAsNjUyNDc4NjM4LC0zODc0NzI1ODcsLTIwMzg3NzMzNjEsLT
-EwNjkyNjU3MzYsNTU2MzA0NDY4LC0xNTE1MTUyMTIzLDQyOTIx
-NTk4OSwyMDIzNjM3MjMsMTU2OTU2MjgyNiwxMjIyNTIzMzczLC
-0xMjI1NzgwMTI3LC0yNDMxMzgxNjcsLTY3NTQ3NTI1NV19
+eyJoaXN0b3J5IjpbLTE0Mjk1NTQ2MjMsODQxNzE3ODExLC00MD
+Y5ODI3MjIsMjEwNDQwMDYyNCwtMTU4ODQxMDMyNCwxMDg0MTA3
+OTUwLDY1MjQ3ODYzOCwtMzg3NDcyNTg3LC0yMDM4NzczMzYxLC
+0xMDY5MjY1NzM2LDU1NjMwNDQ2OCwtMTUxNTE1MjEyMyw0Mjky
+MTU5ODksMjAyMzYzNzIzLDE1Njk1NjI4MjYsMTIyMjUyMzM3My
+wtMTIyNTc4MDEyNywtMjQzMTM4MTY3LC02NzU0NzUyNTVdfQ==
+
 -->
