@@ -14,22 +14,25 @@ To get started with AcuBi Login, Follow the below steps:
 
 <b><font color = "Black"> Image 1</b>
 
--  Enter  <b>Username</and **Password**
-- Hit the  **Login** button navigate to AcuBi  Homepage
+-  Enter  <b>Username</b> and <b>Password</b>
+
+- Hit the  <b>Login</b> button navigate to AcuBi  Homepage
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/Homepage_v5.png)
-**Image 2**
+<b><font color = "Black"> Image 2</b>
+
 ## Logout
 
-Hit **Logout** button to logout from AcuBi homepage.
+Hit <b>Logout</b> button to logout from AcuBi homepage.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Logout.png)
-**Image 3**
+<b><font color = "Black"> Image 3</b>
+
 ## Forgot Password
 
-  - To Reset password, Click **Forgot Password.**
+  - To Reset password, Click <b>Forgot Password.</b>
   - It will navigate to reset password screen. Enter email id to access reset password link to set new password.
   
  ![
@@ -37,10 +40,10 @@ Hit **Logout** button to logout from AcuBi homepage.
 
 **Image 4**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzExMDQwNCwyMTI2NjU3MzUsMjEwMD
-MzOTAxNSwyMDAxMDU1OTg1LDE0MzkwNzc0NzAsMjM5NzQxNzAx
-LC04MDg0OTg5NTcsLTE5NjM1NDc5ODksLTEyNTUwODY0NzYsMT
-c4NTM2NDM1LDE3MzI2Njk2OTUsLTQ0MzAxNjY0MiwyNzMxNzE2
-NzcsNDM1ODg5OTk3LDEwOTczMTkxOTcsLTkxODQ3Mzk5NSwtMj
-AwNTE2NzExNSwyNzg2MjA3ODMsLTExODQ4NDk3NzZdfQ==
+eyJoaXN0b3J5IjpbOTMxMDQ1MjY2LDIxMjY2NTczNSwyMTAwMz
+M5MDE1LDIwMDEwNTU5ODUsMTQzOTA3NzQ3MCwyMzk3NDE3MDEs
+LTgwODQ5ODk1NywtMTk2MzU0Nzk4OSwtMTI1NTA4NjQ3NiwxNz
+g1MzY0MzUsMTczMjY2OTY5NSwtNDQzMDE2NjQyLDI3MzE3MTY3
+Nyw0MzU4ODk5OTcsMTA5NzMxOTE5NywtOTE4NDczOTk1LC0yMD
+A1MTY3MTE1LDI3ODYyMDc4MywtMTE4NDg0OTc3Nl19
 -->
