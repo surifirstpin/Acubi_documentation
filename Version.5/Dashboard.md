@@ -45,9 +45,9 @@ After logging into AcuBi Home Page, Click on <b>Dashboard</b> Section.
 
 ## Select Layout
 
-   <b>Layout formats are categorized in 2 ways,**
+   <b>Layout formats are categorized in 2 ways,</b>
    
-- **Flow Layout** This layout is provided with a scroll bar option to define your layout appropriately.
+- <b>Flow Layout</b> This layout is provided with a scroll bar option to define your layout appropriately.
 
 - **Grid (Fixed) Layout** All the reports in this layout will fit into single screen.
 
@@ -159,7 +159,7 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 **Image 9**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjEzMDczNjYsLTIxMzk3MjU2NDcsLT
+eyJoaXN0b3J5IjpbLTE0MzM4MjIxMDAsLTIxMzk3MjU2NDcsLT
 IwODA4Njk0NjYsODg5OTA3ODEyLC00NTQ2MDk2MSwyMDcxNDIz
 ODMxLDExNTA2NjI1NjAsLTE0ODUxODIyNDEsLTY4ODAxNTg2NC
 w3NTc0NjI0OTMsLTg0MDA2MDM3MCwtNTEyMTM5MjQ2LC03NDQ1
