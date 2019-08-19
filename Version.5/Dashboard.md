@@ -153,17 +153,17 @@ The Listeners option allows to register callbacks to be notified when an event i
    
     -  <B>Share()</B> It enable access for specific set of users.
   
-**9.** Choose the tag where you would like to save **Dashboard Reports** and click **Save.**
+<b>9.</B> Choose the tag where you would like to save <b>Dashboard Reports</b> and click <b>Save.</b>
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
-**Image 9**
+<b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDA2NDM2LC0xNDMzODIyMTAwLC0yMT
-M5NzI1NjQ3LC0yMDgwODY5NDY2LDg4OTkwNzgxMiwtNDU0NjA5
-NjEsMjA3MTQyMzgzMSwxMTUwNjYyNTYwLC0xNDg1MTgyMjQxLC
-02ODgwMTU4NjQsNzU3NDYyNDkzLC04NDAwNjAzNzAsLTUxMjEz
-OTI0NiwtNzQ0NTQ0NzIxLC03NzQzMDM0NDYsLTI4MjQ2NDc0NC
-wtNjk4MTM3MzI2LDQyNjEzNTYzNCw1MDI0NzIxOTcsLTk2NDkw
-MTAzOV19
+eyJoaXN0b3J5IjpbMTMyMDgzNDI0NiwtMTQzMzgyMjEwMCwtMj
+EzOTcyNTY0NywtMjA4MDg2OTQ2Niw4ODk5MDc4MTIsLTQ1NDYw
+OTYxLDIwNzE0MjM4MzEsMTE1MDY2MjU2MCwtMTQ4NTE4MjI0MS
+wtNjg4MDE1ODY0LDc1NzQ2MjQ5MywtODQwMDYwMzcwLC01MTIx
+MzkyNDYsLTc0NDU0NDcyMSwtNzc0MzAzNDQ2LC0yODI0NjQ3ND
+QsLTY5ODEzNzMyNiw0MjYxMzU2MzQsNTAyNDcyMTk3LC05NjQ5
+MDEwMzldfQ==
 -->
