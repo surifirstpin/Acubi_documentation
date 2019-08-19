@@ -6,19 +6,19 @@ This section introduces how to explore the data in AcuBi and how the query built
 
 ## Where to get started ?
 
- **Reports** are the starting point for building a query. To create a report, Click on **Reports Section.**
+ <b>Reports</B> are the starting point for building a query. To create a report, Click on <b>Reports Section.</B>
 
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/11d8e2454a911ad96e6238049e8d1575e6dcd084/images/New_version5/UD_Reports_Image1.png)
-**Image 1:**
+<b><font color = "Black"> Image 1</b>
 
-**1.**  All the connection established, databases and tables used for the Reports are defined under **Project.** Depending on your business requirement you can choose appropriate project from drop down list.
+<b>1.</b>  All the connection established, databases and tables used for the Reports are defined under <b>Project.</b> Depending on your business requirement you can choose appropriate project from drop down list.
 
-**For Instance :** To create a project based on oracle connection select project **Oracle_new** from drop down list.
+<b>For Instance :</b> To create a project based on oracle connection select project <b>Oracle_new</b> from drop down list.
 
-**2.** **Model** Section has different set of models developed  for Orders, Customers, Delivery, Employees, Kitchen Process and Products.
+<b>2. Model</b> Section has different set of models developed  for Orders, Customers, Delivery, Employees, Kitchen Process and Products.
 
-**For Instance:** to create a report on order based details, Select **Bi_Orders** from given drop down list. 
+<b>For Instance:</b> to create a report on order based details, Select **Bi_Orders** from given drop down list. 
  
  **3.** To refresh a report click on, **Reset** ( refresh icon). 
 
@@ -381,11 +381,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzQ5MDY1MCwtNjk2MTM0Mzc1LDUzOD
-c5MzAwLDExMjE2NTgyNzAsLTUzMTExMTQ1OCwtMjAyNTE3MDM3
-MCwtMTAzMzEwODgwMCw5MDYxNzk4MiwtMTk5OTcwMDM4MiwtMT
-A1NDQ4OTg0LDE0MzI4OTUxMjUsNDgyNDc4Njg2LC0zNDY4Nzc1
-NjgsODk4NjgzMzE5LC0yNDIxNTkzNjIsLTIxMDg2MzE1MDQsND
-Y5Nzc1OTcxLDYzNjY3MzQ3MywxNDM1NjM1NTY4LDIwNDkzNTE4
-MDBdfQ==
+eyJoaXN0b3J5IjpbLTk3OTAyODMzLC01MDM0OTA2NTAsLTY5Nj
+EzNDM3NSw1Mzg3OTMwMCwxMTIxNjU4MjcwLC01MzExMTE0NTgs
+LTIwMjUxNzAzNzAsLTEwMzMxMDg4MDAsOTA2MTc5ODIsLTE5OT
+k3MDAzODIsLTEwNTQ0ODk4NCwxNDMyODk1MTI1LDQ4MjQ3ODY4
+NiwtMzQ2ODc3NTY4LDg5ODY4MzMxOSwtMjQyMTU5MzYyLC0yMT
+A4NjMxNTA0LDQ2OTc3NTk3MSw2MzY2NzM0NzMsMTQzNTYzNTU2
+OF19
 -->
