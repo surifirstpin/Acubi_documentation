@@ -154,19 +154,19 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 ## Local Sorting
 
-**12.** Sorting can also be applied after data is retrieved in data section, you can simply click on **Arrow Up and Down Icon** available at desired field header to enable sorting.
+<b>12.</b> Sorting can also be applied after data is retrieved in data section, you can simply click on <b>Arrow Up and Down Icon</b> available at desired field header to enable sorting.
 
-For  **Dimensions**
+For  <b>Dimensions</b>
 
 -   Click on upper arrow to enable ascending order.
 -   Click on down arrow to enable descending order.
 
-For  **Measures** use opposite direction.
+For  <b>Measures</b> use opposite direction.
 
 -   Click on upper arrow to enable descending order.
 -   Click on down arrow to enable ascending order.
 
-**13.** The **Total time taken** to build a query for a report is displayed at top of the report screen and **Total number of rows** fetched displayed just below it. (Refer image 5)
+<b>13.</b> The <b>Total time taken</b> to build a query for a report is displayed at top of the report screen and <b>Total number of rows** fetched displayed just below it. (Refer image 5)
   
 **14.**  Select the  **Check Box** for totals, to display total sum values of the measure fields.
 
@@ -382,11 +382,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4NzIxMTkxLDEwMzM2MjM5NTQsLTExMz
-g1ODEzODksLTE3MDk0NTY5MDksLTUwMTM5MzczNywtNTAzNDkw
-NjUwLC02OTYxMzQzNzUsNTM4NzkzMDAsMTEyMTY1ODI3MCwtNT
-MxMTExNDU4LC0yMDI1MTcwMzcwLC0xMDMzMTA4ODAwLDkwNjE3
-OTgyLC0xOTk5NzAwMzgyLC0xMDU0NDg5ODQsMTQzMjg5NTEyNS
-w0ODI0Nzg2ODYsLTM0Njg3NzU2OCw4OTg2ODMzMTksLTI0MjE1
-OTM2Ml19
+eyJoaXN0b3J5IjpbLTEyNTI3NDgyNDksNzY4NzIxMTkxLDEwMz
+M2MjM5NTQsLTExMzg1ODEzODksLTE3MDk0NTY5MDksLTUwMTM5
+MzczNywtNTAzNDkwNjUwLC02OTYxMzQzNzUsNTM4NzkzMDAsMT
+EyMTY1ODI3MCwtNTMxMTExNDU4LC0yMDI1MTcwMzcwLC0xMDMz
+MTA4ODAwLDkwNjE3OTgyLC0xOTk5NzAwMzgyLC0xMDU0NDg5OD
+QsMTQzMjg5NTEyNSw0ODI0Nzg2ODYsLTM0Njg3NzU2OCw4OTg2
+ODMzMTldfQ==
 -->
