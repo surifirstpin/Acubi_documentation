@@ -74,34 +74,34 @@ In the above image you can see, hide_pivot 1st column is seen empty, so in order
 
 To refine and enhance the data obtained in AcuBi, It is provided with good number of customizing options.
 
-**For Instance** :
- Select checkbox **Percentage** in Pie chart which displays the quantity sum of each month in percentage. 
+<B>For Instance:</b>
+ Select checkbox <b>Percentage</b> in Pie chart which displays the quantity sum of each month in percentage. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/caef96a364da60995f83c18399b0f6c4b340ea46/images/New_version5/UD_Visualisation_Overview_Image6.png)
-**Image 6**
+ <b><font color = "Black"> Image 6</b>
 
 ## Deeper insights in visualization
 
 You can drill deeper into visualization, to get more specific information about the data obtained. In order to carry out this function, single click on the data field in table chart, it will further drill down displaying more deeper insight about the data field.
 
-**For Instance**: In below chart, when you click on country it will display the states that fall under that country, for more deeper insight on clicking on State_Name it will display the list of cities that fall under that states as shown clearly in below image.
-*Country_Name-->State_Name-->City_Name*
+<b>For Instance:</b> In below chart, when you click on country it will display the states that fall under that country, for more deeper insight on clicking on State_Name it will display the list of cities that fall under that states as shown clearly in below image.
+<b><i>Country_Name-->State_Name-->City_Name</i></b>
 
- > **Note:**  To carryout this function you need derive it in model first.
+ > <b>Note:</b>  To carryout this function you need derive it in model first.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c0acf39f26482bbef006df3ae981d22e8067f00/images/New_version5/UD_Visualisation_Overview_Image7.png)
-**Image 7**
+ <b><font color = "Black"> Image 7</b>
 
-> **Note :** A more detailed explanation on visualization is given in visualization types and settings documents.
+> <b>Note :</b> A more detailed explanation on visualization is given in visualization types and settings documents.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjQ3OTI0MiwxMjc4MzI2ODA3LC0xND
-ExNzczMjI1LDEwNTI4MTIyOTMsLTk5MzQ0NDg5LDg2NDY2NDk2
-NSwtOTkzNDQ0ODksLTk5MzQ0NDg5LC0xNjI5ODAyNTgzLDU2Mj
-gzMjY4MSwtMTEzNDkzMzI4OSw1MTc2MTczLC00Mzg4Mzk2MTIs
-LTE5Nzc3OTcyMzUsLTE2NzM0MzM4MTIsMTIzMDQ3MDIzNCwtMT
-M1NTE2NDg4NCwtMTE3MTc4MjAwMiwtMTE5MDQ1Mjk5MywtNjA5
-NzU1MTBdfQ==
+eyJoaXN0b3J5IjpbNTE5NjgzMDUsMTI3ODMyNjgwNywtMTQxMT
+c3MzIyNSwxMDUyODEyMjkzLC05OTM0NDQ4OSw4NjQ2NjQ5NjUs
+LTk5MzQ0NDg5LC05OTM0NDQ4OSwtMTYyOTgwMjU4Myw1NjI4Mz
+I2ODEsLTExMzQ5MzMyODksNTE3NjE3MywtNDM4ODM5NjEyLC0x
+OTc3Nzk3MjM1LC0xNjczNDMzODEyLDEyMzA0NzAyMzQsLTEzNT
+UxNjQ4ODQsLTExNzE3ODIwMDIsLTExOTA0NTI5OTMsLTYwOTc1
+NTEwXX0=
 -->
