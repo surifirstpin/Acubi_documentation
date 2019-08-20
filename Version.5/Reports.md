@@ -80,7 +80,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 |<b>Lookup</b>| To view the lookup in Report filters it should be derived under lookup field in model section|
 
 
-<b><i>Following are the different types of filters characteristics applicable :</i><b>
+<b><i>Following are the different types of filters characteristics applicable :</i></b>
 
 ## String 
 |			<b>Example</b>            |						<b>Description</b>                |                                                                                 
@@ -383,11 +383,11 @@ Click <b>Save</b> to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
  <b><font color = "Black"> Image 17</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDYyNDIzOCwxODI5NDY4MzgwLC0xND
-c5NzMxODg2LDY3NTI5NzQ1MSw3Njg3MjExOTEsMTAzMzYyMzk1
-NCwtMTEzODU4MTM4OSwtMTcwOTQ1NjkwOSwtNTAxMzkzNzM3LC
-01MDM0OTA2NTAsLTY5NjEzNDM3NSw1Mzg3OTMwMCwxMTIxNjU4
-MjcwLC01MzExMTE0NTgsLTIwMjUxNzAzNzAsLTEwMzMxMDg4MD
-AsOTA2MTc5ODIsLTE5OTk3MDAzODIsLTEwNTQ0ODk4NCwxNDMy
-ODk1MTI1XX0=
+eyJoaXN0b3J5IjpbNDgxMDgzOTcxLDE4Mjk0NjgzODAsLTE0Nz
+k3MzE4ODYsNjc1Mjk3NDUxLDc2ODcyMTE5MSwxMDMzNjIzOTU0
+LC0xMTM4NTgxMzg5LC0xNzA5NDU2OTA5LC01MDEzOTM3MzcsLT
+UwMzQ5MDY1MCwtNjk2MTM0Mzc1LDUzODc5MzAwLDExMjE2NTgy
+NzAsLTUzMTExMTQ1OCwtMjAyNTE3MDM3MCwtMTAzMzEwODgwMC
+w5MDYxNzk4MiwtMTk5OTcwMDM4MiwtMTA1NDQ4OTg0LDE0MzI4
+OTUxMjVdfQ==
 -->
