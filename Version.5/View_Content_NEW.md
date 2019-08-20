@@ -9,7 +9,7 @@ One of the best ways to start using Acubi is to navigate around the existing My 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d9c267871ed467a0bbf143c1bf8c4137012cb6d4/images/New_version5/UD_Viewing_Content_Image4.png)
- <b><font color = "Black"> Image 1</b>**
+ <b><font color = "Black"> Image 1</b>
 
 ## Navigating to Saved Content 
 
@@ -37,15 +37,16 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 
 To view the existing report in Acubi, Click on any specific report,it will display the report output and global filters used in reports.
 
-**For instance** : Here we are selecting report Quantity_Sum_Bonus.
+<b>For instance:</b> Here we are selecting report Quantity_Sum_Bonus.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/05a84e2331d3c209a78f6bf7f1082285bb9a1875/images/New_version5/UD_Viewing_Content_Image3.png)
-**Image 3**
+
+ <b><font color = "Black"> Image 4</b>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzU2NzU0NzIsMjA3MzMxNDUwMiw4Nz
+eyJoaXN0b3J5IjpbLTE0MTMxODE0OTEsMjA3MzMxNDUwMiw4Nz
 k4NDQ2MTgsMTg5NTMxNDU3MCwtMTczNjMyNjk2NCwxMzE5NTg2
 NTI2LDEyMzQ1MzQ3NTcsLTM4MjYwMzkyMSwtMTAwMjk1NDI3Ni
 wxOTg4OTQxMTMyLC02NjA4MDIwNjRdfQ==
