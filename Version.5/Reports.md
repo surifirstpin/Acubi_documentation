@@ -272,19 +272,19 @@ Use $ symbol to select apply operational function to the Fields.
 
 Click on Charts, to view the different type of pictorial representation for the data obtained.
 
-> **Note** : Go to **Visualization Document** for more details description on charts.
+> <b>Note</b>: Go to <b>Visualization Document</b> for more details description on charts.
 
-**Data** section under visualization is enabled based on the data retrieved on running a report.
+<b>Data</b> section under visualization is enabled based on the data retrieved on running a report.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3e22fdc921e2f9e483420be1116042428e7f566a/images/New_version5/UD_Reports_Image12.png)
-**Image 13**
+ <b><font color = "Black"> Image 13</b>
 
- **Parameters applicable on the data retrieved are explained as below;**
+ <b> <i> Parameters applicable on the data retrieved are explained as below;</i></b>
 
-- **Row Grouping** enables row grouping for field values based on the field selected.(Refer Image 13)
+- <b>Row Grouping<b> enables row grouping for field values based on the field selected.(Refer Image 13)
 
-- **Explore Enabled** to explore the data which are grouped select the check box **Explore Enabled.**
+- <b>Explore Enabled</b> to explore the data which are grouped select the check box <bExplore Enabled.**
 
 - **Stacked** Series values are added on the y-axis, so each consecutive series appears above the last. Be sure that the units of all series match.
 
@@ -381,11 +381,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1Mjk3NDUxLDc2ODcyMTE5MSwxMDMzNj
-IzOTU0LC0xMTM4NTgxMzg5LC0xNzA5NDU2OTA5LC01MDEzOTM3
-MzcsLTUwMzQ5MDY1MCwtNjk2MTM0Mzc1LDUzODc5MzAwLDExMj
-E2NTgyNzAsLTUzMTExMTQ1OCwtMjAyNTE3MDM3MCwtMTAzMzEw
-ODgwMCw5MDYxNzk4MiwtMTk5OTcwMDM4MiwtMTA1NDQ4OTg0LD
-E0MzI4OTUxMjUsNDgyNDc4Njg2LC0zNDY4Nzc1NjgsODk4Njgz
-MzE5XX0=
+eyJoaXN0b3J5IjpbLTQ2NDIxNDUyOCw2NzUyOTc0NTEsNzY4Nz
+IxMTkxLDEwMzM2MjM5NTQsLTExMzg1ODEzODksLTE3MDk0NTY5
+MDksLTUwMTM5MzczNywtNTAzNDkwNjUwLC02OTYxMzQzNzUsNT
+M4NzkzMDAsMTEyMTY1ODI3MCwtNTMxMTExNDU4LC0yMDI1MTcw
+MzcwLC0xMDMzMTA4ODAwLDkwNjE3OTgyLC0xOTk5NzAwMzgyLC
+0xMDU0NDg5ODQsMTQzMjg5NTEyNSw0ODI0Nzg2ODYsLTM0Njg3
+NzU2OF19
 -->
