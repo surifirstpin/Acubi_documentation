@@ -85,14 +85,14 @@ Report filters will narrow the reports results while allowing you to view the sp
 ## String 
 |			<b>Example</b>            |						<b>Description</b>                |                                                                                 
 |------------------------------|-----------------------------------------------------------|
-|**is not null**                   | should not be equal to null                               |
-|**is null**                       | equal to null                                             |
-|**is not empty**                  | should not be empty                                       |
-|**is empty**                      | should be empty                                           |
-|**equal**                         | should be equals to specific value                        |
-|**not equal**                     | shouldn't be equal to specific value                      |
-|**in**                            | selection based on combination of filter values           |
-|**not in**                        | excluding set of values                                   |
+|<b>is not null</b>                 | should not be equal to null                               |
+|<b>is null</b>                     | equal to null                                             |
+|<b>is not empty</b>                  | should not be empty                                       |
+|<b>is empty</b>                      | should be empty                                           |
+|<b>equal</b>                         | should be equals to specific value                        |
+|<b>not equal</b>                     | shouldn't be equal to specific value                      |
+|<b>in</b>                            | selection based on combination of filter values           |
+|<b>not in</b>                       | excluding set of values                                   |
 |**begins with**                   | finds any value that starts with mentioned sub string      |
 |**doesn’t begins with**           | finds a value that doesn't begin with mentioned sub-string|
 |**contains**                      | contains mentioned sub-string                             |
@@ -382,11 +382,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzYyMzk1NCwtMTEzODU4MTM4OSwtMT
-cwOTQ1NjkwOSwtNTAxMzkzNzM3LC01MDM0OTA2NTAsLTY5NjEz
-NDM3NSw1Mzg3OTMwMCwxMTIxNjU4MjcwLC01MzExMTE0NTgsLT
-IwMjUxNzAzNzAsLTEwMzMxMDg4MDAsOTA2MTc5ODIsLTE5OTk3
-MDAzODIsLTEwNTQ0ODk4NCwxNDMyODk1MTI1LDQ4MjQ3ODY4Ni
-wtMzQ2ODc3NTY4LDg5ODY4MzMxOSwtMjQyMTU5MzYyLC0yMTA4
-NjMxNTA0XX0=
+eyJoaXN0b3J5IjpbODM3ODkxODUwLDEwMzM2MjM5NTQsLTExMz
+g1ODEzODksLTE3MDk0NTY5MDksLTUwMTM5MzczNywtNTAzNDkw
+NjUwLC02OTYxMzQzNzUsNTM4NzkzMDAsMTEyMTY1ODI3MCwtNT
+MxMTExNDU4LC0yMDI1MTcwMzcwLC0xMDMzMTA4ODAwLDkwNjE3
+OTgyLC0xOTk5NzAwMzgyLC0xMDU0NDg5ODQsMTQzMjg5NTEyNS
+w0ODI0Nzg2ODYsLTM0Njg3NzU2OCw4OTg2ODMzMTksLTI0MjE1
+OTM2Ml19
 -->
