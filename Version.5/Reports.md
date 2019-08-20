@@ -225,9 +225,9 @@ To carry out Multi-level grouping on the data extracted. Select group option for
 
 <b>18.</b>  To find the specific field value, from the data extracted select <b>Find</b> from the field drop down.
 
-<b>19.</b>  To hide t<b>he specific field in the visualization charts select <b>Hide Visualization in the drop down list  and to display the same select **Show visualization.** (Refer Image 8)
+<b>19.</b>  To hide</b> the specific field in the visualization charts select <b>Hide Visualization</b> in the drop down list  and to display the same select <b>Show visualization.</b>  (Refer Image 8)
 
-**20.**  To remove a specific field column from the extracted list, select **Remove** from drop down list.
+<b>20.</b>  To remove a specific field column from the extracted list, select <b>Remove</b> from drop down list.
 
 
 ## Calculated column
@@ -382,11 +382,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTMxODA1ODYsNzY4NzIxMTkxLDEwMz
-M2MjM5NTQsLTExMzg1ODEzODksLTE3MDk0NTY5MDksLTUwMTM5
-MzczNywtNTAzNDkwNjUwLC02OTYxMzQzNzUsNTM4NzkzMDAsMT
-EyMTY1ODI3MCwtNTMxMTExNDU4LC0yMDI1MTcwMzcwLC0xMDMz
-MTA4ODAwLDkwNjE3OTgyLC0xOTk5NzAwMzgyLC0xMDU0NDg5OD
-QsMTQzMjg5NTEyNSw0ODI0Nzg2ODYsLTM0Njg3NzU2OCw4OTg2
-ODMzMTldfQ==
+eyJoaXN0b3J5IjpbMTk4NDQ2MjkwNSw3Njg3MjExOTEsMTAzMz
+YyMzk1NCwtMTEzODU4MTM4OSwtMTcwOTQ1NjkwOSwtNTAxMzkz
+NzM3LC01MDM0OTA2NTAsLTY5NjEzNDM3NSw1Mzg3OTMwMCwxMT
+IxNjU4MjcwLC01MzExMTE0NTgsLTIwMjUxNzAzNzAsLTEwMzMx
+MDg4MDAsOTA2MTc5ODIsLTE5OTk3MDAzODIsLTEwNTQ0ODk4NC
+wxNDMyODk1MTI1LDQ4MjQ3ODY4NiwtMzQ2ODc3NTY4LDg5ODY4
+MzMxOV19
 -->
