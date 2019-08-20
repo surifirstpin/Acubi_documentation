@@ -168,15 +168,15 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b4d06a116e6f5919fd87b2e6d003a889f0f2f0fd/images/New_version5/UD_Visualization_Types&Settings_Image8.png)
- **Image 8**
+  <b><font color = "Black"> Image 8</b>
 
-- **Title** specify a title for world map.
+- <b>Title:</b> specify a title for world map.
 
-- **Flat Map** displays a flat view or "2D" vision of the map.
+- <b>Flat Map:</b> displays a flat view or "2D" vision of the map.
 
-- **Default** set default colour to display specific countries.
+- <b>Default</b> set default colour to display specific countries.
 
-- **Over Border** colour the border of a map region.
+- <b>Over Border:<b> colour the border of a map region.
 
 - **Data Field** choose the data field to display it on map.	
 
@@ -426,11 +426,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg4NzIwNTksLTkwNDE1MTIwNCwtOT
-Q5OTY2OTk4LC0xNjMwODkzMTM0LC0xMDAzNTg1NTI4LC0xODAy
-OTMxNDE2LDU3Nzg5Nzk2NCw5Njc5MDM3NDYsLTQ1OTA4MzA4NS
-w1NzIyNTkyMjQsLTIxNDE4MTM0LDczODE3Mzc5OCwxNDMyNDg1
-MjY4LDEyOTA4ODU4NTMsLTE3ODEwNjYzNTIsMTI4OTk4MjcwMC
-wxMTc0MzAwOTYwLDkzOTI2Mjk5OCw0MDAzNzkwNTIsLTQzNzE0
-MzU4XX0=
+eyJoaXN0b3J5IjpbMTQwNjI0NTMxMSwtMTA1ODg3MjA1OSwtOT
+A0MTUxMjA0LC05NDk5NjY5OTgsLTE2MzA4OTMxMzQsLTEwMDM1
+ODU1MjgsLTE4MDI5MzE0MTYsNTc3ODk3OTY0LDk2NzkwMzc0Ni
+wtNDU5MDgzMDg1LDU3MjI1OTIyNCwtMjE0MTgxMzQsNzM4MTcz
+Nzk4LDE0MzI0ODUyNjgsMTI5MDg4NTg1MywtMTc4MTA2NjM1Mi
+wxMjg5OTgyNzAwLDExNzQzMDA5NjAsOTM5MjYyOTk4LDQwMDM3
+OTA1Ml19
 -->
