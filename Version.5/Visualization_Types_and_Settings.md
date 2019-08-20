@@ -4,7 +4,7 @@
 
  Visualization provides an opportunity to view the data obtained in analysis report into different pictorial representation along with some standard editing options. Based on the priority, to view specific information about the data retrieved. Each type of visualization charts have different setting which can be customized for its appearance. 
  
- <b><i>Types of visualization charts in Acubi;</i></b>
+ <b><i>Types of visualization charts in Acubi; </i></b>
  - Line
  - Horizontal Bar
  - Pie
@@ -29,9 +29,9 @@
 ](https://github.com/sv18042016/fp1/blob/caf436cec9dfaf0afd3065d99bee59072050e1d8/images/New_version5/UD_Visualization_Types&Settings_Image1.png?raw=true)
   <b><font color = "Black"> Image 1</b>
 
- ***Editing Options for Line Chart***
+ <b><i>Editing Options for Line Chart</i></b>
  
- - **Line type :** displays the information as a series of data points called markers. Below are the list of markers used in line chart (spline acts as  default line type), 
+ - <b>Line type :</b> displays the information as a series of data points called markers. Below are the list of markers used in line chart (spline acts as  default line type), 
    - Line
    - Spline 
    - Step
@@ -40,9 +40,9 @@
    - Area-Step
    - Scatter
     
-- **Points :**  will display the data by specifying the points on the chart.
+- <b>Points :<b>  will display the data by specifying the points on the chart.
 
-- **Point style :** will specify how the data points will appear on chart. 
+- <b>Point style :<b> will specify how the data points will appear on chart. 
 Below are the following options available. 
   - Circle
   - Triangle
@@ -58,7 +58,7 @@ Below are the following options available.
 
 Horizontal Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the Column area and a measure on row.
 
- **2.** Choose Chart type **Horizontal Bar** from the drop down list to compare the data in Horizontal Bar chart.
+ <b>2.</b>  Choose Chart type <b>Horizontal Bar</b> from the drop down list to compare the data in Horizontal Bar chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1a322f67a5166b6fe77c00678ff264b7ac59252d/images/New_version5/UD_Visualization_Types&Settings_Image2.png)
@@ -424,11 +424,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA4OTMxMzQsLTEwMDM1ODU1MjgsLT
-E4MDI5MzE0MTYsNTc3ODk3OTY0LDk2NzkwMzc0NiwtNDU5MDgz
-MDg1LDU3MjI1OTIyNCwtMjE0MTgxMzQsNzM4MTczNzk4LDE0Mz
-I0ODUyNjgsMTI5MDg4NTg1MywtMTc4MTA2NjM1MiwxMjg5OTgy
-NzAwLDExNzQzMDA5NjAsOTM5MjYyOTk4LDQwMDM3OTA1MiwtND
-M3MTQzNTgsLTExNTU3NjM4MTAsMTk4MjIyNTg0MCwtMTEzMzQ3
-NTMzMl19
+eyJoaXN0b3J5IjpbLTE3Mzk5MDczNSwtMTYzMDg5MzEzNCwtMT
+AwMzU4NTUyOCwtMTgwMjkzMTQxNiw1Nzc4OTc5NjQsOTY3OTAz
+NzQ2LC00NTkwODMwODUsNTcyMjU5MjI0LC0yMTQxODEzNCw3Mz
+gxNzM3OTgsMTQzMjQ4NTI2OCwxMjkwODg1ODUzLC0xNzgxMDY2
+MzUyLDEyODk5ODI3MDAsMTE3NDMwMDk2MCw5MzkyNjI5OTgsND
+AwMzc5MDUyLC00MzcxNDM1OCwtMTE1NTc2MzgxMCwxOTgyMjI1
+ODQwXX0=
 -->
