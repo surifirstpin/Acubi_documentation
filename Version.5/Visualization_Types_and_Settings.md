@@ -411,23 +411,23 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
  - <b>Theme:</b> enables color for reference line.
  
- > Note:**  Y-Axis is enabled only for Line, Bar and Bubble chart only.
+ > <b>Note:</b>  Y-Axis is enabled only for Line, Bar and Bubble chart only.
  
 ## Format   
       
-- **Condition** Specify any of the following condition types Greater than, Less than, Between, Not Between, equal to, duplicates values, Top 10 Items, Bottom 10 Items, Above Average, Below Average for the fields.
+- <b>Condition: </b> Specify any of the following condition types Greater than, Less than, Between, Not Between, equal to, duplicates values, Top 10 Items, Bottom 10 Items, Above Average, Below Average for the fields.
 
-- **Format on** Specify a measure field on which you want to apply format.
+- <b>Format on:</b> Specify a measure field on which you want to apply format.
 
-- **Value** Specify a value to measure the condition.
+- <b>Value:</B>  Specify a value to measure the condition.
 
-- **BG (background colour)** Select the background colour for the data which is retrieved using condition.
+- <b>BG (background color):</b> Select the background color for the data which is retrieved using condition.
 
-- **Font** Select the font colour for the data retrieved based on condition.
+- <b>Font:</b> Select the font color for the data retrieved based on condition.
 
-- **Icon** Select a icon for the data retrieved based on condition.
+- <b>Icon:</b> Select a icon for the data retrieved based on condition.
 
-- **Before number** Align the icon before the data value.
+- <b>Before number:</b> Align the icon before the data value.
 
 
 **For Example :** Consider below image, which displays the format section for table chart.
@@ -436,11 +436,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDEyMjAyMSwyMTA3MTkxMDI5LDE0ND
-Q5MjE3NjcsLTE0MTE3MjEwMjUsLTEwNTg4NzIwNTksLTkwNDE1
-MTIwNCwtOTQ5OTY2OTk4LC0xNjMwODkzMTM0LC0xMDAzNTg1NT
-I4LC0xODAyOTMxNDE2LDU3Nzg5Nzk2NCw5Njc5MDM3NDYsLTQ1
-OTA4MzA4NSw1NzIyNTkyMjQsLTIxNDE4MTM0LDczODE3Mzc5OC
-wxNDMyNDg1MjY4LDEyOTA4ODU4NTMsLTE3ODEwNjYzNTIsMTI4
-OTk4MjcwMF19
+eyJoaXN0b3J5IjpbLTEyMTI0NzIyODYsMjEwNzE5MTAyOSwxND
+Q0OTIxNzY3LC0xNDExNzIxMDI1LC0xMDU4ODcyMDU5LC05MDQx
+NTEyMDQsLTk0OTk2Njk5OCwtMTYzMDg5MzEzNCwtMTAwMzU4NT
+UyOCwtMTgwMjkzMTQxNiw1Nzc4OTc5NjQsOTY3OTAzNzQ2LC00
+NTkwODMwODUsNTcyMjU5MjI0LC0yMTQxODEzNCw3MzgxNzM3OT
+gsMTQzMjQ4NTI2OCwxMjkwODg1ODUzLC0xNzgxMDY2MzUyLDEy
+ODk5ODI3MDBdfQ==
 -->
