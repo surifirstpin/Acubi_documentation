@@ -62,23 +62,25 @@ Horizontal Bar charts are used to compare data across different categories. You 
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1a322f67a5166b6fe77c00678ff264b7ac59252d/images/New_version5/UD_Visualization_Types&Settings_Image2.png)
-**Image 2**
+  <b><font color = "Black"> Image 2</b>
+
 ## Pie Chart 
 
 PIE chart are divided into slices to provide the numerical proportion of the data.
  
- **3.**  Choose Chart Type **Pie** from the drop down list.
+ <b>3.</b>  Choose Chart Type <b>Pie</b> from the drop down list.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e1868ae74d5d6d0289d45b6fa2bc71a9302ad97f/images/New_version5/UD_Visualization_Types&Settings_Image3.png)
-**Image 3**
+  <b><font color = "Black"> Image 3</b>
+  
 ### Editing Options in Pie Chart
  
-- **Show percentage :**  displays percentage for each measure value in pie chart. To enable it select the **Check Box** show percentage as shown below;
+- <b>Show percentage :</b>  displays percentage for each measure value in pie chart. To enable it select the <b>Check Box</b> show percentage as shown below;
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9efd7408868fc3755257f26138885e2ca684e1d0/images/New_version5/UD_Visualization_Types&Settings_Image4.png)
-**Image 4**
+  <b><font color = "Black"> Image 4</b>
 
 - **Polar Area :** On selecting the checkbox polar area, it enables the polar view for each dimensions in pie chart.
 
@@ -424,11 +426,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk5MDczNSwtMTYzMDg5MzEzNCwtMT
-AwMzU4NTUyOCwtMTgwMjkzMTQxNiw1Nzc4OTc5NjQsOTY3OTAz
-NzQ2LC00NTkwODMwODUsNTcyMjU5MjI0LC0yMTQxODEzNCw3Mz
-gxNzM3OTgsMTQzMjQ4NTI2OCwxMjkwODg1ODUzLC0xNzgxMDY2
-MzUyLDEyODk5ODI3MDAsMTE3NDMwMDk2MCw5MzkyNjI5OTgsND
-AwMzc5MDUyLC00MzcxNDM1OCwtMTE1NTc2MzgxMCwxOTgyMjI1
-ODQwXX0=
+eyJoaXN0b3J5IjpbLTkwOTY5OTI0LC0xNjMwODkzMTM0LC0xMD
+AzNTg1NTI4LC0xODAyOTMxNDE2LDU3Nzg5Nzk2NCw5Njc5MDM3
+NDYsLTQ1OTA4MzA4NSw1NzIyNTkyMjQsLTIxNDE4MTM0LDczOD
+E3Mzc5OCwxNDMyNDg1MjY4LDEyOTA4ODU4NTMsLTE3ODEwNjYz
+NTIsMTI4OTk4MjcwMCwxMTc0MzAwOTYwLDkzOTI2Mjk5OCw0MD
+AzNzkwNTIsLTQzNzE0MzU4LC0xMTU1NzYzODEwLDE5ODIyMjU4
+NDBdfQ==
 -->
