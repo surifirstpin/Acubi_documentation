@@ -194,17 +194,17 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 Bar charts are used to compare data across different categories. Bar chart is built by placing a dimension on a row and measure on a column area.
 
-<b>7.</b> Choose chart type **Bar** from drop down list, under general section.
+<b>7.</b> Choose chart type <b>Bar</b> from drop down list, under general section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/06087da8a8df002e219ac38e88404ea9603f4d7c/images/New_version5/UD_Visualization_Types&Settings_Image9.png)
-**Image 9**
+  <b><font color = "Black"> Image 9</b>
 
 ## Bubble chart 
 
 Bubble Chart displays the data in circles. We can define each bubble using any of our Dimension value and its size by Measure value.
  
- **8.** Choose Chart Type **Bubble** under **General** section  to compare the data in Bubble chart.
+ <b>8.</b> Choose Chart Type <b>Bubble</b> under <b>General</b> section  to compare the data in Bubble chart.
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/427b27184df7c745300ef1169318ae6427ae1e56/images/New_version5/UD_Visualization_Types&Settings_Image10.png)
 **Image 10**
@@ -426,7 +426,7 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTg3MjEzOTQsLTEwNTg4NzIwNTksLT
+eyJoaXN0b3J5IjpbLTEzMzI1MjYxODUsLTEwNTg4NzIwNTksLT
 kwNDE1MTIwNCwtOTQ5OTY2OTk4LC0xNjMwODkzMTM0LC0xMDAz
 NTg1NTI4LC0xODAyOTMxNDE2LDU3Nzg5Nzk2NCw5Njc5MDM3ND
 YsLTQ1OTA4MzA4NSw1NzIyNTkyMjQsLTIxNDE4MTM0LDczODE3
