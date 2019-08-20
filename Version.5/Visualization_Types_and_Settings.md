@@ -378,17 +378,21 @@ Gauge chart displays current status in the context of goal.
 
 ### Y-Axis
 
-- <b>Axis** select the measures values on y-axis  to enable
+- <b>Axis:</b> select the measures values on y-axis  to enable
 editing options for y-axis in Line, for Bar and bubble chart.
 
-- **Axis label** Text label for x-axis.
+- <b>Axis label:</b> Text label for x-axis.
 
-- **Format** it enables number format for numeric values.
+- <b>Format:</b> it enables number format for numeric values.
 
-- **Currency** Using this field, you can specify the formatting for currency as of now Acubi supports $,   ₹  ,   €  ,  £.
- - **Grid Colour**  Enable colour for grid.
+- **Currency:** Using this field, you can specify the formatting for currency as of now Acubi supports $,   ₹  ,   €  ,  £.
+
+ - **Grid Color:**  Enable color for grid.
+ 
  - **Font Colour** Enable colour for labels on Y-axis.
+
  - **Font Size** enable font size for labels on Y-axis.
+
 - **Y-Axis** display measure values on Y-axis. 
 
 - **Show Grid** enables the grid display for measures on y-axis.
@@ -432,11 +436,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTg1MiwxNDQ0OTIxNzY3LC0xNDExNz
-IxMDI1LC0xMDU4ODcyMDU5LC05MDQxNTEyMDQsLTk0OTk2Njk5
-OCwtMTYzMDg5MzEzNCwtMTAwMzU4NTUyOCwtMTgwMjkzMTQxNi
-w1Nzc4OTc5NjQsOTY3OTAzNzQ2LC00NTkwODMwODUsNTcyMjU5
-MjI0LC0yMTQxODEzNCw3MzgxNzM3OTgsMTQzMjQ4NTI2OCwxMj
-kwODg1ODUzLC0xNzgxMDY2MzUyLDEyODk5ODI3MDAsMTE3NDMw
-MDk2MF19
+eyJoaXN0b3J5IjpbMTc3MzIxMzM0MSwxNDQ0OTIxNzY3LC0xND
+ExNzIxMDI1LC0xMDU4ODcyMDU5LC05MDQxNTEyMDQsLTk0OTk2
+Njk5OCwtMTYzMDg5MzEzNCwtMTAwMzU4NTUyOCwtMTgwMjkzMT
+QxNiw1Nzc4OTc5NjQsOTY3OTAzNzQ2LC00NTkwODMwODUsNTcy
+MjU5MjI0LC0yMTQxODEzNCw3MzgxNzM3OTgsMTQzMjQ4NTI2OC
+wxMjkwODg1ODUzLC0xNzgxMDY2MzUyLDEyODk5ODI3MDAsMTE3
+NDMwMDk2MF19
 -->
