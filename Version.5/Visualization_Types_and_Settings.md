@@ -4,7 +4,7 @@
 
  Visualization provides an opportunity to view the data obtained in analysis report into different pictorial representation along with some standard editing options. Based on the priority, to view specific information about the data retrieved. Each type of visualization charts have different setting which can be customized for its appearance. 
  
- ***Types of visualization charts in Acubi;***
+ <b><i>Types of visualization charts in Acubi;</i></b>
  - Line
  - Horizontal Bar
  - Pie
@@ -17,17 +17,17 @@
  - Funnel
  - Gauge
 
-> **Note :** Some of the options in editing list might be hidden or grayed in situations where they would conflict with other settings you have chosen.
+> <b>Note :</b> Some of the options in editing list might be hidden or grayed in situations where they would conflict with other settings you have chosen.
 
 ## Line 
 
  Emphasize the overall shape of an entire series of values, usually over time.
  
- **1.** Choose Chart Type **Line** from the drop down list.
+ <b>1.</b> Choose Chart Type <b>Line</b> from the drop down list.
 
 ![
 ](https://github.com/sv18042016/fp1/blob/caf436cec9dfaf0afd3065d99bee59072050e1d8/images/New_version5/UD_Visualization_Types&Settings_Image1.png?raw=true)
-**Image 1**
+  <b><font color = "Black"> Image 1</b>
 
  ***Editing Options for Line Chart***
  
@@ -424,11 +424,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDM1ODU1MjgsLTE4MDI5MzE0MTYsNT
-c3ODk3OTY0LDk2NzkwMzc0NiwtNDU5MDgzMDg1LDU3MjI1OTIy
-NCwtMjE0MTgxMzQsNzM4MTczNzk4LDE0MzI0ODUyNjgsMTI5MD
-g4NTg1MywtMTc4MTA2NjM1MiwxMjg5OTgyNzAwLDExNzQzMDA5
-NjAsOTM5MjYyOTk4LDQwMDM3OTA1MiwtNDM3MTQzNTgsLTExNT
-U3NjM4MTAsMTk4MjIyNTg0MCwtMTEzMzQ3NTMzMiwxNDU5OTA4
-NDIyXX0=
+eyJoaXN0b3J5IjpbLTE2MzA4OTMxMzQsLTEwMDM1ODU1MjgsLT
+E4MDI5MzE0MTYsNTc3ODk3OTY0LDk2NzkwMzc0NiwtNDU5MDgz
+MDg1LDU3MjI1OTIyNCwtMjE0MTgxMzQsNzM4MTczNzk4LDE0Mz
+I0ODUyNjgsMTI5MDg4NTg1MywtMTc4MTA2NjM1MiwxMjg5OTgy
+NzAwLDExNzQzMDA5NjAsOTM5MjYyOTk4LDQwMDM3OTA1MiwtND
+M3MTQzNTgsLTExNTU3NjM4MTAsMTk4MjIyNTg0MCwtMTEzMzQ3
+NTMzMl19
 -->
