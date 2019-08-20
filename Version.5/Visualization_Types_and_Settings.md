@@ -361,7 +361,7 @@ Gauge chart displays current status in the context of goal.
 
 <b>Reference Lines:</b> enables the creation of reference lines in a chart.
 
- - <b>Grid Color<b>  Enable color for grid.
+ - <b>Grid Color</b>  Enable color for grid.
 
  - <b>Font Color</b> Enable color for labels on X-axis.
 
@@ -437,11 +437,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDcxMDU3MSwyMTA3MTkxMDI5LDE0ND
-Q5MjE3NjcsLTE0MTE3MjEwMjUsLTEwNTg4NzIwNTksLTkwNDE1
-MTIwNCwtOTQ5OTY2OTk4LC0xNjMwODkzMTM0LC0xMDAzNTg1NT
-I4LC0xODAyOTMxNDE2LDU3Nzg5Nzk2NCw5Njc5MDM3NDYsLTQ1
-OTA4MzA4NSw1NzIyNTkyMjQsLTIxNDE4MTM0LDczODE3Mzc5OC
-wxNDMyNDg1MjY4LDEyOTA4ODU4NTMsLTE3ODEwNjYzNTIsMTI4
-OTk4MjcwMF19
+eyJoaXN0b3J5IjpbNTkyNTIwNTA2LDEyOTQ3MTA1NzEsMjEwNz
+E5MTAyOSwxNDQ0OTIxNzY3LC0xNDExNzIxMDI1LC0xMDU4ODcy
+MDU5LC05MDQxNTEyMDQsLTk0OTk2Njk5OCwtMTYzMDg5MzEzNC
+wtMTAwMzU4NTUyOCwtMTgwMjkzMTQxNiw1Nzc4OTc5NjQsOTY3
+OTAzNzQ2LC00NTkwODMwODUsNTcyMjU5MjI0LC0yMTQxODEzNC
+w3MzgxNzM3OTgsMTQzMjQ4NTI2OCwxMjkwODg1ODUzLC0xNzgx
+MDY2MzUyXX0=
 -->
