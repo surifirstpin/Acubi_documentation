@@ -303,25 +303,25 @@ Click on Charts, to view the different type of pictorial representation for the 
 |  ------ | :------ |
 |  <b>#</b>  | Number(1234) |
 |  <b>#.0</b>  | Number with exactly one decimal(1234.0) |
-| <b> #.00  | Number with exactly two decimal(1234.00) |
-| <b> #.000 | Number with exactly three decimal(1234.000) |
-| <b> #,##0 | Number with comma between thousands(1,234) |
-| <b> #,##0.0 | Number with comma between thousands with and one decimal(1,234.0) |
-| <b> #,##0.00 | Number with comma between thousands and two decimal(1,234.00) |
-| <b> #,##0.000 | Number with comma between thousands and three decimal(1,234.000) |
-| <b> ###,###.0 | Number with comma between hundreds and one decimal(123,456.0) |
-| <b> ###,###.00 | Number with comma between hundreds and two decimal(123,456.00) |
-| <b> ###,###.000 | Number with comma between hundreds and three decimal(123,456.000) |
-| <b> ###.###,0 | Number with dot between hundreds and comma one decimal(123.456,0) |
-| <b> ###.###,00 | Number with dot between hundreds and comma two decimal(123.456,00) |
-| <b> ###.###,000 | Number with dot between hundreds and comma three decimal(123.456,0) |
-| <b> ### ###   | Number with space between hundreds(123 456) |
-| <b> #% | Percent with 0 decimals (1%). Please note multiplication by 100 happens automatically |
-| <b> #.0% | Percent with one decimals (1.0%). Please note multiplication by 100 happens automatically |
-| <b> #.00% | Percent with two decimals (1.00%). Please note multiplication by 100 happens automatically |
-| <b> #.000% | Percent with three decimals (1.000%). Please note multiplication by 100 happens automatically |
-| <b> # k | Number in thousand (1.234 k). Please note division by 1 thousand happens automatically |
-| <b> # M<b> | Number in Millions (0.001234 M).please note division by 1 million happens automatically |
+| <b> #.00</b>  | Number with exactly two decimal(1234.00) |
+| <b> #.000</b> | Number with exactly three decimal(1234.000) |
+| <b> #,##0</b> | Number with comma between thousands(1,234) |
+| <b> #,##0.0</b> | Number with comma between thousands with and one decimal(1,234.0) |
+| <b> #,##0.00</b> | Number with comma between thousands and two decimal(1,234.00) |
+| <b> #,##0.000</b> | Number with comma between thousands and three decimal(1,234.000) |
+| <b> ###,###.0</b>| Number with comma between hundreds and one decimal(123,456.0) |
+| <b> ###,###.00</b> | Number with comma between hundreds and two decimal(123,456.00) |
+| <b> ###,###.000</b> | Number with comma between hundreds and three decimal(123,456.000) |
+| <b> ###.###,0<b> | Number with dot between hundreds and comma one decimal(123.456,0) |
+| <b> ###.###,00<b> | Number with dot between hundreds and comma two decimal(123.456,00) |
+| <b> ###.###,000<b> | Number with dot between hundreds and comma three decimal(123.456,0) |
+| <b> ### ###<b>   | Number with space between hundreds(123 456) |
+| <b> #%<b> | Percent with 0 decimals (1%). Please note multiplication by 100 happens automatically |
+| <b> #.0%<b> | Percent with one decimals (1.0%). Please note multiplication by 100 happens automatically |
+| <b> #.00%<b> | Percent with two decimals (1.00%). Please note multiplication by 100 happens automatically |
+| <b> #.000%<b> | Percent with three decimals (1.000%). Please note multiplication by 100 happens automatically |
+| <b> #k<b>| Number in thousand (1.234 k). Please note division by 1 thousand happens automatically |
+| <b> #M<b> | Number in Millions (0.001234 M).please note division by 1 million happens automatically |
 | <b> *00#<b>  | Number zero padded to 3 places (001) |
 | <b> *00#.00 <b>| Number zero padded to 3 places and exactly 2 decimals |
 | <b> $#<b> | Dollar with 0 decimal |
@@ -384,7 +384,7 @@ Click <b>Save</b> to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
  <b><font color = "Black"> Image 17</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjUwOTI2NSw0NzMxMDA0MDAsLTE3Mj
+eyJoaXN0b3J5IjpbLTMwNzI1MzM2MCw0NzMxMDA0MDAsLTE3Mj
 k3MTI1MzAsLTIwMjk3MDg3MzcsNDgxMDgzOTcxLDE4Mjk0Njgz
 ODAsLTE0Nzk3MzE4ODYsNjc1Mjk3NDUxLDc2ODcyMTE5MSwxMD
 MzNjIzOTU0LC0xMTM4NTgxMzg5LC0xNzA5NDU2OTA5LC01MDEz
