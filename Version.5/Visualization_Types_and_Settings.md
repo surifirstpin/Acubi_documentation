@@ -262,23 +262,23 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 
 <b><i>Funnel charts can be viewed in following ways;</i></b>
 
- - <b>Sort** on selecting this check box, it enables data in the sorted order in funnel chart.
+ - <b>Sort:</b> on selecting this check box, it enables data in the sorted order in funnel chart.
   
- - **Curved** on selecting this check box it will display, funnel chart in curved view.
+ - <b>Curved:</b> on selecting this check box it will display, funnel chart in curved view.
  
- - **Pinched** on selecting this check box it will display, compressed view of the funnel chart.
+ - <b>Pinched:</b> on selecting this check box it will display, compressed view of the funnel chart.
   
- - **Inverted** on selecting this check box it will display, funnel chart in reversed or bottom up position.
+ - <b>Inverted:</b> on selecting this check box it will display, funnel chart in reversed or bottom up position.
  
- - **Highlight on Hover**  on selecting this check box it will highlight each section by placing a cursor on it.
+ - <b>Highlight on Hover:</b> on selecting this check box it will highlight each section by placing a cursor on it.
  
- - **Dynamic Height** on selecting this check box it will display the height depending on the numeric range of the data retrieved in funnel chart. 
+ - <b>Dynamic Height:</b> on selecting this check box it will display the height depending on the numeric range of the data retrieved in funnel chart. 
  
- - **Dynamic Slope** on selecting this checkbox it will display the potential covered based on the value range.
+ - <b>Dynamic Slope:</b> on selecting this checkbox it will display the potential covered based on the value range.
 
-**For instance:** higher value is referred with bigger slope and lower value is referred with smaller slope.
+<b>For instance:</b> higher value is referred with bigger slope and lower value is referred with smaller slope.
 
- - **Load Animation** on selecting this check box the column values in funnel chart will appear as moving image.
+ - <b>Load Animation:</b> on selecting this check box the column values in funnel chart will appear as moving image.
 
 
 ##  Gauge Chart 
@@ -427,11 +427,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTUwMTQzLC0xNDExNzIxMDI1LC0xMD
-U4ODcyMDU5LC05MDQxNTEyMDQsLTk0OTk2Njk5OCwtMTYzMDg5
-MzEzNCwtMTAwMzU4NTUyOCwtMTgwMjkzMTQxNiw1Nzc4OTc5Nj
-QsOTY3OTAzNzQ2LC00NTkwODMwODUsNTcyMjU5MjI0LC0yMTQx
-ODEzNCw3MzgxNzM3OTgsMTQzMjQ4NTI2OCwxMjkwODg1ODUzLC
-0xNzgxMDY2MzUyLDEyODk5ODI3MDAsMTE3NDMwMDk2MCw5Mzky
-NjI5OThdfQ==
+eyJoaXN0b3J5IjpbLTIyMTMwODMzMiwtMTQxMTcyMTAyNSwtMT
+A1ODg3MjA1OSwtOTA0MTUxMjA0LC05NDk5NjY5OTgsLTE2MzA4
+OTMxMzQsLTEwMDM1ODU1MjgsLTE4MDI5MzE0MTYsNTc3ODk3OT
+Y0LDk2NzkwMzc0NiwtNDU5MDgzMDg1LDU3MjI1OTIyNCwtMjE0
+MTgxMzQsNzM4MTczNzk4LDE0MzI0ODUyNjgsMTI5MDg4NTg1My
+wtMTc4MTA2NjM1MiwxMjg5OTgyNzAwLDExNzQzMDA5NjAsOTM5
+MjYyOTk4XX0=
 -->
