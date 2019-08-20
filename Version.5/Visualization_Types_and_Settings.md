@@ -218,7 +218,7 @@ Table chart displays the data in series making it more feasible for comparing di
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/7e9db7322511f370a3f088a614821da70ec05e0f/images/New_version5/UD_Visualization_Types&Settings_Image11.png)
-**Image 11**
+<b><font color = "Black"> Image 11</b>
 
 ### Hide Pivot (Calculated Column)
 
@@ -233,13 +233,13 @@ pivot_offset(#{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ```
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/488ee6156d0f40eb8566b427b08347106977e416/images/New_version5/UD_Visualization_Types&Settings_Image12.png)
-**Image 12**
+<b><font color = "Black"> Image 12</b>
 
 The resultant for this expression would be seen in green color;
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/4bd9045b7b3b1dceac68eb20c87579d484fd0c4e/images/New_version5/UD_Visualization_Types&Settings_Image13.png)
-**Image 13**
+<b><font color = "Black"> Image 13</b>
 
 In the above image you can see, for pivot_hide 1st column is seen empty, to hide this select checkbox <b>pivot hide first</b> in data Section of visualization. Similarly to hide the last column, select checkbox for <b>Hide_Last</b> in data section of table chart.
 
@@ -247,7 +247,8 @@ In the above image you can see, for pivot_hide 1st column is seen empty, to hide
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e749e7c96af56390cc3fb80fd0d1a7d17fd0bf2c/images/New_version5/UD_Visualization_Types&Settings_Image14.png)
-**Image 14**
+<b><font color = "Black"> Image 14</b>
+
 ## Funnel chart 
 
 Funnels helps to visualize a process that has stages and items flow sequentially from stage one to next. Use a funnel when there is a sequential flow between stages, For Instance a sales process, that starts with inquiry and ends with billing.
@@ -258,7 +259,7 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/84af193f1ebf383092d92fc256ec7041495cca5a/images/New_version5/UD_Visualization_Types&Settings_Image15.png)
-**Image 15**
+<b><font color = "Black"> Image 15</b>
 
 <b><i>Funnel charts can be viewed in following ways;</i></b>
 
@@ -292,14 +293,14 @@ Gauge chart displays current status in the context of goal.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/63e6ce82315ae4e72a287d4437b7d7a4bcea940b/images/New_version5/UD_Visualization_Types&Settings_Image16.png)
-**Image 16**
+<b><font color = "Black"> Image 16</b>
 
 - <b>Orange:</b>indicates, maximum value attained is half the way to target.
 -  <b>Red:</b> indicates, maximum value attained is at initial state or lower side to the target.  
 
 ![
 ](https://github.com/sv18042016/fp1/blob/3ff08da67be44bb345a23a3e47e19f4ab62a4553/images/New_version5/UD_Visualization_Types&Settings_Image17.png?raw=true)
-**Image 17**
+<b><font color = "Black"> Image 17</b>
 
 - <b>Value:</b> select one of the available measure values from the drop down.
 
@@ -430,17 +431,17 @@ editing options for y-axis in Line, for Bar and bubble chart.
 - <b>Before number:</b> Align the icon before the data value.
 
 
-**For Example :** Consider below image, which displays the format section for table chart.
+<b>For Example :</b> Consider below image, which displays the format section for table chart.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
-**Image 18**
+<b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI0NzIyODYsMjEwNzE5MTAyOSwxND
-Q0OTIxNzY3LC0xNDExNzIxMDI1LC0xMDU4ODcyMDU5LC05MDQx
-NTEyMDQsLTk0OTk2Njk5OCwtMTYzMDg5MzEzNCwtMTAwMzU4NT
-UyOCwtMTgwMjkzMTQxNiw1Nzc4OTc5NjQsOTY3OTAzNzQ2LC00
-NTkwODMwODUsNTcyMjU5MjI0LC0yMTQxODEzNCw3MzgxNzM3OT
-gsMTQzMjQ4NTI2OCwxMjkwODg1ODUzLC0xNzgxMDY2MzUyLDEy
-ODk5ODI3MDBdfQ==
+eyJoaXN0b3J5IjpbLTMzOTI4NTcyNSwyMTA3MTkxMDI5LDE0ND
+Q5MjE3NjcsLTE0MTE3MjEwMjUsLTEwNTg4NzIwNTksLTkwNDE1
+MTIwNCwtOTQ5OTY2OTk4LC0xNjMwODkzMTM0LC0xMDAzNTg1NT
+I4LC0xODAyOTMxNDE2LDU3Nzg5Nzk2NCw5Njc5MDM3NDYsLTQ1
+OTA4MzA4NSw1NzIyNTkyMjQsLTIxNDE4MTM0LDczODE3Mzc5OC
+wxNDMyNDg1MjY4LDEyOTA4ODU4NTMsLTE3ODEwNjYzNTIsMTI4
+OTk4MjcwMF19
 -->
