@@ -137,7 +137,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 <b>8.</b> Similarly, we can apply <b>Hidden Filters</b> to the report data, by clicking on Filter Icon available in field list of a report. The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are hidden in data section.
 
-<b>9.</b> To <b>Delete</b> the filter applied Click <b>Cross Icon.</B> ( Refer image 4) 
+<b>9.</b> To <b>Delete</b> the filter applied Click <b>Cross Icon.</b> ( Refer image 4) 
 
 
 ## Sorting Order (Ascending / Descending)
@@ -383,11 +383,11 @@ Click <b>Save</b> to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
  <b><font color = "Black"> Image 17</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxMDgzOTcxLDE4Mjk0NjgzODAsLTE0Nz
-k3MzE4ODYsNjc1Mjk3NDUxLDc2ODcyMTE5MSwxMDMzNjIzOTU0
-LC0xMTM4NTgxMzg5LC0xNzA5NDU2OTA5LC01MDEzOTM3MzcsLT
-UwMzQ5MDY1MCwtNjk2MTM0Mzc1LDUzODc5MzAwLDExMjE2NTgy
-NzAsLTUzMTExMTQ1OCwtMjAyNTE3MDM3MCwtMTAzMzEwODgwMC
-w5MDYxNzk4MiwtMTk5OTcwMDM4MiwtMTA1NDQ4OTg0LDE0MzI4
-OTUxMjVdfQ==
+eyJoaXN0b3J5IjpbMTYxMDQ2NTg5MSw0ODEwODM5NzEsMTgyOT
+Q2ODM4MCwtMTQ3OTczMTg4Niw2NzUyOTc0NTEsNzY4NzIxMTkx
+LDEwMzM2MjM5NTQsLTExMzg1ODEzODksLTE3MDk0NTY5MDksLT
+UwMTM5MzczNywtNTAzNDkwNjUwLC02OTYxMzQzNzUsNTM4Nzkz
+MDAsMTEyMTY1ODI3MCwtNTMxMTExNDU4LC0yMDI1MTcwMzcwLC
+0xMDMzMTA4ODAwLDkwNjE3OTgyLC0xOTk5NzAwMzgyLC0xMDU0
+NDg5ODRdfQ==
 -->
