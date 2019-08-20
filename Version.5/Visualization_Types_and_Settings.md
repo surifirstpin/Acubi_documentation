@@ -118,7 +118,7 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
   
 - <b>Reverse Scale</b> on selecting the checkbox, it display the reversal side of data displayed in radar chart i.e. if the 10 highest values are shown in radar chart ,on selecting the checkbox, then it will display 10 lowest values.
 
-- **Show Tick Labels :** on selecting this checkbox, it enables measure values on y-axis.
+- Show Tick Labels :** on selecting this checkbox, it enables measure values on y-axis.
 
 - **Show Arc Lines :** on selecting this checkbox, it points the dimension fields in radar chart.
 
@@ -426,11 +426,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTk2Njk5OCwtMTYzMDg5MzEzNCwtMT
-AwMzU4NTUyOCwtMTgwMjkzMTQxNiw1Nzc4OTc5NjQsOTY3OTAz
-NzQ2LC00NTkwODMwODUsNTcyMjU5MjI0LC0yMTQxODEzNCw3Mz
-gxNzM3OTgsMTQzMjQ4NTI2OCwxMjkwODg1ODUzLC0xNzgxMDY2
-MzUyLDEyODk5ODI3MDAsMTE3NDMwMDk2MCw5MzkyNjI5OTgsND
-AwMzc5MDUyLC00MzcxNDM1OCwtMTE1NTc2MzgxMCwxOTgyMjI1
-ODQwXX0=
+eyJoaXN0b3J5IjpbODUwMTczNjc0LC05NDk5NjY5OTgsLTE2Mz
+A4OTMxMzQsLTEwMDM1ODU1MjgsLTE4MDI5MzE0MTYsNTc3ODk3
+OTY0LDk2NzkwMzc0NiwtNDU5MDgzMDg1LDU3MjI1OTIyNCwtMj
+E0MTgxMzQsNzM4MTczNzk4LDE0MzI0ODUyNjgsMTI5MDg4NTg1
+MywtMTc4MTA2NjM1MiwxMjg5OTgyNzAwLDExNzQzMDA5NjAsOT
+M5MjYyOTk4LDQwMDM3OTA1MiwtNDM3MTQzNTgsLTExNTU3NjM4
+MTBdfQ==
 -->
