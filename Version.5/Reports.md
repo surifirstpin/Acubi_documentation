@@ -148,9 +148,9 @@ Report filters will narrow the reports results while allowing you to view the sp
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ee732d48c976b66c2738b922a177c466513a35f4/images/New_version5/UD_Reports_Image4.png)
- <b><font color = "Black"> Image 4</b>
+ <b><font color = "Black"> Image 5</b>
 
-**11.** To hide the **Filter** or **Order** sections, click on angle-double-up icon on to far right of the order section. To un-hide the same click on angle-double-down icon.
+<b>11.</b> To hide the <b>Filter</b> or <b>Order</b> sections, click on angle-double-up icon on to far right of the order section. To un-hide the same click on angle-double-down icon.
 
 ## Local Sorting
 
@@ -382,11 +382,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDY3NjUyMSwxMDMzNjIzOTU0LC0xMT
-M4NTgxMzg5LC0xNzA5NDU2OTA5LC01MDEzOTM3MzcsLTUwMzQ5
-MDY1MCwtNjk2MTM0Mzc1LDUzODc5MzAwLDExMjE2NTgyNzAsLT
-UzMTExMTQ1OCwtMjAyNTE3MDM3MCwtMTAzMzEwODgwMCw5MDYx
-Nzk4MiwtMTk5OTcwMDM4MiwtMTA1NDQ4OTg0LDE0MzI4OTUxMj
-UsNDgyNDc4Njg2LC0zNDY4Nzc1NjgsODk4NjgzMzE5LC0yNDIx
-NTkzNjJdfQ==
+eyJoaXN0b3J5IjpbNzY4NzIxMTkxLDEwMzM2MjM5NTQsLTExMz
+g1ODEzODksLTE3MDk0NTY5MDksLTUwMTM5MzczNywtNTAzNDkw
+NjUwLC02OTYxMzQzNzUsNTM4NzkzMDAsMTEyMTY1ODI3MCwtNT
+MxMTExNDU4LC0yMDI1MTcwMzcwLC0xMDMzMTA4ODAwLDkwNjE3
+OTgyLC0xOTk5NzAwMzgyLC0xMDU0NDg5ODQsMTQzMjg5NTEyNS
+w0ODI0Nzg2ODYsLTM0Njg3NzU2OCw4OTg2ODMzMTksLTI0MjE1
+OTM2Ml19
 -->
