@@ -44,9 +44,7 @@ the query is built in SQL Section based on the selection made and the joins deri
 
 To view the SQL query built click on <b>SQL</b> section.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/\master/images/New_version5/UD_Reports_Image13.png)
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Reports_Image13.png)
 <b><font color = "Black"> Image 3</b>
 
 ## Data Extract
@@ -72,11 +70,11 @@ Report filters will narrow the reports results while allowing you to view the sp
  
  <b><font color = "Black"> Image 4</b>
  
-***The following are the various types of filter expressions used.***
+<b><i>The following are the various types of filter expressions used.</i></b>
 
 | Type | Description |
 |--|--|
-| **String** | For fields that contain letters or special characters |
+| <b>String</| For fields that contain letters or special characters |
 |**Numbers**|For fields that contain numeric
 |
 |**Date**|For fields that contain dates|
@@ -385,7 +383,7 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjM3Nzg4MCwtMTEzODU4MTM4OSwtMT
+eyJoaXN0b3J5IjpbLTM1OTM1NzY0NiwtMTEzODU4MTM4OSwtMT
 cwOTQ1NjkwOSwtNTAxMzkzNzM3LC01MDM0OTA2NTAsLTY5NjEz
 NDM3NSw1Mzg3OTMwMCwxMTIxNjU4MjcwLC01MzExMTE0NTgsLT
 IwMjUxNzAzNzAsLTEwMzMxMDg4MDAsOTA2MTc5ODIsLTE5OTk3
