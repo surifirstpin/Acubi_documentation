@@ -140,19 +140,19 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - <b>Format:</b> select the number format for the measure field.
 
-- <b>Previous Value< select the alternative measure field, to calculate the difference of growth in widget.
+- <b>Previous Value:</b> select the alternative measure field, to calculate the difference of growth in widget.
 
-- **Change** specify the conditions for selected measures such as difference, growth, none.
+- <b>Change:</b> specify the conditions for selected measures such as difference, growth, none.
 
-- **Show Growth** displays the growth rate of selected measures.
+- <b>Show Growth:</b> displays the growth rate of selected measures.
 
-- **Title** specify widget title.
+- <b>Title:</b> specify widget title.
 
-- **Label** specify the widget label.
+- <b>Label:</b> specify the widget label.
 
-- **Style** specify a status indicator for measure value such as default, primary, success, warning, info, danger.
+- <b>Style:</b> specify a status indicator for measure value such as default, primary, success, warning, info, danger.
 
-- **Theme** Data alignment in widget chart. Select using drop down list.
+- <b>Theme:</b> Data alignment in widget chart. Select using drop down list.
 
 - **Widget Icon** Choose a icon to symbolize widget value. 
 
@@ -426,7 +426,7 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTI0NjUyMywtOTQ5OTY2OTk4LC0xNj
+eyJoaXN0b3J5IjpbLTkwNDE1MTIwNCwtOTQ5OTY2OTk4LC0xNj
 MwODkzMTM0LC0xMDAzNTg1NTI4LC0xODAyOTMxNDE2LDU3Nzg5
 Nzk2NCw5Njc5MDM3NDYsLTQ1OTA4MzA4NSw1NzIyNTkyMjQsLT
 IxNDE4MTM0LDczODE3Mzc5OCwxNDMyNDg1MjY4LDEyOTA4ODU4
