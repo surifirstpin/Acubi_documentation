@@ -40,9 +40,9 @@
    - Area-Step
    - Scatter
     
-- <b>Points :<b>  will display the data by specifying the points on the chart.
+- <b>Points :</b>  will display the data by specifying the points on the chart.
 
-- <b>Point style :<b> will specify how the data points will appear on chart. 
+- <b>Point style :</b> will specify how the data points will appear on chart. 
 Below are the following options available. 
   - Circle
   - Triangle
@@ -437,7 +437,7 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTI4NTcyNSwyMTA3MTkxMDI5LDE0ND
+eyJoaXN0b3J5IjpbMTI5NDcxMDU3MSwyMTA3MTkxMDI5LDE0ND
 Q5MjE3NjcsLTE0MTE3MjEwMjUsLTEwNTg4NzIwNTksLTkwNDE1
 MTIwNCwtOTQ5OTY2OTk4LC0xNjMwODkzMTM0LC0xMDAzNTg1NT
 I4LC0xODAyOTMxNDE2LDU3Nzg5Nzk2NCw5Njc5MDM3NDYsLTQ1
