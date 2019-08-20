@@ -286,9 +286,9 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 Gauge chart displays current status in the context of goal.
 
  
- **10.** Choose chart type **Gauge** from drop down list under **General** section  to compare the data in Gauge chart.
+ <b>10.</b> Choose chart type <b>Gauge</b> from drop down list under <b>General</b> section  to compare the data in Gauge chart.
 
-- **Green** colour in gauge chart indicates the value attained is closer to target.
+- <b>Green</b> color in gauge chart indicates the value attained is closer to target.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/63e6ce82315ae4e72a287d4437b7d7a4bcea940b/images/New_version5/UD_Visualization_Types&Settings_Image16.png)
@@ -427,11 +427,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTMwODMzMiwtMTQxMTcyMTAyNSwtMT
-A1ODg3MjA1OSwtOTA0MTUxMjA0LC05NDk5NjY5OTgsLTE2MzA4
-OTMxMzQsLTEwMDM1ODU1MjgsLTE4MDI5MzE0MTYsNTc3ODk3OT
-Y0LDk2NzkwMzc0NiwtNDU5MDgzMDg1LDU3MjI1OTIyNCwtMjE0
-MTgxMzQsNzM4MTczNzk4LDE0MzI0ODUyNjgsMTI5MDg4NTg1My
-wtMTc4MTA2NjM1MiwxMjg5OTgyNzAwLDExNzQzMDA5NjAsOTM5
-MjYyOTk4XX0=
+eyJoaXN0b3J5IjpbNzI4NDA4ODQ1LC0xNDExNzIxMDI1LC0xMD
+U4ODcyMDU5LC05MDQxNTEyMDQsLTk0OTk2Njk5OCwtMTYzMDg5
+MzEzNCwtMTAwMzU4NTUyOCwtMTgwMjkzMTQxNiw1Nzc4OTc5Nj
+QsOTY3OTAzNzQ2LC00NTkwODMwODUsNTcyMjU5MjI0LC0yMTQx
+ODEzNCw3MzgxNzM3OTgsMTQzMjQ4NTI2OCwxMjkwODg1ODUzLC
+0xNzgxMDY2MzUyLDEyODk5ODI3MDAsMTE3NDMwMDk2MCw5Mzky
+NjI5OThdfQ==
 -->
