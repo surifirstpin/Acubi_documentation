@@ -83,7 +83,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 <b><i>Following are the different types of filters characteristics applicable :</i></b>
 
 ## String 
-|			<b>Example</b>            |						<b>Description</b>                |                                                                                 
+|			Example            |						Description                |                                                                                 
 |------------------------------|-----------------------------------------------------------|
 |<b>is not null</b>                 | should not be equal to null                               |
 |<b>is null</b>                     | equal to null                                             |
@@ -383,11 +383,11 @@ Click <b>Save</b> to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
  <b><font color = "Black"> Image 17</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDQ2NTg5MSw0ODEwODM5NzEsMTgyOT
-Q2ODM4MCwtMTQ3OTczMTg4Niw2NzUyOTc0NTEsNzY4NzIxMTkx
-LDEwMzM2MjM5NTQsLTExMzg1ODEzODksLTE3MDk0NTY5MDksLT
-UwMTM5MzczNywtNTAzNDkwNjUwLC02OTYxMzQzNzUsNTM4Nzkz
-MDAsMTEyMTY1ODI3MCwtNTMxMTExNDU4LC0yMDI1MTcwMzcwLC
-0xMDMzMTA4ODAwLDkwNjE3OTgyLC0xOTk5NzAwMzgyLC0xMDU0
-NDg5ODRdfQ==
+eyJoaXN0b3J5IjpbLTIwMjk3MDg3MzcsNDgxMDgzOTcxLDE4Mj
+k0NjgzODAsLTE0Nzk3MzE4ODYsNjc1Mjk3NDUxLDc2ODcyMTE5
+MSwxMDMzNjIzOTU0LC0xMTM4NTgxMzg5LC0xNzA5NDU2OTA5LC
+01MDEzOTM3MzcsLTUwMzQ5MDY1MCwtNjk2MTM0Mzc1LDUzODc5
+MzAwLDExMjE2NTgyNzAsLTUzMTExMTQ1OCwtMjAyNTE3MDM3MC
+wtMTAzMzEwODgwMCw5MDYxNzk4MiwtMTk5OTcwMDM4MiwtMTA1
+NDQ4OTg0XX0=
 -->
