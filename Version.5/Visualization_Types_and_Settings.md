@@ -385,21 +385,21 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 - <b>Format:</b> it enables number format for numeric values.
 
-- **Currency:** Using this field, you can specify the formatting for currency as of now Acubi supports $,   ₹  ,   €  ,  £.
+- <b>Currency:</b> Using this field, you can specify the formatting for currency as of now Acubi supports $,   ₹  ,   €  ,  £.
 
- - **Grid Color:**  Enable color for grid.
+ - <b>Grid Color:</b>  Enable color for grid.
  
- - **Font Colour** Enable colour for labels on Y-axis.
+ - <b>Font Color:</b> Enable color for labels on Y-axis.
 
- - **Font Size** enable font size for labels on Y-axis.
+ - <b>Font Size:</b> enable font size for labels on Y-axis.
 
-- **Y-Axis** display measure values on Y-axis. 
+- <b>Y-Axis:</b> display measure values on Y-axis. 
 
-- **Show Grid** enables the grid display for measures on y-axis.
+- <b>Show Grid:</b> enables the grid display for measures on y-axis.
 
-- **Include Zero** displays measure values starting from zero.
+- <b>Include Zero:</b> displays measure values starting from zero.
 
-- **Position** you can align the y-axis to left or right side of the chart.
+- <b>Position: </b>you can align the y-axis to left or right side of the chart.
 
 **Reference Lines** enables the creation of reference lines in a chart.
 
@@ -436,7 +436,7 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzIxMzM0MSwxNDQ0OTIxNzY3LC0xND
+eyJoaXN0b3J5IjpbMjEwNzE5MTAyOSwxNDQ0OTIxNzY3LC0xND
 ExNzIxMDI1LC0xMDU4ODcyMDU5LC05MDQxNTEyMDQsLTk0OTk2
 Njk5OCwtMTYzMDg5MzEzNCwtMTAwMzU4NTUyOCwtMTgwMjkzMT
 QxNiw1Nzc4OTc5NjQsOTY3OTAzNzQ2LC00NTkwODMwODUsNTcy
