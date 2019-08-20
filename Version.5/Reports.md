@@ -343,24 +343,24 @@ Click on Charts, to view the different type of pictorial representation for the 
   
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/4d53ac9064e170dbaa096a06ba3517219d691b1c/images/New_version5/UD_Reports_Image14.png)
-**Image 15**
+ <b><font color = "Black"> Image 15</b>
 
--   **Report Name**  Name identifier for a report. ( AcuBi allows special character but does not support any spaces )
+-   <b>Report Name</b>  Name identifier for a report. ( AcuBi allows special character but does not support any spaces )
     
--   **Title**  label for the report the way you want it to appear.
+-   <b>Title</b>  label for the report the way you want it to appear.
     
--   **Info**  displays any specific information about the report.
+-   <b>Info</b>  displays any specific information about the report.
     
--   **Privacy**  you can save the report in any one of the following privacy option.
+-   <b>Privacy</b>  you can save the report in any one of the following privacy option.
    
-    -   **Private ()**  report saved in private section and accessed by the user itself.
-    -   **Public ()**  the report is saved in public section and accessed by all the users.
-    -   **Share ()**  the report saved under share section and accessed by specific set of users.
+    -   <b>Private ()</b>  report saved in private section and accessed by the user itself.
+    -   <b>Public ()</b>  the report is saved in public section and accessed by all the users.
+    -   <b>Share ()</b>  the report saved under share section and accessed by specific set of users.
     
 ## Saving under specific tag
 
 
-All the Reports generated can be saved under any **Parent or Child Tag** available under **Workspace.**
+All the Reports generated can be saved under any <b>Parent or Child Tag</b> available under <b>Workspace.</b>
 
 
 ## Defining Filter fields
@@ -383,11 +383,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTQ2NzQyMiw2NzUyOTc0NTEsNzY4Nz
-IxMTkxLDEwMzM2MjM5NTQsLTExMzg1ODEzODksLTE3MDk0NTY5
-MDksLTUwMTM5MzczNywtNTAzNDkwNjUwLC02OTYxMzQzNzUsNT
-M4NzkzMDAsMTEyMTY1ODI3MCwtNTMxMTExNDU4LC0yMDI1MTcw
-MzcwLC0xMDMzMTA4ODAwLDkwNjE3OTgyLC0xOTk5NzAwMzgyLC
-0xMDU0NDg5ODQsMTQzMjg5NTEyNSw0ODI0Nzg2ODYsLTM0Njg3
-NzU2OF19
+eyJoaXN0b3J5IjpbLTE0Nzk3MzE4ODYsNjc1Mjk3NDUxLDc2OD
+cyMTE5MSwxMDMzNjIzOTU0LC0xMTM4NTgxMzg5LC0xNzA5NDU2
+OTA5LC01MDEzOTM3MzcsLTUwMzQ5MDY1MCwtNjk2MTM0Mzc1LD
+UzODc5MzAwLDExMjE2NTgyNzAsLTUzMTExMTQ1OCwtMjAyNTE3
+MDM3MCwtMTAzMzEwODgwMCw5MDYxNzk4MiwtMTk5OTcwMDM4Mi
+wtMTA1NDQ4OTg0LDE0MzI4OTUxMjUsNDgyNDc4Njg2LC0zNDY4
+Nzc1NjhdfQ==
 -->
