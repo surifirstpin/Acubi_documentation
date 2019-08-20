@@ -305,15 +305,15 @@ Gauge chart displays current status in the context of goal.
 
 - <b>Minimum:</b> specifies the minimum value of the gauge this corresponds to bottom position of the gauge.
 
-- <b>Maximum:</b>**  specifies the maximum value of the gauge this corresponds to top position of the gauge.
+- <b>Maximum:</b>  specifies the maximum value of the gauge this corresponds to top position of the gauge.
 
-- **Title** specify a title.
+- <b>Title:</b> specify a title.
 
-- **Label** specify a identifier name to display in the chart.
+- <b>Label:</b> specify a identifier name to display in the chart.
 
-- **Donut** displays total measure value.
+- <b>Donut:</b> displays total measure value.
 
-- **Counter** displays minimum and maximum values of the measure.
+- <b>Counter:</b> displays minimum and maximum values of the measure.
 
 - **Reverse** displays the measure values in reversal direction maximum to minimum.
 
@@ -427,11 +427,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTY5MjkxNzksLTE0MTE3MjEwMjUsLT
-EwNTg4NzIwNTksLTkwNDE1MTIwNCwtOTQ5OTY2OTk4LC0xNjMw
-ODkzMTM0LC0xMDAzNTg1NTI4LC0xODAyOTMxNDE2LDU3Nzg5Nz
-k2NCw5Njc5MDM3NDYsLTQ1OTA4MzA4NSw1NzIyNTkyMjQsLTIx
-NDE4MTM0LDczODE3Mzc5OCwxNDMyNDg1MjY4LDEyOTA4ODU4NT
-MsLTE3ODEwNjYzNTIsMTI4OTk4MjcwMCwxMTc0MzAwOTYwLDkz
-OTI2Mjk5OF19
+eyJoaXN0b3J5IjpbMTQ0NDkyMTc2NywtMTQxMTcyMTAyNSwtMT
+A1ODg3MjA1OSwtOTA0MTUxMjA0LC05NDk5NjY5OTgsLTE2MzA4
+OTMxMzQsLTEwMDM1ODU1MjgsLTE4MDI5MzE0MTYsNTc3ODk3OT
+Y0LDk2NzkwMzc0NiwtNDU5MDgzMDg1LDU3MjI1OTIyNCwtMjE0
+MTgxMzQsNzM4MTczNzk4LDE0MzI0ODUyNjgsMTI5MDg4NTg1My
+wtMTc4MTA2NjM1MiwxMjg5OTgyNzAwLDExNzQzMDA5NjAsOTM5
+MjYyOTk4XX0=
 -->
