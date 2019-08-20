@@ -217,15 +217,15 @@ By selecting group option for a field you can display the consolidated value of 
 
 To carry out Multi-level grouping on the data extracted. Select group option for two dimension fields in drop down list. 
 
- <b>For Instance** : To get it clear on multi grouping, Add one more dimension fields **Payment_mode** to the report. Select group option for **Stationcode** and **Order_attendant_ID.** Now on expanding Stationcode_2, it displays corresponding **Order_attendant_ID** on further expanding, it displays the **payment mode** for the records as shown in the image below.
+ <b>For Instance</b> : To get it clear on multi grouping, Add one more dimension fields <b>Payment_mode</b> to the report. Select group option for <b>Stationcode</b> and <b>Order_attendant_ID.</b> Now on expanding Stationcode_2, it displays corresponding <b>Order_attendant_ID</b> on further expanding, it displays the <b>payment mode</b> for the records as shown in the image below.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/8be46795cac2baf245b3ec91e0e17a3cbcae034e/images/New_version5/UD_Reports_Image8.png)
-**Image 9**
+ <b><font color = "Black"> Image 9</b>
 
-**18.**  To find the specific field value, from the data extracted select **Find** from the field drop down.
+<b>18.</b>  To find the specific field value, from the data extracted select <b>Find</b> from the field drop down.
 
-**19.**  To hide the specific field in the visualization charts select **Hide Visualization** in the drop down list  and to display the same select **Show visualization.** (Refer Image 8)
+<b>19.</b>  To hide t<b>he specific field in the visualization charts select <b>Hide Visualization in the drop down list  and to display the same select **Show visualization.** (Refer Image 8)
 
 **20.**  To remove a specific field column from the extracted list, select **Remove** from drop down list.
 
@@ -382,11 +382,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjA5MzMwLDc2ODcyMTE5MSwxMDMzNj
-IzOTU0LC0xMTM4NTgxMzg5LC0xNzA5NDU2OTA5LC01MDEzOTM3
-MzcsLTUwMzQ5MDY1MCwtNjk2MTM0Mzc1LDUzODc5MzAwLDExMj
-E2NTgyNzAsLTUzMTExMTQ1OCwtMjAyNTE3MDM3MCwtMTAzMzEw
-ODgwMCw5MDYxNzk4MiwtMTk5OTcwMDM4MiwtMTA1NDQ4OTg0LD
-E0MzI4OTUxMjUsNDgyNDc4Njg2LC0zNDY4Nzc1NjgsODk4Njgz
-MzE5XX0=
+eyJoaXN0b3J5IjpbLTEwOTMxODA1ODYsNzY4NzIxMTkxLDEwMz
+M2MjM5NTQsLTExMzg1ODEzODksLTE3MDk0NTY5MDksLTUwMTM5
+MzczNywtNTAzNDkwNjUwLC02OTYxMzQzNzUsNTM4NzkzMDAsMT
+EyMTY1ODI3MCwtNTMxMTExNDU4LC0yMDI1MTcwMzcwLC0xMDMz
+MTA4ODAwLDkwNjE3OTgyLC0xOTk5NzAwMzgyLC0xMDU0NDg5OD
+QsMTQzMjg5NTEyNSw0ODI0Nzg2ODYsLTM0Njg3NzU2OCw4OTg2
+ODMzMTldfQ==
 -->
