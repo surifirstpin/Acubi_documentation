@@ -183,11 +183,11 @@ Multiple dimensions in a report data are often easier to look at, when you pivot
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/853361b4c4a583c5fb273a41c7e497f2dc1564e1/images/New_version5/UD_Reports_Image5.png)
-**Image 6:**
+<b>Image 6:</b>
 
 > **Note :** in case if you are using multiple pivot, make sure you have at least one un-pivoted dimension and a measure value.
 
-**Pivot Example** : if you want to view quantity sum based on station code then apply pivot for station code (Dimension) as shown in below image.
+<b>Pivot Example** : if you want to view quantity sum based on station code then apply pivot for station code (Dimension) as shown in below image.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f28d480f0255107fbc0b02a9636003fa49ef7d0d/images/New_version5/UD_Reports_Image6.png)
@@ -382,7 +382,7 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTQwMzQwOSw3Njg3MjExOTEsMTAzMz
+eyJoaXN0b3J5IjpbMTQ2MjUxNjA0OCw3Njg3MjExOTEsMTAzMz
 YyMzk1NCwtMTEzODU4MTM4OSwtMTcwOTQ1NjkwOSwtNTAxMzkz
 NzM3LC01MDM0OTA2NTAsLTY5NjEzNDM3NSw1Mzg3OTMwMCwxMT
 IxNjU4MjcwLC01MzExMTE0NTgsLTIwMjUxNzAzNzAsLTEwMzMx
