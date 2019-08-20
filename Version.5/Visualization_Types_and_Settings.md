@@ -82,30 +82,30 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
 ](https://raw.githubusercontent.com/sv18042016/fp1/9efd7408868fc3755257f26138885e2ca684e1d0/images/New_version5/UD_Visualization_Types&Settings_Image4.png)
   <b><font color = "Black"> Image 4</b>
 
-- **Polar Area :** On selecting the checkbox polar area, it enables the polar view for each dimensions in pie chart.
+- <b>Polar Area :</b> On selecting the checkbox polar area, it enables the polar view for each dimensions in pie chart.
 
--  **Donut :** chart are equal to pie chart. They show relationships of parts to a whole. 
+-  <b>Donut :</b> chart are equal to pie chart. They show relationships of parts to a whole. 
 - Select checkbox to enable Donut view.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3ba1953c960af32db0af345fbb40776d222ee54e/images/New_version5/UD_Visualization_Types&Settings_Image5.png)
-**Image 5**
+  <b><font color = "Black"> Image 5</b>
 
 ## Radar chart 
 
  Radar charts are a great way to compare members of a dimension in a function of several metrics.  
  
-**Example:** when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
+<b>Example:</b> when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
 
- **4.** Choose chart type **Radar** from drop down list.
+ <b>4.</b> Choose chart type <b>Radar</b> from drop down list.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/751eed2fc28d82c24e883a2d567d5f389919b172/images/New_version5/UD_Visualization_Types&Settings_Image6.png)
-**Image 6**
+  <b><font color = "Black"> Image 6</b>
 
-- **Points :** on selecting the checkbox it enables pointers for the data range in line chart.
+- <b>Points :</b> on selecting the checkbox it enables pointers for the data range in line chart.
 
-- **Point style :** will specify how the data points will appear on chart. below are the following options are available. 
+- <b>Point style :</b> will specify how the data points will appear on chart. below are the following options are available. 
   - Circle
   - Triangle
   - Rectangle
@@ -116,7 +116,7 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
   - Line
   - Dash
   
-- **Reverse Scale** on selecting the checkbox, it display the reversal side of data displayed in radar chart i.e. if the 10 highest values are shown in radar chart ,on selecting the checkbox, then it will display 10 lowest values.
+- <b>Reverse Scale</b> on selecting the checkbox, it display the reversal side of data displayed in radar chart i.e. if the 10 highest values are shown in radar chart ,on selecting the checkbox, then it will display 10 lowest values.
 
 - **Show Tick Labels :** on selecting this checkbox, it enables measure values on y-axis.
 
@@ -426,11 +426,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTY5OTI0LC0xNjMwODkzMTM0LC0xMD
-AzNTg1NTI4LC0xODAyOTMxNDE2LDU3Nzg5Nzk2NCw5Njc5MDM3
-NDYsLTQ1OTA4MzA4NSw1NzIyNTkyMjQsLTIxNDE4MTM0LDczOD
-E3Mzc5OCwxNDMyNDg1MjY4LDEyOTA4ODU4NTMsLTE3ODEwNjYz
-NTIsMTI4OTk4MjcwMCwxMTc0MzAwOTYwLDkzOTI2Mjk5OCw0MD
-AzNzkwNTIsLTQzNzE0MzU4LC0xMTU1NzYzODEwLDE5ODIyMjU4
-NDBdfQ==
+eyJoaXN0b3J5IjpbLTk0OTk2Njk5OCwtMTYzMDg5MzEzNCwtMT
+AwMzU4NTUyOCwtMTgwMjkzMTQxNiw1Nzc4OTc5NjQsOTY3OTAz
+NzQ2LC00NTkwODMwODUsNTcyMjU5MjI0LC0yMTQxODEzNCw3Mz
+gxNzM3OTgsMTQzMjQ4NTI2OCwxMjkwODg1ODUzLC0xNzgxMDY2
+MzUyLDEyODk5ODI3MDAsMTE3NDMwMDk2MCw5MzkyNjI5OTgsND
+AwMzc5MDUyLC00MzcxNDM1OCwtMTE1NTc2MzgxMCwxOTgyMjI1
+ODQwXX0=
 -->
