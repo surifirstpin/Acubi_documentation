@@ -49,7 +49,7 @@ To view the SQL query built click on <b>SQL</b> section.
 
 ## Data Extract
 
-<b>5.</b> Hit the <b>Run< /b>button to extract data.
+<b>5.</b> Hit the <b>Run</b>button to extract data.
 
 > <b>Note :</b>  Data retrieved on running a report, is visible in  <b>Data Section</b>.
 
@@ -383,11 +383,11 @@ Click <b>Save</b> to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
  <b><font color = "Black"> Image 17</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTQ2ODM4MCwtMTQ3OTczMTg4Niw2Nz
-UyOTc0NTEsNzY4NzIxMTkxLDEwMzM2MjM5NTQsLTExMzg1ODEz
-ODksLTE3MDk0NTY5MDksLTUwMTM5MzczNywtNTAzNDkwNjUwLC
-02OTYxMzQzNzUsNTM4NzkzMDAsMTEyMTY1ODI3MCwtNTMxMTEx
-NDU4LC0yMDI1MTcwMzcwLC0xMDMzMTA4ODAwLDkwNjE3OTgyLC
-0xOTk5NzAwMzgyLC0xMDU0NDg5ODQsMTQzMjg5NTEyNSw0ODI0
-Nzg2ODZdfQ==
+eyJoaXN0b3J5IjpbMTQxMDYyNDIzOCwxODI5NDY4MzgwLC0xND
+c5NzMxODg2LDY3NTI5NzQ1MSw3Njg3MjExOTEsMTAzMzYyMzk1
+NCwtMTEzODU4MTM4OSwtMTcwOTQ1NjkwOSwtNTAxMzkzNzM3LC
+01MDM0OTA2NTAsLTY5NjEzNDM3NSw1Mzg3OTMwMCwxMTIxNjU4
+MjcwLC01MzExMTE0NTgsLTIwMjUxNzAzNzAsLTEwMzMxMDg4MD
+AsOTA2MTc5ODIsLTE5OTk3MDAzODIsLTEwNTQ0ODk4NCwxNDMy
+ODk1MTI1XX0=
 -->
