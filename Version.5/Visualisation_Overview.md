@@ -61,13 +61,14 @@ In the above image you can see, hide_pivot 1st column is seen empty, so in order
 
 <b>Navigation :</b>  Goto <b>--></B> Charts <b>--></b> Select <b>--></b> Table Chart <b>--></b> Click Data Section <b>--></b> Expand Hide_Pivot Section.
 
-   - Select checkbox **Pivot Hide First.**
+   - Select checkbox <b>Pivot Hide First.</B>
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/18aaf7e8bc6bd4b6048871846de1fb606759f055/images/New_version5/UD_Visualisation_Overview_Image5.png)
-**Image 5**
 
-  - Similarly to hide the last column select the **check box** for **Pivot Hide Last.**
+ <b><font color = "Black"> Image 5</b>
+
+  - Similarly to hide the last column select the <b> Check box</b> for <b>Pivot Hide Last.</B>
 
 ## Refine Visualization
 
@@ -96,7 +97,7 @@ You can drill deeper into visualization, to get more specific information about 
 > **Note :** A more detailed explanation on visualization is given in visualization types and settings documents.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDA2MjkwMiwxMjc4MzI2ODA3LC0xND
+eyJoaXN0b3J5IjpbLTY2NjQ3OTI0MiwxMjc4MzI2ODA3LC0xND
 ExNzczMjI1LDEwNTI4MTIyOTMsLTk5MzQ0NDg5LDg2NDY2NDk2
 NSwtOTkzNDQ0ODksLTk5MzQ0NDg5LC0xNjI5ODAyNTgzLDU2Mj
 gzMjY4MSwtMTEzNDkzMzI4OSw1MTc2MTczLC00Mzg4Mzk2MTIs
