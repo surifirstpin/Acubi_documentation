@@ -367,27 +367,27 @@ All the Reports generated can be saved under any <b>Parent or Child Tag</b> avai
 
 Filter are used to extract only specific data you want to view. this function is carried out by applying filters to reports.
 
--   **Filter**  filters added in this section is automatically reflected in the filter section of dashboard reports.
+-   <b>Filter</B>  filters added in this section is automatically reflected in the filter section of dashboard reports.
 
-Click **Save** to save a report in Database.
+Click <b>Save</b> to save a report in Database.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
-**Image 16**
+ <b><font color = "Black"> Image 16</b>
 
 ## Download Data
 
-**22.**  To download a report, click on **Download (icon)** button as shown in the image below.
+<b>22.</b>  To download a report, click on <b>Download (icon)</B> button as shown in the image below.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
-**Image 17**
+ <b><font color = "Black"> Image 17</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk3MzE4ODYsNjc1Mjk3NDUxLDc2OD
-cyMTE5MSwxMDMzNjIzOTU0LC0xMTM4NTgxMzg5LC0xNzA5NDU2
-OTA5LC01MDEzOTM3MzcsLTUwMzQ5MDY1MCwtNjk2MTM0Mzc1LD
-UzODc5MzAwLDExMjE2NTgyNzAsLTUzMTExMTQ1OCwtMjAyNTE3
-MDM3MCwtMTAzMzEwODgwMCw5MDYxNzk4MiwtMTk5OTcwMDM4Mi
-wtMTA1NDQ4OTg0LDE0MzI4OTUxMjUsNDgyNDc4Njg2LC0zNDY4
-Nzc1NjhdfQ==
+eyJoaXN0b3J5IjpbMTgyOTQ2ODM4MCwtMTQ3OTczMTg4Niw2Nz
+UyOTc0NTEsNzY4NzIxMTkxLDEwMzM2MjM5NTQsLTExMzg1ODEz
+ODksLTE3MDk0NTY5MDksLTUwMTM5MzczNywtNTAzNDkwNjUwLC
+02OTYxMzQzNzUsNTM4NzkzMDAsMTEyMTY1ODI3MCwtNTMxMTEx
+NDU4LC0yMDI1MTcwMzcwLC0xMDMzMTA4ODAwLDkwNjE3OTgyLC
+0xOTk5NzAwMzgyLC0xMDU0NDg5ODQsMTQzMjg5NTEyNSw0ODI0
+Nzg2ODZdfQ==
 -->
