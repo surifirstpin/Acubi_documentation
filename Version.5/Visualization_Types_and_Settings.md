@@ -364,20 +364,21 @@ Gauge chart displays current status in the context of goal.
 
  - <b>Font Color</b> Enable color for labels on X-axis.
 
- - **Font Size** enable font size for labels on X-axis.
- - **Reference** specify a indicator name. 
-  
- - **Type** specify reference type as line or  area.
-  
- -  **From & to** specify the reference line for specific range of dimensions.
-
- - **Theme** enables colour for reference line.
+ - <b>Font Size:</b> enable font size for labels on X-axis.
  
- > **Note:**  X-Axis is enabled only for Line, Bar and Bubble chart only.
+ - <b>Reference:</b> specify a indicator name. 
+  
+ - <b>Type:</b> specify reference type as line or  area.
+  
+ -  <b>From & to:</b> specify the reference line for specific range of dimensions.
+
+ - <b>Theme:</b> enables color for reference line.
+ 
+ > <b>Note:</b>  X-Axis is enabled only for Line, Bar and Bubble chart only.
 
 ### Y-Axis
 
-- **Axis** select the measures values on y-axis  to enable
+- <b>Axis** select the measures values on y-axis  to enable
 editing options for y-axis in Line, for Bar and bubble chart.
 
 - **Axis label** Text label for x-axis.
@@ -431,11 +432,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDk3OTI5MywxNDQ0OTIxNzY3LC0xND
-ExNzIxMDI1LC0xMDU4ODcyMDU5LC05MDQxNTEyMDQsLTk0OTk2
-Njk5OCwtMTYzMDg5MzEzNCwtMTAwMzU4NTUyOCwtMTgwMjkzMT
-QxNiw1Nzc4OTc5NjQsOTY3OTAzNzQ2LC00NTkwODMwODUsNTcy
-MjU5MjI0LC0yMTQxODEzNCw3MzgxNzM3OTgsMTQzMjQ4NTI2OC
-wxMjkwODg1ODUzLC0xNzgxMDY2MzUyLDEyODk5ODI3MDAsMTE3
-NDMwMDk2MF19
+eyJoaXN0b3J5IjpbLTc2OTg1MiwxNDQ0OTIxNzY3LC0xNDExNz
+IxMDI1LC0xMDU4ODcyMDU5LC05MDQxNTEyMDQsLTk0OTk2Njk5
+OCwtMTYzMDg5MzEzNCwtMTAwMzU4NTUyOCwtMTgwMjkzMTQxNi
+w1Nzc4OTc5NjQsOTY3OTAzNzQ2LC00NTkwODMwODUsNTcyMjU5
+MjI0LC0yMTQxODEzNCw3MzgxNzM3OTgsMTQzMjQ4NTI2OCwxMj
+kwODg1ODUzLC0xNzgxMDY2MzUyLDEyODk5ODI3MDAsMTE3NDMw
+MDk2MF19
 -->
