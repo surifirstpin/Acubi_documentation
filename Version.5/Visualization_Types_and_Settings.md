@@ -241,9 +241,9 @@ The resultant for this expression would be seen in green color;
 ](https://raw.githubusercontent.com/sv18042016/fp1/4bd9045b7b3b1dceac68eb20c87579d484fd0c4e/images/New_version5/UD_Visualization_Types&Settings_Image13.png)
 **Image 13**
 
-In the above image you can see, for pivot_hide 1st column is seen empty, to hide this select checkbox  <b>pivot hide first** in  <b>Data Section <b> of visualization. Similarly to hide the last column, select checkbox for Hide_last in data section of table chart.
+In the above image you can see, for pivot_hide 1st column is seen empty, to hide this select checkbox <b>pivot hide first</b> in data Section of visualization. Similarly to hide the last column, select checkbox for <b>Hide_Last</b> in data section of table chart.
 
-> **Note :**  Applicable only for table chart. 
+> <b>Note :</b>  Applicable only for table chart. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e749e7c96af56390cc3fb80fd0d1a7d17fd0bf2c/images/New_version5/UD_Visualization_Types&Settings_Image14.png)
@@ -252,9 +252,9 @@ In the above image you can see, for pivot_hide 1st column is seen empty, to hide
 
 Funnels helps to visualize a process that has stages and items flow sequentially from stage one to next. Use a funnel when there is a sequential flow between stages, For Instance a sales process, that starts with inquiry and ends with billing.
 
-**The following section describes the editing option for Funnel chart in Charts;**
+<b>The following section describes the editing option for Funnel chart in Charts;</b>
  
- **9.** Choose chart type **Funnel** under **General** section  to compare the data in Funnel chart.
+ <b>9.</b>  Choose chart type <b>Funnel** under **General** section  to compare the data in Funnel chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/84af193f1ebf383092d92fc256ec7041495cca5a/images/New_version5/UD_Visualization_Types&Settings_Image15.png)
@@ -427,11 +427,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5NjU5OTcwLC0xMDU4ODcyMDU5LC05MD
-QxNTEyMDQsLTk0OTk2Njk5OCwtMTYzMDg5MzEzNCwtMTAwMzU4
-NTUyOCwtMTgwMjkzMTQxNiw1Nzc4OTc5NjQsOTY3OTAzNzQ2LC
-00NTkwODMwODUsNTcyMjU5MjI0LC0yMTQxODEzNCw3MzgxNzM3
-OTgsMTQzMjQ4NTI2OCwxMjkwODg1ODUzLC0xNzgxMDY2MzUyLD
-EyODk5ODI3MDAsMTE3NDMwMDk2MCw5MzkyNjI5OTgsNDAwMzc5
-MDUyXX0=
+eyJoaXN0b3J5IjpbLTEwMjYzMzMzNjMsLTEwNTg4NzIwNTksLT
+kwNDE1MTIwNCwtOTQ5OTY2OTk4LC0xNjMwODkzMTM0LC0xMDAz
+NTg1NTI4LC0xODAyOTMxNDE2LDU3Nzg5Nzk2NCw5Njc5MDM3ND
+YsLTQ1OTA4MzA4NSw1NzIyNTkyMjQsLTIxNDE4MTM0LDczODE3
+Mzc5OCwxNDMyNDg1MjY4LDEyOTA4ODU4NTMsLTE3ODEwNjYzNT
+IsMTI4OTk4MjcwMCwxMTc0MzAwOTYwLDkzOTI2Mjk5OCw0MDAz
+NzkwNTJdfQ==
 -->
