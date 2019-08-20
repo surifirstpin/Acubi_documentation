@@ -401,17 +401,17 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 - <b>Position: </b>you can align the y-axis to left or right side of the chart.
 
-**Reference Lines** enables the creation of reference lines in a chart.
+<b>Reference Lines:</b> enables the creation of reference lines in a chart.
 
-- **Name** specify a reference name for specific information on y-axis.
+- <b>Name:</b> specify a reference name for specific information on y-axis.
   
- - **Type** specify  Linear, Polynomial, Exponential, Logarithmic, Average, Median, Minimum, Maximum, Deviation, Variance, Custom Line, Custom Area on Y-axis.
+ - <b>Type:</b> specify  Linear, Polynomial, Exponential, Logarithmic, Average, Median, Minimum, Maximum, Deviation, Variance, Custom Line, Custom Area on Y-axis.
   
- -  **From & to** specify the reference line for specific range of measure values.
+ -  <b>From & to: </b> specify the reference line for specific range of measure values.
 
- - **Theme** enables colour for reference line.
+ - <b>Theme:</b> enables color for reference line.
  
- > **Note:**  Y-Axis is enabled only for Line, Bar and Bubble chart only.
+ > Note:**  Y-Axis is enabled only for Line, Bar and Bubble chart only.
  
 ## Format   
       
@@ -436,11 +436,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzE5MTAyOSwxNDQ0OTIxNzY3LC0xND
-ExNzIxMDI1LC0xMDU4ODcyMDU5LC05MDQxNTEyMDQsLTk0OTk2
-Njk5OCwtMTYzMDg5MzEzNCwtMTAwMzU4NTUyOCwtMTgwMjkzMT
-QxNiw1Nzc4OTc5NjQsOTY3OTAzNzQ2LC00NTkwODMwODUsNTcy
-MjU5MjI0LC0yMTQxODEzNCw3MzgxNzM3OTgsMTQzMjQ4NTI2OC
-wxMjkwODg1ODUzLC0xNzgxMDY2MzUyLDEyODk5ODI3MDAsMTE3
-NDMwMDk2MF19
+eyJoaXN0b3J5IjpbMjA5NDEyMjAyMSwyMTA3MTkxMDI5LDE0ND
+Q5MjE3NjcsLTE0MTE3MjEwMjUsLTEwNTg4NzIwNTksLTkwNDE1
+MTIwNCwtOTQ5OTY2OTk4LC0xNjMwODkzMTM0LC0xMDAzNTg1NT
+I4LC0xODAyOTMxNDE2LDU3Nzg5Nzk2NCw5Njc5MDM3NDYsLTQ1
+OTA4MzA4NSw1NzIyNTkyMjQsLTIxNDE4MTM0LDczODE3Mzc5OC
+wxNDMyNDg1MjY4LDEyOTA4ODU4NTMsLTE3ODEwNjYzNTIsMTI4
+OTk4MjcwMF19
 -->
