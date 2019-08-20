@@ -51,11 +51,11 @@ To view the SQL query built click on <b>SQL</b> section.
 
 ## Data Extract
 
-**5.** Hit the **Run** button to extract data.
+<b>5.</b> Hit the <b>Run< /b>button to extract data.
 
-> **Note :**  Data retrieved on running a report, is visible in  **Data Section**
+> <b>Note :</b>  Data retrieved on running a report, is visible in  <b>Data Section</b>.
 
-**6.** To **hide** the Explore /Visualize section that displays dimensions and measure click on  **angle double left** icon. To display the same click  **angle double right** icon available near dimensions and measure field list. ( Refer Image 2)
+<b>6.</b> To <b>hide</b> the Explore/Visualize section that displays dimensions and measure click on  <b>Angle Double Left</b> icon. To display the same click  <b>Angle double right</b> icon available near dimensions and measure field list. ( Refer Image 2)
 
 ## Add Filters
 
@@ -383,11 +383,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzg1ODEzODksLTE3MDk0NTY5MDksLT
-UwMTM5MzczNywtNTAzNDkwNjUwLC02OTYxMzQzNzUsNTM4Nzkz
-MDAsMTEyMTY1ODI3MCwtNTMxMTExNDU4LC0yMDI1MTcwMzcwLC
-0xMDMzMTA4ODAwLDkwNjE3OTgyLC0xOTk5NzAwMzgyLC0xMDU0
-NDg5ODQsMTQzMjg5NTEyNSw0ODI0Nzg2ODYsLTM0Njg3NzU2OC
-w4OTg2ODMzMTksLTI0MjE1OTM2MiwtMjEwODYzMTUwNCw0Njk3
-NzU5NzFdfQ==
+eyJoaXN0b3J5IjpbMTc0MDg4MDIzOSwtMTEzODU4MTM4OSwtMT
+cwOTQ1NjkwOSwtNTAxMzkzNzM3LC01MDM0OTA2NTAsLTY5NjEz
+NDM3NSw1Mzg3OTMwMCwxMTIxNjU4MjcwLC01MzExMTE0NTgsLT
+IwMjUxNzAzNzAsLTEwMzMxMDg4MDAsOTA2MTc5ODIsLTE5OTk3
+MDAzODIsLTEwNTQ0ODk4NCwxNDMyODk1MTI1LDQ4MjQ3ODY4Ni
+wtMzQ2ODc3NTY4LDg5ODY4MzMxOSwtMjQyMTU5MzYyLC0yMTA4
+NjMxNTA0XX0=
 -->
