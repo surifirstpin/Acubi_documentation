@@ -281,7 +281,7 @@ Click on Charts, to view the different type of pictorial representation for the 
 
  <b><font color = "Black"> Image 13</b>
 
- <b> <i> Parameters applicable on the data retrieved are explained as below;</i></b>
+ <b> <i> Parameters applicable on the data retrieved are explained as below; </i></b>
 
 - <b>Row Grouping</b> enables row grouping for field values based on the field selected.(Refer Image 13)
 
@@ -384,11 +384,11 @@ Click <b>Save</b> to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
  <b><font color = "Black"> Image 17</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTk1Njk2NCwtMTcyOTcxMjUzMCwtMj
-AyOTcwODczNyw0ODEwODM5NzEsMTgyOTQ2ODM4MCwtMTQ3OTcz
-MTg4Niw2NzUyOTc0NTEsNzY4NzIxMTkxLDEwMzM2MjM5NTQsLT
-ExMzg1ODEzODksLTE3MDk0NTY5MDksLTUwMTM5MzczNywtNTAz
-NDkwNjUwLC02OTYxMzQzNzUsNTM4NzkzMDAsMTEyMTY1ODI3MC
-wtNTMxMTExNDU4LC0yMDI1MTcwMzcwLC0xMDMzMTA4ODAwLDkw
-NjE3OTgyXX0=
+eyJoaXN0b3J5IjpbNDczMTAwNDAwLC0xNzI5NzEyNTMwLC0yMD
+I5NzA4NzM3LDQ4MTA4Mzk3MSwxODI5NDY4MzgwLC0xNDc5NzMx
+ODg2LDY3NTI5NzQ1MSw3Njg3MjExOTEsMTAzMzYyMzk1NCwtMT
+EzODU4MTM4OSwtMTcwOTQ1NjkwOSwtNTAxMzkzNzM3LC01MDM0
+OTA2NTAsLTY5NjEzNDM3NSw1Mzg3OTMwMCwxMTIxNjU4MjcwLC
+01MzExMTE0NTgsLTIwMjUxNzAzNzAsLTEwMzMxMDg4MDAsOTA2
+MTc5ODJdfQ==
 -->
