@@ -288,24 +288,24 @@ Gauge chart displays current status in the context of goal.
  
  <b>10.</b> Choose chart type <b>Gauge</b> from drop down list under <b>General</b> section  to compare the data in Gauge chart.
 
-- <b>Green</b> color in gauge chart indicates the value attained is closer to target.
+- <b>Green</b> color</b> in gauge chart indicates the value attained is closer to target.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/63e6ce82315ae4e72a287d4437b7d7a4bcea940b/images/New_version5/UD_Visualization_Types&Settings_Image16.png)
 **Image 16**
 
-- **Orange** colour indicates, maximum value attained is half the way to target.
--  **Red** colour indicates, maximum value attained is at initial state or lower side to the target.  
+- <b>Orange:</b>indicates, maximum value attained is half the way to target.
+-  <b>Red:</b> indicates, maximum value attained is at initial state or lower side to the target.  
 
 ![
 ](https://github.com/sv18042016/fp1/blob/3ff08da67be44bb345a23a3e47e19f4ab62a4553/images/New_version5/UD_Visualization_Types&Settings_Image17.png?raw=true)
 **Image 17**
 
-- **Value** select one of the available measure values from the drop down.
+- <b>Value:</b> select one of the available measure values from the drop down.
 
-- **Min** specifies the minimum value of the gauge this corresponds to bottom position of the gauge.
+- <b>Minimum:</b> specifies the minimum value of the gauge this corresponds to bottom position of the gauge.
 
-- **Max**  specifies the maximum value of the gauge this corresponds to top position of the gauge.
+- <b>Maximum:</b>**  specifies the maximum value of the gauge this corresponds to top position of the gauge.
 
 - **Title** specify a title.
 
@@ -427,11 +427,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4NDA4ODQ1LC0xNDExNzIxMDI1LC0xMD
-U4ODcyMDU5LC05MDQxNTEyMDQsLTk0OTk2Njk5OCwtMTYzMDg5
-MzEzNCwtMTAwMzU4NTUyOCwtMTgwMjkzMTQxNiw1Nzc4OTc5Nj
-QsOTY3OTAzNzQ2LC00NTkwODMwODUsNTcyMjU5MjI0LC0yMTQx
-ODEzNCw3MzgxNzM3OTgsMTQzMjQ4NTI2OCwxMjkwODg1ODUzLC
-0xNzgxMDY2MzUyLDEyODk5ODI3MDAsMTE3NDMwMDk2MCw5Mzky
-NjI5OThdfQ==
+eyJoaXN0b3J5IjpbLTExOTY5MjkxNzksLTE0MTE3MjEwMjUsLT
+EwNTg4NzIwNTksLTkwNDE1MTIwNCwtOTQ5OTY2OTk4LC0xNjMw
+ODkzMTM0LC0xMDAzNTg1NTI4LC0xODAyOTMxNDE2LDU3Nzg5Nz
+k2NCw5Njc5MDM3NDYsLTQ1OTA4MzA4NSw1NzIyNTkyMjQsLTIx
+NDE4MTM0LDczODE3Mzc5OCwxNDMyNDg1MjY4LDEyOTA4ODU4NT
+MsLTE3ODEwNjYzNTIsMTI4OTk4MjcwMCwxMTc0MzAwOTYwLDkz
+OTI2Mjk5OF19
 -->
