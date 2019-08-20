@@ -25,29 +25,30 @@ After selecting dimensions and measures, run the report to display the fetched d
 
 Click on <b>Charts</b> tab, to view different type of visualization images available for your query.
  
-Under **General** tab, Select the chart type **PIE** from available drop-down list. ( Refer image 2)
+Under <b>General</b> tab, Select the chart type <b>PIE</b> from available drop-down list. ( Refer image 2)
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/588793b3bdaa6683973fbe70ceaf6b591ff25fb2/images/New_version5/UD_Visualisation_Overview_Image2.png)
-**Image 2**
+ <b><font color = "Black"> Image 2</b>
 
-As shown in the image there multiple editing options provided to **Pie chart**, Similarly you can also view types of visualization options available in AcuBi.
+As shown in the image there multiple editing options provided to <b> Pie chart</b>, Similarly you can also view types of visualization options available in AcuBi.
 
 ## Hide Pivot
 
 To hide the first or last column field data  in visualization, Select hide first or hide last check box in Data section. 
 To carry out this function, derive a expression in calculated column.
 
-**For Example :**  Apply Pivot to **whenmade_month** under data section. 
+<b>For Example :</b>  Apply Pivot to <b>Whenmade_Month </b> under data section. 
 Derive following expression  in calculated column as follow ;
 
->**Note :** Use $ to select the fields and later Replace it with # to Fetch the accurate values.	
+><b>Note :</b> Use $ to select the fields and later Replace it with # to Fetch the accurate values.	
 ```
 pivot_offset( ${ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ```
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ba6e2d3a06a7fd83e84e6344095e5c673abbea8d/images/New_version5/UD_Visualisation_Overview_Image3.png)
-**Image 3**
+
+ <b><font color = "Black"> Image 3</b>
 
 The resultant for this expression would be seen in green colour;
 
@@ -94,11 +95,11 @@ You can drill deeper into visualization, to get more specific information about 
 > **Note :** A more detailed explanation on visualization is given in visualization types and settings documents.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTcyNDQxMSwxMjc4MzI2ODA3LC0xND
-ExNzczMjI1LDEwNTI4MTIyOTMsLTk5MzQ0NDg5LDg2NDY2NDk2
-NSwtOTkzNDQ0ODksLTk5MzQ0NDg5LC0xNjI5ODAyNTgzLDU2Mj
-gzMjY4MSwtMTEzNDkzMzI4OSw1MTc2MTczLC00Mzg4Mzk2MTIs
-LTE5Nzc3OTcyMzUsLTE2NzM0MzM4MTIsMTIzMDQ3MDIzNCwtMT
-M1NTE2NDg4NCwtMTE3MTc4MjAwMiwtMTE5MDQ1Mjk5MywtNjA5
-NzU1MTBdfQ==
+eyJoaXN0b3J5IjpbLTE1MTA4Njk5NzcsMTI3ODMyNjgwNywtMT
+QxMTc3MzIyNSwxMDUyODEyMjkzLC05OTM0NDQ4OSw4NjQ2NjQ5
+NjUsLTk5MzQ0NDg5LC05OTM0NDQ4OSwtMTYyOTgwMjU4Myw1Nj
+I4MzI2ODEsLTExMzQ5MzMyODksNTE3NjE3MywtNDM4ODM5NjEy
+LC0xOTc3Nzk3MjM1LC0xNjczNDMzODEyLDEyMzA0NzAyMzQsLT
+EzNTUxNjQ4ODQsLTExNzE3ODIwMDIsLTExOTA0NTI5OTMsLTYw
+OTc1NTEwXX0=
 -->
