@@ -315,18 +315,18 @@ Gauge chart displays current status in the context of goal.
 
 - <b>Counter:</b> displays minimum and maximum values of the measure.
 
-- **Reverse** displays the measure values in reversal direction maximum to minimum.
+- <b>Reverse:</b> displays the measure values in reversal direction maximum to minimum.
 
-- **Hide Minmax**  hides min and maximum values in gauge target.
+- <b>Hide Minmax:</b>  hides min and maximum values in gauge target.
 
 
 ## Standard Settings
 
 ### General Section 
 
-- **Title** specify title for the chart selected.
+- <b>Title:</b> specify title for the chart selected.
 
-- **Position** align title to top,bottom,left,right position.
+- **Positionalign title to top,bottom,left,right position.
 
 - **Label** Specify label text.
 
@@ -427,11 +427,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDkyMTc2NywtMTQxMTcyMTAyNSwtMT
-A1ODg3MjA1OSwtOTA0MTUxMjA0LC05NDk5NjY5OTgsLTE2MzA4
-OTMxMzQsLTEwMDM1ODU1MjgsLTE4MDI5MzE0MTYsNTc3ODk3OT
-Y0LDk2NzkwMzc0NiwtNDU5MDgzMDg1LDU3MjI1OTIyNCwtMjE0
-MTgxMzQsNzM4MTczNzk4LDE0MzI0ODUyNjgsMTI5MDg4NTg1My
-wtMTc4MTA2NjM1MiwxMjg5OTgyNzAwLDExNzQzMDA5NjAsOTM5
-MjYyOTk4XX0=
+eyJoaXN0b3J5IjpbLTg2ODU2OTE3OCwxNDQ0OTIxNzY3LC0xND
+ExNzIxMDI1LC0xMDU4ODcyMDU5LC05MDQxNTEyMDQsLTk0OTk2
+Njk5OCwtMTYzMDg5MzEzNCwtMTAwMzU4NTUyOCwtMTgwMjkzMT
+QxNiw1Nzc4OTc5NjQsOTY3OTAzNzQ2LC00NTkwODMwODUsNTcy
+MjU5MjI0LC0yMTQxODEzNCw3MzgxNzM3OTgsMTQzMjQ4NTI2OC
+wxMjkwODg1ODUzLC0xNzgxMDY2MzUyLDEyODk5ODI3MDAsMTE3
+NDMwMDk2MF19
 -->
