@@ -326,18 +326,19 @@ Gauge chart displays current status in the context of goal.
 
 - <b>Title:</b> specify title for the chart selected.
 
-- **Positionalign title to top,bottom,left,right position.
+- <b>Position:</b> align title to top,bottom,left,right position.
 
-- **Label** Specify label text.
+- <b>Label:</b> Specify label text.
 
-- **Padding** specifies spacing at the top, bottom, left and right side of the charts.
+- <b>Padding:</b> specifies spacing at the top, bottom, left and right side of the charts.
 
-- **Tooltips** points the first measure value of the column field.
+- <b>Tooltips:</b> points the first measure value of the column field.
 
-- **Grouped Tooltips** points all the measure values of the column field.
+- <b>Grouped Tooltips:</b> points all the measure values of the column field.
 
-- **Show legend** on selecting this checkbox, it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
-- **Display Labels** enables labels on charts.
+- <b>Show legend:</b> on selecting this checkbox, it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
+
+- <b>Display Labels: enables labels on charts.
 
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 
@@ -427,11 +428,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODU2OTE3OCwxNDQ0OTIxNzY3LC0xND
-ExNzIxMDI1LC0xMDU4ODcyMDU5LC05MDQxNTEyMDQsLTk0OTk2
-Njk5OCwtMTYzMDg5MzEzNCwtMTAwMzU4NTUyOCwtMTgwMjkzMT
-QxNiw1Nzc4OTc5NjQsOTY3OTAzNzQ2LC00NTkwODMwODUsNTcy
-MjU5MjI0LC0yMTQxODEzNCw3MzgxNzM3OTgsMTQzMjQ4NTI2OC
-wxMjkwODg1ODUzLC0xNzgxMDY2MzUyLDEyODk5ODI3MDAsMTE3
-NDMwMDk2MF19
+eyJoaXN0b3J5IjpbNzUxMDYyOTkwLDE0NDQ5MjE3NjcsLTE0MT
+E3MjEwMjUsLTEwNTg4NzIwNTksLTkwNDE1MTIwNCwtOTQ5OTY2
+OTk4LC0xNjMwODkzMTM0LC0xMDAzNTg1NTI4LC0xODAyOTMxND
+E2LDU3Nzg5Nzk2NCw5Njc5MDM3NDYsLTQ1OTA4MzA4NSw1NzIy
+NTkyMjQsLTIxNDE4MTM0LDczODE3Mzc5OCwxNDMyNDg1MjY4LD
+EyOTA4ODU4NTMsLTE3ODEwNjYzNTIsMTI4OTk4MjcwMCwxMTc0
+MzAwOTYwXX0=
 -->
