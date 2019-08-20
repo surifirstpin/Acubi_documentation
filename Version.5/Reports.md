@@ -284,17 +284,19 @@ Click on Charts, to view the different type of pictorial representation for the 
 
 - <b>Row Grouping<b> enables row grouping for field values based on the field selected.(Refer Image 13)
 
-- <b>Explore Enabled</b> to explore the data which are grouped select the check box <bExplore Enabled.**
+- <b>Explore Enabled</b> to explore the data which are grouped select the check box <b>Explore Enabled.</b>
 
-- **Stacked** Series values are added on the y-axis, so each consecutive series appears above the last. Be sure that the units of all series match.
+- <b>Stacked</b> Series values are added on the y-axis, so each consecutive series appears above the last. Be sure that the units of all series match.
 
-- **Datasets** this section enables you to perform alignment, set currency formats, group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
+- <b>Datasets</b> this section enables you to perform alignment, set currency formats, group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
 
-- **Legend** it will enable you to change the label for measure value in visualization charts. (Refer Image 13)
+- <b>Legend</b> it will enable you to change the label for measure value in visualization charts. (Refer Image 13)
 
 ##  Format
 
- **Format** enables different type of number format to measure a field value. Following are the list of number formats supported by AcuBi:
+ <b>Format</b> enables different type of number format to measure a field value. 
+ 
+<b><i>Following are the list of number formats supported by AcuBi:</i></b>
 
 |  Example | Description |
 |  ------ | :------ |
@@ -326,7 +328,7 @@ Click on Charts, to view the different type of pictorial representation for the 
 |  $#,##0.00 | Dollars with comma between thousands and 2 decimals ($1,234.00) |
 
 
-- **Currency** AcuBi supports following currency formats $,   ₹  ,   €  ,  £.
+- <b>Currency</ b>AcuBi supports following currency formats $,   ₹  ,   €  ,  £.
 
 
 
@@ -335,7 +337,7 @@ Click on Charts, to view the different type of pictorial representation for the 
 
 ## Save Report
 
-**21.** Click **Save** Button to Save the Report.
+<b>21.</b> Click <b>Save</b> Button to Save the Report.
 
   -  It will navigate to Save Report Page. Fill the following fields to save the report.
   
@@ -381,7 +383,7 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDIxNDUyOCw2NzUyOTc0NTEsNzY4Nz
+eyJoaXN0b3J5IjpbMTU0NTQ2NzQyMiw2NzUyOTc0NTEsNzY4Nz
 IxMTkxLDEwMzM2MjM5NTQsLTExMzg1ODEzODksLTE3MDk0NTY5
 MDksLTUwMTM5MzczNywtNTAzNDkwNjUwLC02OTYxMzQzNzUsNT
 M4NzkzMDAsMTEyMTY1ODI3MCwtNTMxMTExNDU4LC0yMDI1MTcw
