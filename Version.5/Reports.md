@@ -234,21 +234,21 @@ To carry out Multi-level grouping on the data extracted. Select group option for
 
 Calculated column functionality allows you to manipulate the retrieved data, using arithmetical, logical, text-based and date-based functions and then displays it in the required format. 
 
-> **Note :** To understand the total functionality of Calculated column, **"Refer Calculated Column Document".**
+> <b>Note :</b> To understand the total functionality of Calculated column, <b>"Refer Calculated Column Document".</b>
 
-Click on  **Calculated column**  button to enable table calculations as shown in below image,
+Click on  <b>Calculated Column</b>  button to enable table calculations as shown in below image,
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/26d0a3487833ab177c6be9fe97046d96212be2fa/images/New_version5/UD_Reports_Image9.png)
-**Image 10**
+ <b><font color = "Black"> Image 10</b>
 
  Enter Below Information in Calculated Column section.
  
--   **Field name**  unique identifier name to refer calculated column.
+-   <b>Field name</b>  unique identifier name to refer calculated column.
     
--   **Label**  labeling the calculated column.
+-   <b>Label</b>  labeling the calculated column.
     
--   **Data type**  data type used (string,number).
+-   <b>Data Type</b>  data type used (string,number).
     
 -   **Field type**  derives dimension or measure.
     
@@ -382,11 +382,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDQ2MjkwNSw3Njg3MjExOTEsMTAzMz
-YyMzk1NCwtMTEzODU4MTM4OSwtMTcwOTQ1NjkwOSwtNTAxMzkz
-NzM3LC01MDM0OTA2NTAsLTY5NjEzNDM3NSw1Mzg3OTMwMCwxMT
-IxNjU4MjcwLC01MzExMTE0NTgsLTIwMjUxNzAzNzAsLTEwMzMx
-MDg4MDAsOTA2MTc5ODIsLTE5OTk3MDAzODIsLTEwNTQ0ODk4NC
-wxNDMyODk1MTI1LDQ4MjQ3ODY4NiwtMzQ2ODc3NTY4LDg5ODY4
-MzMxOV19
+eyJoaXN0b3J5IjpbNjc5Mjg2MzQ0LDc2ODcyMTE5MSwxMDMzNj
+IzOTU0LC0xMTM4NTgxMzg5LC0xNzA5NDU2OTA5LC01MDEzOTM3
+MzcsLTUwMzQ5MDY1MCwtNjk2MTM0Mzc1LDUzODc5MzAwLDExMj
+E2NTgyNzAsLTUzMTExMTQ1OCwtMjAyNTE3MDM3MCwtMTAzMzEw
+ODgwMCw5MDYxNzk4MiwtMTk5OTcwMDM4MiwtMTA1NDQ4OTg0LD
+E0MzI4OTUxMjUsNDgyNDc4Njg2LC0zNDY4Nzc1NjgsODk4Njgz
+MzE5XX0=
 -->
