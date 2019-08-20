@@ -166,20 +166,20 @@ For  <b>Measures</b> use opposite direction.
 -   Click on upper arrow to enable descending order.
 -   Click on down arrow to enable ascending order.
 
-<b>13.</b> The <b>Total time taken</b> to build a query for a report is displayed at top of the report screen and <b>Total number of rows** fetched displayed just below it. (Refer image 5)
+<b>13.</b> The <b>Total time taken</b> to build a query for a report is displayed at top of the report screen and <b>Total number of rows</b> fetched displayed just below it. (Refer image 5)
   
-**14.**  Select the  **Check Box** for totals, to display total sum values of the measure fields.
+<b>14.</b>  Select the  <b>Check Box</b> for totals, to display total sum values of the measure fields.
 
-**15.**  You can **limit** the rows to 100, 500, 1000, 5000, etc using given drop down list.
+<b>15.</b>  You can <b>limit</b> the rows to 100, 500, 1000, 5000, etc using given drop down list.
 
 ## Pivot
 
 Multiple dimensions in a report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. 
-**Pivot can be applied in 2 ways :**
+<b>Pivot can be applied in 2 ways :</b>
  
-**a.** To apply pivot **before retrieving** the data, Click on pivot icon at field selection. (Refer image 6)
+<b>a.</b> To apply pivot <b>before retrieving</b> the data, Click on pivot icon at field selection. (Refer image 6)
 
-**b.** To Apply pivot **after retrieving** the data, select List icon, then choose Pivot option from field drop down list. (Refer image 6)
+<b>b.</b> To Apply pivot <b>after retrieving</b> the data, select List icon, then choose Pivot option from field drop down list. (Refer image 6)
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/853361b4c4a583c5fb273a41c7e497f2dc1564e1/images/New_version5/UD_Reports_Image5.png)
@@ -382,11 +382,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTI3NDgyNDksNzY4NzIxMTkxLDEwMz
-M2MjM5NTQsLTExMzg1ODEzODksLTE3MDk0NTY5MDksLTUwMTM5
-MzczNywtNTAzNDkwNjUwLC02OTYxMzQzNzUsNTM4NzkzMDAsMT
-EyMTY1ODI3MCwtNTMxMTExNDU4LC0yMDI1MTcwMzcwLC0xMDMz
-MTA4ODAwLDkwNjE3OTgyLC0xOTk5NzAwMzgyLC0xMDU0NDg5OD
-QsMTQzMjg5NTEyNSw0ODI0Nzg2ODYsLTM0Njg3NzU2OCw4OTg2
-ODMzMTldfQ==
+eyJoaXN0b3J5IjpbMTA4NTQwMzQwOSw3Njg3MjExOTEsMTAzMz
+YyMzk1NCwtMTEzODU4MTM4OSwtMTcwOTQ1NjkwOSwtNTAxMzkz
+NzM3LC01MDM0OTA2NTAsLTY5NjEzNDM3NSw1Mzg3OTMwMCwxMT
+IxNjU4MjcwLC01MzExMTE0NTgsLTIwMjUxNzAzNzAsLTEwMzMx
+MDg4MDAsOTA2MTc5ODIsLTE5OTk3MDAzODIsLTEwNTQ0ODk4NC
+wxNDMyODk1MTI1LDQ4MjQ3ODY4NiwtMzQ2ODc3NTY4LDg5ODY4
+MzMxOV19
 -->
