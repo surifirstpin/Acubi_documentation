@@ -282,7 +282,7 @@ Click on Charts, to view the different type of pictorial representation for the 
 
  <b> <i> Parameters applicable on the data retrieved are explained as below;</i></b>
 
-- <b>Row Grouping<b> enables row grouping for field values based on the field selected.(Refer Image 13)
+- <b>Row Grouping</b> enables row grouping for field values based on the field selected.(Refer Image 13)
 
 - <b>Explore Enabled</b> to explore the data which are grouped select the check box <b>Explore Enabled.</b>
 
@@ -328,7 +328,7 @@ Click on Charts, to view the different type of pictorial representation for the 
 |  $#,##0.00 | Dollars with comma between thousands and 2 decimals ($1,234.00) |
 
 
-- <b>Currency</ b>AcuBi supports following currency formats $,   ₹  ,   €  ,  £.
+- <b>Currency</b>AcuBi supports following currency formats $,   ₹  ,   €  ,  £.
 
 
 
@@ -367,7 +367,7 @@ All the Reports generated can be saved under any <b>Parent or Child Tag</b> avai
 
 Filter are used to extract only specific data you want to view. this function is carried out by applying filters to reports.
 
--   <b>Filter</B>  filters added in this section is automatically reflected in the filter section of dashboard reports.
+-   <b>Filter</b>  filters added in this section is automatically reflected in the filter section of dashboard reports.
 
 Click <b>Save</b> to save a report in Database.
 
@@ -383,11 +383,11 @@ Click <b>Save</b> to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
  <b><font color = "Black"> Image 17</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjk3MDg3MzcsNDgxMDgzOTcxLDE4Mj
-k0NjgzODAsLTE0Nzk3MzE4ODYsNjc1Mjk3NDUxLDc2ODcyMTE5
-MSwxMDMzNjIzOTU0LC0xMTM4NTgxMzg5LC0xNzA5NDU2OTA5LC
-01MDEzOTM3MzcsLTUwMzQ5MDY1MCwtNjk2MTM0Mzc1LDUzODc5
-MzAwLDExMjE2NTgyNzAsLTUzMTExMTQ1OCwtMjAyNTE3MDM3MC
-wtMTAzMzEwODgwMCw5MDYxNzk4MiwtMTk5OTcwMDM4MiwtMTA1
-NDQ4OTg0XX0=
+eyJoaXN0b3J5IjpbLTE3Mjk3MTI1MzAsLTIwMjk3MDg3MzcsND
+gxMDgzOTcxLDE4Mjk0NjgzODAsLTE0Nzk3MzE4ODYsNjc1Mjk3
+NDUxLDc2ODcyMTE5MSwxMDMzNjIzOTU0LC0xMTM4NTgxMzg5LC
+0xNzA5NDU2OTA5LC01MDEzOTM3MzcsLTUwMzQ5MDY1MCwtNjk2
+MTM0Mzc1LDUzODc5MzAwLDExMjE2NTgyNzAsLTUzMTExMTQ1OC
+wtMjAyNTE3MDM3MCwtMTAzMzEwODgwMCw5MDYxNzk4MiwtMTk5
+OTcwMDM4Ml19
 -->
