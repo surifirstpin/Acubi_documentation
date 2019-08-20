@@ -278,6 +278,7 @@ Click on Charts, to view the different type of pictorial representation for the 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/3e22fdc921e2f9e483420be1116042428e7f566a/images/New_version5/UD_Reports_Image12.png)
+
  <b><font color = "Black"> Image 13</b>
 
  <b> <i> Parameters applicable on the data retrieved are explained as below;</i></b>
@@ -383,11 +384,11 @@ Click <b>Save</b> to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
  <b><font color = "Black"> Image 17</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjk3MTI1MzAsLTIwMjk3MDg3MzcsND
-gxMDgzOTcxLDE4Mjk0NjgzODAsLTE0Nzk3MzE4ODYsNjc1Mjk3
-NDUxLDc2ODcyMTE5MSwxMDMzNjIzOTU0LC0xMTM4NTgxMzg5LC
-0xNzA5NDU2OTA5LC01MDEzOTM3MzcsLTUwMzQ5MDY1MCwtNjk2
-MTM0Mzc1LDUzODc5MzAwLDExMjE2NTgyNzAsLTUzMTExMTQ1OC
-wtMjAyNTE3MDM3MCwtMTAzMzEwODgwMCw5MDYxNzk4MiwtMTk5
-OTcwMDM4Ml19
+eyJoaXN0b3J5IjpbLTg0MTk1Njk2NCwtMTcyOTcxMjUzMCwtMj
+AyOTcwODczNyw0ODEwODM5NzEsMTgyOTQ2ODM4MCwtMTQ3OTcz
+MTg4Niw2NzUyOTc0NTEsNzY4NzIxMTkxLDEwMzM2MjM5NTQsLT
+ExMzg1ODEzODksLTE3MDk0NTY5MDksLTUwMTM5MzczNywtNTAz
+NDkwNjUwLC02OTYxMzQzNzUsNTM4NzkzMDAsMTEyMTY1ODI3MC
+wtNTMxMTExNDU4LC0yMDI1MTcwMzcwLC0xMDMzMTA4ODAwLDkw
+NjE3OTgyXX0=
 -->
