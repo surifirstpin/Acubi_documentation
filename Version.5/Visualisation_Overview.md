@@ -54,11 +54,12 @@ The resultant for this expression would be seen in green colour;
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e9c507879e500b4be6a758a27d99c4ddb4806335/images/New_version5/UD_Visualisation_Overview_Image4.png)
-**Image 4**
 
-In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. Similarly you can hide last column by selecting the check box pivot hide last. (Applicable only for table chart). 
+ <b><font color = "Black"> Image 4</b>
 
-**Navigation :** Goto **-->** Charts **-->** Select **-->** Table Chart **-->** Click Data Section **-->** Expand Hide_Pivot Section.
+In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox <b>pivot hide first</B> in <b>Data Section</b> to hide it in visualization charts. Similarly you can hide last column by selecting the check box pivot hide last. (Applicable only for table chart). 
+
+<b>Navigation :</b>  Goto <b>--></B> Charts <b>--></b> Select <b>--></b> Table Chart <b>--></b> Click Data Section <b>--></b> Expand Hide_Pivot Section.
 
    - Select checkbox **Pivot Hide First.**
 
@@ -95,11 +96,11 @@ You can drill deeper into visualization, to get more specific information about 
 > **Note :** A more detailed explanation on visualization is given in visualization types and settings documents.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTA4Njk5NzcsMTI3ODMyNjgwNywtMT
-QxMTc3MzIyNSwxMDUyODEyMjkzLC05OTM0NDQ4OSw4NjQ2NjQ5
-NjUsLTk5MzQ0NDg5LC05OTM0NDQ4OSwtMTYyOTgwMjU4Myw1Nj
-I4MzI2ODEsLTExMzQ5MzMyODksNTE3NjE3MywtNDM4ODM5NjEy
-LC0xOTc3Nzk3MjM1LC0xNjczNDMzODEyLDEyMzA0NzAyMzQsLT
-EzNTUxNjQ4ODQsLTExNzE3ODIwMDIsLTExOTA0NTI5OTMsLTYw
-OTc1NTEwXX0=
+eyJoaXN0b3J5IjpbMTQzMDA2MjkwMiwxMjc4MzI2ODA3LC0xND
+ExNzczMjI1LDEwNTI4MTIyOTMsLTk5MzQ0NDg5LDg2NDY2NDk2
+NSwtOTkzNDQ0ODksLTk5MzQ0NDg5LC0xNjI5ODAyNTgzLDU2Mj
+gzMjY4MSwtMTEzNDkzMzI4OSw1MTc2MTczLC00Mzg4Mzk2MTIs
+LTE5Nzc3OTcyMzUsLTE2NzM0MzM4MTIsMTIzMDQ3MDIzNCwtMT
+M1NTE2NDg4NCwtMTE3MTc4MjAwMiwtMTE5MDQ1Mjk5MywtNjA5
+NzU1MTBdfQ==
 -->
