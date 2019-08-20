@@ -55,15 +55,15 @@ To view the SQL query built click on <b>SQL</b> section.
 
 > <b>Note :</b>  Data retrieved on running a report, is visible in  <b>Data Section</b>.
 
-<b>6.</b> To <b>hide</b> the Explore/Visualize section that displays dimensions and measure click on  <b>Angle Double Left</b> icon. To display the same click  <b>Angle double right</b> icon available near dimensions and measure field list. ( Refer Image 2)
+<b>6.</b> To <b>hide</b> the Explore/Visualize section that displays dimensions and measure click on  <b>Angle Double Left</b> icon. To display the same click  <b>Angle Double Right</b> icon available near dimensions and measure field list. ( Refer Image 2)
 
 ## Add Filters
 
 Report filters will narrow the reports results while allowing you to view the specific range of data. 
 
-**7.** To Add Filter to a report, Click on **Add Filter.** The report data is retrieved based on **Filter** applied if any. All the fields selected are visible in filter expression list using which you can apply filters.
+<b>7.</b> To Add Filter to a report, Click on <b>Add Filter</b> The report data is retrieved based on <b>Filter</b> applied if any. All the fields selected are visible in filter expression list using which you can apply filters.
 
-> **For Example :** Apply filter expression to measure field **Quantity sum is greater than or equal to 1000** in filter section and data is retrieved on based on the filters applied.
+> <b>For Example :**Apply filter expression to measure field **Quantity sum is greater than or equal to 1000** in filter section and data is retrieved on based on the filters applied.
 
   -  Hit **Run** button, data is displayed based on the filters applied.
 ![
@@ -383,11 +383,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDg4MDIzOSwtMTEzODU4MTM4OSwtMT
-cwOTQ1NjkwOSwtNTAxMzkzNzM3LC01MDM0OTA2NTAsLTY5NjEz
-NDM3NSw1Mzg3OTMwMCwxMTIxNjU4MjcwLC01MzExMTE0NTgsLT
-IwMjUxNzAzNzAsLTEwMzMxMDg4MDAsOTA2MTc5ODIsLTE5OTk3
-MDAzODIsLTEwNTQ0ODk4NCwxNDMyODk1MTI1LDQ4MjQ3ODY4Ni
-wtMzQ2ODc3NTY4LDg5ODY4MzMxOSwtMjQyMTU5MzYyLC0yMTA4
-NjMxNTA0XX0=
+eyJoaXN0b3J5IjpbLTk2MjczNTY4LC0xMTM4NTgxMzg5LC0xNz
+A5NDU2OTA5LC01MDEzOTM3MzcsLTUwMzQ5MDY1MCwtNjk2MTM0
+Mzc1LDUzODc5MzAwLDExMjE2NTgyNzAsLTUzMTExMTQ1OCwtMj
+AyNTE3MDM3MCwtMTAzMzEwODgwMCw5MDYxNzk4MiwtMTk5OTcw
+MDM4MiwtMTA1NDQ4OTg0LDE0MzI4OTUxMjUsNDgyNDc4Njg2LC
+0zNDY4Nzc1NjgsODk4NjgzMzE5LC0yNDIxNTkzNjIsLTIxMDg2
+MzE1MDRdfQ==
 -->
