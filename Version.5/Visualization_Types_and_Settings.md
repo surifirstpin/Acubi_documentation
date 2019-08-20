@@ -118,29 +118,29 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
   
 - <b>Reverse Scale</b> on selecting the checkbox, it display the reversal side of data displayed in radar chart i.e. if the 10 highest values are shown in radar chart ,on selecting the checkbox, then it will display 10 lowest values.
 
-- Show Tick Labels :** on selecting this checkbox, it enables measure values on y-axis.
+- <b>Show Tick Labels :</b> on selecting this checkbox, it enables measure values on y-axis.
 
-- **Show Arc Lines :** on selecting this checkbox, it points the dimension fields in radar chart.
+- <b>Show Arc Lines :</b> on selecting this checkbox, it points the dimension fields in radar chart.
 
-- **Arc Field :** select the dimension field to apply arc lines.
+- <b>Arc Field :</b> select the dimension field to apply arc lines.
 
-- **Curve :** it maximize and minimize the surface area in radar chart.
+- <b>Curve :</b>* it maximize and minimize the surface area in radar chart.
 
 ## Widget chart 
 
 It displays one or more data series as a data graph. Widget chart is used to display the number of records created today and Number of Incidents by status or department.
 
- **5.** Choose **Widget** from drop-down list, it displays total number of data record in widget chart.
+ <b>5.</b> Choose <b>Widget</b> from drop-down list, it displays total number of data record in widget chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ac06f66008071fe929798b3d8ee36e5bd5cd89bf/images/New_version5/UD_Visualization_Types&Settings_Image7.png)
-**Image 7**
+  <b><font color = "Black"> Image 7</b>
 
- **Value :** select the field value (measure field) to display in the widget. This specify the measure field if you have multiple measure value defined in the underlying step.
+ <b>Value :</b> select the field value (measure field) to display in the widget. This specify the measure field if you have multiple measure value defined in the underlying step.
 
-- **Format** select the number format for the measure field.
+- <b>Format:</b> select the number format for the measure field.
 
-- **Previous Value** select the alternative measure field, to calculate the difference of growth in widget.
+- <b>Previous Value< select the alternative measure field, to calculate the difference of growth in widget.
 
 - **Change** specify the conditions for selected measures such as difference, growth, none.
 
@@ -426,11 +426,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwMTczNjc0LC05NDk5NjY5OTgsLTE2Mz
-A4OTMxMzQsLTEwMDM1ODU1MjgsLTE4MDI5MzE0MTYsNTc3ODk3
-OTY0LDk2NzkwMzc0NiwtNDU5MDgzMDg1LDU3MjI1OTIyNCwtMj
-E0MTgxMzQsNzM4MTczNzk4LDE0MzI0ODUyNjgsMTI5MDg4NTg1
-MywtMTc4MTA2NjM1MiwxMjg5OTgyNzAwLDExNzQzMDA5NjAsOT
-M5MjYyOTk4LDQwMDM3OTA1MiwtNDM3MTQzNTgsLTExNTU3NjM4
-MTBdfQ==
+eyJoaXN0b3J5IjpbLTQxOTI0NjUyMywtOTQ5OTY2OTk4LC0xNj
+MwODkzMTM0LC0xMDAzNTg1NTI4LC0xODAyOTMxNDE2LDU3Nzg5
+Nzk2NCw5Njc5MDM3NDYsLTQ1OTA4MzA4NSw1NzIyNTkyMjQsLT
+IxNDE4MTM0LDczODE3Mzc5OCwxNDMyNDg1MjY4LDEyOTA4ODU4
+NTMsLTE3ODEwNjYzNTIsMTI4OTk4MjcwMCwxMTc0MzAwOTYwLD
+kzOTI2Mjk5OCw0MDAzNzkwNTIsLTQzNzE0MzU4LC0xMTU1NzYz
+ODEwXX0=
 -->
