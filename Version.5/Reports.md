@@ -45,7 +45,7 @@ the query is built in SQL Section based on the selection made and the joins deri
 To view the SQL query built click on <b>SQL</b> section.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Reports_Image13.png)
+](https://raw.githubusercontent.com/sv18042016/fp1/\master/images/New_version5/UD_Reports_Image13.png)
 
 <b><font color = "Black"> Image 2</b>
 
@@ -383,11 +383,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDk0NTY5MDksLTUwMTM5MzczNywtNT
-AzNDkwNjUwLC02OTYxMzQzNzUsNTM4NzkzMDAsMTEyMTY1ODI3
-MCwtNTMxMTExNDU4LC0yMDI1MTcwMzcwLC0xMDMzMTA4ODAwLD
-kwNjE3OTgyLC0xOTk5NzAwMzgyLC0xMDU0NDg5ODQsMTQzMjg5
-NTEyNSw0ODI0Nzg2ODYsLTM0Njg3NzU2OCw4OTg2ODMzMTksLT
-I0MjE1OTM2MiwtMjEwODYzMTUwNCw0Njk3NzU5NzEsNjM2Njcz
-NDczXX0=
+eyJoaXN0b3J5IjpbLTExMzg1ODEzODksLTE3MDk0NTY5MDksLT
+UwMTM5MzczNywtNTAzNDkwNjUwLC02OTYxMzQzNzUsNTM4Nzkz
+MDAsMTEyMTY1ODI3MCwtNTMxMTExNDU4LC0yMDI1MTcwMzcwLC
+0xMDMzMTA4ODAwLDkwNjE3OTgyLC0xOTk5NzAwMzgyLC0xMDU0
+NDg5ODQsMTQzMjg5NTEyNSw0ODI0Nzg2ODYsLTM0Njg3NzU2OC
+w4OTg2ODMzMTksLTI0MjE1OTM2MiwtMjEwODYzMTUwNCw0Njk3
+NzU5NzFdfQ==
 -->
