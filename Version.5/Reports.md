@@ -35,7 +35,7 @@ Let us generate a query to display <b>Stationcode</b> (Dimension) and <b>Order A
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f5a7faedfbdd7f0d9e7175835750a8f0c79a9e54/images/New_version5/UD_Reports_Image2.png)
-<b><font color = "Black"> Image 1</b>
+<b><font color = "Black"> Image 2</b>
 
 ## SQL Query 
 
@@ -47,7 +47,7 @@ To view the SQL query built click on <b>SQL</b> section.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/\master/images/New_version5/UD_Reports_Image13.png)
 
-<b><font color = "Black"> Image 2</b>
+<b><font color = "Black"> Image 3</b>
 
 ## Data Extract
 
@@ -385,7 +385,7 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzY5ODQxMCwtMTEzODU4MTM4OSwtMT
+eyJoaXN0b3J5IjpbMjA2NjM3Nzg4MCwtMTEzODU4MTM4OSwtMT
 cwOTQ1NjkwOSwtNTAxMzkzNzM3LC01MDM0OTA2NTAsLTY5NjEz
 NDM3NSw1Mzg3OTMwMCwxMTIxNjU4MjcwLC01MzExMTE0NTgsLT
 IwMjUxNzAzNzAsLTEwMzMxMDg4MDAsOTA2MTc5ODIsLTE5OTk3
