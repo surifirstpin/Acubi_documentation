@@ -135,20 +135,20 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 > <b>Note :</b> To view the <b>Timeline Filters</b> in details please go to Timeline filters document in Technical Documents.
 
-**8.** Similarly, we can apply **Hidden Filters** to the report data, by clicking on Filter Icon available in field list of a report. The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are hidden in data section.
+<b>8.</b> Similarly, we can apply <b>Hidden Filters</b> to the report data, by clicking on Filter Icon available in field list of a report. The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are hidden in data section.
 
-**9.** To **Delete** the filter applied Click **Cross Icon**. ( Refer image 4) 
+<b>9.</b> To <b>Delete</b> the filter applied Click <b>Cross Icon.</B> ( Refer image 4) 
 
 
 ## Sorting Order (Ascending / Descending)
 
-**10.** To view the report data in ascending or descending orders, Apply Order to the Column fields, To carry out this function Click on **Add Orders** button.
+<b>10.</b> To view the report data in ascending or descending orders, Apply Order to the Column fields, To carry out this function Click on <b>Add Orders</b> button.
 
-  - To Delete the Order applied Click on **Cross Icon.**
+  - To Delete the Order applied Click on <b>Cross Icon.</b>
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ee732d48c976b66c2738b922a177c466513a35f4/images/New_version5/UD_Reports_Image4.png)
-**Image 5:** 
+ <b><font color = "Black"> Image 4</b>
 
 **11.** To hide the **Filter** or **Order** sections, click on angle-double-up icon on to far right of the order section. To un-hide the same click on angle-double-down icon.
 
@@ -382,11 +382,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTc0NzMxMTcsMTAzMzYyMzk1NCwtMT
-EzODU4MTM4OSwtMTcwOTQ1NjkwOSwtNTAxMzkzNzM3LC01MDM0
-OTA2NTAsLTY5NjEzNDM3NSw1Mzg3OTMwMCwxMTIxNjU4MjcwLC
-01MzExMTE0NTgsLTIwMjUxNzAzNzAsLTEwMzMxMDg4MDAsOTA2
-MTc5ODIsLTE5OTk3MDAzODIsLTEwNTQ0ODk4NCwxNDMyODk1MT
-I1LDQ4MjQ3ODY4NiwtMzQ2ODc3NTY4LDg5ODY4MzMxOSwtMjQy
-MTU5MzYyXX0=
+eyJoaXN0b3J5IjpbMTk4MDY3NjUyMSwxMDMzNjIzOTU0LC0xMT
+M4NTgxMzg5LC0xNzA5NDU2OTA5LC01MDEzOTM3MzcsLTUwMzQ5
+MDY1MCwtNjk2MTM0Mzc1LDUzODc5MzAwLDExMjE2NTgyNzAsLT
+UzMTExMTQ1OCwtMjAyNTE3MDM3MCwtMTAzMzEwODgwMCw5MDYx
+Nzk4MiwtMTk5OTcwMDM4MiwtMTA1NDQ4OTg0LDE0MzI4OTUxMj
+UsNDgyNDc4Njg2LC0zNDY4Nzc1NjgsODk4NjgzMzE5LC0yNDIx
+NTkzNjJdfQ==
 -->
