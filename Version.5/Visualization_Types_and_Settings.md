@@ -154,15 +154,15 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - <b>Theme:</b> Data alignment in widget chart. Select using drop down list.
 
-- **Widget Icon** Choose a icon to symbolize widget value. 
+- <b>Widget Icon:</b> Choose a icon to symbolize widget value. 
 
-- **Background Colour** Select appropriate background colour for widget chart.
+- <b>Background Color:</b> Select appropriate background color for widget chart.
 
 ##  World chart 
 
  It displays the data grouped by specific country and at the same time highlights the grouped data regions in the map.
  
-**6.** Choose chart type **World** from drop down list. 
+<b>6.</b> Choose chart type <b>World** from drop down list. 
 
  > **Note :** The field in world chart should be defined in model section initially to display them here. 
 
@@ -426,11 +426,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDE1MTIwNCwtOTQ5OTY2OTk4LC0xNj
-MwODkzMTM0LC0xMDAzNTg1NTI4LC0xODAyOTMxNDE2LDU3Nzg5
-Nzk2NCw5Njc5MDM3NDYsLTQ1OTA4MzA4NSw1NzIyNTkyMjQsLT
-IxNDE4MTM0LDczODE3Mzc5OCwxNDMyNDg1MjY4LDEyOTA4ODU4
-NTMsLTE3ODEwNjYzNTIsMTI4OTk4MjcwMCwxMTc0MzAwOTYwLD
-kzOTI2Mjk5OCw0MDAzNzkwNTIsLTQzNzE0MzU4LC0xMTU1NzYz
-ODEwXX0=
+eyJoaXN0b3J5IjpbNDY5NjQ3MjMsLTkwNDE1MTIwNCwtOTQ5OT
+Y2OTk4LC0xNjMwODkzMTM0LC0xMDAzNTg1NTI4LC0xODAyOTMx
+NDE2LDU3Nzg5Nzk2NCw5Njc5MDM3NDYsLTQ1OTA4MzA4NSw1Nz
+IyNTkyMjQsLTIxNDE4MTM0LDczODE3Mzc5OCwxNDMyNDg1MjY4
+LDEyOTA4ODU4NTMsLTE3ODEwNjYzNTIsMTI4OTk4MjcwMCwxMT
+c0MzAwOTYwLDkzOTI2Mjk5OCw0MDAzNzkwNTIsLTQzNzE0MzU4
+XX0=
 -->
