@@ -123,17 +123,17 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 |			Example            |						Description                         |                                                                                 
 |------------------------------|------------------------------------------------------------|
-|<b>timeline</b                      |data from specific time scale                               |
-|**equal**                         |data from specific date                                     |
-|**not equal**                     |data excluding from specific date
-|**between**                       |data in between the specified dates
-|**not between**                   |excluding the data between the specified range
-|**less or equal**                 |data up to specified date 
-|**greater or equal**              |data from the specified date 
-|**is not null**                   |data which is not equal to null
-|**is null**                       |data which is equal to null
+|<b>timeline</b>                      |data from specific time scale                               |
+|<b>equal</b>                         |data from specific date                                     |
+|<b>not equal</b>                     |data excluding from specific date
+|<b>between</b>                       |data in between the specified dates
+|<b>not between</b>                   |excluding the data between the specified range
+|<b>less or equal</b>                 |data up to specified date 
+|<b>greater or equal</b>              |data from the specified date 
+|<b>is not null</b>                   |data which is not equal to null
+|<b>is null</b>                       |data which is equal to null
 
-> **Note :** To view the **Timeline Filters** in details please go to Timeline filters document in Technical Documents.
+> <b>Note :</b> To view the <b>Timeline Filters</b> in details please go to Timeline filters document in Technical Documents.
 
 **8.** Similarly, we can apply **Hidden Filters** to the report data, by clicking on Filter Icon available in field list of a report. The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are hidden in data section.
 
@@ -382,7 +382,7 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTMwNzY2ODUsMTAzMzYyMzk1NCwtMT
+eyJoaXN0b3J5IjpbLTEyNTc0NzMxMTcsMTAzMzYyMzk1NCwtMT
 EzODU4MTM4OSwtMTcwOTQ1NjkwOSwtNTAxMzkzNzM3LC01MDM0
 OTA2NTAsLTY5NjEzNDM3NSw1Mzg3OTMwMCwxMTIxNjU4MjcwLC
 01MzExMTE0NTgsLTIwMjUxNzAzNzAsLTEwMzMxMDg4MDAsOTA2
