@@ -4,25 +4,26 @@
 
 This section provides basic overview on visualization and its functionality.
 
-> **Note :**  A more detailed explanation is mentioned clearly in **Visualization Types and Settings** document
+> <b>Note :</b>  A more detailed explanation is mentioned clearly in <b>Visualization Types and Settings</b> document
 
 Visualization in AcuBi creates impressive graphs and charts based on query result obtained and displays an eye-caching pictorial representation of data obtained. Based on your requirement, you can visualize the data in different type of charts.
 
-**Basic overview on how visualization works ;**
+<b>Basic overview on how visualization works ;</b>
 
 Under reports section data and visualization are configured together, So once you share a query user will get a visualization picture and data as well.
 
-**For Instance** :  Create a report to fetch Order details and query Stationcode, Whenmade_Month and order_value_sum. Apply **filter** to whenmade_month to limit the data  to January, February and March. 
+<b>For Instance</b> :  Create a report to fetch Order details and query Stationcode, Whenmade_Month and order_value_sum. Apply <b>filter</b>  to whenmade_month to limit the data  to January, February and March. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/588793b3bdaa6683973fbe70ceaf6b591ff25fb2/images/New_version5/UD_Visualisation_Overview_Image1.png)
-**image 1**
+
+ <b><font color = "Black"> Image 1</b>
 
 After selecting dimensions and measures, run the report to display the fetched data for Order details.
 
-> **Note:** Consider a pie Chart in visualization section. ( Pie chart supports maximum 20 division)
+> <b>Note:</b> Consider a pie Chart in visualization section. ( Pie chart supports maximum 20 division)
 
-Click on **Charts** tab, to view different type of visualization images available for your query.
+Click on <b>Charts</b> tab, to view different type of visualization images available for your query.
  
 Under **General** tab, Select the chart type **PIE** from available drop-down list. ( Refer image 2)
 
@@ -93,11 +94,11 @@ You can drill deeper into visualization, to get more specific information about 
 > **Note :** A more detailed explanation on visualization is given in visualization types and settings documents.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODMyNjgwNywtMTQxMTc3MzIyNSwxMD
-UyODEyMjkzLC05OTM0NDQ4OSw4NjQ2NjQ5NjUsLTk5MzQ0NDg5
-LC05OTM0NDQ4OSwtMTYyOTgwMjU4Myw1NjI4MzI2ODEsLTExMz
-Q5MzMyODksNTE3NjE3MywtNDM4ODM5NjEyLC0xOTc3Nzk3MjM1
-LC0xNjczNDMzODEyLDEyMzA0NzAyMzQsLTEzNTUxNjQ4ODQsLT
-ExNzE3ODIwMDIsLTExOTA0NTI5OTMsLTYwOTc1NTEwLDg4MzY1
-NzIzOV19
+eyJoaXN0b3J5IjpbMTQ4NTcyNDQxMSwxMjc4MzI2ODA3LC0xND
+ExNzczMjI1LDEwNTI4MTIyOTMsLTk5MzQ0NDg5LDg2NDY2NDk2
+NSwtOTkzNDQ0ODksLTk5MzQ0NDg5LC0xNjI5ODAyNTgzLDU2Mj
+gzMjY4MSwtMTEzNDkzMzI4OSw1MTc2MTczLC00Mzg4Mzk2MTIs
+LTE5Nzc3OTcyMzUsLTE2NzM0MzM4MTIsMTIzMDQ3MDIzNCwtMT
+M1NTE2NDg4NCwtMTE3MTc4MjAwMiwtMTE5MDQ1Mjk5MywtNjA5
+NzU1MTBdfQ==
 -->
