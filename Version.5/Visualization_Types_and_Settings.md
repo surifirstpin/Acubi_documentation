@@ -176,25 +176,25 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - <b>Default</b> set default colour to display specific countries.
 
-- <b>Over Border:<b> colour the border of a map region.
+- <b>Over Border:</b> colour the border of a map region.
 
-- **Data Field** choose the data field to display it on map.	
+- <b>Data Field:</b> choose the data field to display it on map.	
 
-- **Tip Fields** select numbers of data fields to be displayed on map.
+- <b>Tip Fields:</b> select numbers of data fields to be displayed on map.
 
-- **Colour Field** specifies which field to be coloured.
+- <b>Color Field:</b> specifies which field to be colored.
 
-- **Colour From & To** specify the colour specific range of values in map region.
+- <b>Color From & To:</b> specify the color specific range of values in map region.
 
-- **Negative Cutoff** enabled when negatives values are applicable.
+- <b>Negative Cutoff:</b> enabled when negatives values are applicable.
 
-- **Negative colour-from & to** Specify colour for specific range of negative values.
+- <b>Negative color from & to:</b> Specify color for specific range of negative values.
 
 ## Bar Chart
 
 Bar charts are used to compare data across different categories. Bar chart is built by placing a dimension on a row and measure on a column area.
 
-**7.** Choose chart type **Bar** from drop down list, under general section.
+<b>7.</b> Choose chart type **Bar** from drop down list, under general section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/06087da8a8df002e219ac38e88404ea9603f4d7c/images/New_version5/UD_Visualization_Types&Settings_Image9.png)
@@ -426,11 +426,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjI0NTMxMSwtMTA1ODg3MjA1OSwtOT
-A0MTUxMjA0LC05NDk5NjY5OTgsLTE2MzA4OTMxMzQsLTEwMDM1
-ODU1MjgsLTE4MDI5MzE0MTYsNTc3ODk3OTY0LDk2NzkwMzc0Ni
-wtNDU5MDgzMDg1LDU3MjI1OTIyNCwtMjE0MTgxMzQsNzM4MTcz
-Nzk4LDE0MzI0ODUyNjgsMTI5MDg4NTg1MywtMTc4MTA2NjM1Mi
-wxMjg5OTgyNzAwLDExNzQzMDA5NjAsOTM5MjYyOTk4LDQwMDM3
-OTA1Ml19
+eyJoaXN0b3J5IjpbLTE1MTg3MjEzOTQsLTEwNTg4NzIwNTksLT
+kwNDE1MTIwNCwtOTQ5OTY2OTk4LC0xNjMwODkzMTM0LC0xMDAz
+NTg1NTI4LC0xODAyOTMxNDE2LDU3Nzg5Nzk2NCw5Njc5MDM3ND
+YsLTQ1OTA4MzA4NSw1NzIyNTkyMjQsLTIxNDE4MTM0LDczODE3
+Mzc5OCwxNDMyNDg1MjY4LDEyOTA4ODU4NTMsLTE3ODEwNjYzNT
+IsMTI4OTk4MjcwMCwxMTc0MzAwOTYwLDkzOTI2Mjk5OCw0MDAz
+NzkwNTJdfQ==
 -->
