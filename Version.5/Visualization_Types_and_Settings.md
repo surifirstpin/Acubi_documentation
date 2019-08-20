@@ -338,21 +338,21 @@ Gauge chart displays current status in the context of goal.
 
 - <b>Show legend:</b> on selecting this checkbox, it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
 
-- <b>Display Labels: enables labels on charts.
+- <b>Display Labels:</b> enables labels on charts.
 
-- **Position** Align the legend at top,bottom,left and right side of the chart.
+- <b>Position:</b> Align the legend at top,bottom,left and right side of the chart.
 
 ### X-Axis Menu Options
 
-- **Axis type** specifies how x-axis scale for Line, Bar, Bubble is calculated and displayed.
+- <b>Axis type:</b> specifies how x-axis scale for Line, Bar, Bubble is calculated and displayed.
 
-  - **Indexed** specifies the data to be plotted in numeric values starting from zero on x-axis.
+  - <b>Indexed:</b> specifies the data to be plotted in numeric values starting from zero on x-axis.
    
-  - **Category** specifies the data to be plotted as category group on x-axis.
+  - <b>Category:</b> specifies the data to be plotted as category group on x-axis.
   
-  - **Timeseries** specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
+  - <b>Timeseries:</b> specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
  
-- **Label field**  specify a dimension field to be displayed on X-axis.
+- <b>Label field**  specify a dimension field to be displayed on X-axis.
 
 - **Show Grid** enables the grid display for dimension fields on x-axis.
 
@@ -428,7 +428,7 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxMDYyOTkwLDE0NDQ5MjE3NjcsLTE0MT
+eyJoaXN0b3J5IjpbMTcxOTU5NjUwLDE0NDQ5MjE3NjcsLTE0MT
 E3MjEwMjUsLTEwNTg4NzIwNTksLTkwNDE1MTIwNCwtOTQ5OTY2
 OTk4LC0xNjMwODkzMTM0LC0xMDAzNTg1NTI4LC0xODAyOTMxND
 E2LDU3Nzg5Nzk2NCw5Njc5MDM3NDYsLTQ1OTA4MzA4NSw1NzIy
