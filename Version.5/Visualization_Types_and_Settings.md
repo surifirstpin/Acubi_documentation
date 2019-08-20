@@ -207,13 +207,14 @@ Bubble Chart displays the data in circles. We can define each bubble using any o
  <b>8.</b> Choose Chart Type <b>Bubble</b> under <b>General</b> section  to compare the data in Bubble chart.
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/427b27184df7c745300ef1169318ae6427ae1e56/images/New_version5/UD_Visualization_Types&Settings_Image10.png)
-**Image 10**
+  <b><font color = "Black"> Image 10</b>
+
 
 ## Table chart 
  
 Table chart displays the data in series making it more feasible for comparing dimensions and measure values.
  
- **9.** Choose chart type **Table** under **General** section to compare data in table chart.
+  <b>9. </b> Choose chart type  <b>Table </b> under  <b>General </b> section to compare data in table chart.
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/7e9db7322511f370a3f088a614821da70ec05e0f/images/New_version5/UD_Visualization_Types&Settings_Image11.png)
@@ -225,7 +226,7 @@ To hide the first or last column field values in Table Chart, Select hide first 
 To carry out this function you need to derive an expression in calculated column first.  
 Select Stationcode, Quantity_sum and Whenmade_month, Apply pivot to Stationcode.
 
-**For Instance** :  derive the following expression in calculated column first;
+ <b>For Instance </b> :  derive the following expression in calculated column first;
 
 ```
 pivot_offset(#{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
@@ -234,13 +235,13 @@ pivot_offset(#{ROOT.BI_ORDERS.sum_QUANTITY} ,0,-1)
 ](https://raw.githubusercontent.com/sv18042016/fp1/488ee6156d0f40eb8566b427b08347106977e416/images/New_version5/UD_Visualization_Types&Settings_Image12.png)
 **Image 12**
 
-The resultant for this expression would be seen in green colour;
+The resultant for this expression would be seen in green color;
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/4bd9045b7b3b1dceac68eb20c87579d484fd0c4e/images/New_version5/UD_Visualization_Types&Settings_Image13.png)
 **Image 13**
 
-In the above image you can see, for pivot_hide 1st column is seen empty, to hide this select checkbox **pivot hide first** in **Data Section** of visualisation. Similarly to hide the last column, select checkbox for Hide_last in data section of table chart.
+In the above image you can see, for pivot_hide 1st column is seen empty, to hide this select checkbox  <b>pivot hide first** in  <b>Data Section <b> of visualization. Similarly to hide the last column, select checkbox for Hide_last in data section of table chart.
 
 > **Note :**  Applicable only for table chart. 
 
@@ -426,11 +427,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzI1MjYxODUsLTEwNTg4NzIwNTksLT
-kwNDE1MTIwNCwtOTQ5OTY2OTk4LC0xNjMwODkzMTM0LC0xMDAz
-NTg1NTI4LC0xODAyOTMxNDE2LDU3Nzg5Nzk2NCw5Njc5MDM3ND
-YsLTQ1OTA4MzA4NSw1NzIyNTkyMjQsLTIxNDE4MTM0LDczODE3
-Mzc5OCwxNDMyNDg1MjY4LDEyOTA4ODU4NTMsLTE3ODEwNjYzNT
-IsMTI4OTk4MjcwMCwxMTc0MzAwOTYwLDkzOTI2Mjk5OCw0MDAz
-NzkwNTJdfQ==
+eyJoaXN0b3J5IjpbOTA5NjU5OTcwLC0xMDU4ODcyMDU5LC05MD
+QxNTEyMDQsLTk0OTk2Njk5OCwtMTYzMDg5MzEzNCwtMTAwMzU4
+NTUyOCwtMTgwMjkzMTQxNiw1Nzc4OTc5NjQsOTY3OTAzNzQ2LC
+00NTkwODMwODUsNTcyMjU5MjI0LC0yMTQxODEzNCw3MzgxNzM3
+OTgsMTQzMjQ4NTI2OCwxMjkwODg1ODUzLC0xNzgxMDY2MzUyLD
+EyODk5ODI3MDAsMTE3NDMwMDk2MCw5MzkyNjI5OTgsNDAwMzc5
+MDUyXX0=
 -->
