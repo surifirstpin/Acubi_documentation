@@ -296,6 +296,7 @@ Gauge chart displays current status in the context of goal.
 <b><font color = "Black"> Image 16</b>
 
 - <b>Orange:</b>indicates, maximum value attained is half the way to target.
+
 -  <b>Red:</b> indicates, maximum value attained is at initial state or lower side to the target.  
 
 ![
@@ -438,7 +439,7 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDY2NDg3Miw1OTI1MjA1MDYsMTI5ND
+eyJoaXN0b3J5IjpbMTcxODQzMTA2Miw1OTI1MjA1MDYsMTI5ND
 cxMDU3MSwyMTA3MTkxMDI5LDE0NDQ5MjE3NjcsLTE0MTE3MjEw
 MjUsLTEwNTg4NzIwNTksLTkwNDE1MTIwNCwtOTQ5OTY2OTk4LC
 0xNjMwODkzMTM0LC0xMDAzNTg1NTI4LC0xODAyOTMxNDE2LDU3
