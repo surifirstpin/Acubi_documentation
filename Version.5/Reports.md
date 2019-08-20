@@ -329,7 +329,7 @@ Click on Charts, to view the different type of pictorial representation for the 
 |  <b>$#,##0.00</b> | Dollars with comma between thousands and 2 decimals ($1,234.00) |
 
 
-- <b>Currency</b>AcuBi supports following currency formats $,   ₹  ,   €  ,  £.
+- <b>Currency </b>AcuBi supports following currency formats $,   ₹  ,   €  ,  £.
 
 
 
@@ -384,11 +384,11 @@ Click <b>Save</b> to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
  <b><font color = "Black"> Image 17</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY3MTY2ODgsNDczMTAwNDAwLC0xNz
-I5NzEyNTMwLC0yMDI5NzA4NzM3LDQ4MTA4Mzk3MSwxODI5NDY4
-MzgwLC0xNDc5NzMxODg2LDY3NTI5NzQ1MSw3Njg3MjExOTEsMT
-AzMzYyMzk1NCwtMTEzODU4MTM4OSwtMTcwOTQ1NjkwOSwtNTAx
-MzkzNzM3LC01MDM0OTA2NTAsLTY5NjEzNDM3NSw1Mzg3OTMwMC
-wxMTIxNjU4MjcwLC01MzExMTE0NTgsLTIwMjUxNzAzNzAsLTEw
-MzMxMDg4MDBdfQ==
+eyJoaXN0b3J5IjpbODAxMjE5ODg4LDQ3MzEwMDQwMCwtMTcyOT
+cxMjUzMCwtMjAyOTcwODczNyw0ODEwODM5NzEsMTgyOTQ2ODM4
+MCwtMTQ3OTczMTg4Niw2NzUyOTc0NTEsNzY4NzIxMTkxLDEwMz
+M2MjM5NTQsLTExMzg1ODEzODksLTE3MDk0NTY5MDksLTUwMTM5
+MzczNywtNTAzNDkwNjUwLC02OTYxMzQzNzUsNTM4NzkzMDAsMT
+EyMTY1ODI3MCwtNTMxMTExNDU4LC0yMDI1MTcwMzcwLC0xMDMz
+MTA4ODAwXX0=
 -->
