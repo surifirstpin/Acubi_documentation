@@ -106,24 +106,24 @@ Report filters will narrow the reports results while allowing you to view the sp
 |------------------------------|------------------------------------------------------------|
 |<b>is not null</b>                   | should not be equal to null value                          |                
 |<b>is null</b>                       | should be equal to null value                              |                                           
-|<b>not empt                    | data is not empty                                          |
-|**is empty**                      | data is empty                                              |
-|**equal**                         | data equal to specified value                              |
-|**not equal**                     | data not equal to specified value                          |
-|**in**                            | data equal to specified values                             |
-|**not in**                        | data not equal to specified values                         |
-|**less**                          | data less than specified value                             |
-|**less or equal**                 | data less than or equal to specified value                 |
-|**greater**                       | data greater than specified value                          |
-|**greater or equal**              | data greater than or equal to specified value              |
-|**between**                       | data in between the specified range                        |
-|**not between**                   | data not in between the specified range                    |
+|<b>not empty</b>                    | data is not empty                                          |
+|<b>is empty</b>                      | data is empty                                              |
+|<b>equal</b>                         | data equal to specified value                              |
+|<b>not equal</b>                     | data not equal to specified value                          |
+|<b>in</b>                            | data equal to specified values                             |
+|<b>not in</b>                        | data not equal to specified values                         |
+|<b>less</b>                          | data less than specified value                             |
+|<b>less or equal</b>                 | data less than or equal to specified value                 |
+|<b>greater</b>                       | data greater than specified value                          |
+|<b>greater or equal</b>              | data greater than or equal to specified value              |
+|<b>between</b>                       | data in between the specified range                        |
+|<b>not between</b>                   | data not in between the specified range                    |
 
 ## Date 
 
 |			Example            |						Description                         |                                                                                 
 |------------------------------|------------------------------------------------------------|
-|**timeline**                      |data from specific time scale                               |
+|<b>timeline</b                      |data from specific time scale                               |
 |**equal**                         |data from specific date                                     |
 |**not equal**                     |data excluding from specific date
 |**between**                       |data in between the specified dates
@@ -382,11 +382,11 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjIwMzA1OSwxMDMzNjIzOTU0LC0xMT
-M4NTgxMzg5LC0xNzA5NDU2OTA5LC01MDEzOTM3MzcsLTUwMzQ5
-MDY1MCwtNjk2MTM0Mzc1LDUzODc5MzAwLDExMjE2NTgyNzAsLT
-UzMTExMTQ1OCwtMjAyNTE3MDM3MCwtMTAzMzEwODgwMCw5MDYx
-Nzk4MiwtMTk5OTcwMDM4MiwtMTA1NDQ4OTg0LDE0MzI4OTUxMj
-UsNDgyNDc4Njg2LC0zNDY4Nzc1NjgsODk4NjgzMzE5LC0yNDIx
-NTkzNjJdfQ==
+eyJoaXN0b3J5IjpbLTEzOTMwNzY2ODUsMTAzMzYyMzk1NCwtMT
+EzODU4MTM4OSwtMTcwOTQ1NjkwOSwtNTAxMzkzNzM3LC01MDM0
+OTA2NTAsLTY5NjEzNDM3NSw1Mzg3OTMwMCwxMTIxNjU4MjcwLC
+01MzExMTE0NTgsLTIwMjUxNzAzNzAsLTEwMzMxMDg4MDAsOTA2
+MTc5ODIsLTE5OTk3MDAzODIsLTEwNTQ0ODk4NCwxNDMyODk1MT
+I1LDQ4MjQ3ODY4NiwtMzQ2ODc3NTY4LDg5ODY4MzMxOSwtMjQy
+MTU5MzYyXX0=
 -->
