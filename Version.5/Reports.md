@@ -250,24 +250,23 @@ Click on  <b>Calculated Column</b>  button to enable table calculations as shown
     
 -   <b>Data Type</b>  data type used (string,number).
     
--   **Field type**  derives dimension or measure.
+-   <b>Field Type</b>  derives dimension or measure.
     
--   **Calculation**  derive arithmetical & logical expressions.
+-   <b>Calculation</b>  derive arithmetical & logical expressions.
 Use $ symbol to select apply operational function to the Fields.
     
--   **Calculate on raw data**  By enabling the field **Calculate on Raw** the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
-- 
-> **Note :** To Add sum amount 100 to the quantity sum as bonus declare a calculated column as below.
+-   <b>Calculate on raw data</b>  By enabling the field <b>Calculate on Raw</b> the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
+> <b>Note :</b> To Add sum amount 100 to the quantity sum as bonus declare a calculated column as below.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Reports_Image10.png)
-**Image 11**
+ <b><font color = "Black"> Image 11</b>
 
- Click **ok** after deriving the expression, all the values based on calculation is shown up in green color as shown in image below,
+ Click <b>ok</b> after deriving the expression, all the values based on calculation is shown up in green color as shown in image below,
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9cb9f650b41942a8082bc296ee5426416bd20772/images/New_version5/UD_Reports_Image11.png)
-**Image 12**
+ <b><font color = "Black"> Image 12</b>
 
 ## Data Sets
 
@@ -382,7 +381,7 @@ Click **Save** to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5Mjg2MzQ0LDc2ODcyMTE5MSwxMDMzNj
+eyJoaXN0b3J5IjpbNjc1Mjk3NDUxLDc2ODcyMTE5MSwxMDMzNj
 IzOTU0LC0xMTM4NTgxMzg5LC0xNzA5NDU2OTA5LC01MDEzOTM3
 MzcsLTUwMzQ5MDY1MCwtNjk2MTM0Mzc1LDUzODc5MzAwLDExMj
 E2NTgyNzAsLTUzMTExMTQ1OCwtMjAyNTE3MDM3MCwtMTAzMzEw
