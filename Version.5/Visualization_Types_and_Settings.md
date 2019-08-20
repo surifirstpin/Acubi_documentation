@@ -352,15 +352,18 @@ Gauge chart displays current status in the context of goal.
   
   - <b>Timeseries:</b> specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
  
-- <b>Label field**  specify a dimension field to be displayed on X-axis.
+- <b>Label field:</b>  specify a dimension field to be displayed on X-axis.
 
-- **Show Grid** enables the grid display for dimension fields on x-axis.
+- <b>Show Grid:</b> enables the grid display for dimension fields on x-axis.
 
-- **Axis label** Text label for x-axis.
+- <b>Axis label:</b> Text label for x-axis.
 
-**Reference Lines** enables the creation of reference lines in a chart.
- - **Grid Colour**  Enable colour for grid.
- - **Font Colour** Enable colour for labels on X-axis.
+<b>Reference Lines:</b> enables the creation of reference lines in a chart.
+
+ - <b>Grid Color<b>  Enable color for grid.
+
+ - <b>Font Color</b> Enable color for labels on X-axis.
+
  - **Font Size** enable font size for labels on X-axis.
  - **Reference** specify a indicator name. 
   
@@ -428,11 +431,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/5d83f06c9740cedd36829d2db56c97b5aac224f5/images/New_version5/UD_Visualization_Types&Settings_Image18.png)
 **Image 18**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTU5NjUwLDE0NDQ5MjE3NjcsLTE0MT
-E3MjEwMjUsLTEwNTg4NzIwNTksLTkwNDE1MTIwNCwtOTQ5OTY2
-OTk4LC0xNjMwODkzMTM0LC0xMDAzNTg1NTI4LC0xODAyOTMxND
-E2LDU3Nzg5Nzk2NCw5Njc5MDM3NDYsLTQ1OTA4MzA4NSw1NzIy
-NTkyMjQsLTIxNDE4MTM0LDczODE3Mzc5OCwxNDMyNDg1MjY4LD
-EyOTA4ODU4NTMsLTE3ODEwNjYzNTIsMTI4OTk4MjcwMCwxMTc0
-MzAwOTYwXX0=
+eyJoaXN0b3J5IjpbMTc5MDk3OTI5MywxNDQ0OTIxNzY3LC0xND
+ExNzIxMDI1LC0xMDU4ODcyMDU5LC05MDQxNTEyMDQsLTk0OTk2
+Njk5OCwtMTYzMDg5MzEzNCwtMTAwMzU4NTUyOCwtMTgwMjkzMT
+QxNiw1Nzc4OTc5NjQsOTY3OTAzNzQ2LC00NTkwODMwODUsNTcy
+MjU5MjI0LC0yMTQxODEzNCw3MzgxNzM3OTgsMTQzMjQ4NTI2OC
+wxMjkwODg1ODUzLC0xNzgxMDY2MzUyLDEyODk5ODI3MDAsMTE3
+NDMwMDk2MF19
 -->
