@@ -27,7 +27,7 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 
 Click on <b>Calculated Column</b> button (Refer Image 1) it will navigate to calculated column window (Refer Image 2), Once navigated to Calculated Column Window.
 
-<b><i> Enter the 
+<b><i> Enter the following fields;</i></b>
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d90ab34e275e9daaab297e54345228bcad1986f9/images/New_version5/UD_CalculatedColumn_image2.png)
@@ -451,7 +451,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTY3NjcwNyw4NDE3MTc4MTEsLTQwNj
+eyJoaXN0b3J5IjpbMTU1ODY3OTg5OSw4NDE3MTc4MTEsLTQwNj
 k4MjcyMiwyMTA0NDAwNjI0LC0xNTg4NDEwMzI0LDEwODQxMDc5
 NTAsNjUyNDc4NjM4LC0zODc0NzI1ODcsLTIwMzg3NzMzNjEsLT
 EwNjkyNjU3MzYsNTU2MzA0NDY4LC0xNTE1MTUyMTIzLDQyOTIx
