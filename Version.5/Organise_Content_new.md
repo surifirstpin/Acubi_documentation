@@ -13,7 +13,7 @@ Acubi allows user in editing and managing access level, allows  users to make ne
    
    -  Renaming and deleting reports and dashboard.
    
-   - Assigning Thumbnails to tags, reports and dashboards under folder view. (only admin has access to upload a thumbnail).
+   - Assigning Thumbnails to tags, reports and dashboards under folder view. (only admin has access to upload thumbnail).
    
    -  Set Report and Dashboard to Home page.
    
@@ -40,10 +40,10 @@ The sharing status displays type of privacy setting enabled for a dashboard or r
  -   <b>Private:</B> Grey color indicates dashboard or reports saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjkyMTYxOSwxMTgwNDQ4ODMxLDEzOT
-c1MDc3NDUsLTY4MTU4ODAzMSwtMTE5NDE2ODM3MywtMTU3MDU2
-NzMwNywtMTE5NDE2ODM3MywxNTE1MDg2MDExLC03MDgyNTIwNT
-EsLTE1NTEyNTQ1NTcsLTgyMjQwOTk4NywtMTQ0NDQ5MzEwNSwt
-MTU5MjMxMTQyNiwtMTU1MzU2OTU3NSw3NTE2MDAyNDYsLTE1OT
-Q3MDcxNV19
+eyJoaXN0b3J5IjpbLTEyODk0ODUzMzIsLTg1NjkyMTYxOSwxMT
+gwNDQ4ODMxLDEzOTc1MDc3NDUsLTY4MTU4ODAzMSwtMTE5NDE2
+ODM3MywtMTU3MDU2NzMwNywtMTE5NDE2ODM3MywxNTE1MDg2MD
+ExLC03MDgyNTIwNTEsLTE1NTEyNTQ1NTcsLTgyMjQwOTk4Nywt
+MTQ0NDQ5MzEwNSwtMTU5MjMxMTQyNiwtMTU1MzU2OTU3NSw3NT
+E2MDAyNDYsLTE1OTQ3MDcxNV19
 -->
