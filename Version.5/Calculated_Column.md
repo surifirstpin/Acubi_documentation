@@ -378,7 +378,7 @@ bi._Fname(input_param1, input_param2,..input_paramN)
 bi.in_global_keys( ["Station_Name"],["Station_1" ],"Calc_ONRAW.value")
 ```
 
-<b>2.</b> <b>Reference value:< /b>Global parameters refers to reference value.
+<b>2.</b> <b>Reference value:</b>Global parameters refers to reference value.
 
 ```
   bi.in_global_keys( ["Parameter_Column_Name "],["database column" ],"Global_parameter.field")
@@ -451,10 +451,10 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODY3OTg5OSw4NDE3MTc4MTEsLTQwNj
-k4MjcyMiwyMTA0NDAwNjI0LC0xNTg4NDEwMzI0LDEwODQxMDc5
-NTAsNjUyNDc4NjM4LC0zODc0NzI1ODcsLTIwMzg3NzMzNjEsLT
-EwNjkyNjU3MzYsNTU2MzA0NDY4LC0xNTE1MTUyMTIzLDQyOTIx
-NTk4OSwyMDIzNjM3MjMsMTU2OTU2MjgyNiwxMjIyNTIzMzczLC
-0xMjI1NzgwMTI3LC0yNDMxMzgxNjcsLTY3NTQ3NTI1NV19
+eyJoaXN0b3J5IjpbODIwMTU0OTkxLDg0MTcxNzgxMSwtNDA2OT
+gyNzIyLDIxMDQ0MDA2MjQsLTE1ODg0MTAzMjQsMTA4NDEwNzk1
+MCw2NTI0Nzg2MzgsLTM4NzQ3MjU4NywtMjAzODc3MzM2MSwtMT
+A2OTI2NTczNiw1NTYzMDQ0NjgsLTE1MTUxNTIxMjMsNDI5MjE1
+OTg5LDIwMjM2MzcyMywxNTY5NTYyODI2LDEyMjI1MjMzNzMsLT
+EyMjU3ODAxMjcsLTI0MzEzODE2NywtNjc1NDc1MjU1XX0=
 -->
