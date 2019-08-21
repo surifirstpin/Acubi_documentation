@@ -242,7 +242,7 @@ Click on  <b>Calculated Column</b>  button to enable table calculations as shown
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/26d0a3487833ab177c6be9fe97046d96212be2fa/images/New_version5/UD_Reports_Image9.png)
  <b><font color = "Black"> Image 10</b>
 
- Enter Below Information in Calculated Column section.
+ <b><i>Enter Below Information in Calculated Column section;</i></b>
  
 -   <b>Field name</b>  unique identifier name to refer calculated column.
     
@@ -381,11 +381,11 @@ Click <b>Save</b> to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
  <b><font color = "Black"> Image 17</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTgxODcxMTAsODIwNjE0MzM0LDgwMT
-IxOTg4OCw0NzMxMDA0MDAsLTE3Mjk3MTI1MzAsLTIwMjk3MDg3
-MzcsNDgxMDgzOTcxLDE4Mjk0NjgzODAsLTE0Nzk3MzE4ODYsNj
-c1Mjk3NDUxLDc2ODcyMTE5MSwxMDMzNjIzOTU0LC0xMTM4NTgx
-Mzg5LC0xNzA5NDU2OTA5LC01MDEzOTM3MzcsLTUwMzQ5MDY1MC
-wtNjk2MTM0Mzc1LDUzODc5MzAwLDExMjE2NTgyNzAsLTUzMTEx
-MTQ1OF19
+eyJoaXN0b3J5IjpbLTQ4MDU0MTk3OSwtMjExODE4NzExMCw4Mj
+A2MTQzMzQsODAxMjE5ODg4LDQ3MzEwMDQwMCwtMTcyOTcxMjUz
+MCwtMjAyOTcwODczNyw0ODEwODM5NzEsMTgyOTQ2ODM4MCwtMT
+Q3OTczMTg4Niw2NzUyOTc0NTEsNzY4NzIxMTkxLDEwMzM2MjM5
+NTQsLTExMzg1ODEzODksLTE3MDk0NTY5MDksLTUwMTM5MzczNy
+wtNTAzNDkwNjUwLC02OTYxMzQzNzUsNTM4NzkzMDAsMTEyMTY1
+ODI3MF19
 -->
