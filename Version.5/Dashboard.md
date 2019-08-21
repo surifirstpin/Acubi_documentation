@@ -101,15 +101,15 @@ After logging into AcuBi Home Page, Click on <b>Dashboard</b> Section.
 
 <b>Fill up the lookup section ;</b>
 
-  -   <b>Lookup name :</B> Name Identifier for lookup field.
+ -   <b>Lookup name :</B> Name Identifier for lookup field.
    
-    -   <b>Lookup Type :</b>  Refers to item or query type.
+ -   <b>Lookup Type :</b>  Refers to item or query type.
    
  -  <b>Connection</b>  Connection are referred only for Queries and it is disabled for Items.
      
    <b>6.</B> Click on <b>Test Lookup.</b>
    
-   -   <b>Multiple Selections : </b> Enables the selection of list, for multiple data.
+ -   <b>Multiple Selections : </b> Enables the selection of list, for multiple data.
 
 ## Dependency Filters
 
@@ -160,7 +160,7 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDk1OTkyMiwxMDA5Mjg3MzI4LDI2MT
+eyJoaXN0b3J5IjpbLTc2NjQzMDk0MiwxMDA5Mjg3MzI4LDI2MT
 Y3ODY3OCw1MzQ2MzAxNTgsLTE0MzM4MjIxMDAsLTIxMzk3MjU2
 NDcsLTIwODA4Njk0NjYsODg5OTA3ODEyLC00NTQ2MDk2MSwyMD
 cxNDIzODMxLDExNTA2NjI1NjAsLTE0ODUxODIyNDEsLTY4ODAx
