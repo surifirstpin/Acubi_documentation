@@ -107,7 +107,7 @@ After logging into AcuBi Home Page, Click on <b>Dashboard</b> Section.
    
  -  <b>Connection</b>  Connection are referred only for Queries and it is disabled for Items.
      
-   <b>6.</B> Click on <b>Test Lookup.</b>
+  <b>6.</B> Click on <b>Test Lookup.</b>
    
  -   <b>Multiple Selections : </b> Enables the selection of list, for multiple data.
 
@@ -145,7 +145,9 @@ The Listeners option allows to register callbacks to be notified when an event i
    -   <b>Title :</B>  title to refer the dashboard.
     
    -   <b>Info :</B>  summary information for dashboard created.
-    
+
+### Share Status    
+
 <b>Share Status</b>   Enable any of the following privacy option to save the dashboard.
    -  <b>Public()</B>   It enable access for all the users. 
      
@@ -159,11 +161,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Mjc0OTM0LC03NjY0MzA5NDIsMTAwOT
-I4NzMyOCwyNjE2Nzg2NzgsNTM0NjMwMTU4LC0xNDMzODIyMTAw
-LC0yMTM5NzI1NjQ3LC0yMDgwODY5NDY2LDg4OTkwNzgxMiwtND
-U0NjA5NjEsMjA3MTQyMzgzMSwxMTUwNjYyNTYwLC0xNDg1MTgy
-MjQxLC02ODgwMTU4NjQsNzU3NDYyNDkzLC04NDAwNjAzNzAsLT
-UxMjEzOTI0NiwtNzQ0NTQ0NzIxLC03NzQzMDM0NDYsLTI4MjQ2
-NDc0NF19
+eyJoaXN0b3J5IjpbLTcwMTU3MTc2NCwtMzkyNzQ5MzQsLTc2Nj
+QzMDk0MiwxMDA5Mjg3MzI4LDI2MTY3ODY3OCw1MzQ2MzAxNTgs
+LTE0MzM4MjIxMDAsLTIxMzk3MjU2NDcsLTIwODA4Njk0NjYsOD
+g5OTA3ODEyLC00NTQ2MDk2MSwyMDcxNDIzODMxLDExNTA2NjI1
+NjAsLTE0ODUxODIyNDEsLTY4ODAxNTg2NCw3NTc0NjI0OTMsLT
+g0MDA2MDM3MCwtNTEyMTM5MjQ2LC03NDQ1NDQ3MjEsLTc3NDMw
+MzQ0Nl19
 -->
