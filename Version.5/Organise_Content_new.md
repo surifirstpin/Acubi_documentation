@@ -35,12 +35,12 @@ The sharing status displays type of privacy setting enabled for a dashboard or r
 
  -   <B>Public:</B> Green color  with Circle Icon indicates dashboard or report saved under public section.
  
- -   <B>Share</b> Orange color with group icon indicates dashboard or reports shared to specific set of groups.
+ -   <B>Share:</b> Orange color with group icon indicates dashboard or reports shared to specific set of groups.
  
- -   <b>Private</B> Grey color indicates dashboard or reports saved under private section.
+ -   <b>Private:</B> Grey color indicates dashboard or reports saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTYwOTUxNSwxMTgwNDQ4ODMxLDEzOT
+eyJoaXN0b3J5IjpbLTg1NjkyMTYxOSwxMTgwNDQ4ODMxLDEzOT
 c1MDc3NDUsLTY4MTU4ODAzMSwtMTE5NDE2ODM3MywtMTU3MDU2
 NzMwNywtMTE5NDE2ODM3MywxNTE1MDg2MDExLC03MDgyNTIwNT
 EsLTE1NTEyNTQ1NTcsLTgyMjQwOTk4NywtMTQ0NDQ5MzEwNSwt
