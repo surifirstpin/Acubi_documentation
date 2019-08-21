@@ -11,7 +11,7 @@ After logging into AcuBi Home Page, Click on <b>Dashboard</b> Section.
 
   - It will navigate to Dashboard section. It consist of list of Tags, Dashboards and Reports Saved under <b>My Space</b> structure.
 
-   - To View a specific dashboard, enter the dashboard name in given <b>Search Option.</B>
+  - To View a specific dashboard, enter the dashboard name in given <b>Search Option.</B>
   - To View the dashboards and reports in List view, Click on <b>List View</b>.
   - To view the dashboards and reports in folder view, Click on <b>Folder View.</b>
   
@@ -159,11 +159,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0NjMwMTU4LC0xNDMzODIyMTAwLC0yMT
-M5NzI1NjQ3LC0yMDgwODY5NDY2LDg4OTkwNzgxMiwtNDU0NjA5
-NjEsMjA3MTQyMzgzMSwxMTUwNjYyNTYwLC0xNDg1MTgyMjQxLC
-02ODgwMTU4NjQsNzU3NDYyNDkzLC04NDAwNjAzNzAsLTUxMjEz
-OTI0NiwtNzQ0NTQ0NzIxLC03NzQzMDM0NDYsLTI4MjQ2NDc0NC
-wtNjk4MTM3MzI2LDQyNjEzNTYzNCw1MDI0NzIxOTcsLTk2NDkw
-MTAzOV19
+eyJoaXN0b3J5IjpbMjYxNjc4Njc4LDUzNDYzMDE1OCwtMTQzMz
+gyMjEwMCwtMjEzOTcyNTY0NywtMjA4MDg2OTQ2Niw4ODk5MDc4
+MTIsLTQ1NDYwOTYxLDIwNzE0MjM4MzEsMTE1MDY2MjU2MCwtMT
+Q4NTE4MjI0MSwtNjg4MDE1ODY0LDc1NzQ2MjQ5MywtODQwMDYw
+MzcwLC01MTIxMzkyNDYsLTc0NDU0NDcyMSwtNzc0MzAzNDQ2LC
+0yODI0NjQ3NDQsLTY5ODEzNzMyNiw0MjYxMzU2MzQsNTAyNDcy
+MTk3XX0=
 -->
