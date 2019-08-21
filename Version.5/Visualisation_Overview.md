@@ -94,10 +94,10 @@ You can drill deeper into visualization, to get more specific information about 
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c0acf39f26482bbef006df3ae981d22e8067f00/images/New_version5/UD_Visualisation_Overview_Image7.png)
  <b><font color = "Black"> Image 7</b>
 
-> <b>Note :</b> A more detailed explanation on visualization is given in visualization types and settings documents.
+> Note : A more detailed explanation on visualization is given in visualization types and settings documents.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyODAzMjIzLDEyNzgzMjY4MDcsLTE0MT
+eyJoaXN0b3J5IjpbNjI2MTg5OTA2LDEyNzgzMjY4MDcsLTE0MT
 E3NzMyMjUsMTA1MjgxMjI5MywtOTkzNDQ0ODksODY0NjY0OTY1
 LC05OTM0NDQ4OSwtOTkzNDQ0ODksLTE2Mjk4MDI1ODMsNTYyOD
 MyNjgxLC0xMTM0OTMzMjg5LDUxNzYxNzMsLTQzODgzOTYxMiwt
