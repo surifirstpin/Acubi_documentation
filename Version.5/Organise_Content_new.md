@@ -37,13 +37,13 @@ The sharing status displays type of privacy setting enabled for a dashboard or r
  
  -   <B>Share:</b> Orange color with 'group icon' indicates dashboard or reports shared to specific set of groups.
  
- -   <b>Private:</B> Grey color with 'lock icon indicates dashboard or reports saved under private section.
+ -   <b>Private:</B> Grey color with 'lock icon' indicates dashboard or reports saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzYwMzA3MSwtODU2OTIxNjE5LDExOD
-A0NDg4MzEsMTM5NzUwNzc0NSwtNjgxNTg4MDMxLC0xMTk0MTY4
-MzczLC0xNTcwNTY3MzA3LC0xMTk0MTY4MzczLDE1MTUwODYwMT
-EsLTcwODI1MjA1MSwtMTU1MTI1NDU1NywtODIyNDA5OTg3LC0x
-NDQ0NDkzMTA1LC0xNTkyMzExNDI2LC0xNTUzNTY5NTc1LDc1MT
-YwMDI0NiwtMTU5NDcwNzE1XX0=
+eyJoaXN0b3J5IjpbMTQ1ODc2OTk0LC04NTY5MjE2MTksMTE4MD
+Q0ODgzMSwxMzk3NTA3NzQ1LC02ODE1ODgwMzEsLTExOTQxNjgz
+NzMsLTE1NzA1NjczMDcsLTExOTQxNjgzNzMsMTUxNTA4NjAxMS
+wtNzA4MjUyMDUxLC0xNTUxMjU0NTU3LC04MjI0MDk5ODcsLTE0
+NDQ0OTMxMDUsLTE1OTIzMTE0MjYsLTE1NTM1Njk1NzUsNzUxNj
+AwMjQ2LC0xNTk0NzA3MTVdfQ==
 -->
