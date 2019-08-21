@@ -70,6 +70,7 @@ After logging into AcuBi Home Page, Click on <b>Dashboard</b> Section.
 |  **Date** | For fields that contain dates. |
 |  **Lookup** | To view the lookup in dashboard filters it should be defined in lookup section first. |
 
+
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1dd11662359a18e0f370aa3058e7fd6281328220/images/New_version5/UD_Dashboard_image6.png)
 <b><font color = "Black"> Image 6</b>
@@ -159,11 +160,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTI4NzMyOCwyNjE2Nzg2NzgsNTM0Nj
-MwMTU4LC0xNDMzODIyMTAwLC0yMTM5NzI1NjQ3LC0yMDgwODY5
-NDY2LDg4OTkwNzgxMiwtNDU0NjA5NjEsMjA3MTQyMzgzMSwxMT
-UwNjYyNTYwLC0xNDg1MTgyMjQxLC02ODgwMTU4NjQsNzU3NDYy
-NDkzLC04NDAwNjAzNzAsLTUxMjEzOTI0NiwtNzQ0NTQ0NzIxLC
-03NzQzMDM0NDYsLTI4MjQ2NDc0NCwtNjk4MTM3MzI2LDQyNjEz
-NTYzNF19
+eyJoaXN0b3J5IjpbLTkwNDk1OTkyMiwxMDA5Mjg3MzI4LDI2MT
+Y3ODY3OCw1MzQ2MzAxNTgsLTE0MzM4MjIxMDAsLTIxMzk3MjU2
+NDcsLTIwODA4Njk0NjYsODg5OTA3ODEyLC00NTQ2MDk2MSwyMD
+cxNDIzODMxLDExNTA2NjI1NjAsLTE0ODUxODIyNDEsLTY4ODAx
+NTg2NCw3NTc0NjI0OTMsLTg0MDA2MDM3MCwtNTEyMTM5MjQ2LC
+03NDQ1NDQ3MjEsLTc3NDMwMzQ0NiwtMjgyNDY0NzQ0LC02OTgx
+MzczMjZdfQ==
 -->
