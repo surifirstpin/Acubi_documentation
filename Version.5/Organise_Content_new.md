@@ -17,20 +17,25 @@ Acubi allows user in editing and managing access level, allows  users to make ne
 
 <b>Let us see how it works,</b>
 - To set dashboard on Home page click <b>Set Home page</b> Icon.
+
 - To edit the dashboard or report click  <B>Edit</B>  icon.
+
 - To delete the dashboard or report permanently from database click <b>Delete</b>  icon.
 
 ## Managing Access
 
 The Sharing status displays type of privacy setting enabled for a dashboard or report.
+
  -   <B>Public</B> Green color  with Circle Icon indicates dashboard or report saved under public section.
+ 
  -   <B>Share</b> Orange color with group icon indicates dashboard or reports shared to specific set of groups.
+ 
  -   <b>Private</B> Grey color indicates dashboard or reports saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzUwNzc0NSwtNjgxNTg4MDMxLC0xMT
-k0MTY4MzczLC0xNTcwNTY3MzA3LC0xMTk0MTY4MzczLDE1MTUw
-ODYwMTEsLTcwODI1MjA1MSwtMTU1MTI1NDU1NywtODIyNDA5OT
-g3LC0xNDQ0NDkzMTA1LC0xNTkyMzExNDI2LC0xNTUzNTY5NTc1
-LDc1MTYwMDI0NiwtMTU5NDcwNzE1XX0=
+eyJoaXN0b3J5IjpbMTU4MDI0NzIwOSwxMzk3NTA3NzQ1LC02OD
+E1ODgwMzEsLTExOTQxNjgzNzMsLTE1NzA1NjczMDcsLTExOTQx
+NjgzNzMsMTUxNTA4NjAxMSwtNzA4MjUyMDUxLC0xNTUxMjU0NT
+U3LC04MjI0MDk5ODcsLTE0NDQ0OTMxMDUsLTE1OTIzMTE0MjYs
+LTE1NTM1Njk1NzUsNzUxNjAwMjQ2LC0xNTk0NzA3MTVdfQ==
 -->
