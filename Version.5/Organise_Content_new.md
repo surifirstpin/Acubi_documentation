@@ -5,10 +5,15 @@
 
 This section describes how to edit existing reports and dashboards. 
 Acubi allows user in editing and managing access level, allows  users to make necessary changes to the content such as;
+
    -  Editing Reports and Dashboards.
+   
    -  Specifying which users and groups as authority to access the data.
+   
    -  Renaming, and Deleting. 
+   
    - Assigning Thumbnails (only Admin has access to upload a thumbnail).
+   
    -  Set Report and Dashboard to Home page.
    
    ![
@@ -33,7 +38,7 @@ The Sharing status displays type of privacy setting enabled for a dashboard or r
  -   <b>Private</B> Grey color indicates dashboard or reports saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDI0NzIwOSwxMzk3NTA3NzQ1LC02OD
+eyJoaXN0b3J5IjpbLTQ2MDgwMzg1OSwxMzk3NTA3NzQ1LC02OD
 E1ODgwMzEsLTExOTQxNjgzNzMsLTE1NzA1NjczMDcsLTExOTQx
 NjgzNzMsMTUxNTA4NjAxMSwtNzA4MjUyMDUxLC0xNTUxMjU0NT
 U3LC04MjI0MDk5ODcsLTE0NDQ0OTMxMDUsLTE1OTIzMTE0MjYs
