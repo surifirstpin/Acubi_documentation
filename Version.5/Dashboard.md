@@ -146,7 +146,7 @@ The Listeners option allows to register callbacks to be notified when an event i
     
    -   <b>Info :</B>  summary information for dashboard created.
 
-### Share Status    
+## Share Status    
 
 <b>Share Status</b>   Enable any of the following privacy option to save the dashboard.
    -  <b>Public()</B>   It enable access for all the users. 
@@ -161,11 +161,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTU3MTc2NCwtMzkyNzQ5MzQsLTc2Nj
-QzMDk0MiwxMDA5Mjg3MzI4LDI2MTY3ODY3OCw1MzQ2MzAxNTgs
-LTE0MzM4MjIxMDAsLTIxMzk3MjU2NDcsLTIwODA4Njk0NjYsOD
-g5OTA3ODEyLC00NTQ2MDk2MSwyMDcxNDIzODMxLDExNTA2NjI1
-NjAsLTE0ODUxODIyNDEsLTY4ODAxNTg2NCw3NTc0NjI0OTMsLT
-g0MDA2MDM3MCwtNTEyMTM5MjQ2LC03NDQ1NDQ3MjEsLTc3NDMw
-MzQ0Nl19
+eyJoaXN0b3J5IjpbNTQ4Mjk2MzY1LC0zOTI3NDkzNCwtNzY2ND
+MwOTQyLDEwMDkyODczMjgsMjYxNjc4Njc4LDUzNDYzMDE1OCwt
+MTQzMzgyMjEwMCwtMjEzOTcyNTY0NywtMjA4MDg2OTQ2Niw4OD
+k5MDc4MTIsLTQ1NDYwOTYxLDIwNzE0MjM4MzEsMTE1MDY2MjU2
+MCwtMTQ4NTE4MjI0MSwtNjg4MDE1ODY0LDc1NzQ2MjQ5MywtOD
+QwMDYwMzcwLC01MTIxMzkyNDYsLTc0NDU0NDcyMSwtNzc0MzAz
+NDQ2XX0=
 -->
