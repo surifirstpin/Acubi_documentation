@@ -21,7 +21,8 @@ Acubi allows user in editing and managing access level, allows  users to make ne
 ](https://raw.githubusercontent.com/sv18042016/fp1/2c3e9b591017dd6316a4091ad35abfae69bf2082/images/New_version5/UD_Edit_Content_Image1.png)
 <b><font color = "Black"> Image 1</b>
 
-<b>Let us see how it works,</b>
+<b>Let us see how it works:</b>
+
 - To set dashboard on Home page click <b>Set Home page</b> Icon.
 
 - To edit the dashboard or report click  <B>Edit</B>  icon.
@@ -30,16 +31,16 @@ Acubi allows user in editing and managing access level, allows  users to make ne
 
 ## Managing Access
 
-The Sharing status displays type of privacy setting enabled for a dashboard or report.
+The sharing status displays type of privacy setting enabled for a dashboard or report.
 
- -   <B>Public</B> Green color  with Circle Icon indicates dashboard or report saved under public section.
+ -   <B>Public:</B> Green color  with Circle Icon indicates dashboard or report saved under public section.
  
  -   <B>Share</b> Orange color with group icon indicates dashboard or reports shared to specific set of groups.
  
  -   <b>Private</B> Grey color indicates dashboard or reports saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzEwNDc3NywxMTgwNDQ4ODMxLDEzOT
+eyJoaXN0b3J5IjpbMTg5OTYwOTUxNSwxMTgwNDQ4ODMxLDEzOT
 c1MDc3NDUsLTY4MTU4ODAzMSwtMTE5NDE2ODM3MywtMTU3MDU2
 NzMwNywtMTE5NDE2ODM3MywxNTE1MDg2MDExLC03MDgyNTIwNT
 EsLTE1NTEyNTQ1NTcsLTgyMjQwOTk4NywtMTQ0NDQ5MzEwNSwt
