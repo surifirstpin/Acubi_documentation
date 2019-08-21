@@ -59,7 +59,7 @@ The resultant for this expression would be seen in green colour;
 
 In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox <b>pivot hide first</B> in <b>Data Section</b> to hide it in visualization charts. Similarly you can hide last column by selecting the check box pivot hide last. (Applicable only for table chart). 
 
-<b>Navigation :</b>  Goto <b>--></B> Charts <b>--></b> Select <b>--></b> Table Chart <b>--></b> Click Data Section <b>--></b> Expand Hide_Pivot Section.
+<b>Navigation :</b>  Goto <b>&rarr;</B> Charts <b>&rarr;</b> Select <b>&rarr;</b> Table Chart <b>&rarr;</b> Click Data Section <b>&rarr;</b> Expand Hide_Pivot Section.
 
    - Select checkbox <b>Pivot Hide First.</B>
 
@@ -86,7 +86,7 @@ To refine and enhance the data obtained in AcuBi, It is provided with good numbe
 You can drill deeper into visualization, to get more specific information about the data obtained. In order to carry out this function, single click on the data field in table chart, it will further drill down displaying more deeper insight about the data field.
 
 <b>For Instance:</b> In below chart, when you click on country it will display the states that fall under that country, for more deeper insight on clicking on State_Name it will display the list of cities that fall under that states as shown clearly in below image.
-<b><i>Country_Name-->State_Name-->City_Name</i></b>
+<b><i>Country_Name &rarr; State_Name &rarr; City_Name</i></b>
 
  > <b>Note:</b>  To carryout this function you need derive it in model first.
 
@@ -97,11 +97,11 @@ You can drill deeper into visualization, to get more specific information about 
 > <b>Note :</b> A more detailed explanation on visualization is given in visualization types and settings documents.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5NjgzMDUsMTI3ODMyNjgwNywtMTQxMT
-c3MzIyNSwxMDUyODEyMjkzLC05OTM0NDQ4OSw4NjQ2NjQ5NjUs
-LTk5MzQ0NDg5LC05OTM0NDQ4OSwtMTYyOTgwMjU4Myw1NjI4Mz
-I2ODEsLTExMzQ5MzMyODksNTE3NjE3MywtNDM4ODM5NjEyLC0x
-OTc3Nzk3MjM1LC0xNjczNDMzODEyLDEyMzA0NzAyMzQsLTEzNT
-UxNjQ4ODQsLTExNzE3ODIwMDIsLTExOTA0NTI5OTMsLTYwOTc1
-NTEwXX0=
+eyJoaXN0b3J5IjpbNjQyODAzMjIzLDEyNzgzMjY4MDcsLTE0MT
+E3NzMyMjUsMTA1MjgxMjI5MywtOTkzNDQ0ODksODY0NjY0OTY1
+LC05OTM0NDQ4OSwtOTkzNDQ0ODksLTE2Mjk4MDI1ODMsNTYyOD
+MyNjgxLC0xMTM0OTMzMjg5LDUxNzYxNzMsLTQzODgzOTYxMiwt
+MTk3Nzc5NzIzNSwtMTY3MzQzMzgxMiwxMjMwNDcwMjM0LC0xMz
+U1MTY0ODg0LC0xMTcxNzgyMDAyLC0xMTkwNDUyOTkzLC02MDk3
+NTUxMF19
 -->
