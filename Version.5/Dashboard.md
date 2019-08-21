@@ -78,9 +78,9 @@ After logging into AcuBi Home Page, Click on <b>Dashboard</b> Section.
 
  -   <b>Filter Name :</B>  identifier name to the filter applicable.
 
-  -   <b>Filter Type :</B>  type of filter used ( Eg: string, date, number).
+ -   <b>Filter Type :</B>  type of filter used ( Eg: string, date, number).
 
-  -   <b>Operator :</b>  filter option to be applied on the fields.
+ -   <b>Operator :</b>  filter option to be applied on the fields.
 
 
 > <b>Note 1:</b> Timeline filters, accepts only text. A detailed information on timeline filters are available in Technical Documents.
@@ -100,11 +100,11 @@ After logging into AcuBi Home Page, Click on <b>Dashboard</b> Section.
 
 <b>Fill up the lookup section ;</b>
 
-   -   <b>Lookup name :</B> Name Identifier for lookup field.
+  -   <b>Lookup name :</B> Name Identifier for lookup field.
    
     -   <b>Lookup Type :</b>  Refers to item or query type.
    
-   -  <b>Connection</b>  Connection are referred only for Queries and it is disabled for Items.
+ -  <b>Connection</b>  Connection are referred only for Queries and it is disabled for Items.
      
    <b>6.</B> Click on <b>Test Lookup.</b>
    
@@ -151,7 +151,7 @@ The Listeners option allows to register callbacks to be notified when an event i
    
    -  <b>Public()</B>   It enable access for all the users. 
    
-    -  <B>Share()</B> It enable access for specific set of users.
+   -  <B>Share()</B> It enable access for specific set of users.
   
 <b>9.</B> Choose the tag where you would like to save <b>Dashboard Reports</b> and click <b>Save.</b>
 
@@ -159,11 +159,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjI1MDgzMjQsMjYxNjc4Njc4LDUzND
-YzMDE1OCwtMTQzMzgyMjEwMCwtMjEzOTcyNTY0NywtMjA4MDg2
-OTQ2Niw4ODk5MDc4MTIsLTQ1NDYwOTYxLDIwNzE0MjM4MzEsMT
-E1MDY2MjU2MCwtMTQ4NTE4MjI0MSwtNjg4MDE1ODY0LDc1NzQ2
-MjQ5MywtODQwMDYwMzcwLC01MTIxMzkyNDYsLTc0NDU0NDcyMS
-wtNzc0MzAzNDQ2LC0yODI0NjQ3NDQsLTY5ODEzNzMyNiw0MjYx
-MzU2MzRdfQ==
+eyJoaXN0b3J5IjpbMTAwOTI4NzMyOCwyNjE2Nzg2NzgsNTM0Nj
+MwMTU4LC0xNDMzODIyMTAwLC0yMTM5NzI1NjQ3LC0yMDgwODY5
+NDY2LDg4OTkwNzgxMiwtNDU0NjA5NjEsMjA3MTQyMzgzMSwxMT
+UwNjYyNTYwLC0xNDg1MTgyMjQxLC02ODgwMTU4NjQsNzU3NDYy
+NDkzLC04NDAwNjAzNzAsLTUxMjEzOTI0NiwtNzQ0NTQ0NzIxLC
+03NzQzMDM0NDYsLTI4MjQ2NDc0NCwtNjk4MTM3MzI2LDQyNjEz
+NTYzNF19
 -->
