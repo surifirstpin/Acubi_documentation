@@ -389,9 +389,9 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 - <b>Currency:</b> Using this field, you can specify the formatting for currency as of now Acubi supports $,   ₹  ,   €  ,  £.
 
- - <b>Grid Color:</b>  Enable color for grid.
+- <b>Grid Color:</b>  Enable color for grid.
  
- - <b>Font Color:</b> Enable color for labels on Y-axis.
+- <b>Font Color:</b> Enable color for labels on Y-axis.
 
  - <b>Font Size:</b> enable font size for labels on Y-axis.
 
@@ -439,7 +439,7 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODQzMTA2Miw1OTI1MjA1MDYsMTI5ND
+eyJoaXN0b3J5IjpbLTc2MDk2MTIyMiw1OTI1MjA1MDYsMTI5ND
 cxMDU3MSwyMTA3MTkxMDI5LDE0NDQ5MjE3NjcsLTE0MTE3MjEw
 MjUsLTEwNTg4NzIwNTksLTkwNDE1MTIwNCwtOTQ5OTY2OTk4LC
 0xNjMwODkzMTM0LC0xMDAzNTg1NTI4LC0xODAyOTMxNDE2LDU3
