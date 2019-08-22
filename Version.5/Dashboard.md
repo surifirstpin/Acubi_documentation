@@ -13,6 +13,7 @@ After logging into AcuBi Home Page, Click on <b>Dashboard</b> Section.
 
   - To View a specific dashboard, enter the dashboard name in given <b>Search Option.</B>
   - To View the dashboards and reports in List view, Click on <b>List View</b>.
+  
   - To view the dashboards and reports in folder view, Click on <b>Folder View.</b>
   
 ![
@@ -20,6 +21,7 @@ After logging into AcuBi Home Page, Click on <b>Dashboard</b> Section.
 <b><font color = "Black"> Image 2</b>
 
  - To view the existing dashboard report click on dashboard report name in the list. 
+ 
  -  It will navigate to dashboard report. ( Refer image 3)
  
 ![
@@ -107,7 +109,7 @@ After logging into AcuBi Home Page, Click on <b>Dashboard</b> Section.
    
  -  <b>Connection</b>  Connection are referred only for Queries and it is disabled for Items.
      
-  <b>6.</B> Click on <b>Test Lookup.</b>
+   <b>6.</B> Click on <b>Test Lookup.</b>
    
  -   <b>Multiple Selections : </b> Enables the selection of list, for multiple data.
 
@@ -120,6 +122,7 @@ You can refer the existing lookup, based on which a new lookup is created to ret
 ## Report Listeners 
 
 The Listeners option allows to register callbacks to be notified when an event is detected on a specific label.
+
 <b>For instance</b> if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report_1, it results in filter applied on report_1 it self and report_2 will remain unaffected.
 
 ![
@@ -138,7 +141,7 @@ The Listeners option allows to register callbacks to be notified when an event i
     
 <b>8.</b> Click <b>Save</b> button It will navigate to <b>Save Dashboard</b> section.
 
-<b><i>Fill up save dashboard section :</i></b>
+<b><i><u>Fill up save dashboard section :</u></i></b>
 
    -   <b>Name : </b> name identifier for dashboard created.
                               
@@ -161,11 +164,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4Mjk2MzY1LC0zOTI3NDkzNCwtNzY2ND
-MwOTQyLDEwMDkyODczMjgsMjYxNjc4Njc4LDUzNDYzMDE1OCwt
-MTQzMzgyMjEwMCwtMjEzOTcyNTY0NywtMjA4MDg2OTQ2Niw4OD
-k5MDc4MTIsLTQ1NDYwOTYxLDIwNzE0MjM4MzEsMTE1MDY2MjU2
-MCwtMTQ4NTE4MjI0MSwtNjg4MDE1ODY0LDc1NzQ2MjQ5MywtOD
-QwMDYwMzcwLC01MTIxMzkyNDYsLTc0NDU0NDcyMSwtNzc0MzAz
-NDQ2XX0=
+eyJoaXN0b3J5IjpbNDI0NDUzNDk2LDU0ODI5NjM2NSwtMzkyNz
+Q5MzQsLTc2NjQzMDk0MiwxMDA5Mjg3MzI4LDI2MTY3ODY3OCw1
+MzQ2MzAxNTgsLTE0MzM4MjIxMDAsLTIxMzk3MjU2NDcsLTIwOD
+A4Njk0NjYsODg5OTA3ODEyLC00NTQ2MDk2MSwyMDcxNDIzODMx
+LDExNTA2NjI1NjAsLTE0ODUxODIyNDEsLTY4ODAxNTg2NCw3NT
+c0NjI0OTMsLTg0MDA2MDM3MCwtNTEyMTM5MjQ2LC03NDQ1NDQ3
+MjFdfQ==
 -->
