@@ -47,7 +47,7 @@ After logging into AcuBi Home Page, Click on <b>Dashboard</b> Section.
 
 ## Select Layout
 
-   <b>Layout formats are categorized in 2 ways,</b>
+   <b><i>Layout formats are categorized in 2 ways,</i></b>
    
 - <b>Flow Layout</b> This layout is provided with a scroll bar option to define your layout appropriately.
 
@@ -140,7 +140,7 @@ The Listeners option allows to register callbacks to be notified when an event i
     
 <b>8.</b> Click <b>Save</b> button It will navigate to <b>Save Dashboard</b> section.
 
-<b><i><u>Fill save dashboard section :</u></i></b>
+<b><i><u>Fill up save dashboard section :</u></i></b>
 
    -   <b>Name : </b> name identifier for dashboard created.
                               
@@ -163,11 +163,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODYzMDE1NDIsNTQ4Mjk2MzY1LC0zOT
-I3NDkzNCwtNzY2NDMwOTQyLDEwMDkyODczMjgsMjYxNjc4Njc4
-LDUzNDYzMDE1OCwtMTQzMzgyMjEwMCwtMjEzOTcyNTY0NywtMj
-A4MDg2OTQ2Niw4ODk5MDc4MTIsLTQ1NDYwOTYxLDIwNzE0MjM4
-MzEsMTE1MDY2MjU2MCwtMTQ4NTE4MjI0MSwtNjg4MDE1ODY0LD
-c1NzQ2MjQ5MywtODQwMDYwMzcwLC01MTIxMzkyNDYsLTc0NDU0
-NDcyMV19
+eyJoaXN0b3J5IjpbMTM2MTY1MDg1MCw1NDgyOTYzNjUsLTM5Mj
+c0OTM0LC03NjY0MzA5NDIsMTAwOTI4NzMyOCwyNjE2Nzg2Nzgs
+NTM0NjMwMTU4LC0xNDMzODIyMTAwLC0yMTM5NzI1NjQ3LC0yMD
+gwODY5NDY2LDg4OTkwNzgxMiwtNDU0NjA5NjEsMjA3MTQyMzgz
+MSwxMTUwNjYyNTYwLC0xNDg1MTgyMjQxLC02ODgwMTU4NjQsNz
+U3NDYyNDkzLC04NDAwNjAzNzAsLTUxMjEzOTI0NiwtNzQ0NTQ0
+NzIxXX0=
 -->
