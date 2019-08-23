@@ -262,7 +262,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 
 ### Constant
 
-|  <b>Name | **Description** | **Example** |
+|  <b>Name</b> | <b>Description</b> | <b>Example</b> |
 |  :------: | :------: | :------: |
 |  e, E | Returns the Euler’s number, the base of the natural logarithm | 2.71828182845904 |
 |  i | Returns Imaginary unit, defined as i*i = -1. A complex number is described as a + bi, where a is the real part, and b is the imaginary part. | sqrt(-1) |
@@ -285,7 +285,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 |to|Returns the converted unit value of a given value|Ex: bi.unit("2 inch").to("cm") |
 
 ### Utils 	
-|  **Name** | **Description** | **Example** |
+|  Name | Description| Example |
 |  :------: | :------: | :------: |
 |  to | Returns the converted unit value of a given value | bi.unit("x unit1").to("unit2")<br/>Ex: bi.number(bi.unit("2 inch").to("cm"),"cm") = 5.08 <br/>       bi.number(bi.unit("16 bytes").to("bits"),"bits") = 128 |
 |  clone | Clone an object. | bi.clone(x) <br/>Ex: bi.clone(“3.5”) = 3.5 |
@@ -451,11 +451,11 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODIxMDQyNTYsMTMyNzU5MTE4OCwxNj
-M5NjEyNzEsODIwMTU0OTkxLDg0MTcxNzgxMSwtNDA2OTgyNzIy
-LDIxMDQ0MDA2MjQsLTE1ODg0MTAzMjQsMTA4NDEwNzk1MCw2NT
-I0Nzg2MzgsLTM4NzQ3MjU4NywtMjAzODc3MzM2MSwtMTA2OTI2
-NTczNiw1NTYzMDQ0NjgsLTE1MTUxNTIxMjMsNDI5MjE1OTg5LD
-IwMjM2MzcyMywxNTY5NTYyODI2LDEyMjI1MjMzNzMsLTEyMjU3
-ODAxMjddfQ==
+eyJoaXN0b3J5IjpbMTU2MTk5NDMyNSwxMzI3NTkxMTg4LDE2Mz
+k2MTI3MSw4MjAxNTQ5OTEsODQxNzE3ODExLC00MDY5ODI3MjIs
+MjEwNDQwMDYyNCwtMTU4ODQxMDMyNCwxMDg0MTA3OTUwLDY1Mj
+Q3ODYzOCwtMzg3NDcyNTg3LC0yMDM4NzczMzYxLC0xMDY5MjY1
+NzM2LDU1NjMwNDQ2OCwtMTUxNTE1MjEyMyw0MjkyMTU5ODksMj
+AyMzYzNzIzLDE1Njk1NjI4MjYsMTIyMjUyMzM3MywtMTIyNTc4
+MDEyN119
 -->
