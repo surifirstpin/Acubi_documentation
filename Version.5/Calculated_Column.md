@@ -89,7 +89,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 <b>AcuBi supports following functionalities in calculated column :</b>
 
 ### General
-| <b>Name| Description  | Usage and  Example|
+| <b>Name</b>| <b>Description</b>  | <b>Usage and  Example</b>|
 |--|--|--|
 |Offset  |Return the row value of the column mentioned as before or after based on  -Ve or +Ve number given  | bi.offset(#{col_name}, row_difference) |
 |pivot_offset|Returns the cell value of pivot table based on the Row and Column position given respectively.Row number:  +Ve & -Ve are for below & above positions Column number : +Ve and -Ve are for after & before positions|bi.pivot_offset(#{col_name} ,m,n) for Example: m is row number & n is column number|
@@ -105,7 +105,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 |col_running_avg|Returns the average value up to current cell for a column|bi.col_running_avg(#{col_name})|
 
 ### Statistics
-|  **Name** | **Description** | **Usage & Example** |
+|  <b>Name</b> | <b>Description</b> | <b>Usage & Example</b> |
 |  :------: | :------: | :------: |
 |  unequal | Returns true / false if the inputs given are not equal. | bi.unequal(m,n)<br/>Returns true if m=n else false |
 |  mad | Returns the Median Absolute Deviation for the inputs | bi.mad(p1,p2,p3,......)<br/>Ex: bi.mad(100,200) = 50 |
@@ -121,7 +121,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 
 ### Date
 
-|  **Name** | **Description** | **Usage & Example** |
+|  <b>Name</b> | **Description** | **Usage & Example** |
 |  :------: | :------: | :------: |
 |  date_to_week | Returns the week number in the year for the date given | bi.date_to_week(${col_name})<br/>Ex: bi.date_to_week(“2018-02-11”) = 7 |
 |  date_to_month | Returns the month number in the year for the date given | bi.date_to_month(${col_name})<br/>Ex: bi.date_to_month(“2018-02-11”) = 2 |
@@ -451,7 +451,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyNDA0MTksMTYzOTYxMjcxLDgyMDE1ND
+eyJoaXN0b3J5IjpbMTIxMTc2ODQsMTYzOTYxMjcxLDgyMDE1ND
 k5MSw4NDE3MTc4MTEsLTQwNjk4MjcyMiwyMTA0NDAwNjI0LC0x
 NTg4NDEwMzI0LDEwODQxMDc5NTAsNjUyNDc4NjM4LC0zODc0Nz
 I1ODcsLTIwMzg3NzMzNjEsLTEwNjkyNjU3MzYsNTU2MzA0NDY4
