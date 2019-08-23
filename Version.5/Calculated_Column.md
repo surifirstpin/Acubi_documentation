@@ -214,13 +214,13 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 
 ### String
 
-|  <b>Name<b> | **Description** | **Example** |
+|  <b>Name<b> | <b>Description</b> | <b>Example</b> |
 |  :------: | :------: | :------: |
 |  format | Returns string format a value of any type, | bi.format(value) = 'value',<br/>Ex: bi.format(6.4)=’6.4’ & bi.format(21385, 2) = '21000' |
 |  print | Return the results after interpolating a value into a string template | bi.print(“String $Value String”,{Value : number})<br/>Ex: bi.print('John is $age years old', {age: 8}) returns<br/> 'John mark is 8 years old' |
 
 ### Relational
-|  **Name** | **Description** | **Example** |
+|  <b>Name</b> | <b>Description</b> | <b>Example</b> |
 |  :------: | :------: | :------: |
 |  compare | Returns -1, 1, 0 after comparing two given values<br/>Syntax: bi.compare(x,y) <br/>Returns -1 if x<y<br/>Returns 1 if x >y<br/>Returns 0 if x=y | bi.compare(6,2) = 1,<br/>bi.compare(2,6) = -1,<br/>bi.compare(6,6) = 0 |
 |  deepEqual | Returns true / false after comparing the given values or list | bi.deepEqual(x,y)<br/>Ex: bi.deepEqual(6,8) = false , bi.deepEqual(6,6) = true<br/>For a = [2, 5, 1]  & b = [2, 7, 1] then bi.deepEqual(a, b) = false |
@@ -232,7 +232,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 
 ### Trigonometry
 
-|  **Name** | **Description** | **Example** |
+|  <b>Name</b> | <b>Description</b> | <b>Example</b> |
 |  :------: | :------: | :------: |
 |  sin | Returns the sine of a value. | bi.sin(value)<br/>Ex: bi.sin(0) = 0,bi.sin(90) = 1 |
 |  cos | Returns the cosine of a value. | bi.cos(value)<br/>Ex: bi.cos(60) = 0.5 |
@@ -262,7 +262,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 
 ### Constant
 
-|  **Name** | **Description** | **Example** |
+|  <b>Name | **Description** | **Example** |
 |  :------: | :------: | :------: |
 |  e, E | Returns the Euler’s number, the base of the natural logarithm | 2.71828182845904 |
 |  i | Returns Imaginary unit, defined as i*i = -1. A complex number is described as a + bi, where a is the real part, and b is the imaginary part. | sqrt(-1) |
@@ -451,11 +451,11 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzU5MTE4OCwxNjM5NjEyNzEsODIwMT
-U0OTkxLDg0MTcxNzgxMSwtNDA2OTgyNzIyLDIxMDQ0MDA2MjQs
-LTE1ODg0MTAzMjQsMTA4NDEwNzk1MCw2NTI0Nzg2MzgsLTM4Nz
-Q3MjU4NywtMjAzODc3MzM2MSwtMTA2OTI2NTczNiw1NTYzMDQ0
-NjgsLTE1MTUxNTIxMjMsNDI5MjE1OTg5LDIwMjM2MzcyMywxNT
-Y5NTYyODI2LDEyMjI1MjMzNzMsLTEyMjU3ODAxMjcsLTI0MzEz
-ODE2N119
+eyJoaXN0b3J5IjpbLTE3ODIxMDQyNTYsMTMyNzU5MTE4OCwxNj
+M5NjEyNzEsODIwMTU0OTkxLDg0MTcxNzgxMSwtNDA2OTgyNzIy
+LDIxMDQ0MDA2MjQsLTE1ODg0MTAzMjQsMTA4NDEwNzk1MCw2NT
+I0Nzg2MzgsLTM4NzQ3MjU4NywtMjAzODc3MzM2MSwtMTA2OTI2
+NTczNiw1NTYzMDQ0NjgsLTE1MTUxNTIxMjMsNDI5MjE1OTg5LD
+IwMjM2MzcyMywxNTY5NTYyODI2LDEyMjI1MjMzNzMsLTEyMjU3
+ODAxMjddfQ==
 -->
