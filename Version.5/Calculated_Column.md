@@ -208,7 +208,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 |  zeros | Create a matrix filled with zeros. | Ex:var A = [[1, 2, 3], [4, 5, 6]];<br/>      bi.zeros(size(A)) returns  [[0, 0, 0], [0, 0, 0]] |
 
 ### Geometry
-|  **Name** | **Description** | **Example** |
+|  <b>Name</b> | <b>Description</b> | <b>Example</b> |
 |  :------: | :------: | :------: |
 |  distance | Results the euclidean distance between two points in 2 and 3 dimensional spaces. | distance([x1, y1], [x2, y2]) = distance([0,0], [4,4]) = 5.6569. |
 
@@ -451,7 +451,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTk0Mjk5MywxNjM5NjEyNzEsODIwMT
+eyJoaXN0b3J5IjpbMTM5MjE2MTU0NiwxNjM5NjEyNzEsODIwMT
 U0OTkxLDg0MTcxNzgxMSwtNDA2OTgyNzIyLDIxMDQ0MDA2MjQs
 LTE1ODg0MTAzMjQsMTA4NDEwNzk1MCw2NTI0Nzg2MzgsLTM4Nz
 Q3MjU4NywtMjAzODc3MzM2MSwtMTA2OTI2NTczNiw1NTYzMDQ0
