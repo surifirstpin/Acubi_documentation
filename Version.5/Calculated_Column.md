@@ -89,7 +89,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 <b>AcuBi supports following functionalities in calculated column :</b>
 
 ### General
-| **Name**| **Description**  | **Usage and  Example**|
+| <b>Name| Description  | Usage and  Example|
 |--|--|--|
 |Offset  |Return the row value of the column mentioned as before or after based on  -Ve or +Ve number given  | bi.offset(#{col_name}, row_difference) |
 |pivot_offset|Returns the cell value of pivot table based on the Row and Column position given respectively.Row number:  +Ve & -Ve are for below & above positions Column number : +Ve and -Ve are for after & before positions|bi.pivot_offset(#{col_name} ,m,n) for Example: m is row number & n is column number|
@@ -451,11 +451,11 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTYxMjcxLDgyMDE1NDk5MSw4NDE3MT
-c4MTEsLTQwNjk4MjcyMiwyMTA0NDAwNjI0LC0xNTg4NDEwMzI0
-LDEwODQxMDc5NTAsNjUyNDc4NjM4LC0zODc0NzI1ODcsLTIwMz
-g3NzMzNjEsLTEwNjkyNjU3MzYsNTU2MzA0NDY4LC0xNTE1MTUy
-MTIzLDQyOTIxNTk4OSwyMDIzNjM3MjMsMTU2OTU2MjgyNiwxMj
-IyNTIzMzczLC0xMjI1NzgwMTI3LC0yNDMxMzgxNjcsLTY3NTQ3
-NTI1NV19
+eyJoaXN0b3J5IjpbOTIyNDA0MTksMTYzOTYxMjcxLDgyMDE1ND
+k5MSw4NDE3MTc4MTEsLTQwNjk4MjcyMiwyMTA0NDAwNjI0LC0x
+NTg4NDEwMzI0LDEwODQxMDc5NTAsNjUyNDc4NjM4LC0zODc0Nz
+I1ODcsLTIwMzg3NzMzNjEsLTEwNjkyNjU3MzYsNTU2MzA0NDY4
+LC0xNTE1MTUyMTIzLDQyOTIxNTk4OSwyMDIzNjM3MjMsMTU2OT
+U2MjgyNiwxMjIyNTIzMzczLC0xMjI1NzgwMTI3LC0yNDMxMzgx
+NjddfQ==
 -->
