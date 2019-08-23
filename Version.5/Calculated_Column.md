@@ -44,7 +44,7 @@ Click on <b>Calculated Column</b> button (Refer Image 1) it will navigate to cal
 
 - <b>Calculation:</b>  Derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
 
-> < b>Note :</b> Replace Dollar Symbol with Hashtag to fetch the appropriate data.
+> <b> Note :</b> Replace Dollar Symbol with Hashtag to fetch the appropriate data.
 
 -  <b>Calculate on Raw data:</b>   if enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
 
@@ -451,10 +451,11 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwMTU0OTkxLDg0MTcxNzgxMSwtNDA2OT
-gyNzIyLDIxMDQ0MDA2MjQsLTE1ODg0MTAzMjQsMTA4NDEwNzk1
-MCw2NTI0Nzg2MzgsLTM4NzQ3MjU4NywtMjAzODc3MzM2MSwtMT
-A2OTI2NTczNiw1NTYzMDQ0NjgsLTE1MTUxNTIxMjMsNDI5MjE1
-OTg5LDIwMjM2MzcyMywxNTY5NTYyODI2LDEyMjI1MjMzNzMsLT
-EyMjU3ODAxMjcsLTI0MzEzODE2NywtNjc1NDc1MjU1XX0=
+eyJoaXN0b3J5IjpbMTYzOTYxMjcxLDgyMDE1NDk5MSw4NDE3MT
+c4MTEsLTQwNjk4MjcyMiwyMTA0NDAwNjI0LC0xNTg4NDEwMzI0
+LDEwODQxMDc5NTAsNjUyNDc4NjM4LC0zODc0NzI1ODcsLTIwMz
+g3NzMzNjEsLTEwNjkyNjU3MzYsNTU2MzA0NDY4LC0xNTE1MTUy
+MTIzLDQyOTIxNTk4OSwyMDIzNjM3MjMsMTU2OTU2MjgyNiwxMj
+IyNTIzMzczLC0xMjI1NzgwMTI3LC0yNDMxMzgxNjcsLTY3NTQ3
+NTI1NV19
 -->
