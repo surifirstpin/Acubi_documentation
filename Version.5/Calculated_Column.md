@@ -214,7 +214,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 
 ### String
 
-|  **Name** | **Description** | **Example** |
+|  <b>Name<b> | **Description** | **Example** |
 |  :------: | :------: | :------: |
 |  format | Returns string format a value of any type, | bi.format(value) = 'value',<br/>Ex: bi.format(6.4)=’6.4’ & bi.format(21385, 2) = '21000' |
 |  print | Return the results after interpolating a value into a string template | bi.print(“String $Value String”,{Value : number})<br/>Ex: bi.print('John is $age years old', {age: 8}) returns<br/> 'John mark is 8 years old' |
@@ -451,7 +451,7 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjE2MTU0NiwxNjM5NjEyNzEsODIwMT
+eyJoaXN0b3J5IjpbMTMyNzU5MTE4OCwxNjM5NjEyNzEsODIwMT
 U0OTkxLDg0MTcxNzgxMSwtNDA2OTgyNzIyLDIxMDQ0MDA2MjQs
 LTE1ODg0MTAzMjQsMTA4NDEwNzk1MCw2NTI0Nzg2MzgsLTM4Nz
 Q3MjU4NywtMjAzODc3MzM2MSwtMTA2OTI2NTczNiw1NTYzMDQ0
