@@ -121,7 +121,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 
 ### Date
 
-|  <b>Name</b> | **Description** | **Usage & Example** |
+|  <b>Name</b> | <b>Description</b> | <b>Usage & Example</b> |
 |  :------: | :------: | :------: |
 |  date_to_week | Returns the week number in the year for the date given | bi.date_to_week(${col_name})<br/>Ex: bi.date_to_week(“2018-02-11”) = 7 |
 |  date_to_month | Returns the month number in the year for the date given | bi.date_to_month(${col_name})<br/>Ex: bi.date_to_month(“2018-02-11”) = 2 |
@@ -134,7 +134,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 
 ### Bitwise Operator
 
-|  **Name** | **Description** | **Usage & Example** |
+|  <b>Name</b> | <b>Description</b> | <b>Usage & Example</b> |
 |  :------: | :------: | :------: |
 |  bitAnd | Bitwise AND two values, x & y. Ex. bit And(x, y) | bi.bitAnd(53, 131) = 1 |
 |  bitNot | Bitwise NOT value, ~x. | bi.bitNot(1) = -2, <br/>bi.bitNot([2,-3,4]) = [-3,2,5] |
@@ -146,7 +146,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 
 ### Arithmetic
 
-|  **Name** | **Description** | **Example** |
+|  <b>Name</b> | <b>Description</b> | <b>Example</b> |
 |  :------: | :------: | :------: |
 |  abs | Returns the absolute value of a number<br/>It removes negative symbol for a negative value and displays the result as positive value | bi.abs(${Col_name})<br/>Ex: bi.abs(-2) = 2 |
 |  add | Returns the value which obtained by adding the given list of values | bi.add(p1,p2,p3,.....)<br/>Ex: bi.add(3,4) = 7 |
@@ -181,7 +181,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 
 ### Matrix
 
-|  **Name** | **Description** | **Example** |
+|  <b>Name</b> | <b>Description</b> | <b>Example</b> |
 |  :------: | :------: | :------: |
 |  concat | Returns the array or text after concatenating two or more texts or matrices. | bi.concat(a,b)<br/>Ex: bi.concat(“Hello” ,”  World”) = “Hello  World”<br/>For  A = [[1, 2], [5, 6]] & B = [[3, 4], [7, 8]] <br/>bi.concat(A, B) = [[1, 2, 3, 4], [5, 6, 7, 8]] |
 |  Cross | Returns the cross product for two vectors in three dimensional space. | Ex:bi.cross(A, B) = [ a2 b3 - a3 b2, a3 b1 - a1 b3, a1 b2 - a2b1 ]  |
@@ -451,11 +451,11 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTc2ODQsMTYzOTYxMjcxLDgyMDE1ND
-k5MSw4NDE3MTc4MTEsLTQwNjk4MjcyMiwyMTA0NDAwNjI0LC0x
-NTg4NDEwMzI0LDEwODQxMDc5NTAsNjUyNDc4NjM4LC0zODc0Nz
-I1ODcsLTIwMzg3NzMzNjEsLTEwNjkyNjU3MzYsNTU2MzA0NDY4
-LC0xNTE1MTUyMTIzLDQyOTIxNTk4OSwyMDIzNjM3MjMsMTU2OT
-U2MjgyNiwxMjIyNTIzMzczLC0xMjI1NzgwMTI3LC0yNDMxMzgx
-NjddfQ==
+eyJoaXN0b3J5IjpbLTQ3OTk0Mjk5MywxNjM5NjEyNzEsODIwMT
+U0OTkxLDg0MTcxNzgxMSwtNDA2OTgyNzIyLDIxMDQ0MDA2MjQs
+LTE1ODg0MTAzMjQsMTA4NDEwNzk1MCw2NTI0Nzg2MzgsLTM4Nz
+Q3MjU4NywtMjAzODc3MzM2MSwtMTA2OTI2NTczNiw1NTYzMDQ0
+NjgsLTE1MTUxNTIxMjMsNDI5MjE1OTg5LDIwMjM2MzcyMywxNT
+Y5NTYyODI2LDEyMjI1MjMzNzMsLTEyMjU3ODAxMjcsLTI0MzEz
+ODE2N119
 -->
