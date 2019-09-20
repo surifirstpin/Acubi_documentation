@@ -2,7 +2,7 @@
 
 
 
-<center><h2>AcuBI HOMEPAGE</h1></center>
+<center><h2>AcuBI Login</h1></center>
 
 ## How to Login AcuBi ?
 
