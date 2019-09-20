@@ -16,7 +16,7 @@ To get started with AcuBi Login, Follow the below steps:
 
 -  Enter  <b>Username</b> and <b>Password</b>
 
-- Hit the  <b>Login</b> button navigate to AcuBi  Homepage
+- Hit the  <b>Login</b> button, it will navigate to AcuBi  Homepage
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/Homepage_v5.png)
@@ -40,5 +40,5 @@ Hit <b>Logout</b> button to logout from AcuBi homepage.
 
  <b><font color = "Black"> Image 4</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwNjA1NDE3XX0=
+eyJoaXN0b3J5IjpbMjA3NDQ1NzM3OCw2MTA2MDU0MTddfQ==
 -->
