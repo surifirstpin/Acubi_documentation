@@ -11,7 +11,8 @@ To view personalized homepage, Navigate to Homepage Section. Homepage displays v
 After Navigating to Dashboard section, choose a dashboard or report then click on Set Homepage icon.  ![Screenshot 2016-06-12 19.01.09](http://ltb.io/wp-content/uploads/2016/06/Screenshot-2016-06-12-19.01.09.png)
 (Refer image below)
 
-To set Dashboard report on Homepage, Click set homepage icon under <b> My Space.<b>
+
+To set Dashboard report on Homepage, Click set homepage icon under <b> My Space.</b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/06adcdcb3704f696db76acff0673c2592477b8f4/images/New_version5/TD_Homepage_2.png)
 <b><font color = "Black"> Image 2</b>
@@ -48,11 +49,11 @@ Resultant, this report is displayed on Homepage Screen.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1f09b6be737d29d65cbb169ba045c2059ff7433f/images/New_version5/TD_Homepage_7.png)
 <b><font color = "Black"> Image 8</b>
 
-To add more filters click  <b> Add Filters.
+To add more filters click  <b> Add Filters.</b>
 
-**For Example :**  Consider timeline filter for date greater than or equal to August 01 2019.
+<b>For Example :</b>  Consider timeline filter for date greater than or equal to August 01 2019.
 
-1.  To apply the newly added filter click on  **Apply**  Button.
+1.  To apply the newly added filter click on  <b>Apply</b>  Button.
 
 2. To Save the added filter click <b> Save.</b>
 
@@ -75,6 +76,6 @@ To Download and refresh the current homepage report click on setting icon and se
     
 -   <b>Download XLXS</b> download the dashboard report in Excel format.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTY1MzIxNywxNzkyMzA4MDk1LC0xMT
+eyJoaXN0b3J5IjpbMjA0MDEyODQzNSwxNzkyMzA4MDk1LC0xMT
 k0MzQ2NDMzXX0=
 -->
