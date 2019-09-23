@@ -66,16 +66,16 @@ To Download and refresh the current homepage report click on setting icon and se
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7b45659831bb6be5b3edf29337f98e822eb0c736/images/New_version5/TD_Homepage_8.png)
 <b><font color = "Black"> Image 9</b>
 
--   <b>Refresh</b>  displays the most recent data information of the report.
+-   <b>Refresh:</b>  displays the most recent data information of the report.
     
--   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard or report.
+-   <b>Hard Refresh: </b>  displays the most recent data information by clearing the cache for specific dashboard or report.
     
--   <b>Download CSV</b> downloads the dashboard report in CSV format.
+-   <b>Download CSV: </b> downloads the dashboard report in CSV format.
     
--   <b>Download CSV;</b> downloads the grouped list.
+-   <b>Download CSV: </b> downloads the grouped list.
     
--   <b>Download XLXS</b> downloads the dashboard report in Excel format.
+-   <b>Download XLXS: </b> downloads the dashboard report in Excel format.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjY1ODY3NiwyMDQwMTI4NDM1LDE3OT
-IzMDgwOTUsLTExOTQzNDY0MzNdfQ==
+eyJoaXN0b3J5IjpbMTY5MTMzOTA2MywxODYyNjU4Njc2LDIwND
+AxMjg0MzUsMTc5MjMwODA5NSwtMTE5NDM0NjQzM119
 -->
