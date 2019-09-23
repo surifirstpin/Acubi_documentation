@@ -19,6 +19,7 @@ To set Dashboard report on Homepage, Click set homepage icon under <b> My Space.
 It will pop-up success messages as shown below. Click ok to continue.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ed50074f9ff74061c21e0abef3c27ee5fd2d9c1c/images/New_version5/TD_Homepage_5.png)
+
 <b><font color = "Black"> Image 3 </b>
 
 Resultant, this dashboard is displayed on Homepage Screen.
@@ -34,6 +35,7 @@ Similarly to setup report on homepage, Click <b>Set homepage icon</b> for report
 It will pop-up success messages as shown below. Click <b>Ok</b> to continue.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ed50074f9ff74061c21e0abef3c27ee5fd2d9c1c/images/New_version5/TD_Homepage_5.png)
+
 <b><font color = "Black"> Image 6 </b>
 
 Resultant, this report is displayed on Homepage Screen.
@@ -73,5 +75,5 @@ To Download and refresh the current homepage report click on setting icon and se
     
 -   <b>Download XLXS</b> download the dashboard report in Excel format.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQzNDY0MzNdfQ==
+eyJoaXN0b3J5IjpbMTc5MjMwODA5NSwtMTE5NDM0NjQzM119
 -->
