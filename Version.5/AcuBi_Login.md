@@ -2,7 +2,7 @@
 
 
 
-<center><h2>AcuBI HOMEPAGE</h1></center>
+<center><h2>AcuBI LOGIN</h1></center>
 
 ## How to Login AcuBi ?
 
@@ -40,5 +40,6 @@ Hit <b>Logout</b> button to logout from AcuBi homepage.
 
  <b><font color = "Black"> Image 4</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDQ1NzM3OCw2MTA2MDU0MTddfQ==
+eyJoaXN0b3J5IjpbMTIwNTI4NzMzNywyMDc0NDU3Mzc4LDYxMD
+YwNTQxN119
 -->
