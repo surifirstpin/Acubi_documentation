@@ -70,12 +70,12 @@ To Download and refresh the current homepage report click on setting icon and se
     
 -   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard or report.
     
--   <b>Download CSV</b> download the dashboard report in CSV format.
+-   <b>Download CSV</b> downloads the dashboard report in CSV format.
     
--   <b>Download CSV;</b> download the grouped list.
+-   <b>Download CSV;</b> downloads the grouped list.
     
--   <b>Download XLXS</b> download the dashboard report in Excel format.
+-   <b>Download XLXS</b> downloads the dashboard report in Excel format.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDEyODQzNSwxNzkyMzA4MDk1LC0xMT
-k0MzQ2NDMzXX0=
+eyJoaXN0b3J5IjpbMTg2MjY1ODY3NiwyMDQwMTI4NDM1LDE3OT
+IzMDgwOTUsLTExOTQzNDY0MzNdfQ==
 -->
