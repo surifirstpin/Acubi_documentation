@@ -36,6 +36,5 @@ Hit <b>Logout</b> button to logout from AcuBi homepage.
  
  <b><font color = "Black"> Image 4</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDAyNzgwOSwxMjA1Mjg3MzM3LDIwNz
-Q0NTczNzgsNjEwNjA1NDE3XX0=
+eyJoaXN0b3J5IjpbLTgyMDAyNzgwOV19
 -->
