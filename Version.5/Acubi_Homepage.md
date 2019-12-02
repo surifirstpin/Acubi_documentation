@@ -8,10 +8,7 @@ To view personalized homepage, Navigate to homepage section. Homepage displays v
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d3e23c9c44e29362626d80c69176c75a5f76f9d9/images/New_version5/TD_Homepage_1.png)
 <b><font color = "Black"> Image 1</b>
 
-After Navigating to Dashboard section, choose a dashboard or report then click on Set Homepage icon.  
-![Screenshot 2016-06-12 19.01.09](http://ltb.io/wp-content/uploads/2016/06/Screenshot-2016-06-12-19.01.09.png)
-(Refer image below)
-
+After Navigating to Dashboard section, choose a dashboard or report then click on Set Homepage icon.  (Refer image below)
 
 To set Dashboard report on Homepage, Click set homepage icon under <b> My Space.</b>
 
@@ -77,7 +74,7 @@ To Download and refresh the current homepage report click on setting icon and se
     
 -   <b>Download XLXS: </b> downloads the dashboard report in Excel format.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA2MzM4ODMsMTE0NjY5MjkxOSwxNj
-kxMzM5MDYzLDE4NjI2NTg2NzYsMjA0MDEyODQzNSwxNzkyMzA4
-MDk1LC0xMTk0MzQ2NDMzXX0=
+eyJoaXN0b3J5IjpbLTkzNzM3NDYxNSwtMTY5MDYzMzg4MywxMT
+Q2NjkyOTE5LDE2OTEzMzkwNjMsMTg2MjY1ODY3NiwyMDQwMTI4
+NDM1LDE3OTIzMDgwOTUsLTExOTQzNDY0MzNdfQ==
 -->
