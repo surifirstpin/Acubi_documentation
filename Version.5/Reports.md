@@ -331,16 +331,19 @@ Click on Charts, to view the different type of pictorial representation for the 
 
 - <b>Currency</b> AcuBi supports following currency formats $,   ₹  ,   €  ,  £.
 
-## Save Report
 
 <b>21.</b> Click <b>Save</b> Button to Save the Report.
 
-  -  It will navigate to Save Report Page. 
+  > <b>Note:</b>  It will navigate to Save Report Page. 
   
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/4d53ac9064e170dbaa096a06ba3517219d691b1c/images/New_version5/UD_Reports_Image14.png)
+**22.**  To download a report, click on  **Download (icon)**  button as shown in the image below.
+
+ ![
+](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png) 
 
  <b><font color = "Black"> Image 14</b>
+
+## Save Report
 
 Under <b>Save Report</b> page provide all the below information to save a report for further accessing.
 
@@ -428,17 +431,14 @@ Similarly, for report definition for yesterdays data :
 
 
 
-**22.**  To download a report, click on  **Download (icon)**  button as shown in the image below.
 
- ![
-](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png) 
-<b><font color = "Black"> Image 24</b>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTc3ODI5LDIwMzQ5NTA4MDMsMzk0Mj
-A0MjY0LDE1ODI1MTkzMzAsNzA0NzQwMjUwLDE5ODk1ODkxNzIs
-LTQ4MDU0MTk3OSwtMjExODE4NzExMCw4MjA2MTQzMzQsODAxMj
-E5ODg4LDQ3MzEwMDQwMCwtMTcyOTcxMjUzMCwtMjAyOTcwODcz
-Nyw0ODEwODM5NzEsMTgyOTQ2ODM4MCwtMTQ3OTczMTg4Niw2Nz
-UyOTc0NTEsNzY4NzIxMTkxLDEwMzM2MjM5NTQsLTExMzg1ODEz
-ODldfQ==
+eyJoaXN0b3J5IjpbLTE0ODk3OTQwODQsMjAzNDk1MDgwMywzOT
+QyMDQyNjQsMTU4MjUxOTMzMCw3MDQ3NDAyNTAsMTk4OTU4OTE3
+MiwtNDgwNTQxOTc5LC0yMTE4MTg3MTEwLDgyMDYxNDMzNCw4MD
+EyMTk4ODgsNDczMTAwNDAwLC0xNzI5NzEyNTMwLC0yMDI5NzA4
+NzM3LDQ4MTA4Mzk3MSwxODI5NDY4MzgwLC0xNDc5NzMxODg2LD
+Y3NTI5NzQ1MSw3Njg3MjExOTEsMTAzMzYyMzk1NCwtMTEzODU4
+MTM4OV19
 -->
