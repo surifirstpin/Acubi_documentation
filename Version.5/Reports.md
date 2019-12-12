@@ -400,13 +400,13 @@ To know weather the data extracted in reports contains <b> Today </b> or <b> Yes
  - Select <b>Check Data Field</b> (Date field).
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eeacf708948fafc3fe1370acd16b40d2f1c1ee27/images/New_version5/TD_SAVE_REPORT_6.png)
-<b><font color = "Black"> Image 20</b>
+<b><font color = "Black"> Image 19</b>
 
 
-Click Save to save the report in databade.
+Click Save to save the report in database.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b942829d80230e5d68037ac36e76c3869586e30b/images/New_version5/UD_Reports_Image16.png)
-
+<b><font color = "Black"> Image 20</b>
 
 ## Report Definition
 
@@ -430,9 +430,10 @@ Similarly, for report definition for yesterdays data:
 **22.**  To download a report, click on  **Download (icon)**  button as shown in the image below.
 
  ![
-](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)  **Image 17**
+](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)  
+<b><font color = "Black"> Image 24</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzkzMDgwLDE5ODk1ODkxNzIsLTQ4MD
+eyJoaXN0b3J5IjpbNzA0NzQwMjUwLDE5ODk1ODkxNzIsLTQ4MD
 U0MTk3OSwtMjExODE4NzExMCw4MjA2MTQzMzQsODAxMjE5ODg4
 LDQ3MzEwMDQwMCwtMTcyOTcxMjUzMCwtMjAyOTcwODczNyw0OD
 EwODM5NzEsMTgyOTQ2ODM4MCwtMTQ3OTczMTg4Niw2NzUyOTc0
