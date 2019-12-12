@@ -371,7 +371,7 @@ Filter are used to extract only specific data you want to view. This function is
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5c20a9d86f105fcc871e95e0dfc3ccb1b2d05a6d/images/New_version5/TD_SAVE_REPORT_2.png)
 
-<b><font color = "Black"> Image 2</b>
+<b><font color = "Black"> Image 17</b>
 
 ><b>Note:</b> This filter field derived in save report window should be derived initially in report window.
 
@@ -386,7 +386,7 @@ Cache saves the data, so the future request for the data is provided faster.
 - <b>Repeat every</b> Enables automatic repeat in specified time range.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f9fdd23f5f62ead411830f4a98d2984c76abf33b/images/New_version5/TD_SAVE_REPORT_3.png)
-<b><font color = "Black"> Image 3</b>
+<b><font color = "Black"> Image 18</b>
 
 ## Check Data
 
@@ -395,35 +395,42 @@ To know weather the data extracted in reports contains <b> Today </b> or <b> Yes
  - Select <b> Check Data</b> (Today).
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eeacf708948fafc3fe1370acd16b40d2f1c1ee27/images/New_version5/TD_SAVE_REPORT_5.png)
-<b><font color = "Black"> Image 4</b>
+<b><font color = "Black"> Image 19</b>
 
  - Select <b>Check Data Field</b> (Date field).
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eeacf708948fafc3fe1370acd16b40d2f1c1ee27/images/New_version5/TD_SAVE_REPORT_6.png)
-<b><font color = "Black"> Image 5</b>
+<b><font color = "Black"> Image 20</b>
 
 ## Report Definition
 
 To view weather today's data existed in the list, go to Dashboard section-->Reports-->Click on report, on top right of the screen it display a <i><b>green circle</b></i>, click on it to view report definition.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_7.png)
-<b><font color = "Black"> Image 6</b>
+<b><font color = "Black"> Image 21</b>
 
 Report definition for today's data.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_8.png)
-<b><font color = "Black"> Image 7</b>
+<b><font color = "Black"> Image 22</b>
 
 Similarly, for report definition for yesterdays data:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_9.png)
-<b><font color = "Black"> Image 8</b>
+<b><font color = "Black"> Image 23</b>
+
+
+
+**22.**  To download a report, click on  **Download (icon)**  button as shown in the image below.
+
+ ![
+](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)  **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODg0MTkwNDMsLTQ4MDU0MTk3OSwtMj
-ExODE4NzExMCw4MjA2MTQzMzQsODAxMjE5ODg4LDQ3MzEwMDQw
-MCwtMTcyOTcxMjUzMCwtMjAyOTcwODczNyw0ODEwODM5NzEsMT
-gyOTQ2ODM4MCwtMTQ3OTczMTg4Niw2NzUyOTc0NTEsNzY4NzIx
-MTkxLDEwMzM2MjM5NTQsLTExMzg1ODEzODksLTE3MDk0NTY5MD
-ksLTUwMTM5MzczNywtNTAzNDkwNjUwLC02OTYxMzQzNzUsNTM4
-NzkzMDBdfQ==
+eyJoaXN0b3J5IjpbMTk4OTU4OTE3MiwtNDgwNTQxOTc5LC0yMT
+E4MTg3MTEwLDgyMDYxNDMzNCw4MDEyMTk4ODgsNDczMTAwNDAw
+LC0xNzI5NzEyNTMwLC0yMDI5NzA4NzM3LDQ4MTA4Mzk3MSwxOD
+I5NDY4MzgwLC0xNDc5NzMxODg2LDY3NTI5NzQ1MSw3Njg3MjEx
+OTEsMTAzMzYyMzk1NCwtMTEzODU4MTM4OSwtMTcwOTQ1NjkwOS
+wtNTAxMzkzNzM3LC01MDM0OTA2NTAsLTY5NjEzNDM3NSw1Mzg3
+OTMwMF19
 -->
