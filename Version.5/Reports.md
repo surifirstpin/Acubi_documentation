@@ -341,47 +341,85 @@ Click on Charts, to view the different type of pictorial representation for the 
 ](https://raw.githubusercontent.com/sv18042016/fp1/4d53ac9064e170dbaa096a06ba3517219d691b1c/images/New_version5/UD_Reports_Image14.png)
  <b><font color = "Black"> Image 15</b>
 
-<b><i>Fill the following fields in save explore page</i></b>
+Under <b>Save Report</b> page provide all the below information to save a report for further accessing.
 
--   <b>Report Name</b>  Name identifier for a report. ( AcuBi allows special character but does not support any spaces )
-    
--   <b>Title</b>  label for the report the way you want it to appear.
-    
--   <b>Info</b>  displays any specific information about the report.
-    
--   <b>Privacy</b>  you can save the report in any one of the following privacy option.
-   
-    -   <b>Private ()</b>  report saved in private section and accessed by the user itself.
-    -   <b>Public ()</b>  the report is saved in public section and accessed by all the users.
-    -   <b>Share ()</b>  the report saved under share section and accessed by specific set of users.
-    
+- <b>Report Name :</b> Name identifier for a report. ( AcuBi allows  special character but does not  support any spaces )
+
+- <b>Title :</b> label for the report the way you want it to appear.
+
+- <b>Info :</B> Displays any specific information about the report.
+
+- <b>Privacy :</b> You can save the report in any one of the following privacy option.
+
+  - <b>Private ()</b> report saved in private section and accessed by the user itself.
+  - <b>Public  ()</b> the report is saved in public section and accessed by all the users.
+  -  <b>Share ()</b> the report saved under share section and accessed by specific set of users.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eeacf708948fafc3fe1370acd16b40d2f1c1ee27/images/New_version5/TD_SAVE_REPORT_4.png)
+
+<b><font color = "Black"> Image 6</b>
+
 ## Saving under specific tag
 
-
-All the Reports generated can be saved under any <b>Parent or Child Tag</b> available under <b>Workspace.</b>
-
+All the reports build in analysis section are saved under <b>work space</b> tag. ( Refer Image 1)
 
 ## Defining Filter fields
 
-Filter are used to extract only specific data you want to view. this function is carried out by applying filters to reports.
+Filter are used to extract only specific data you want to view. This function is carried out by applying filters to reports.
+ 
+- <b>Filter</b>  filters added in this section is automatically reflected in the filter section of dashboard reports.
 
--   <b>Filter</b>  filters added in this section is automatically reflected in the filter section of dashboard reports.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5c20a9d86f105fcc871e95e0dfc3ccb1b2d05a6d/images/New_version5/TD_SAVE_REPORT_2.png)
 
-Click <b>Save</b> to save a report in Database.
+<b><font color = "Black"> Image 2</b>
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/925f7e57b04172a1a11b2ad7d839b4b8163633a9/images/New_version5/UD_Reports_Image15.png)
- <b><font color = "Black"> Image 16</b>
+><b>Note:</b> This filter field derived in save report window should be derived initially in report window.
 
-## Download Data
+## Enable Cache 
 
-<b>22.</b>  To download a report, click on <b>Download (icon)</B> button as shown in the image below.
+Cache saves the data, so the future request for the data is provided faster.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
- <b><font color = "Black"> Image 17</b>
+- <b>Enable cache</b> multiple users can pull the report from the cache in given time frame.
+
+- <b>Time frame</b> Enables a time limit.
+
+- <b>Repeat every</b> Enables automatic repeat in specified time range.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f9fdd23f5f62ead411830f4a98d2984c76abf33b/images/New_version5/TD_SAVE_REPORT_3.png)
+<b><font color = "Black"> Image 3</b>
+
+## Check Data
+
+To know weather the data extracted in reports contains <b> Today </b> or <b> Yesterdays </b> information in list. To carry out this function enable check data with today or yesterday as shown below;
+
+ - Select <b> Check Data</b> (Today).
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eeacf708948fafc3fe1370acd16b40d2f1c1ee27/images/New_version5/TD_SAVE_REPORT_5.png)
+<b><font color = "Black"> Image 4</b>
+
+ - Select <b>Check Data Field</b> (Date field).
+ 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eeacf708948fafc3fe1370acd16b40d2f1c1ee27/images/New_version5/TD_SAVE_REPORT_6.png)
+<b><font color = "Black"> Image 5</b>
+
+## Report Definition
+
+To view weather today's data existed in the list, go to Dashboard section-->Reports-->Click on report, on top right of the screen it display a <i><b>green circle</b></i>, click on it to view report definition.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_7.png)
+<b><font color = "Black"> Image 6</b>
+
+Report definition for today's data.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_8.png)
+<b><font color = "Black"> Image 7</b>
+
+Similarly, for report definition for yesterdays data:
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_9.png)
+<b><font color = "Black"> Image 8</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE5NjYxNjgsLTQ4MDU0MTk3OSwtMj
+eyJoaXN0b3J5IjpbLTE4ODg0MTkwNDMsLTQ4MDU0MTk3OSwtMj
 ExODE4NzExMCw4MjA2MTQzMzQsODAxMjE5ODg4LDQ3MzEwMDQw
 MCwtMTcyOTcxMjUzMCwtMjAyOTcwODczNyw0ODEwODM5NzEsMT
 gyOTQ2ODM4MCwtMTQ3OTczMTg4Niw2NzUyOTc0NTEsNzY4NzIx
