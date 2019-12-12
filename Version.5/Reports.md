@@ -336,12 +336,12 @@ Click on Charts, to view the different type of pictorial representation for the 
 <b>21.</b> Click <b>Save</b> Button to Save the Report.
 
   -  It will navigate to Save Report Page. 
-
-<b><i>Fill the following fields to save the report.</i></b>
   
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/4d53ac9064e170dbaa096a06ba3517219d691b1c/images/New_version5/UD_Reports_Image14.png)
  <b><font color = "Black"> Image 15</b>
+
+<b><i>Fill the following fields in save explore page</i></b>
 
 -   <b>Report Name</b>  Name identifier for a report. ( AcuBi allows special character but does not support any spaces )
     
@@ -381,11 +381,11 @@ Click <b>Save</b> to save a report in Database.
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)
  <b><font color = "Black"> Image 17</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDU0MTk3OSwtMjExODE4NzExMCw4Mj
-A2MTQzMzQsODAxMjE5ODg4LDQ3MzEwMDQwMCwtMTcyOTcxMjUz
-MCwtMjAyOTcwODczNyw0ODEwODM5NzEsMTgyOTQ2ODM4MCwtMT
-Q3OTczMTg4Niw2NzUyOTc0NTEsNzY4NzIxMTkxLDEwMzM2MjM5
-NTQsLTExMzg1ODEzODksLTE3MDk0NTY5MDksLTUwMTM5MzczNy
-wtNTAzNDkwNjUwLC02OTYxMzQzNzUsNTM4NzkzMDAsMTEyMTY1
-ODI3MF19
+eyJoaXN0b3J5IjpbLTE3NTE5NjYxNjgsLTQ4MDU0MTk3OSwtMj
+ExODE4NzExMCw4MjA2MTQzMzQsODAxMjE5ODg4LDQ3MzEwMDQw
+MCwtMTcyOTcxMjUzMCwtMjAyOTcwODczNyw0ODEwODM5NzEsMT
+gyOTQ2ODM4MCwtMTQ3OTczMTg4Niw2NzUyOTc0NTEsNzY4NzIx
+MTkxLDEwMzM2MjM5NTQsLTExMzg1ODEzODksLTE3MDk0NTY5MD
+ksLTUwMTM5MzczNywtNTAzNDkwNjUwLC02OTYxMzQzNzUsNTM4
+NzkzMDBdfQ==
 -->
