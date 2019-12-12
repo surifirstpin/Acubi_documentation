@@ -1,7 +1,7 @@
 
 
 
-<center><h2>AcuBI Homepage</h1></center>
+<center><h1>AcuBI Homepage</h1></center>
 
 To view personalized homepage, Navigate to homepage section. Homepage displays visually representative reports and dashboards.
 
@@ -74,7 +74,8 @@ To Download and refresh the current homepage report click on setting icon and se
     
 -   <b>Download XLXS: </b> downloads the dashboard report in Excel format.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzM3NDYxNSwtMTY5MDYzMzg4MywxMT
-Q2NjkyOTE5LDE2OTEzMzkwNjMsMTg2MjY1ODY3NiwyMDQwMTI4
-NDM1LDE3OTIzMDgwOTUsLTExOTQzNDY0MzNdfQ==
+eyJoaXN0b3J5IjpbLTIwMjYwOTg0MjIsLTkzNzM3NDYxNSwtMT
+Y5MDYzMzg4MywxMTQ2NjkyOTE5LDE2OTEzMzkwNjMsMTg2MjY1
+ODY3NiwyMDQwMTI4NDM1LDE3OTIzMDgwOTUsLTExOTQzNDY0Mz
+NdfQ==
 -->
