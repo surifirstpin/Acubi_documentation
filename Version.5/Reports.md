@@ -430,14 +430,14 @@ Similarly, for report definition for yesterdays data:
 **22.**  To download a report, click on  **Download (icon)**  button as shown in the image below.
 
  ![
-](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)  
+](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png) 
 <b><font color = "Black"> Image 24</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0NzQwMjUwLDE5ODk1ODkxNzIsLTQ4MD
-U0MTk3OSwtMjExODE4NzExMCw4MjA2MTQzMzQsODAxMjE5ODg4
-LDQ3MzEwMDQwMCwtMTcyOTcxMjUzMCwtMjAyOTcwODczNyw0OD
-EwODM5NzEsMTgyOTQ2ODM4MCwtMTQ3OTczMTg4Niw2NzUyOTc0
-NTEsNzY4NzIxMTkxLDEwMzM2MjM5NTQsLTExMzg1ODEzODksLT
-E3MDk0NTY5MDksLTUwMTM5MzczNywtNTAzNDkwNjUwLC02OTYx
-MzQzNzVdfQ==
+eyJoaXN0b3J5IjpbMTU4MjUxOTMzMCw3MDQ3NDAyNTAsMTk4OT
+U4OTE3MiwtNDgwNTQxOTc5LC0yMTE4MTg3MTEwLDgyMDYxNDMz
+NCw4MDEyMTk4ODgsNDczMTAwNDAwLC0xNzI5NzEyNTMwLC0yMD
+I5NzA4NzM3LDQ4MTA4Mzk3MSwxODI5NDY4MzgwLC0xNDc5NzMx
+ODg2LDY3NTI5NzQ1MSw3Njg3MjExOTEsMTAzMzYyMzk1NCwtMT
+EzODU4MTM4OSwtMTcwOTQ1NjkwOSwtNTAxMzkzNzM3LC01MDM0
+OTA2NTBdfQ==
 -->
