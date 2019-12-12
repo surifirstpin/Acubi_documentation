@@ -420,7 +420,7 @@ Report definition for today's data.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_8.png)
 <b><font color = "Black"> Image 22</b>
 
-Similarly, for report definition for yesterdays data:
+Similarly, for report definition for yesterdays data :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_9.png)
 <b><font color = "Black"> Image 23</b>
@@ -433,11 +433,11 @@ Similarly, for report definition for yesterdays data:
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png) 
 <b><font color = "Black"> Image 24</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjUxOTMzMCw3MDQ3NDAyNTAsMTk4OT
-U4OTE3MiwtNDgwNTQxOTc5LC0yMTE4MTg3MTEwLDgyMDYxNDMz
-NCw4MDEyMTk4ODgsNDczMTAwNDAwLC0xNzI5NzEyNTMwLC0yMD
-I5NzA4NzM3LDQ4MTA4Mzk3MSwxODI5NDY4MzgwLC0xNDc5NzMx
-ODg2LDY3NTI5NzQ1MSw3Njg3MjExOTEsMTAzMzYyMzk1NCwtMT
-EzODU4MTM4OSwtMTcwOTQ1NjkwOSwtNTAxMzkzNzM3LC01MDM0
-OTA2NTBdfQ==
+eyJoaXN0b3J5IjpbMzk0MjA0MjY0LDE1ODI1MTkzMzAsNzA0Nz
+QwMjUwLDE5ODk1ODkxNzIsLTQ4MDU0MTk3OSwtMjExODE4NzEx
+MCw4MjA2MTQzMzQsODAxMjE5ODg4LDQ3MzEwMDQwMCwtMTcyOT
+cxMjUzMCwtMjAyOTcwODczNyw0ODEwODM5NzEsMTgyOTQ2ODM4
+MCwtMTQ3OTczMTg4Niw2NzUyOTc0NTEsNzY4NzIxMTkxLDEwMz
+M2MjM5NTQsLTExMzg1ODEzODksLTE3MDk0NTY5MDksLTUwMTM5
+MzczN119
 -->
