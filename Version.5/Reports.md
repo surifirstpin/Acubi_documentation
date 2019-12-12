@@ -339,6 +339,7 @@ Click on Charts, to view the different type of pictorial representation for the 
   
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/4d53ac9064e170dbaa096a06ba3517219d691b1c/images/New_version5/UD_Reports_Image14.png)
+
  <b><font color = "Black"> Image 14</b>
 
 Under <b>Save Report</b> page provide all the below information to save a report for further accessing.
@@ -433,11 +434,11 @@ Similarly, for report definition for yesterdays data :
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png) 
 <b><font color = "Black"> Image 24</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDk1MDgwMywzOTQyMDQyNjQsMTU4Mj
-UxOTMzMCw3MDQ3NDAyNTAsMTk4OTU4OTE3MiwtNDgwNTQxOTc5
-LC0yMTE4MTg3MTEwLDgyMDYxNDMzNCw4MDEyMTk4ODgsNDczMT
-AwNDAwLC0xNzI5NzEyNTMwLC0yMDI5NzA4NzM3LDQ4MTA4Mzk3
-MSwxODI5NDY4MzgwLC0xNDc5NzMxODg2LDY3NTI5NzQ1MSw3Nj
-g3MjExOTEsMTAzMzYyMzk1NCwtMTEzODU4MTM4OSwtMTcwOTQ1
-NjkwOV19
+eyJoaXN0b3J5IjpbMTkzMTc3ODI5LDIwMzQ5NTA4MDMsMzk0Mj
+A0MjY0LDE1ODI1MTkzMzAsNzA0NzQwMjUwLDE5ODk1ODkxNzIs
+LTQ4MDU0MTk3OSwtMjExODE4NzExMCw4MjA2MTQzMzQsODAxMj
+E5ODg4LDQ3MzEwMDQwMCwtMTcyOTcxMjUzMCwtMjAyOTcwODcz
+Nyw0ODEwODM5NzEsMTgyOTQ2ODM4MCwtMTQ3OTczMTg4Niw2Nz
+UyOTc0NTEsNzY4NzIxMTkxLDEwMzM2MjM5NTQsLTExMzg1ODEz
+ODldfQ==
 -->
