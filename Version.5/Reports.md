@@ -339,7 +339,7 @@ Click on Charts, to view the different type of pictorial representation for the 
   
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/4d53ac9064e170dbaa096a06ba3517219d691b1c/images/New_version5/UD_Reports_Image14.png)
- <b><font color = "Black"> Image 15</b>
+ <b><font color = "Black"> Image 14</b>
 
 Under <b>Save Report</b> page provide all the below information to save a report for further accessing.
 
@@ -357,7 +357,7 @@ Under <b>Save Report</b> page provide all the below information to save a report
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eeacf708948fafc3fe1370acd16b40d2f1c1ee27/images/New_version5/TD_SAVE_REPORT_4.png)
 
-<b><font color = "Black"> Image 6</b>
+<b><font color = "Black"> Image 15</b>
 
 ## Saving under specific tag
 
@@ -371,7 +371,7 @@ Filter are used to extract only specific data you want to view. This function is
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5c20a9d86f105fcc871e95e0dfc3ccb1b2d05a6d/images/New_version5/TD_SAVE_REPORT_2.png)
 
-<b><font color = "Black"> Image 17</b>
+<b><font color = "Black"> Image 16</b>
 
 ><b>Note:</b> This filter field derived in save report window should be derived initially in report window.
 
@@ -386,7 +386,7 @@ Cache saves the data, so the future request for the data is provided faster.
 - <b>Repeat every</b> Enables automatic repeat in specified time range.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f9fdd23f5f62ead411830f4a98d2984c76abf33b/images/New_version5/TD_SAVE_REPORT_3.png)
-<b><font color = "Black"> Image 18</b>
+<b><font color = "Black"> Image 17</b>
 
 ## Check Data
 
@@ -395,12 +395,18 @@ To know weather the data extracted in reports contains <b> Today </b> or <b> Yes
  - Select <b> Check Data</b> (Today).
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eeacf708948fafc3fe1370acd16b40d2f1c1ee27/images/New_version5/TD_SAVE_REPORT_5.png)
-<b><font color = "Black"> Image 19</b>
+<b><font color = "Black"> Image 18</b>
 
  - Select <b>Check Data Field</b> (Date field).
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eeacf708948fafc3fe1370acd16b40d2f1c1ee27/images/New_version5/TD_SAVE_REPORT_6.png)
 <b><font color = "Black"> Image 20</b>
+
+
+Click Save to save the report in databade.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b942829d80230e5d68037ac36e76c3869586e30b/images/New_version5/UD_Reports_Image16.png)
+
 
 ## Report Definition
 
@@ -426,11 +432,11 @@ Similarly, for report definition for yesterdays data:
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png)  **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTU4OTE3MiwtNDgwNTQxOTc5LC0yMT
-E4MTg3MTEwLDgyMDYxNDMzNCw4MDEyMTk4ODgsNDczMTAwNDAw
-LC0xNzI5NzEyNTMwLC0yMDI5NzA4NzM3LDQ4MTA4Mzk3MSwxOD
-I5NDY4MzgwLC0xNDc5NzMxODg2LDY3NTI5NzQ1MSw3Njg3MjEx
-OTEsMTAzMzYyMzk1NCwtMTEzODU4MTM4OSwtMTcwOTQ1NjkwOS
-wtNTAxMzkzNzM3LC01MDM0OTA2NTAsLTY5NjEzNDM3NSw1Mzg3
-OTMwMF19
+eyJoaXN0b3J5IjpbMTIwMzkzMDgwLDE5ODk1ODkxNzIsLTQ4MD
+U0MTk3OSwtMjExODE4NzExMCw4MjA2MTQzMzQsODAxMjE5ODg4
+LDQ3MzEwMDQwMCwtMTcyOTcxMjUzMCwtMjAyOTcwODczNyw0OD
+EwODM5NzEsMTgyOTQ2ODM4MCwtMTQ3OTczMTg4Niw2NzUyOTc0
+NTEsNzY4NzIxMTkxLDEwMzM2MjM5NTQsLTExMzg1ODEzODksLT
+E3MDk0NTY5MDksLTUwMTM5MzczNywtNTAzNDkwNjUwLC02OTYx
+MzQzNzVdfQ==
 -->
