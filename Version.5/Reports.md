@@ -361,7 +361,7 @@ Under <b>Save Report</b> page provide all the below information to save a report
 
 ## Saving under specific tag
 
-All the reports build in analysis section are saved under <b>work space</b> tag. ( Refer Image 1)
+All the reports build in analysis section are saved under <b>work space</b> tag. 
 
 ## Defining Filter fields
 
@@ -433,11 +433,11 @@ Similarly, for report definition for yesterdays data :
 ](https://raw.githubusercontent.com/sv18042016/fp1/92f63f8ea46e1c695d8df74cd3dd9967e3de2a40/images/New_version5/UD_Reports_Image14_11.png) 
 <b><font color = "Black"> Image 24</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0MjA0MjY0LDE1ODI1MTkzMzAsNzA0Nz
-QwMjUwLDE5ODk1ODkxNzIsLTQ4MDU0MTk3OSwtMjExODE4NzEx
-MCw4MjA2MTQzMzQsODAxMjE5ODg4LDQ3MzEwMDQwMCwtMTcyOT
-cxMjUzMCwtMjAyOTcwODczNyw0ODEwODM5NzEsMTgyOTQ2ODM4
-MCwtMTQ3OTczMTg4Niw2NzUyOTc0NTEsNzY4NzIxMTkxLDEwMz
-M2MjM5NTQsLTExMzg1ODEzODksLTE3MDk0NTY5MDksLTUwMTM5
-MzczN119
+eyJoaXN0b3J5IjpbMjAzNDk1MDgwMywzOTQyMDQyNjQsMTU4Mj
+UxOTMzMCw3MDQ3NDAyNTAsMTk4OTU4OTE3MiwtNDgwNTQxOTc5
+LC0yMTE4MTg3MTEwLDgyMDYxNDMzNCw4MDEyMTk4ODgsNDczMT
+AwNDAwLC0xNzI5NzEyNTMwLC0yMDI5NzA4NzM3LDQ4MTA4Mzk3
+MSwxODI5NDY4MzgwLC0xNDc5NzMxODg2LDY3NTI5NzQ1MSw3Nj
+g3MjExOTEsMTAzMzYyMzk1NCwtMTEzODU4MTM4OSwtMTcwOTQ1
+NjkwOV19
 -->
