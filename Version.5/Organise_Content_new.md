@@ -33,17 +33,17 @@ Acubi allows user in editing and managing access level, allows  users to make ne
 
 The sharing status displays type of privacy setting enabled for a dashboard or report.
 
- -   <B>Public:</B> Green color  with <b>Map Icon</b> indicates dashboard or report saved under public section.
+ -   <B>Public:</B> Green color  with <b>Globe Icon</b> indicates dashboard or report saved under public section.
  
- -   <B>Share:</b> Orange color with <b>Group icon</b>indicates dashboard or reports shared to specific set of groups.
+ -   <B>Share:</b> Orange color with <b>Group icon</b> indicates dashboard or reports shared to specific set of groups.
  
  -   <b>Private:</B> Grey color with <b>Lock Icon</b> indicates dashboard or reports saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzMDc4NTA5LDE0NTg3Njk5NCwtODU2OT
-IxNjE5LDExODA0NDg4MzEsMTM5NzUwNzc0NSwtNjgxNTg4MDMx
-LC0xMTk0MTY4MzczLC0xNTcwNTY3MzA3LC0xMTk0MTY4MzczLD
-E1MTUwODYwMTEsLTcwODI1MjA1MSwtMTU1MTI1NDU1NywtODIy
-NDA5OTg3LC0xNDQ0NDkzMTA1LC0xNTkyMzExNDI2LC0xNTUzNT
-Y5NTc1LDc1MTYwMDI0NiwtMTU5NDcwNzE1XX0=
+eyJoaXN0b3J5IjpbLTg0MzQxNjI2OCwxNDU4NzY5OTQsLTg1Nj
+kyMTYxOSwxMTgwNDQ4ODMxLDEzOTc1MDc3NDUsLTY4MTU4ODAz
+MSwtMTE5NDE2ODM3MywtMTU3MDU2NzMwNywtMTE5NDE2ODM3My
+wxNTE1MDg2MDExLC03MDgyNTIwNTEsLTE1NTEyNTQ1NTcsLTgy
+MjQwOTk4NywtMTQ0NDQ5MzEwNSwtMTU5MjMxMTQyNiwtMTU1Mz
+U2OTU3NSw3NTE2MDAyNDYsLTE1OTQ3MDcxNV19
 -->
