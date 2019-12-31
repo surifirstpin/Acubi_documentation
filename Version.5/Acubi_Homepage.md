@@ -10,7 +10,7 @@ To view personalized homepage, Navigate to homepage section. Homepage displays v
 
 After Navigating to Dashboard section, choose a dashboard or report then click on Set Homepage icon.  (Refer image below)
 
-To set Dashboard on Homepage, Click set homepage icon for that particular homepage.
+To set Dashboard on Homepage, Click set homepage icon for that particular da
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/424a0aedf69fac574dc72750fd54b013f89c804f/images/New_version5/ud_homepage_image1.png)
 <b><font color = "Black"> Image 2</b>
@@ -34,46 +34,20 @@ Similarly to setup report on homepage, Click <b>Set homepage icon</b> for report
 
 It will pop-up success messages as shown below. Click <b>Ok</b> to continue.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/94ecae720bc0b4aa7cc88429a389d06ec03538f5/images/New_version5/ud_homepage_image4.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ed50074f9ff74061c21e0abef3c27ee5fd2d9c1c/images/New_version5/TD_Homepage_5.png)
 
 <b><font color = "Black"> Image 6 </b>
 
 Resultant, this report is displayed on Homepage Screen.
 
-> Note :  Click <b>Angle-Double-Right</b> to view global filters applied for reports.  Click <b>Angle-Double-Left</b> to hide the same.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/94ecae720bc0b4aa7cc88429a389d06ec03538f5/images/New_version5/ud_homepage_image4.png)
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1f09b6be737d29d65cbb169ba045c2059ff7433f/images/New_version5/TD_Homepage_7.png)
-<b><font color = "Black"> Image 8</b>
+> Note :  Click <b>Angle-Double-Right</b> to view if any global filters applied for reports.  Click <b>Angle-Double-Left</b> to hide the same.
 
-To add more filters click  <b> Add Filters.</b>
-
-<b>For Example :</b>  Consider timeline filter for date greater than or equal to August 01 2019.
-
-1.  To apply the newly added filter click on  <b>Apply</b>  Button.
-
-2. To Save the added filter click <b> Save.</b>
-
-3.  To restore the previously applied filter click <b>Default.</b>
-
-4. To view the home page report in full screen click grid icon on top right and select <b>Full screen icon.</b>
-
-To Download and refresh the current homepage report click on setting icon and select the below as fields;
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7b45659831bb6be5b3edf29337f98e822eb0c736/images/New_version5/TD_Homepage_8.png)
-<b><font color = "Black"> Image 9</b>
-
--   <b>Refresh:</b>  displays the most recent data information of the report.
-    
--   <b>Hard Refresh: </b>  displays the most recent data information by clearing the cache for specific dashboard or report.
-    
--   <b>Download CSV: </b> downloads the dashboard report in CSV format.
-    
--   <b>Download CSV: </b> downloads the grouped list.
-    
--   <b>Download XLXS: </b> downloads the dashboard report in Excel format.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA5NDAyNCwtMjExMjk3MzU1MSwtMj
-AyNjA5ODQyMiwtOTM3Mzc0NjE1LC0xNjkwNjMzODgzLDExNDY2
-OTI5MTksMTY5MTMzOTA2MywxODYyNjU4Njc2LDIwNDAxMjg0Mz
-UsMTc5MjMwODA5NSwtMTE5NDM0NjQzM119
+eyJoaXN0b3J5IjpbMTc0NzE5MzY1MiwtMjA0MDk0MDI0LC0yMT
+EyOTczNTUxLC0yMDI2MDk4NDIyLC05MzczNzQ2MTUsLTE2OTA2
+MzM4ODMsMTE0NjY5MjkxOSwxNjkxMzM5MDYzLDE4NjI2NTg2Nz
+YsMjA0MDEyODQzNSwxNzkyMzA4MDk1LC0xMTk0MzQ2NDMzXX0=
+
 -->
