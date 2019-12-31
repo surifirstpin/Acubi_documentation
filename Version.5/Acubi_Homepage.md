@@ -10,9 +10,8 @@ To view personalized homepage, Navigate to homepage section. Homepage displays v
 
 After Navigating to Dashboard section, choose a dashboard or report then click on Set Homepage icon.  (Refer image below)
 
-To set Dashboard report on Homepage, Click set homepage icon under <b> My Space.</b>
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/06adcdcb3704f696db76acff0673c2592477b8f4/images/New_version5/TD_Homepage_2.png)
+To set Dashboard on Homepage, Click set homepage icon.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/424a0aedf69fac574dc72750fd54b013f89c804f/images/New_version5/ud_homepage_image1.png)
 <b><font color = "Black"> Image 2</b>
 
 It will pop-up success messages as shown below. Click ok to continue.
@@ -74,8 +73,8 @@ To Download and refresh the current homepage report click on setting icon and se
     
 -   <b>Download XLXS: </b> downloads the dashboard report in Excel format.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjYwOTg0MjIsLTkzNzM3NDYxNSwtMT
-Y5MDYzMzg4MywxMTQ2NjkyOTE5LDE2OTEzMzkwNjMsMTg2MjY1
-ODY3NiwyMDQwMTI4NDM1LDE3OTIzMDgwOTUsLTExOTQzNDY0Mz
-NdfQ==
+eyJoaXN0b3J5IjpbMTczNjA1NzA3LC0yMDI2MDk4NDIyLC05Mz
+czNzQ2MTUsLTE2OTA2MzM4ODMsMTE0NjY5MjkxOSwxNjkxMzM5
+MDYzLDE4NjI2NTg2NzYsMjA0MDEyODQzNSwxNzkyMzA4MDk1LC
+0xMTk0MzQ2NDMzXX0=
 -->
