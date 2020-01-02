@@ -403,6 +403,8 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 - <b>Position: </b>you can align the y-axis to left or right side of the chart.
 
+- <b> Min Value</b>  Displays Y-axis data starting from value specified in field <b>Min Value</b>
+- 
 <b>Reference Lines:</b> enables the creation of reference lines in a chart.
 
 - <b>Name:</b> specify a reference name for specific information on y-axis.
@@ -439,11 +441,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTY2MzgxMSw1OTI1MjA1MDYsMTI5ND
-cxMDU3MSwyMTA3MTkxMDI5LDE0NDQ5MjE3NjcsLTE0MTE3MjEw
-MjUsLTEwNTg4NzIwNTksLTkwNDE1MTIwNCwtOTQ5OTY2OTk4LC
-0xNjMwODkzMTM0LC0xMDAzNTg1NTI4LC0xODAyOTMxNDE2LDU3
-Nzg5Nzk2NCw5Njc5MDM3NDYsLTQ1OTA4MzA4NSw1NzIyNTkyMj
-QsLTIxNDE4MTM0LDczODE3Mzc5OCwxNDMyNDg1MjY4LDEyOTA4
-ODU4NTNdfQ==
+eyJoaXN0b3J5IjpbMjgyMjU3MjA5LDEyNzU2NjM4MTEsNTkyNT
+IwNTA2LDEyOTQ3MTA1NzEsMjEwNzE5MTAyOSwxNDQ0OTIxNzY3
+LC0xNDExNzIxMDI1LC0xMDU4ODcyMDU5LC05MDQxNTEyMDQsLT
+k0OTk2Njk5OCwtMTYzMDg5MzEzNCwtMTAwMzU4NTUyOCwtMTgw
+MjkzMTQxNiw1Nzc4OTc5NjQsOTY3OTAzNzQ2LC00NTkwODMwOD
+UsNTcyMjU5MjI0LC0yMTQxODEzNCw3MzgxNzM3OTgsMTQzMjQ4
+NTI2OF19
 -->
