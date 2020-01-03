@@ -66,7 +66,7 @@ col_total( #{ROOT.BI_ORDERS.sum_RATE_2677} )
 
 <b><font color = "Black"> Image 4</b>
 
-## Mathematical operation 
+## Mathematical Operation 
 
 Custom made mathematical operations can be performed in <b>calculated column section.</b>
 
@@ -451,11 +451,11 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTk5NDMyNSwxMzI3NTkxMTg4LDE2Mz
-k2MTI3MSw4MjAxNTQ5OTEsODQxNzE3ODExLC00MDY5ODI3MjIs
-MjEwNDQwMDYyNCwtMTU4ODQxMDMyNCwxMDg0MTA3OTUwLDY1Mj
-Q3ODYzOCwtMzg3NDcyNTg3LC0yMDM4NzczMzYxLC0xMDY5MjY1
-NzM2LDU1NjMwNDQ2OCwtMTUxNTE1MjEyMyw0MjkyMTU5ODksMj
-AyMzYzNzIzLDE1Njk1NjI4MjYsMTIyMjUyMzM3MywtMTIyNTc4
-MDEyN119
+eyJoaXN0b3J5IjpbLTk1ODYyMTU3OSwxNTYxOTk0MzI1LDEzMj
+c1OTExODgsMTYzOTYxMjcxLDgyMDE1NDk5MSw4NDE3MTc4MTEs
+LTQwNjk4MjcyMiwyMTA0NDAwNjI0LC0xNTg4NDEwMzI0LDEwOD
+QxMDc5NTAsNjUyNDc4NjM4LC0zODc0NzI1ODcsLTIwMzg3NzMz
+NjEsLTEwNjkyNjU3MzYsNTU2MzA0NDY4LC0xNTE1MTUyMTIzLD
+QyOTIxNTk4OSwyMDIzNjM3MjMsMTU2OTU2MjgyNiwxMjIyNTIz
+MzczXX0=
 -->
