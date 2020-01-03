@@ -79,7 +79,7 @@ Resultant would be displayed as follow;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f04580c65237586e452cd0cea80df439cff9157c/images/New_version5/TD_Organize_Image8.png)
 
- <b><Font color = " black">Image 8</font></b>
+ <b><Font color = " black">Image 9</font></b>
 
 <b>b.</b> Select delete icon to delete the thumbnail image uploaded.
 
@@ -92,13 +92,13 @@ Resultant would be displayed as follow;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f6c5126e7a3365a91017739e8cb5c3130e67a407/images/New_version5/TD_Organize_Image10.png)
 
- <b><Font color = " black">Image 9</font></b>
+ <b><Font color = " black">Image 10</font></b>
 
 Resultant for above selection is displayed as follow:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f04580c65237586e452cd0cea80df439cff9157c/images/New_version5/TD_Organize_Image9.png)
 
- <b><Font color = " black">Image 10</font></b>
+ <b><Font color = " black">Image 11</font></b>
 
 ## Folder View
 
@@ -106,7 +106,7 @@ All Reports and dashboards are displayed in folder view as follow;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/360f7f7b4cdeff4cb5aae7d037c76d8b0564c54e/images/New_version5/TD_Organize_Image11.png)
 
- <b><Font color = " black">Image 11</font></b>
+ <b><Font color = " black">Image 12</font></b>
 
 
 ## Managing Access
@@ -121,11 +121,11 @@ The sharing status displays type of privacy setting enabled for a dashboard or r
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTI1NTIzLC05OTk2NzIyNDMsLTg0Mz
-QxNjI2OCwxNDU4NzY5OTQsLTg1NjkyMTYxOSwxMTgwNDQ4ODMx
-LDEzOTc1MDc3NDUsLTY4MTU4ODAzMSwtMTE5NDE2ODM3MywtMT
-U3MDU2NzMwNywtMTE5NDE2ODM3MywxNTE1MDg2MDExLC03MDgy
-NTIwNTEsLTE1NTEyNTQ1NTcsLTgyMjQwOTk4NywtMTQ0NDQ5Mz
-EwNSwtMTU5MjMxMTQyNiwtMTU1MzU2OTU3NSw3NTE2MDAyNDYs
-LTE1OTQ3MDcxNV19
+eyJoaXN0b3J5IjpbLTE5ODI4Mzk0MzAsLTk5OTY3MjI0MywtOD
+QzNDE2MjY4LDE0NTg3Njk5NCwtODU2OTIxNjE5LDExODA0NDg4
+MzEsMTM5NzUwNzc0NSwtNjgxNTg4MDMxLC0xMTk0MTY4MzczLC
+0xNTcwNTY3MzA3LC0xMTk0MTY4MzczLDE1MTUwODYwMTEsLTcw
+ODI1MjA1MSwtMTU1MTI1NDU1NywtODIyNDA5OTg3LC0xNDQ0ND
+kzMTA1LC0xNTkyMzExNDI2LC0xNTUzNTY5NTc1LDc1MTYwMDI0
+NiwtMTU5NDcwNzE1XX0=
 -->
