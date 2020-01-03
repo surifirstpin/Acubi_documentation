@@ -9,7 +9,7 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e633a63e9f980e7bcc0cfcd76e32592477ab197f/images/New_version5/UD_Dashboard_image1_1.png)
 <b><font color = "Black"> Image 1</b>
 
-  - Dashboard  consist of list of Tags, Dashboards and Reports Saved under <b>My Space</b> structure.
+  - Dashboard section consist of list of Tags, Dashboards and Reports Saved under <b>My Space</b> structure.
 
   - To View a specific dashboard, enter the dashboard name in given <b>Search Option.</B>
   - To View the dashboards and reports in List view, Click on <b>List View</b>.
@@ -28,7 +28,7 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 ](https://raw.githubusercontent.com/sv18042016/fp1/a139aa668a28e43d5ac7a91829062729877b0e09/images/New_version5/UD_Dashboard_image3.png)
 <b><font color = "Black"> Image 3</b>
 
- - Left side of the dashboard displays global filters used, Use <b>Apply</b> Button to re-apply any new filters address to the dashboard report.
+ - Left side of the dashboard displays global filters used, Use <b>Apply</b> button to re-apply any new filters added to the dashboard report.
 
  -  Click <b>Save,</b> to save the filters applied.
 
@@ -163,11 +163,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDc3NzUxMiwxMzYxNjUwODUwLDU0OD
-I5NjM2NSwtMzkyNzQ5MzQsLTc2NjQzMDk0MiwxMDA5Mjg3MzI4
-LDI2MTY3ODY3OCw1MzQ2MzAxNTgsLTE0MzM4MjIxMDAsLTIxMz
-k3MjU2NDcsLTIwODA4Njk0NjYsODg5OTA3ODEyLC00NTQ2MDk2
-MSwyMDcxNDIzODMxLDExNTA2NjI1NjAsLTE0ODUxODIyNDEsLT
-Y4ODAxNTg2NCw3NTc0NjI0OTMsLTg0MDA2MDM3MCwtNTEyMTM5
-MjQ2XX0=
+eyJoaXN0b3J5IjpbLTEzNzE2NzU5MzksMTM2MTY1MDg1MCw1ND
+gyOTYzNjUsLTM5Mjc0OTM0LC03NjY0MzA5NDIsMTAwOTI4NzMy
+OCwyNjE2Nzg2NzgsNTM0NjMwMTU4LC0xNDMzODIyMTAwLC0yMT
+M5NzI1NjQ3LC0yMDgwODY5NDY2LDg4OTkwNzgxMiwtNDU0NjA5
+NjEsMjA3MTQyMzgzMSwxMTUwNjYyNTYwLC0xNDg1MTgyMjQxLC
+02ODgwMTU4NjQsNzU3NDYyNDkzLC04NDAwNjAzNzAsLTUxMjEz
+OTI0Nl19
 -->
