@@ -55,8 +55,7 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 
 - <b>Grid (Fixed) Layout</b> All the reports in this layout will fit into single screen.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/3b8137ddf669d251a2e9ea3f26fa8b6bde3a8984/images/New_version5/UD_Dashboard_image5.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0986564eb29d54f0fc181bb32c4a0328199ef0d8/images/New_version5/UD_Dashboard_image5.png)
 <b><font color = "Black"> Image 5</b>
 
 <b>2.</b>   Select the Layout using drop-down list.
@@ -65,7 +64,7 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 
 <b>4.</b> To Add Global Filters to the dashboard, Click on <b>Add Global Filters</b> Button.
 
-<b>Dashboard global Filters</B> allows user to view limited data by applying filters on dashboard reports and it supports following filter types string, number, date and lookup.
+<b>Dashboard global filters</B> allows user to view limited data by applying filters on dashboard reports and it supports following filter types string, number, date and lookup.
  
 | **Type** | **Description** |
 |  ------ | ------ |
@@ -165,11 +164,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDMwNjQ0MzMsLTE4NTA4MTksMTM2MT
-Y1MDg1MCw1NDgyOTYzNjUsLTM5Mjc0OTM0LC03NjY0MzA5NDIs
-MTAwOTI4NzMyOCwyNjE2Nzg2NzgsNTM0NjMwMTU4LC0xNDMzOD
-IyMTAwLC0yMTM5NzI1NjQ3LC0yMDgwODY5NDY2LDg4OTkwNzgx
-MiwtNDU0NjA5NjEsMjA3MTQyMzgzMSwxMTUwNjYyNTYwLC0xND
-g1MTgyMjQxLC02ODgwMTU4NjQsNzU3NDYyNDkzLC04NDAwNjAz
-NzBdfQ==
+eyJoaXN0b3J5IjpbNDY5NTM3OTUwLC0xNzAzMDY0NDMzLC0xOD
+UwODE5LDEzNjE2NTA4NTAsNTQ4Mjk2MzY1LC0zOTI3NDkzNCwt
+NzY2NDMwOTQyLDEwMDkyODczMjgsMjYxNjc4Njc4LDUzNDYzMD
+E1OCwtMTQzMzgyMjEwMCwtMjEzOTcyNTY0NywtMjA4MDg2OTQ2
+Niw4ODk5MDc4MTIsLTQ1NDYwOTYxLDIwNzE0MjM4MzEsMTE1MD
+Y2MjU2MCwtMTQ4NTE4MjI0MSwtNjg4MDE1ODY0LDc1NzQ2MjQ5
+M119
 -->
