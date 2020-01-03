@@ -1,7 +1,7 @@
 
 
 
-<center><h2>EDIT CONTENT</h2></center>
+<center><h2>ORGANIZE CONTENT</h2></center>
 
 This section describes how to edit existing reports and dashboards. 
 
@@ -40,10 +40,11 @@ The sharing status displays type of privacy setting enabled for a dashboard or r
  -   <b>Private:</B> Grey color with <b>Lock Icon</b> indicates dashboard or reports saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzQxNjI2OCwxNDU4NzY5OTQsLTg1Nj
-kyMTYxOSwxMTgwNDQ4ODMxLDEzOTc1MDc3NDUsLTY4MTU4ODAz
-MSwtMTE5NDE2ODM3MywtMTU3MDU2NzMwNywtMTE5NDE2ODM3My
-wxNTE1MDg2MDExLC03MDgyNTIwNTEsLTE1NTEyNTQ1NTcsLTgy
-MjQwOTk4NywtMTQ0NDQ5MzEwNSwtMTU5MjMxMTQyNiwtMTU1Mz
-U2OTU3NSw3NTE2MDAyNDYsLTE1OTQ3MDcxNV19
+eyJoaXN0b3J5IjpbLTk5OTY3MjI0MywtODQzNDE2MjY4LDE0NT
+g3Njk5NCwtODU2OTIxNjE5LDExODA0NDg4MzEsMTM5NzUwNzc0
+NSwtNjgxNTg4MDMxLC0xMTk0MTY4MzczLC0xNTcwNTY3MzA3LC
+0xMTk0MTY4MzczLDE1MTUwODYwMTEsLTcwODI1MjA1MSwtMTU1
+MTI1NDU1NywtODIyNDA5OTg3LC0xNDQ0NDkzMTA1LC0xNTkyMz
+ExNDI2LC0xNTUzNTY5NTc1LDc1MTYwMDI0NiwtMTU5NDcwNzE1
+XX0=
 -->
