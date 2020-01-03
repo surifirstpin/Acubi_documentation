@@ -3,7 +3,7 @@
 
 <center><h2>ORGANIZE CONTENT</h2></center>
 
-This section describes how to edit existing reports and dashboards. 
+This section describes, how to edit existing reports and dashboards. 
 
 Acubi allows user in editing and managing access level, allows  users to make necessary changes to the content such as;
 
@@ -40,11 +40,11 @@ The sharing status displays type of privacy setting enabled for a dashboard or r
  -   <b>Private:</B> Grey color with <b>Lock Icon</b> indicates dashboard or reports saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTY3MjI0MywtODQzNDE2MjY4LDE0NT
-g3Njk5NCwtODU2OTIxNjE5LDExODA0NDg4MzEsMTM5NzUwNzc0
-NSwtNjgxNTg4MDMxLC0xMTk0MTY4MzczLC0xNTcwNTY3MzA3LC
-0xMTk0MTY4MzczLDE1MTUwODYwMTEsLTcwODI1MjA1MSwtMTU1
-MTI1NDU1NywtODIyNDA5OTg3LC0xNDQ0NDkzMTA1LC0xNTkyMz
-ExNDI2LC0xNTUzNTY5NTc1LDc1MTYwMDI0NiwtMTU5NDcwNzE1
-XX0=
+eyJoaXN0b3J5IjpbLTg2OTQzMjYwMSwtOTk5NjcyMjQzLC04ND
+M0MTYyNjgsMTQ1ODc2OTk0LC04NTY5MjE2MTksMTE4MDQ0ODgz
+MSwxMzk3NTA3NzQ1LC02ODE1ODgwMzEsLTExOTQxNjgzNzMsLT
+E1NzA1NjczMDcsLTExOTQxNjgzNzMsMTUxNTA4NjAxMSwtNzA4
+MjUyMDUxLC0xNTUxMjU0NTU3LC04MjI0MDk5ODcsLTE0NDQ0OT
+MxMDUsLTE1OTIzMTE0MjYsLTE1NTM1Njk1NzUsNzUxNjAwMjQ2
+LC0xNTk0NzA3MTVdfQ==
 -->
