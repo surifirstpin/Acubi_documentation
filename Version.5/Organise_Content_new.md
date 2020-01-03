@@ -55,6 +55,7 @@ Acubi allows user in editing and managing access level, allows  users to make ne
 
 
 <b>3.</b>  To edit a Dashboard or Report click on <b>Edit Icon</b>. It will navigate to dashboard report as show below.
+After making necessary changes to reports or dashboard click update i save section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/20d14f3f25bb74d93059efb55c8ac118064c337a/images/New_version5/TD_Organize_Image6.png)
 
@@ -119,7 +120,7 @@ The sharing status displays type of privacy setting enabled for a dashboard or r
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3NDQyMDQwLC05OTk2NzIyNDMsLTg0Mz
+eyJoaXN0b3J5IjpbLTI1NDM3Mjg0LC05OTk2NzIyNDMsLTg0Mz
 QxNjI2OCwxNDU4NzY5OTQsLTg1NjkyMTYxOSwxMTgwNDQ4ODMx
 LDEzOTc1MDc3NDUsLTY4MTU4ODAzMSwtMTE5NDE2ODM3MywtMT
 U3MDU2NzMwNywtMTE5NDE2ODM3MywxNTE1MDg2MDExLC03MDgy
