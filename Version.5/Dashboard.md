@@ -4,12 +4,12 @@ Dashboard provides access to view multiple reports in single dashboard layout, t
 
 ## View Dashboard
 
-After logging into AcuBi Home Page, Click onNavigate to <b>Dashboard</b> Section.
+After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e633a63e9f980e7bcc0cfcd76e32592477ab197f/images/New_version5/UD_Dashboard_image1_1.png)
 <b><font color = "Black"> Image 1</b>
 
-  - It will navigate to Dashboard section. It consist of list of Tags, Dashboards and Reports Saved under <b>My Space</b> structure.
+  - Dashboard  consist of list of Tags, Dashboards and Reports Saved under <b>My Space</b> structure.
 
   - To View a specific dashboard, enter the dashboard name in given <b>Search Option.</B>
   - To View the dashboards and reports in List view, Click on <b>List View</b>.
@@ -163,7 +163,7 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDU2MDIwMCwxMzYxNjUwODUwLDU0OD
+eyJoaXN0b3J5IjpbMTI3MDc3NzUxMiwxMzYxNjUwODUwLDU0OD
 I5NjM2NSwtMzkyNzQ5MzQsLTc2NjQzMDk0MiwxMDA5Mjg3MzI4
 LDI2MTY3ODY3OCw1MzQ2MzAxNTgsLTE0MzM4MjIxMDAsLTIxMz
 k3MjU2NDcsLTIwODA4Njk0NjYsODg5OTA3ODEyLC00NTQ2MDk2
