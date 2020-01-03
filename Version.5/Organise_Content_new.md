@@ -29,22 +29,101 @@ Acubi allows user in editing and managing access level, allows  users to make ne
 
 - To delete the dashboard or report permanently from database click <b>Delete</b>  icon.
 
+## List View
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/18f509e51a93084b4774b4970dc8760ba105bb3d/images/New_version5/TD_Organize_Image2.png)
+ 
+  <b><Font color = " black">Image 1</font></b>
+  
+<b>1.</b>  Click on  <b>Set Home page</b>  Icon, to set dashboard on Home page.  This will display pop-up box with success message.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0bec2242e2916cda50b243dc8532006a4c45a72e/images/New_version5/TD_Organize_Image3.png)
+  
+  <b><Font color = " black">Image 2</font></b>
+  
+ <b>Note :</b> Dashboard or Report set to homepage displays Orange color Home Icon as shown below.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0bec2242e2916cda50b243dc8532006a4c45a72e/images/New_version5/TD_Organize_Image4.png)
+ 
+  <b><Font color = " black">Image 3</font></b>
+
+<b>2.</b> To delete a dashboard report  click  <b>Delete Icon</b>. This will pop-up confirmation message to delete the dashboard report permanently from database. Click <b>Delete</b> to proceed.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/92133e0dc108c61f31b1c9f83a70fc58307581f8/images/New_version5/TD_Organize_Image5.png)
+
+ <b><Font color = " black">Image 4</font></b>
+
+
+<b>3.</b>  To edit a Dashboard or Report click on <b>Edit Icon</b>. It will navigate to dashboard report as show below.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/20d14f3f25bb74d93059efb55c8ac118064c337a/images/New_version5/TD_Organize_Image6.png)
+
+ <b><Font color = " black">Image 5</font></b>
+
+
+<b>4.</b> To set Thumbnail for a report or dashboard, click <b>Thumbnail Icon.</b> It will pop up Upload Thumbnail window, Select following information to set a thumbnail from local device.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f04580c65237586e452cd0cea80df439cff9157c/images/New_version5/UD_Acubi_Login7.png)
+
+ <b><Font color = " black">Image 6</font></b>
+
+<b> a.</b> Select browse icon to set image from local system.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f04580c65237586e452cd0cea80df439cff9157c/images/New_version5/TD_Organize_Image7.png)
+
+ <b><Font color = " black">Image 7</font></b>
+
+Resultant would be displayed as follow;
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f04580c65237586e452cd0cea80df439cff9157c/images/New_version5/TD_Organize_Image8.png)
+
+ <b><Font color = " black">Image 8</font></b>
+
+<b>b.</b> Select delete icon to delete the thumbnail image uploaded.
+
+<b>c.</b> Select Background color for thumbnail.
+
+<b>d.</b> Select Icon and Font Color for dashboard or report .
+
+> Note: Visible under Folder View.
+
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f6c5126e7a3365a91017739e8cb5c3130e67a407/images/New_version5/TD_Organize_Image10.png)
+
+ <b><Font color = " black">Image 9</font></b>
+
+Resultant for above selection is displayed as follow:
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f04580c65237586e452cd0cea80df439cff9157c/images/New_version5/TD_Organize_Image9.png)
+
+ <b><Font color = " black">Image 10</font></b>
+
+## Folder View
+
+All Reports and dashboards are displayed in folder view as follow;
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/360f7f7b4cdeff4cb5aae7d037c76d8b0564c54e/images/New_version5/TD_Organize_Image11.png)
+
+ <b><Font color = " black">Image 11</font></b>
+
+
 ## Managing Access
 
 The sharing status displays type of privacy setting enabled for a dashboard or report.
 
- -   <B>Public:</B> Green color  with <b>Globe Icon</b> indicates dashboard or report saved under public section.
- 
- -   <B>Share:</b> Orange color with <b>Group icon</b> indicates dashboard or reports shared to specific set of groups.
- 
- -   <b>Private:</B> Grey color with <b>Lock Icon</b> indicates dashboard or reports saved under private section.
+<b>5.</b> All reports and dashboards are saved in privacy settings <i><b>Public, Private or Share</b></i> under share status. 
+
+-   <b>Green Map Icon</b> indicates dashboard or report saved under public section.
+-   <b>Orange Group Icon</b> indicates dashboard or report saved under shared section.
+-   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTQzMjYwMSwtOTk5NjcyMjQzLC04ND
-M0MTYyNjgsMTQ1ODc2OTk0LC04NTY5MjE2MTksMTE4MDQ0ODgz
-MSwxMzk3NTA3NzQ1LC02ODE1ODgwMzEsLTExOTQxNjgzNzMsLT
-E1NzA1NjczMDcsLTExOTQxNjgzNzMsMTUxNTA4NjAxMSwtNzA4
-MjUyMDUxLC0xNTUxMjU0NTU3LC04MjI0MDk5ODcsLTE0NDQ0OT
-MxMDUsLTE1OTIzMTE0MjYsLTE1NTM1Njk1NzUsNzUxNjAwMjQ2
-LC0xNTk0NzA3MTVdfQ==
+eyJoaXN0b3J5IjpbNzc3NDQyMDQwLC05OTk2NzIyNDMsLTg0Mz
+QxNjI2OCwxNDU4NzY5OTQsLTg1NjkyMTYxOSwxMTgwNDQ4ODMx
+LDEzOTc1MDc3NDUsLTY4MTU4ODAzMSwtMTE5NDE2ODM3MywtMT
+U3MDU2NzMwNywtMTE5NDE2ODM3MywxNTE1MDg2MDExLC03MDgy
+NTIwNTEsLTE1NTEyNTQ1NTcsLTgyMjQwOTk4NywtMTQ0NDQ5Mz
+EwNSwtMTU5MjMxMTQyNiwtMTU1MzU2OTU3NSw3NTE2MDAyNDYs
+LTE1OTQ3MDcxNV19
 -->
