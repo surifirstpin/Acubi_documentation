@@ -5,7 +5,7 @@
 
 This section describes, how to edit existing reports and dashboards. 
 
-AcuBi allows user in editing and managing access level, allows  users to make necessary changes to the content such as;
+AcuBi allows user in editing and managing access level, allows users to make necessary changes to the content such as;
 
    -  Editing Reports and Dashboards.
    
@@ -121,11 +121,11 @@ The sharing status displays type of privacy setting enabled for a dashboard or r
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDUyNTA5NCwtMTk4MjgzOTQzMCwtOT
-k5NjcyMjQzLC04NDM0MTYyNjgsMTQ1ODc2OTk0LC04NTY5MjE2
-MTksMTE4MDQ0ODgzMSwxMzk3NTA3NzQ1LC02ODE1ODgwMzEsLT
-ExOTQxNjgzNzMsLTE1NzA1NjczMDcsLTExOTQxNjgzNzMsMTUx
-NTA4NjAxMSwtNzA4MjUyMDUxLC0xNTUxMjU0NTU3LC04MjI0MD
-k5ODcsLTE0NDQ0OTMxMDUsLTE1OTIzMTE0MjYsLTE1NTM1Njk1
-NzUsNzUxNjAwMjQ2XX0=
+eyJoaXN0b3J5IjpbLTg0Njk0MTg4LC0xNzQ1MjUwOTQsLTE5OD
+I4Mzk0MzAsLTk5OTY3MjI0MywtODQzNDE2MjY4LDE0NTg3Njk5
+NCwtODU2OTIxNjE5LDExODA0NDg4MzEsMTM5NzUwNzc0NSwtNj
+gxNTg4MDMxLC0xMTk0MTY4MzczLC0xNTcwNTY3MzA3LC0xMTk0
+MTY4MzczLDE1MTUwODYwMTEsLTcwODI1MjA1MSwtMTU1MTI1ND
+U1NywtODIyNDA5OTg3LC0xNDQ0NDkzMTA1LC0xNTkyMzExNDI2
+LC0xNTUzNTY5NTc1XX0=
 -->
