@@ -59,8 +59,7 @@ col_total( #{ROOT.BI_ORDERS.sum_RATE_2677} )
 
 <b><font color = "Black"> Image 3</b>
 
-- Click <b>Ok</b> after deriving an expression,  all the values based on calculation, is shown up in green color as shown in below image,
-
+- Click <b>Ok</b> after deriving an expression,  all the values based on calculation are shown up in green color. (Refer image below)
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/67a5ac6ae8faa249a688ed35320ff1b2e8a7ebb0/images/New_version5/UD_CalculatedColumn_image5.png)
 
@@ -451,11 +450,11 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTc5MDYxNTgsMTU2MTk5NDMyNSwxMz
-I3NTkxMTg4LDE2Mzk2MTI3MSw4MjAxNTQ5OTEsODQxNzE3ODEx
-LC00MDY5ODI3MjIsMjEwNDQwMDYyNCwtMTU4ODQxMDMyNCwxMD
-g0MTA3OTUwLDY1MjQ3ODYzOCwtMzg3NDcyNTg3LC0yMDM4Nzcz
-MzYxLC0xMDY5MjY1NzM2LDU1NjMwNDQ2OCwtMTUxNTE1MjEyMy
-w0MjkyMTU5ODksMjAyMzYzNzIzLDE1Njk1NjI4MjYsMTIyMjUy
-MzM3M119
+eyJoaXN0b3J5IjpbLTEzNjIyNTkxMDUsLTIxMTc5MDYxNTgsMT
+U2MTk5NDMyNSwxMzI3NTkxMTg4LDE2Mzk2MTI3MSw4MjAxNTQ5
+OTEsODQxNzE3ODExLC00MDY5ODI3MjIsMjEwNDQwMDYyNCwtMT
+U4ODQxMDMyNCwxMDg0MTA3OTUwLDY1MjQ3ODYzOCwtMzg3NDcy
+NTg3LC0yMDM4NzczMzYxLC0xMDY5MjY1NzM2LDU1NjMwNDQ2OC
+wtMTUxNTE1MjEyMyw0MjkyMTU5ODksMjAyMzYzNzIzLDE1Njk1
+NjI4MjZdfQ==
 -->
