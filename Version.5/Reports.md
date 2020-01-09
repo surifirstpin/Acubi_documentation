@@ -135,7 +135,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 > <b>Note :</b> To view the <b>Timeline Filters</b> in details please go to Timeline filters document.
 
-[Timeline filters](http://firstpin.in/documentation/acubi_technical_documentation.html#/AcuBi_Timeline_Filters_TD)
+[Timeline Filters](http://firstpin.in/documentation/acubi_technical_documentation.html#/AcuBi_Timeline_Filters_TD)
 
 <b>8.</b> Similarly, we can apply <b>Hidden Filters</b> to the report data, by clicking on Filter Icon available in field list of a report. The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are hidden in data section.
 
@@ -435,11 +435,11 @@ Similarly, for report definition for yesterdays data :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjU1MDY0NjEsMTY2ODM2NzE0MywyNz
-gyMjAwNjIsMjA3NTIzMTcyOCwtNjgzNDM2NjUyLDUzMzUwODk5
-NiwtMTQ4OTc5NDA4NCwyMDM0OTUwODAzLDM5NDIwNDI2NCwxNT
-gyNTE5MzMwLDcwNDc0MDI1MCwxOTg5NTg5MTcyLC00ODA1NDE5
-NzksLTIxMTgxODcxMTAsODIwNjE0MzM0LDgwMTIxOTg4OCw0Nz
-MxMDA0MDAsLTE3Mjk3MTI1MzAsLTIwMjk3MDg3MzcsNDgxMDgz
-OTcxXX0=
+eyJoaXN0b3J5IjpbMTE4OTE1ODk3OSwxNjY4MzY3MTQzLDI3OD
+IyMDA2MiwyMDc1MjMxNzI4LC02ODM0MzY2NTIsNTMzNTA4OTk2
+LC0xNDg5Nzk0MDg0LDIwMzQ5NTA4MDMsMzk0MjA0MjY0LDE1OD
+I1MTkzMzAsNzA0NzQwMjUwLDE5ODk1ODkxNzIsLTQ4MDU0MTk3
+OSwtMjExODE4NzExMCw4MjA2MTQzMzQsODAxMjE5ODg4LDQ3Mz
+EwMDQwMCwtMTcyOTcxMjUzMCwtMjAyOTcwODczNyw0ODEwODM5
+NzFdfQ==
 -->
