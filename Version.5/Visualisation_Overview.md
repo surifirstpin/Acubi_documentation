@@ -4,7 +4,7 @@
 
 This section provides basic overview on visualization and its functionality.
 
-> <b>Note :</b>  A more detailed explanation is mentioned clearly in <b>Visualization Types and Settings</b> document
+> <b>Note :</b>  A more detailed explanation is mentioned clearly in <b>Visualization Types </b> document
 
 Visualization in AcuBi creates impressive graphs and charts based on query result obtained and displays an eye-caching pictorial representation of data obtained. Based on your requirement, you can visualize the data in different type of charts.
 
@@ -12,7 +12,7 @@ Visualization in AcuBi creates impressive graphs and charts based on query resul
 
 Under reports section data and visualization are configured together, So once you share a query user will get a visualization picture and data as well.
 
-<b>For Instance</b> :  Create a report to fetch Order details and query Stationcode, Whenmade_Month and order_value_sum. Apply <b>filter</b>  to whenmade_month to limit the data  to January, February and March. 
+<b>For Instance</b> :  Create a report to fetch Order details and query Stationcode, Whenmade_Month and Q_sum. Apply <b>filter</b>  to whenmade_month to limit the data  to January, February and March. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/588793b3bdaa6683973fbe70ceaf6b591ff25fb2/images/New_version5/UD_Visualisation_Overview_Image1.png)
@@ -97,11 +97,11 @@ You can drill deeper into visualization, to get more specific information about 
 > Note : A more detailed explanation on visualization is given in visualization types and settings documents.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2MTg5OTA2LDEyNzgzMjY4MDcsLTE0MT
-E3NzMyMjUsMTA1MjgxMjI5MywtOTkzNDQ0ODksODY0NjY0OTY1
-LC05OTM0NDQ4OSwtOTkzNDQ0ODksLTE2Mjk4MDI1ODMsNTYyOD
-MyNjgxLC0xMTM0OTMzMjg5LDUxNzYxNzMsLTQzODgzOTYxMiwt
-MTk3Nzc5NzIzNSwtMTY3MzQzMzgxMiwxMjMwNDcwMjM0LC0xMz
-U1MTY0ODg0LC0xMTcxNzgyMDAyLC0xMTkwNDUyOTkzLC02MDk3
-NTUxMF19
+eyJoaXN0b3J5IjpbMjExMDM0MzU0MSw2MjYxODk5MDYsMTI3OD
+MyNjgwNywtMTQxMTc3MzIyNSwxMDUyODEyMjkzLC05OTM0NDQ4
+OSw4NjQ2NjQ5NjUsLTk5MzQ0NDg5LC05OTM0NDQ4OSwtMTYyOT
+gwMjU4Myw1NjI4MzI2ODEsLTExMzQ5MzMyODksNTE3NjE3Mywt
+NDM4ODM5NjEyLC0xOTc3Nzk3MjM1LC0xNjczNDMzODEyLDEyMz
+A0NzAyMzQsLTEzNTUxNjQ4ODQsLTExNzE3ODIwMDIsLTExOTA0
+NTI5OTNdfQ==
 -->
