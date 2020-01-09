@@ -248,7 +248,7 @@ Click on  <b>Calculated Column</b>  button to enable table calculations as shown
  
 -   <b>Field name</b>  unique identifier name to refer calculated column.
     
--   <b>Label</b>  labeling the calculated column.
+-   <strong>Label</strong>  labeling the calculated column.
     
 -   <b>Data Type</b>  data type used (string,number).
     
@@ -435,11 +435,11 @@ Similarly, for report definition for yesterdays data :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjk0MTAwNTEsLTgyNjg0MTUxOCwxMT
-g5MTU4OTc5LDE2NjgzNjcxNDMsMjc4MjIwMDYyLDIwNzUyMzE3
-MjgsLTY4MzQzNjY1Miw1MzM1MDg5OTYsLTE0ODk3OTQwODQsMj
-AzNDk1MDgwMywzOTQyMDQyNjQsMTU4MjUxOTMzMCw3MDQ3NDAy
-NTAsMTk4OTU4OTE3MiwtNDgwNTQxOTc5LC0yMTE4MTg3MTEwLD
-gyMDYxNDMzNCw4MDEyMTk4ODgsNDczMTAwNDAwLC0xNzI5NzEy
-NTMwXX0=
+eyJoaXN0b3J5IjpbNjAzODE0MTA5LC04MjY4NDE1MTgsMTE4OT
+E1ODk3OSwxNjY4MzY3MTQzLDI3ODIyMDA2MiwyMDc1MjMxNzI4
+LC02ODM0MzY2NTIsNTMzNTA4OTk2LC0xNDg5Nzk0MDg0LDIwMz
+Q5NTA4MDMsMzk0MjA0MjY0LDE1ODI1MTkzMzAsNzA0NzQwMjUw
+LDE5ODk1ODkxNzIsLTQ4MDU0MTk3OSwtMjExODE4NzExMCw4Mj
+A2MTQzMzQsODAxMjE5ODg4LDQ3MzEwMDQwMCwtMTcyOTcxMjUz
+MF19
 -->
