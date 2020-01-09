@@ -176,7 +176,7 @@ For  <b>Measures</b> use opposite direction.
 
 ## Pivot
 
-Multiple dimensions in a report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. 
+Multiple dimensions in a report data are often easier to look at when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. 
 <b>Pivot can be applied in 2 ways :</b>
  
 <b>a.</b> To apply pivot <b>before retrieving</b> the data, Click on pivot icon at field selection. (Refer image 6)
@@ -435,11 +435,11 @@ Similarly, for report definition for yesterdays data :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA1Nzc1ODgsMTE4OTE1ODk3OSwxNj
-Y4MzY3MTQzLDI3ODIyMDA2MiwyMDc1MjMxNzI4LC02ODM0MzY2
-NTIsNTMzNTA4OTk2LC0xNDg5Nzk0MDg0LDIwMzQ5NTA4MDMsMz
-k0MjA0MjY0LDE1ODI1MTkzMzAsNzA0NzQwMjUwLDE5ODk1ODkx
-NzIsLTQ4MDU0MTk3OSwtMjExODE4NzExMCw4MjA2MTQzMzQsOD
-AxMjE5ODg4LDQ3MzEwMDQwMCwtMTcyOTcxMjUzMCwtMjAyOTcw
-ODczN119
+eyJoaXN0b3J5IjpbLTgyNjg0MTUxOCwxMTg5MTU4OTc5LDE2Nj
+gzNjcxNDMsMjc4MjIwMDYyLDIwNzUyMzE3MjgsLTY4MzQzNjY1
+Miw1MzM1MDg5OTYsLTE0ODk3OTQwODQsMjAzNDk1MDgwMywzOT
+QyMDQyNjQsMTU4MjUxOTMzMCw3MDQ3NDAyNTAsMTk4OTU4OTE3
+MiwtNDgwNTQxOTc5LC0yMTE4MTg3MTEwLDgyMDYxNDMzNCw4MD
+EyMTk4ODgsNDczMTAwNDAwLC0xNzI5NzEyNTMwLC0yMDI5NzA4
+NzM3XX0=
 -->
