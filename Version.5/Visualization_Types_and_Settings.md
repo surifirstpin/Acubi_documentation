@@ -95,7 +95,7 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
 
  Radar charts are a great way to compare members of a dimension in a function of several metrics.  
  
-<b>Example:</b> when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
+<b>Example:</b> While Ppurchasing Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
 
  <b>4.</b> Choose chart type <b>Radar</b> from drop down list.
 
@@ -443,7 +443,7 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjcwOTExMSwxNjU4MDExMzQ4LDEyNz
+eyJoaXN0b3J5IjpbLTYyOTQwNjYyNSwxNjU4MDExMzQ4LDEyNz
 U2NjM4MTEsNTkyNTIwNTA2LDEyOTQ3MTA1NzEsMjEwNzE5MTAy
 OSwxNDQ0OTIxNzY3LC0xNDExNzIxMDI1LC0xMDU4ODcyMDU5LC
 05MDQxNTEyMDQsLTk0OTk2Njk5OCwtMTYzMDg5MzEzNCwtMTAw
