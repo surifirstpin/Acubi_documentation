@@ -133,7 +133,9 @@ Report filters will narrow the reports results while allowing you to view the sp
 |<b>is not null</b>                   |data which is not equal to null
 |<b>is null</b>                       |data which is equal to null
 
-> <b>Note :</b> To view the <b>Timeline Filters</b> in details please go to Timeline filters document in Technical Documents.
+> <b>Note :</b> To view the <b>Timeline Filters</b> in details please go to Timeline filters document.
+
+[Timeline filters](http://firstpin.in/documentation/acubi_technical_documentation.html#/AcuBi_Timeline_Filters_TD)
 
 <b>8.</b> Similarly, we can apply <b>Hidden Filters</b> to the report data, by clicking on Filter Icon available in field list of a report. The data can also be retrieved based on the applied hidden filters, this hidden filters are visible in the list of filter expression but are hidden in data section.
 
@@ -433,11 +435,11 @@ Similarly, for report definition for yesterdays data :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODM2NzE0MywyNzgyMjAwNjIsMjA3NT
-IzMTcyOCwtNjgzNDM2NjUyLDUzMzUwODk5NiwtMTQ4OTc5NDA4
-NCwyMDM0OTUwODAzLDM5NDIwNDI2NCwxNTgyNTE5MzMwLDcwND
-c0MDI1MCwxOTg5NTg5MTcyLC00ODA1NDE5NzksLTIxMTgxODcx
-MTAsODIwNjE0MzM0LDgwMTIxOTg4OCw0NzMxMDA0MDAsLTE3Mj
-k3MTI1MzAsLTIwMjk3MDg3MzcsNDgxMDgzOTcxLDE4Mjk0Njgz
-ODBdfQ==
+eyJoaXN0b3J5IjpbLTE5NjU1MDY0NjEsMTY2ODM2NzE0MywyNz
+gyMjAwNjIsMjA3NTIzMTcyOCwtNjgzNDM2NjUyLDUzMzUwODk5
+NiwtMTQ4OTc5NDA4NCwyMDM0OTUwODAzLDM5NDIwNDI2NCwxNT
+gyNTE5MzMwLDcwNDc0MDI1MCwxOTg5NTg5MTcyLC00ODA1NDE5
+NzksLTIxMTgxODcxMTAsODIwNjE0MzM0LDgwMTIxOTg4OCw0Nz
+MxMDA0MDAsLTE3Mjk3MTI1MzAsLTIwMjk3MDg3MzcsNDgxMDgz
+OTcxXX0=
 -->
