@@ -106,7 +106,7 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
 - <b>Points :</b> on selecting the checkbox it enables pointers for the data range in line chart.
 
 - <b>Point style :</b>This will specify how the data points to appear on chart.
- below are the list of options are available. 
+ below are the list of options available. 
   - Circle
   - Triangle
   - Rectangle
@@ -125,7 +125,7 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
 
 - <b>Arc Field :</b> select the dimension field to apply arc lines.
 
-- <b>Curve :</b>* it maximize and minimize the surface area in radar chart.
+- <b>Curve :</b> it maximize and minimize the surface area in radar chart.
 
 ## Widget chart 
 
@@ -444,11 +444,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDcxNTk4LDE2NTgwMTEzNDgsMTI3NT
-Y2MzgxMSw1OTI1MjA1MDYsMTI5NDcxMDU3MSwyMTA3MTkxMDI5
-LDE0NDQ5MjE3NjcsLTE0MTE3MjEwMjUsLTEwNTg4NzIwNTksLT
-kwNDE1MTIwNCwtOTQ5OTY2OTk4LC0xNjMwODkzMTM0LC0xMDAz
-NTg1NTI4LC0xODAyOTMxNDE2LDU3Nzg5Nzk2NCw5Njc5MDM3ND
-YsLTQ1OTA4MzA4NSw1NzIyNTkyMjQsLTIxNDE4MTM0LDczODE3
-Mzc5OF19
+eyJoaXN0b3J5IjpbMTM0MzA5OTc2MiwxNjU4MDExMzQ4LDEyNz
+U2NjM4MTEsNTkyNTIwNTA2LDEyOTQ3MTA1NzEsMjEwNzE5MTAy
+OSwxNDQ0OTIxNzY3LC0xNDExNzIxMDI1LC0xMDU4ODcyMDU5LC
+05MDQxNTEyMDQsLTk0OTk2Njk5OCwtMTYzMDg5MzEzNCwtMTAw
+MzU4NTUyOCwtMTgwMjkzMTQxNiw1Nzc4OTc5NjQsOTY3OTAzNz
+Q2LC00NTkwODMwODUsNTcyMjU5MjI0LC0yMTQxODEzNCw3Mzgx
+NzM3OThdfQ==
 -->
