@@ -42,7 +42,7 @@ Let us generate a query to display <b>Stationcode</b> (Dimension) and <b>Order A
 <b>4.</b>  Using <b>Field Picker (Search)</b>, select Dimensions and Measures.
 the query is built in SQL Section based on the selection made and the joins derived in model section.
 
-To view the SQL query built click on <b>SQL</b> section.
+To view the SQL query built navigate to <b>SQL</b> section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Reports_Image13.png)
 <b><font color = "Black"> Image 3</b>
@@ -433,11 +433,11 @@ Similarly, for report definition for yesterdays data :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4MjIwMDYyLDIwNzUyMzE3MjgsLTY4Mz
-QzNjY1Miw1MzM1MDg5OTYsLTE0ODk3OTQwODQsMjAzNDk1MDgw
-MywzOTQyMDQyNjQsMTU4MjUxOTMzMCw3MDQ3NDAyNTAsMTk4OT
-U4OTE3MiwtNDgwNTQxOTc5LC0yMTE4MTg3MTEwLDgyMDYxNDMz
-NCw4MDEyMTk4ODgsNDczMTAwNDAwLC0xNzI5NzEyNTMwLC0yMD
-I5NzA4NzM3LDQ4MTA4Mzk3MSwxODI5NDY4MzgwLC0xNDc5NzMx
-ODg2XX0=
+eyJoaXN0b3J5IjpbLTE5NTA5ODkxNTksMjc4MjIwMDYyLDIwNz
+UyMzE3MjgsLTY4MzQzNjY1Miw1MzM1MDg5OTYsLTE0ODk3OTQw
+ODQsMjAzNDk1MDgwMywzOTQyMDQyNjQsMTU4MjUxOTMzMCw3MD
+Q3NDAyNTAsMTk4OTU4OTE3MiwtNDgwNTQxOTc5LC0yMTE4MTg3
+MTEwLDgyMDYxNDMzNCw4MDEyMTk4ODgsNDczMTAwNDAwLC0xNz
+I5NzEyNTMwLC0yMDI5NzA4NzM3LDQ4MTA4Mzk3MSwxODI5NDY4
+MzgwXX0=
 -->
