@@ -414,7 +414,7 @@ Click Save to save the report in database.
 
 ## Report Definition
 
-To view weather today's data existed in the list, go to Dashboard section-->Reports-->Click on report, on top right of the screen it display a <i><b><font color = " green">green circle</font></b></i>, click on it to view report definition.
+To view weather today's data existed in the list, go to Dashboard section-->Reports-->Click on report, on top right of the screen it display a <i><b><font color = " green">Green help icon</font></b></i>, click on it to view report definition.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_7.png)
 <b><font color = "Black"> Image 21</b>
@@ -434,11 +434,11 @@ Similarly, for report definition for yesterdays data :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzQzNjY1Miw1MzM1MDg5OTYsLTE0OD
-k3OTQwODQsMjAzNDk1MDgwMywzOTQyMDQyNjQsMTU4MjUxOTMz
-MCw3MDQ3NDAyNTAsMTk4OTU4OTE3MiwtNDgwNTQxOTc5LC0yMT
-E4MTg3MTEwLDgyMDYxNDMzNCw4MDEyMTk4ODgsNDczMTAwNDAw
-LC0xNzI5NzEyNTMwLC0yMDI5NzA4NzM3LDQ4MTA4Mzk3MSwxOD
-I5NDY4MzgwLC0xNDc5NzMxODg2LDY3NTI5NzQ1MSw3Njg3MjEx
-OTFdfQ==
+eyJoaXN0b3J5IjpbMjA3NTIzMTcyOCwtNjgzNDM2NjUyLDUzMz
+UwODk5NiwtMTQ4OTc5NDA4NCwyMDM0OTUwODAzLDM5NDIwNDI2
+NCwxNTgyNTE5MzMwLDcwNDc0MDI1MCwxOTg5NTg5MTcyLC00OD
+A1NDE5NzksLTIxMTgxODcxMTAsODIwNjE0MzM0LDgwMTIxOTg4
+OCw0NzMxMDA0MDAsLTE3Mjk3MTI1MzAsLTIwMjk3MDg3MzcsND
+gxMDgzOTcxLDE4Mjk0NjgzODAsLTE0Nzk3MzE4ODYsNjc1Mjk3
+NDUxXX0=
 -->
