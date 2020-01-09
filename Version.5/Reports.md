@@ -156,7 +156,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 ## Local Sorting
 
-<b>12.</b> Sorting can also be applied after data is retrieved in data section, you can simply click on <b>Arrow Up and Down Icon</b> available at desired field header to enable sorting.
+<b>12.</b> Sorting can also be applied after data is retrieved in data section, you can simply click on <b>Arrow Up and Arrow Down Icon</b> available at desired field header to enable sorting.
 
 For  <b>Dimensions</b>
 
@@ -435,11 +435,11 @@ Similarly, for report definition for yesterdays data :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTE1ODk3OSwxNjY4MzY3MTQzLDI3OD
-IyMDA2MiwyMDc1MjMxNzI4LC02ODM0MzY2NTIsNTMzNTA4OTk2
-LC0xNDg5Nzk0MDg0LDIwMzQ5NTA4MDMsMzk0MjA0MjY0LDE1OD
-I1MTkzMzAsNzA0NzQwMjUwLDE5ODk1ODkxNzIsLTQ4MDU0MTk3
-OSwtMjExODE4NzExMCw4MjA2MTQzMzQsODAxMjE5ODg4LDQ3Mz
-EwMDQwMCwtMTcyOTcxMjUzMCwtMjAyOTcwODczNyw0ODEwODM5
-NzFdfQ==
+eyJoaXN0b3J5IjpbLTE3NjA1Nzc1ODgsMTE4OTE1ODk3OSwxNj
+Y4MzY3MTQzLDI3ODIyMDA2MiwyMDc1MjMxNzI4LC02ODM0MzY2
+NTIsNTMzNTA4OTk2LC0xNDg5Nzk0MDg0LDIwMzQ5NTA4MDMsMz
+k0MjA0MjY0LDE1ODI1MTkzMzAsNzA0NzQwMjUwLDE5ODk1ODkx
+NzIsLTQ4MDU0MTk3OSwtMjExODE4NzExMCw4MjA2MTQzMzQsOD
+AxMjE5ODg4LDQ3MzEwMDQwMCwtMTcyOTcxMjUzMCwtMjAyOTcw
+ODczN119
 -->
