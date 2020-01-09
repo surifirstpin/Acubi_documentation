@@ -49,7 +49,7 @@ To view the SQL query built navigate to <b>SQL</b> section.
 
 ## Data Extract
 
-<b>5.</b> Hit the <b>Run</b>button to extract data.
+<b>5.</b> Hit the <b>Run</b> button to extract data.
 
 > <b>Note :</b>  Data retrieved on running a report, is visible in  <b>Data Section</b>.
 
@@ -433,11 +433,11 @@ Similarly, for report definition for yesterdays data :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTA5ODkxNTksMjc4MjIwMDYyLDIwNz
-UyMzE3MjgsLTY4MzQzNjY1Miw1MzM1MDg5OTYsLTE0ODk3OTQw
-ODQsMjAzNDk1MDgwMywzOTQyMDQyNjQsMTU4MjUxOTMzMCw3MD
-Q3NDAyNTAsMTk4OTU4OTE3MiwtNDgwNTQxOTc5LC0yMTE4MTg3
-MTEwLDgyMDYxNDMzNCw4MDEyMTk4ODgsNDczMTAwNDAwLC0xNz
-I5NzEyNTMwLC0yMDI5NzA4NzM3LDQ4MTA4Mzk3MSwxODI5NDY4
-MzgwXX0=
+eyJoaXN0b3J5IjpbMTY2ODM2NzE0MywyNzgyMjAwNjIsMjA3NT
+IzMTcyOCwtNjgzNDM2NjUyLDUzMzUwODk5NiwtMTQ4OTc5NDA4
+NCwyMDM0OTUwODAzLDM5NDIwNDI2NCwxNTgyNTE5MzMwLDcwND
+c0MDI1MCwxOTg5NTg5MTcyLC00ODA1NDE5NzksLTIxMTgxODcx
+MTAsODIwNjE0MzM0LDgwMTIxOTg4OCw0NzMxMDA0MDAsLTE3Mj
+k3MTI1MzAsLTIwMjk3MDg3MzcsNDgxMDgzOTcxLDE4Mjk0Njgz
+ODBdfQ==
 -->
