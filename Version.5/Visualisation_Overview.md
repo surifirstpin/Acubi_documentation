@@ -12,7 +12,7 @@ Visualization in AcuBi creates impressive graphs and charts based on query resul
 
 Under reports section data and visualization are configured together, So once you share a query user will get a visualization picture and data as well.
 
-<b>For Instance</b> :  Create a report to fetch Order details and query Stationcode, Whenmade_Month and Q_sum. Apply <b>filter</b>  to whenmade_month to limit the data  to January, February and March. 
+<b>For Instance</b> :  Create a report to fetch Order details and query Stationcode, Whenmade_Month and Quantity_sum. Apply <b>filter</b>  to whenmade_month to limit the data  to January, February and March. 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/588793b3bdaa6683973fbe70ceaf6b591ff25fb2/images/New_version5/UD_Visualisation_Overview_Image1.png)
@@ -97,11 +97,11 @@ You can drill deeper into visualization, to get more specific information about 
 > Note : A more detailed explanation on visualization is given in visualization types and settings documents.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDM0MzU0MSw2MjYxODk5MDYsMTI3OD
-MyNjgwNywtMTQxMTc3MzIyNSwxMDUyODEyMjkzLC05OTM0NDQ4
-OSw4NjQ2NjQ5NjUsLTk5MzQ0NDg5LC05OTM0NDQ4OSwtMTYyOT
-gwMjU4Myw1NjI4MzI2ODEsLTExMzQ5MzMyODksNTE3NjE3Mywt
-NDM4ODM5NjEyLC0xOTc3Nzk3MjM1LC0xNjczNDMzODEyLDEyMz
-A0NzAyMzQsLTEzNTUxNjQ4ODQsLTExNzE3ODIwMDIsLTExOTA0
-NTI5OTNdfQ==
+eyJoaXN0b3J5IjpbLTQ2NDQ0MTQ3LDYyNjE4OTkwNiwxMjc4Mz
+I2ODA3LC0xNDExNzczMjI1LDEwNTI4MTIyOTMsLTk5MzQ0NDg5
+LDg2NDY2NDk2NSwtOTkzNDQ0ODksLTk5MzQ0NDg5LC0xNjI5OD
+AyNTgzLDU2MjgzMjY4MSwtMTEzNDkzMzI4OSw1MTc2MTczLC00
+Mzg4Mzk2MTIsLTE5Nzc3OTcyMzUsLTE2NzM0MzM4MTIsMTIzMD
+Q3MDIzNCwtMTM1NTE2NDg4NCwtMTE3MTc4MjAwMiwtMTE5MDQ1
+Mjk5M119
 -->
