@@ -1,6 +1,6 @@
 
 
-<center><h2>VISUALIZATION TYPES & SETTINGS</h2></center>
+<center><h2>VISUALIZATION TYPES </h2></center>
 
  Visualization provides an opportunity to view the data obtained in analysis report into different pictorial representation along with some standard editing options. Based on the priority, to view specific information about the data retrieved. Each type of visualization charts have different setting which can be customized for its appearance. 
  
@@ -443,11 +443,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODAxMTM0OCwxMjc1NjYzODExLDU5Mj
-UyMDUwNiwxMjk0NzEwNTcxLDIxMDcxOTEwMjksMTQ0NDkyMTc2
-NywtMTQxMTcyMTAyNSwtMTA1ODg3MjA1OSwtOTA0MTUxMjA0LC
-05NDk5NjY5OTgsLTE2MzA4OTMxMzQsLTEwMDM1ODU1MjgsLTE4
-MDI5MzE0MTYsNTc3ODk3OTY0LDk2NzkwMzc0NiwtNDU5MDgzMD
-g1LDU3MjI1OTIyNCwtMjE0MTgxMzQsNzM4MTczNzk4LDE0MzI0
-ODUyNjhdfQ==
+eyJoaXN0b3J5IjpbMTY1NjcwOTExMSwxNjU4MDExMzQ4LDEyNz
+U2NjM4MTEsNTkyNTIwNTA2LDEyOTQ3MTA1NzEsMjEwNzE5MTAy
+OSwxNDQ0OTIxNzY3LC0xNDExNzIxMDI1LC0xMDU4ODcyMDU5LC
+05MDQxNTEyMDQsLTk0OTk2Njk5OCwtMTYzMDg5MzEzNCwtMTAw
+MzU4NTUyOCwtMTgwMjkzMTQxNiw1Nzc4OTc5NjQsOTY3OTAzNz
+Q2LC00NTkwODMwODUsNTcyMjU5MjI0LC0yMTQxODEzNCw3Mzgx
+NzM3OThdfQ==
 -->
