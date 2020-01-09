@@ -187,7 +187,7 @@ Multiple dimensions in a report data are often easier to look at when you pivot 
 ](https://raw.githubusercontent.com/sv18042016/fp1/853361b4c4a583c5fb273a41c7e497f2dc1564e1/images/New_version5/UD_Reports_Image5.png)
 <b>Image 6:</b>
 
-> **Note :** in case if you are using multiple pivot, make sure you have at least one un-pivoted dimension and a measure value.
+> <b>Note :</b> in case if you are using multiple pivot, make sure you have at least one un-pivoted dimension and a measure value.
 
 <b>Pivot Example</b> : if you want to view quantity sum based on station code then apply pivot for station code (Dimension) as shown in below image.
 
@@ -435,11 +435,11 @@ Similarly, for report definition for yesterdays data :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjg0MTUxOCwxMTg5MTU4OTc5LDE2Nj
-gzNjcxNDMsMjc4MjIwMDYyLDIwNzUyMzE3MjgsLTY4MzQzNjY1
-Miw1MzM1MDg5OTYsLTE0ODk3OTQwODQsMjAzNDk1MDgwMywzOT
-QyMDQyNjQsMTU4MjUxOTMzMCw3MDQ3NDAyNTAsMTk4OTU4OTE3
-MiwtNDgwNTQxOTc5LC0yMTE4MTg3MTEwLDgyMDYxNDMzNCw4MD
-EyMTk4ODgsNDczMTAwNDAwLC0xNzI5NzEyNTMwLC0yMDI5NzA4
-NzM3XX0=
+eyJoaXN0b3J5IjpbLTE5Mjk0MTAwNTEsLTgyNjg0MTUxOCwxMT
+g5MTU4OTc5LDE2NjgzNjcxNDMsMjc4MjIwMDYyLDIwNzUyMzE3
+MjgsLTY4MzQzNjY1Miw1MzM1MDg5OTYsLTE0ODk3OTQwODQsMj
+AzNDk1MDgwMywzOTQyMDQyNjQsMTU4MjUxOTMzMCw3MDQ3NDAy
+NTAsMTk4OTU4OTE3MiwtNDgwNTQxOTc5LC0yMTE4MTg3MTEwLD
+gyMDYxNDMzNCw4MDEyMTk4ODgsNDczMTAwNDAwLC0xNzI5NzEy
+NTMwXX0=
 -->
