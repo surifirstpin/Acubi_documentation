@@ -85,7 +85,7 @@ To refine and enhance the data obtained in AcuBi, It is provided with good numbe
 
 You can drill deeper into visualization, to get more specific information about the data obtained. In order to carry out this function, single click on the data field in table chart, it will further drill down displaying more deeper insight about the data field.
 
-<b>For Instance:</b> In below chart, when you click on country it will display the states that fall under that country, for more deeper insight on clicking on State_Name it will display the list of cities that fall under that states as shown clearly in below image.
+<b>For Instance:</b> In below chart, when you click on country it will display the states that fall under that country, for more deeper insight on clicking on <b>State_Name</b> it will display the list of cities that fall under that states as shown clearly in below image.
 <b><i>Country_Name &rarr; State_Name &rarr; City_Name</i></b>
 
  > <b>Note:</b>  To carryout this function you need derive it in model first.
@@ -94,14 +94,17 @@ You can drill deeper into visualization, to get more specific information about 
 ](https://raw.githubusercontent.com/sv18042016/fp1/7c0acf39f26482bbef006df3ae981d22e8067f00/images/New_version5/UD_Visualisation_Overview_Image7.png)
  <b><font color = "Black"> Image 7</b>
 
-> Note : A more detailed explanation on visualization is given in visualization types and settings documents.
+> Note : A more detailed explanation on visualization is given in visualization types documents.
+
+[Visualization Types](http://firstpin.in/documentation/acubi_user_documentation.html#/Visualization_Types_and_Settings)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDQ0MTQ3LDYyNjE4OTkwNiwxMjc4Mz
-I2ODA3LC0xNDExNzczMjI1LDEwNTI4MTIyOTMsLTk5MzQ0NDg5
-LDg2NDY2NDk2NSwtOTkzNDQ0ODksLTk5MzQ0NDg5LC0xNjI5OD
-AyNTgzLDU2MjgzMjY4MSwtMTEzNDkzMzI4OSw1MTc2MTczLC00
-Mzg4Mzk2MTIsLTE5Nzc3OTcyMzUsLTE2NzM0MzM4MTIsMTIzMD
-Q3MDIzNCwtMTM1NTE2NDg4NCwtMTE3MTc4MjAwMiwtMTE5MDQ1
-Mjk5M119
+eyJoaXN0b3J5IjpbLTE3ODk5ODE1OTYsLTQ2NDQ0MTQ3LDYyNj
+E4OTkwNiwxMjc4MzI2ODA3LC0xNDExNzczMjI1LDEwNTI4MTIy
+OTMsLTk5MzQ0NDg5LDg2NDY2NDk2NSwtOTkzNDQ0ODksLTk5Mz
+Q0NDg5LC0xNjI5ODAyNTgzLDU2MjgzMjY4MSwtMTEzNDkzMzI4
+OSw1MTc2MTczLC00Mzg4Mzk2MTIsLTE5Nzc3OTcyMzUsLTE2Nz
+M0MzM4MTIsMTIzMDQ3MDIzNCwtMTM1NTE2NDg4NCwtMTE3MTc4
+MjAwMl19
 -->
