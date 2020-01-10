@@ -3,9 +3,7 @@
 
 <center><h2>VIEW CONTENT</h2></center>
 
-This section explains on how to view the existing files saved under <b>My Space</b> in AcuBi.
-
-One of the best ways to start using Acubi is to navigate around the existing My Spaces and pages to see what content already exists in <b>My Space</b> menu available on the left side of the dashboard screen as shown below;
+This section explains on how to view the existing files saved under <b>My Space</b> in AcuBi. One of the best ways to start using Acubi is to navigate around the existing My Spaces and pages to see what content already exists in <b>My Space</b> menu available on the left side of the dashboard screen as shown below;
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d9c267871ed467a0bbf143c1bf8c4137012cb6d4/images/New_version5/UD_Viewing_Content_Image4.png)
@@ -140,11 +138,11 @@ In case if you are intended to view multiple reports and want to access the prev
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczMDcwMzc1LDE4ODA5MjcyODIsMTg3Nj
-g3OTEwNiwtMTgyOTE3MTcwOSw3ODk2MzkyOSwyMDIyMTcxNTk4
-LC0xNTQzNzUwNzIwLC0xMjY0NTIwOTc4LC00MTE0MTIxNjMsLT
-E0MTMxODE0OTEsMjA3MzMxNDUwMiw4Nzk4NDQ2MTgsMTg5NTMx
-NDU3MCwtMTczNjMyNjk2NCwxMzE5NTg2NTI2LDEyMzQ1MzQ3NT
-csLTM4MjYwMzkyMSwtMTAwMjk1NDI3NiwxOTg4OTQxMTMyLC02
-NjA4MDIwNjRdfQ==
+eyJoaXN0b3J5IjpbOTI4MjYyNTIzLDM3MzA3MDM3NSwxODgwOT
+I3MjgyLDE4NzY4NzkxMDYsLTE4MjkxNzE3MDksNzg5NjM5Mjks
+MjAyMjE3MTU5OCwtMTU0Mzc1MDcyMCwtMTI2NDUyMDk3OCwtND
+ExNDEyMTYzLC0xNDEzMTgxNDkxLDIwNzMzMTQ1MDIsODc5ODQ0
+NjE4LDE4OTUzMTQ1NzAsLTE3MzYzMjY5NjQsMTMxOTU4NjUyNi
+wxMjM0NTM0NzU3LC0zODI2MDM5MjEsLTEwMDI5NTQyNzYsMTk4
+ODk0MTEzMl19
 -->
