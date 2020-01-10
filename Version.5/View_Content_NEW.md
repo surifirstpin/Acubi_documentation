@@ -27,8 +27,6 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 
  To view the existing dashboard click on Dashboard report name from the available list under Myspace. Dashboard consist of number of layouts used and global filters used for the same dashboard reports.
  
- <b>For Instance :</b> Select dashboard, Daily_Players_Bets from the list , it will navigate to the dashboard layout section.
- 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/defc094669e204a0c4851cb930d0a992f814830a/images/New_version5/UD_Viewing_Content_Image2.png)
  
  <b><font color = "Black"> Image 3</b>
@@ -46,8 +44,8 @@ To view the existing report in Acubi, Click on any specific report,it will displ
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTMxODE0OTEsMjA3MzMxNDUwMiw4Nz
-k4NDQ2MTgsMTg5NTMxNDU3MCwtMTczNjMyNjk2NCwxMzE5NTg2
-NTI2LDEyMzQ1MzQ3NTcsLTM4MjYwMzkyMSwtMTAwMjk1NDI3Ni
-wxOTg4OTQxMTMyLC02NjA4MDIwNjRdfQ==
+eyJoaXN0b3J5IjpbLTQxMTQxMjE2MywtMTQxMzE4MTQ5MSwyMD
+czMzE0NTAyLDg3OTg0NDYxOCwxODk1MzE0NTcwLC0xNzM2MzI2
+OTY0LDEzMTk1ODY1MjYsMTIzNDUzNDc1NywtMzgyNjAzOTIxLC
+0xMDAyOTU0Mjc2LDE5ODg5NDExMzIsLTY2MDgwMjA2NF19
 -->
