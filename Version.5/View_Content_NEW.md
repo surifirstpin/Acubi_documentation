@@ -39,7 +39,7 @@ To view the existing report in Acubi, Click on any specific report to open, it w
 
 ## Edit/Delete
 
-To Edit or delete a report, click on <b>List</b> icon and click edit make any changes to report and save changes to the same.
+To edit or delete a report, click on <b>List</b> icon and click edit make any changes to report and save changes to the same.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4cf90c1b89eb4c3002bcc0f1de094babbc3834d4/images/New_version5/td_view_report_image15.png)
 <b><font color = "Black"> Image 6</b>
@@ -97,9 +97,9 @@ In case if you are intended to view multiple reports and want to access the prev
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQ1MTgyMjYsLTE1NDM3NTA3MjAsLT
-EyNjQ1MjA5NzgsLTQxMTQxMjE2MywtMTQxMzE4MTQ5MSwyMDcz
-MzE0NTAyLDg3OTg0NDYxOCwxODk1MzE0NTcwLC0xNzM2MzI2OT
-Y0LDEzMTk1ODY1MjYsMTIzNDUzNDc1NywtMzgyNjAzOTIxLC0x
-MDAyOTU0Mjc2LDE5ODg5NDExMzIsLTY2MDgwMjA2NF19
+eyJoaXN0b3J5IjpbMjAyMjE3MTU5OCwtMTU0Mzc1MDcyMCwtMT
+I2NDUyMDk3OCwtNDExNDEyMTYzLC0xNDEzMTgxNDkxLDIwNzMz
+MTQ1MDIsODc5ODQ0NjE4LDE4OTUzMTQ1NzAsLTE3MzYzMjY5Nj
+QsMTMxOTU4NjUyNiwxMjM0NTM0NzU3LC0zODI2MDM5MjEsLTEw
+MDI5NTQyNzYsMTk4ODk0MTEzMiwtNjYwODAyMDY0XX0=
 -->
