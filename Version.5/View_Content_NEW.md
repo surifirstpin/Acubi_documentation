@@ -37,6 +37,7 @@ To view the existing report in Acubi, Click on any specific report,it will displ
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/094f156e76391d17f8f39e4a8f02b97cf71952d4/images/New_version5/td_view_report_image12.png)
 
+
 ## Full-Screen
 
 To set report to full screen click full-screen from the list. (refer image 6)
@@ -84,9 +85,9 @@ In case if you are intended to view multiple reports and want to access the prev
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjQ1MjA5NzgsLTQxMTQxMjE2MywtMT
-QxMzE4MTQ5MSwyMDczMzE0NTAyLDg3OTg0NDYxOCwxODk1MzE0
-NTcwLC0xNzM2MzI2OTY0LDEzMTk1ODY1MjYsMTIzNDUzNDc1Ny
-wtMzgyNjAzOTIxLC0xMDAyOTU0Mjc2LDE5ODg5NDExMzIsLTY2
-MDgwMjA2NF19
+eyJoaXN0b3J5IjpbLTE1NDM3NTA3MjAsLTEyNjQ1MjA5NzgsLT
+QxMTQxMjE2MywtMTQxMzE4MTQ5MSwyMDczMzE0NTAyLDg3OTg0
+NDYxOCwxODk1MzE0NTcwLC0xNzM2MzI2OTY0LDEzMTk1ODY1Mj
+YsMTIzNDUzNDc1NywtMzgyNjAzOTIxLC0xMDAyOTU0Mjc2LDE5
+ODg5NDExMzIsLTY2MDgwMjA2NF19
 -->
