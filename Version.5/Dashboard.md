@@ -52,6 +52,7 @@ Dashboard provides access to view multiple reports in single dashboard layout th
 
 
 > <b>Note 1:</b> Timeline filters, accepts only text. A detailed information on timeline filters are available in Technical Documents.
+
 > <b>Note  2:</B> You need to add Loookups before creating global filters.
 
 ## Lookups
@@ -166,11 +167,11 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 
 - Right side of the Dashboard displays different dashboard reports layout.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTcyOTIxMywtNzgzMjU3NTE5LDExNT
-YwNTcyMjAsLTE2MzkzNzUzMjcsMTM5NTQ3ODM5MywtMTcwMzA2
-NDQzMywtMTg1MDgxOSwxMzYxNjUwODUwLDU0ODI5NjM2NSwtMz
-kyNzQ5MzQsLTc2NjQzMDk0MiwxMDA5Mjg3MzI4LDI2MTY3ODY3
-OCw1MzQ2MzAxNTgsLTE0MzM4MjIxMDAsLTIxMzk3MjU2NDcsLT
-IwODA4Njk0NjYsODg5OTA3ODEyLC00NTQ2MDk2MSwyMDcxNDIz
-ODMxXX0=
+eyJoaXN0b3J5IjpbNzU5MjU2OTE3LC03ODMyNTc1MTksMTE1Nj
+A1NzIyMCwtMTYzOTM3NTMyNywxMzk1NDc4MzkzLC0xNzAzMDY0
+NDMzLC0xODUwODE5LDEzNjE2NTA4NTAsNTQ4Mjk2MzY1LC0zOT
+I3NDkzNCwtNzY2NDMwOTQyLDEwMDkyODczMjgsMjYxNjc4Njc4
+LDUzNDYzMDE1OCwtMTQzMzgyMjEwMCwtMjEzOTcyNTY0NywtMj
+A4MDg2OTQ2Niw4ODk5MDc4MTIsLTQ1NDYwOTYxLDIwNzE0MjM4
+MzFdfQ==
 -->
