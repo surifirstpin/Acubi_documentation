@@ -25,7 +25,7 @@ Click on any specific tag which you would like to view. it will navigate to tag 
  
 ## Dashboard
 
- To view existing dashboard click on dashboard name from the available list under Myspace. Dashboard consist of number of layouts used and global filters used for the same dashboard reports.
+ To view saved dashboard reports click on dashboard name from the available list under Myspace. It displays number of layouts used and global filters used for dashboard reports as sh
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c837174a359211665f3c4da93275066e943d7c93/images/New_version5/UD_Dashboard_image10.png)
  
@@ -156,11 +156,11 @@ In case if you are intended to view multiple reports and want to access the prev
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQ2MzU0MjcsMTg3Njg3OTEwNiwtMT
-gyOTE3MTcwOSw3ODk2MzkyOSwyMDIyMTcxNTk4LC0xNTQzNzUw
-NzIwLC0xMjY0NTIwOTc4LC00MTE0MTIxNjMsLTE0MTMxODE0OT
-EsMjA3MzMxNDUwMiw4Nzk4NDQ2MTgsMTg5NTMxNDU3MCwtMTcz
-NjMyNjk2NCwxMzE5NTg2NTI2LDEyMzQ1MzQ3NTcsLTM4MjYwMz
-kyMSwtMTAwMjk1NDI3NiwxOTg4OTQxMTMyLC02NjA4MDIwNjRd
-fQ==
+eyJoaXN0b3J5IjpbLTY2ODkyNTI2MCwxODc2ODc5MTA2LC0xOD
+I5MTcxNzA5LDc4OTYzOTI5LDIwMjIxNzE1OTgsLTE1NDM3NTA3
+MjAsLTEyNjQ1MjA5NzgsLTQxMTQxMjE2MywtMTQxMzE4MTQ5MS
+wyMDczMzE0NTAyLDg3OTg0NDYxOCwxODk1MzE0NTcwLC0xNzM2
+MzI2OTY0LDEzMTk1ODY1MjYsMTIzNDUzNDc1NywtMzgyNjAzOT
+IxLC0xMDAyOTU0Mjc2LDE5ODg5NDExMzIsLTY2MDgwMjA2NF19
+
 -->
