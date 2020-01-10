@@ -157,7 +157,7 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 ](https://raw.githubusercontent.com/sv18042016/fp1/a139aa668a28e43d5ac7a91829062729877b0e09/images/New_version5/UD_Dashboard_image3.png)
 <b><font color = "Black"> Image 9</b>
 
- - Left side of the dashboard displays global filters applied.
+ - Left side of the dashboard section displays global filters applied.
 
 -  You can alter the existing filter applied or add any new filters. On applying any new filters click <b>Apply</b> button to update the dashboard with new filter options.
 
@@ -165,13 +165,12 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 
 - To go back to previously applied filter, click on <b>Default</b> Button. 
 
-- Right side of the dashboard displays different dashboard reports layout.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDk4MjcwNCwtMTMwOTg2MDUzMyw3NT
-kyNTY5MTcsLTc4MzI1NzUxOSwxMTU2MDU3MjIwLC0xNjM5Mzc1
-MzI3LDEzOTU0NzgzOTMsLTE3MDMwNjQ0MzMsLTE4NTA4MTksMT
-M2MTY1MDg1MCw1NDgyOTYzNjUsLTM5Mjc0OTM0LC03NjY0MzA5
-NDIsMTAwOTI4NzMyOCwyNjE2Nzg2NzgsNTM0NjMwMTU4LC0xND
-MzODIyMTAwLC0yMTM5NzI1NjQ3LC0yMDgwODY5NDY2LDg4OTkw
-NzgxMl19
+eyJoaXN0b3J5IjpbLTY5OTQxOTU4LC0xMzA5ODYwNTMzLDc1OT
+I1NjkxNywtNzgzMjU3NTE5LDExNTYwNTcyMjAsLTE2MzkzNzUz
+MjcsMTM5NTQ3ODM5MywtMTcwMzA2NDQzMywtMTg1MDgxOSwxMz
+YxNjUwODUwLDU0ODI5NjM2NSwtMzkyNzQ5MzQsLTc2NjQzMDk0
+MiwxMDA5Mjg3MzI4LDI2MTY3ODY3OCw1MzQ2MzAxNTgsLTE0Mz
+M4MjIxMDAsLTIxMzk3MjU2NDcsLTIwODA4Njk0NjYsODg5OTA3
+ODEyXX0=
 -->
