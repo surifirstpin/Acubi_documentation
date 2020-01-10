@@ -32,7 +32,7 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 
 -  You can alter the existing filter applied or add any new filter to the existing ones. On applying any new filters click <b>Apply</b> button to update the dashboard with new filter options.
 
- -  Click <b>Save,</b> to save the filters applied.
+-  Click <b>Save,</b> to save the filters applied.
 
 - To go back to previously applied filter, click on <b>Default</b> Button. 
 
@@ -164,11 +164,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NjA1NzIyMCwtMTYzOTM3NTMyNywxMz
-k1NDc4MzkzLC0xNzAzMDY0NDMzLC0xODUwODE5LDEzNjE2NTA4
-NTAsNTQ4Mjk2MzY1LC0zOTI3NDkzNCwtNzY2NDMwOTQyLDEwMD
-kyODczMjgsMjYxNjc4Njc4LDUzNDYzMDE1OCwtMTQzMzgyMjEw
-MCwtMjEzOTcyNTY0NywtMjA4MDg2OTQ2Niw4ODk5MDc4MTIsLT
-Q1NDYwOTYxLDIwNzE0MjM4MzEsMTE1MDY2MjU2MCwtMTQ4NTE4
-MjI0MV19
+eyJoaXN0b3J5IjpbLTY3NDExMzY2OCwxMTU2MDU3MjIwLC0xNj
+M5Mzc1MzI3LDEzOTU0NzgzOTMsLTE3MDMwNjQ0MzMsLTE4NTA4
+MTksMTM2MTY1MDg1MCw1NDgyOTYzNjUsLTM5Mjc0OTM0LC03Nj
+Y0MzA5NDIsMTAwOTI4NzMyOCwyNjE2Nzg2NzgsNTM0NjMwMTU4
+LC0xNDMzODIyMTAwLC0yMTM5NzI1NjQ3LC0yMDgwODY5NDY2LD
+g4OTkwNzgxMiwtNDU0NjA5NjEsMjA3MTQyMzgzMSwxMTUwNjYy
+NTYwXX0=
 -->
