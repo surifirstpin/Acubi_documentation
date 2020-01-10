@@ -159,19 +159,19 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 
  - Left side of the dashboard displays global filters applied.
 
--  You can alter the existing filter applied or add any new filter to the existing ones. On applying any new filters click <b>Apply</b> button to update the dashboard with new filter options.
+-  You can alter the existing filter applied or add any new filters. On applying any new filters click <b>Apply</b> button to update the dashboard with new filter options.
 
 -  Click <b>Save,</b> to save the filters applied.
 
 - To go back to previously applied filter, click on <b>Default</b> Button. 
 
-- Right side of the Dashboard displays different dashboard reports layout.
+- Right side of the dashboard displays different dashboard reports layout.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDk4NjA1MzMsNzU5MjU2OTE3LC03OD
-MyNTc1MTksMTE1NjA1NzIyMCwtMTYzOTM3NTMyNywxMzk1NDc4
-MzkzLC0xNzAzMDY0NDMzLC0xODUwODE5LDEzNjE2NTA4NTAsNT
-Q4Mjk2MzY1LC0zOTI3NDkzNCwtNzY2NDMwOTQyLDEwMDkyODcz
-MjgsMjYxNjc4Njc4LDUzNDYzMDE1OCwtMTQzMzgyMjEwMCwtMj
-EzOTcyNTY0NywtMjA4MDg2OTQ2Niw4ODk5MDc4MTIsLTQ1NDYw
-OTYxXX0=
+eyJoaXN0b3J5IjpbLTI2MDk4MjcwNCwtMTMwOTg2MDUzMyw3NT
+kyNTY5MTcsLTc4MzI1NzUxOSwxMTU2MDU3MjIwLC0xNjM5Mzc1
+MzI3LDEzOTU0NzgzOTMsLTE3MDMwNjQ0MzMsLTE4NTA4MTksMT
+M2MTY1MDg1MCw1NDgyOTYzNjUsLTM5Mjc0OTM0LC03NjY0MzA5
+NDIsMTAwOTI4NzMyOCwyNjE2Nzg2NzgsNTM0NjMwMTU4LC0xND
+MzODIyMTAwLC0yMTM5NzI1NjQ3LC0yMDgwODY5NDY2LDg4OTkw
+NzgxMl19
 -->
