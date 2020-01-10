@@ -86,11 +86,11 @@ To view the existing report in Acubi, Click on any specific report to open, it w
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/094f156e76391d17f8f39e4a8f02b97cf71952d4/images/New_version5/td_view_report_image12.png)
 
- <b><font color = "Black"> Image 9 </b>
+ <b><font color = "Black"> Image  8</b>
  
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4cf90c1b89eb4c3002bcc0f1de094babbc3834d4/images/New_version5/td_view_report_image15.png)
-<b><font color = "Black"> Image 10</b>
+<b><font color = "Black"> Image 9</b>
 
 ## Full-Screen
 
@@ -102,7 +102,7 @@ You can limit report data to certain limit by selecting range for data display a
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9909d1672012d731d78dcdbdbf702bf20a06c2cb/images/New_version5/UD_Viewing_Content_Image5.png)
 
- <b><font color = "Black"> Image 12</b>
+ <b><font color = "Black"> Image 10</b>
 
 ## Download
 
@@ -110,7 +110,7 @@ To download a report in any of the following formats, click gear icon;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b258f4f2510be549d125601a7ae32a0c1945cca9/images/New_version5/td_view_report_image16.png)
 
-<b><font color = "Black"> Image 13</b>
+<b><font color = "Black"> Image 11</b>
 
 -   <b>Download CSV </b>  download the dashboard report in CSV format.
 
@@ -136,15 +136,15 @@ In case if you are intended to view multiple reports and want to access the prev
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ecb4f0f16b2129205eec0956ab06dc804f988097/images/New_version5/td_view_report_image17.png)
 
-<b><font color = "Black"> Image 14</b>
+<b><font color = "Black"> Image 12</b>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MDkyNzI4MiwxODc2ODc5MTA2LC0xOD
-I5MTcxNzA5LDc4OTYzOTI5LDIwMjIxNzE1OTgsLTE1NDM3NTA3
-MjAsLTEyNjQ1MjA5NzgsLTQxMTQxMjE2MywtMTQxMzE4MTQ5MS
-wyMDczMzE0NTAyLDg3OTg0NDYxOCwxODk1MzE0NTcwLC0xNzM2
-MzI2OTY0LDEzMTk1ODY1MjYsMTIzNDUzNDc1NywtMzgyNjAzOT
-IxLC0xMDAyOTU0Mjc2LDE5ODg5NDExMzIsLTY2MDgwMjA2NF19
-
+eyJoaXN0b3J5IjpbMzczMDcwMzc1LDE4ODA5MjcyODIsMTg3Nj
+g3OTEwNiwtMTgyOTE3MTcwOSw3ODk2MzkyOSwyMDIyMTcxNTk4
+LC0xNTQzNzUwNzIwLC0xMjY0NTIwOTc4LC00MTE0MTIxNjMsLT
+E0MTMxODE0OTEsMjA3MzMxNDUwMiw4Nzk4NDQ2MTgsMTg5NTMx
+NDU3MCwtMTczNjMyNjk2NCwxMzE5NTg2NTI2LDEyMzQ1MzQ3NT
+csLTM4MjYwMzkyMSwtMTAwMjk1NDI3NiwxOTg4OTQxMTMyLC02
+NjA4MDIwNjRdfQ==
 -->
