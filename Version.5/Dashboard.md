@@ -72,11 +72,11 @@ Dashboard provides access to view multiple reports in single dashboard layout th
  -   <b>Lookup name :</B> Name Identifier for lookup field.
  -   <b>Lookup Type :</b>  Refers to item or query type.
    
- -  <b>Connection</b>  Connection are referred only for Queries and it is disabled for Items.
+ -  <b>Connection</b>  Connection are referred only for queries and it is disabled for Items.
      
    <b>6.</B> Click on <b>Test Lookup.</b>
    
- -   <b>Multiple Selections : </b> Enables the selection of list, for multiple data.
+ -   <b>Multiple Selections : </b> Enables selection list for multiple data.
 
 ## Dependency Filters
 
@@ -167,11 +167,11 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 
 - Right side of the Dashboard displays different dashboard reports layout.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5MjU2OTE3LC03ODMyNTc1MTksMTE1Nj
-A1NzIyMCwtMTYzOTM3NTMyNywxMzk1NDc4MzkzLC0xNzAzMDY0
-NDMzLC0xODUwODE5LDEzNjE2NTA4NTAsNTQ4Mjk2MzY1LC0zOT
-I3NDkzNCwtNzY2NDMwOTQyLDEwMDkyODczMjgsMjYxNjc4Njc4
-LDUzNDYzMDE1OCwtMTQzMzgyMjEwMCwtMjEzOTcyNTY0NywtMj
-A4MDg2OTQ2Niw4ODk5MDc4MTIsLTQ1NDYwOTYxLDIwNzE0MjM4
-MzFdfQ==
+eyJoaXN0b3J5IjpbLTUxMTk2MTgxMyw3NTkyNTY5MTcsLTc4Mz
+I1NzUxOSwxMTU2MDU3MjIwLC0xNjM5Mzc1MzI3LDEzOTU0Nzgz
+OTMsLTE3MDMwNjQ0MzMsLTE4NTA4MTksMTM2MTY1MDg1MCw1ND
+gyOTYzNjUsLTM5Mjc0OTM0LC03NjY0MzA5NDIsMTAwOTI4NzMy
+OCwyNjE2Nzg2NzgsNTM0NjMwMTU4LC0xNDMzODIyMTAwLC0yMT
+M5NzI1NjQ3LC0yMDgwODY5NDY2LDg4OTkwNzgxMiwtNDU0NjA5
+NjFdfQ==
 -->
