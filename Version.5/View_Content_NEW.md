@@ -35,11 +35,58 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 
 To view the existing report in Acubi, Click on any specific report,it will display the report output and global filters used in reports.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/094f156e76391d17f8f39e4a8f02b97cf71952d4/images/New_version5/td_view_report_image12.png)
+
+## Full-Screen
+
+To set report to full screen click full-screen from the list. (refer image 6)
+
+## Data Limit
+
+You can limit report data to certain limit by selecting range for data display as shown in below image;
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/18cf44e3bc7c5feec070c69415d4cd9a0add3098/images/New_version5/td_view_report_image18.png)
+
+
+## Download
+
+To download a report in any of the following formats, click gear icon;
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b258f4f2510be549d125601a7ae32a0c1945cca9/images/New_version5/td_view_report_image16.png)
+
+<b><font color = "Black"> Image 8</b>
+
+-   <b>Download CSV </b>  download the dashboard report in CSV format.
+
+-  <b>Download CSV; </b>  download the grouped list.
+
+- <b>Download XLXS </b>  download the dashboard report in Excel format.
+
+- <b> Download Image </b>  download the report in image format. (applicable for dashboard report grid saved with visualization image)
+
+## Show Data
+
+- <b> Show Data</b> Displays report data.
+ 
+## Refresh & Hard Refresh
+
+-   <b>Refresh</b>  displays the most recent data information of the report.
+    
+-   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard or report.
+    
+## Report History
+
+In case if you are intended to view multiple reports and want to access the previously accessed report, the report history displayed on bottom of the dashboard section will maintain this history and this will easily navigate to other reports with single click on report name, as shown in below image;
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ecb4f0f16b2129205eec0956ab06dc804f988097/images/New_version5/td_view_report_image17.png)
+
+<b><font color = "Black"> Image 9</b>
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjY1ODQzNSwtNDExNDEyMTYzLC0xND
-EzMTgxNDkxLDIwNzMzMTQ1MDIsODc5ODQ0NjE4LDE4OTUzMTQ1
-NzAsLTE3MzYzMjY5NjQsMTMxOTU4NjUyNiwxMjM0NTM0NzU3LC
-0zODI2MDM5MjEsLTEwMDI5NTQyNzYsMTk4ODk0MTEzMiwtNjYw
-ODAyMDY0XX0=
+eyJoaXN0b3J5IjpbLTEyNjQ1MjA5NzgsLTQxMTQxMjE2MywtMT
+QxMzE4MTQ5MSwyMDczMzE0NTAyLDg3OTg0NDYxOCwxODk1MzE0
+NTcwLC0xNzM2MzI2OTY0LDEzMTk1ODY1MjYsMTIzNDUzNDc1Ny
+wtMzgyNjAzOTIxLC0xMDAyOTU0Mjc2LDE5ODg5NDExMzIsLTY2
+MDgwMjA2NF19
 -->
