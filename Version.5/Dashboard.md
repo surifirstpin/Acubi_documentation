@@ -1,42 +1,6 @@
 <center><h2>DASHBOARD</h2></center>
 
 Dashboard provides access to view multiple reports in single dashboard layout this way it provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive and can re-arrange the titles. After configuring a dashboard to your interest, you can share it with your team. You can create as many dashboards as you want, so you can alter each dashboard to the specific needs of the people who use it.
-
-## View Dashboard
-
-After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e633a63e9f980e7bcc0cfcd76e32592477ab197f/images/New_version5/UD_Dashboard_image1_1.png)
-<b><font color = "Black"> Image 1</b>
-
-  - Dashboard section consist of list of Tags, Dashboards and Reports Saved under <b>My Space</b> structure.
-
-  - To View a specific dashboard, enter the dashboard name in given <b>Search Option.</B>
-  - To View the dashboards and reports in List view, Click on <b>List View</b>.
-  
-  - To view the dashboards and reports in folder view, Click on <b>Folder View.</b>
-  
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Dashboard_image2.png)
-<b><font color = "Black"> Image 2</b>
-
- - To view the existing dashboard report click on dashboard report name in the list. 
- 
- -  It will navigate to dashboard report. ( Refer image 3)
- 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/a139aa668a28e43d5ac7a91829062729877b0e09/images/New_version5/UD_Dashboard_image3.png)
-<b><font color = "Black"> Image 3</b>
-
- - Left side of the dashboard displays global filters applied.
-
--  You can alter the existing filter applied or add any new filter to the existing ones. On applying any new filters click <b>Apply</b> button to update the dashboard with new filter options.
-
--  Click <b>Save,</b> to save the filters applied.
-
-- To go back to previously applied filter, click on <b>Default</b> Button. 
-
-- Right side of the Dashboard displays different dashboard reports layout.
   
  ## Creating Dashboard
  
@@ -45,7 +9,7 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/99b04bcdbb9f776bd4ac2f0a851841fe9dcbbc34/images/New_version5/UD_Dashboard_image4.png)
 
-<b><font color = "Black"> Image 4</b>
+<b><font color = "Black"> Image 1</b>
 
 ## Select Layout
 
@@ -56,7 +20,7 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 - <b>Grid (Fixed) Layout</b> All the reports in this layout will fit into single screen.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0986564eb29d54f0fc181bb32c4a0328199ef0d8/images/New_version5/UD_Dashboard_image5.png)
-<b><font color = "Black"> Image 5</b>
+<b><font color = "Black"> Image 2</b>
 
 <b>2.</b>   Select the Layout using drop-down list.
 
@@ -76,7 +40,7 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1dd11662359a18e0f370aa3058e7fd6281328220/images/New_version5/UD_Dashboard_image6.png)
-<b><font color = "Black"> Image 6</b>
+<b><font color = "Black"> Image 3</b>
 
 <b><i><u>Fill up the dashboard global filter section;</i></u></B>
 
@@ -100,7 +64,7 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bd243725834336dcd901b72f730e584eb164d89c/images/New_version5/UD_Dashboard_image7.png)
-<b><font color = "Black"> Image 7</b>
+<b><font color = "Black"> Image 4</b>
 
 <b><u><i>Fill up the lookup section ;</u></i></b>
 
@@ -127,7 +91,7 @@ The Listeners option allows to register callbacks to be notified when an event i
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/fdf32389df2e4c179a67ce4349c25c445af98cef/images/New_version5/UD_Dashboard_image8.png)
-<b><font color = "Black"> Image 8</b>
+<b><font color = "Black"> Image 5</b>
 
 <b><i><u>Fill up the Report Listener Section ;</u></i></b>
 
@@ -162,9 +126,47 @@ The Listeners option allows to register callbacks to be notified when an event i
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
+<b><font color = "Black"> Image 6</b>
+
+
+
+## View Dashboard
+
+After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e633a63e9f980e7bcc0cfcd76e32592477ab197f/images/New_version5/UD_Dashboard_image1_1.png)
+<b><font color = "Black"> Image 7</b>
+
+  - Dashboard section consist of list of Tags, Dashboards and Reports Saved under <b>My Space</b> structure.
+
+  - To View a specific dashboard, enter the dashboard name in given <b>Search Option.</B>
+  - To View the dashboards and reports in List view, Click on <b>List View</b>.
+  
+  - To view the dashboards and reports in folder view, Click on <b>Folder View.</b>
+  
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Dashboard_image2.png)
+<b><font color = "Black"> Image 8</b>
+
+ - To view the existing dashboard report click on dashboard report name in the list. 
+ 
+ -  It will navigate to dashboard report. ( Refer image 3)
+ 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/a139aa668a28e43d5ac7a91829062729877b0e09/images/New_version5/UD_Dashboard_image3.png)
 <b><font color = "Black"> Image 9</b>
+
+ - Left side of the dashboard displays global filters applied.
+
+-  You can alter the existing filter applied or add any new filter to the existing ones. On applying any new filters click <b>Apply</b> button to update the dashboard with new filter options.
+
+-  Click <b>Save,</b> to save the filters applied.
+
+- To go back to previously applied filter, click on <b>Default</b> Button. 
+
+- Right side of the Dashboard displays different dashboard reports layout.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDExMzY2OCwxMTU2MDU3MjIwLC0xNj
+eyJoaXN0b3J5IjpbLTkzMDQ0MTk4NiwxMTU2MDU3MjIwLC0xNj
 M5Mzc1MzI3LDEzOTU0NzgzOTMsLTE3MDMwNjQ0MzMsLTE4NTA4
 MTksMTM2MTY1MDg1MCw1NDgyOTYzNjUsLTM5Mjc0OTM0LC03Nj
 Y0MzA5NDIsMTAwOTI4NzMyOCwyNjE2Nzg2NzgsNTM0NjMwMTU4
