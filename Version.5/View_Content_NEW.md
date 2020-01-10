@@ -33,7 +33,7 @@ Click on any specific tag which you would like to view. it will navigate to tag 
   
 ## Full Screen 
 
- To enable full screen for dashboard reports click list icon and select Full screen, it enables full screen for dashboard report.
+To enable full screen for dashboard reports click list icon and select Full screen, it enables full screen for dashboard report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a0a40f34ba11548fec0b86c8a6b53335c3f5f86/images/New_version5/TD_Dashboard_image28.png)
  <B><font color = " Black"> Image 4</font></b>
@@ -156,11 +156,11 @@ In case if you are intended to view multiple reports and want to access the prev
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTY0MTUzMiwxODc2ODc5MTA2LC0xOD
-I5MTcxNzA5LDc4OTYzOTI5LDIwMjIxNzE1OTgsLTE1NDM3NTA3
-MjAsLTEyNjQ1MjA5NzgsLTQxMTQxMjE2MywtMTQxMzE4MTQ5MS
-wyMDczMzE0NTAyLDg3OTg0NDYxOCwxODk1MzE0NTcwLC0xNzM2
-MzI2OTY0LDEzMTk1ODY1MjYsMTIzNDUzNDc1NywtMzgyNjAzOT
-IxLC0xMDAyOTU0Mjc2LDE5ODg5NDExMzIsLTY2MDgwMjA2NF19
+eyJoaXN0b3J5IjpbOTcwMTY4Mjk2LDE4NzY4NzkxMDYsLTE4Mj
+kxNzE3MDksNzg5NjM5MjksMjAyMjE3MTU5OCwtMTU0Mzc1MDcy
+MCwtMTI2NDUyMDk3OCwtNDExNDEyMTYzLC0xNDEzMTgxNDkxLD
+IwNzMzMTQ1MDIsODc5ODQ0NjE4LDE4OTUzMTQ1NzAsLTE3MzYz
+MjY5NjQsMTMxOTU4NjUyNiwxMjM0NTM0NzU3LC0zODI2MDM5Mj
+EsLTEwMDI5NTQyNzYsMTk4ODk0MTEzMiwtNjYwODAyMDY0XX0=
 
 -->
