@@ -46,13 +46,13 @@ Dashboard provides access to view multiple reports in single dashboard layout th
 
  -   <b>Filter Name :</B>  identifier name to the filter applicable.
 
- -   <b>Filter Type :</B>  type of filter used ( Eg: string, date, number).
+ -   <b>Filter Type :</B>  type of filter used. ( Eg: string, date, number)
 
  -   <b>Operator :</b>  filter option to be applied on the fields.
 
 
 > <b>Note 1:</b> Timeline filters, accepts only text. A detailed information on timeline filters are available in Technical Documents.
-> <b>Note  2:</B> You need to add Loookups before creating Global filters.
+> <b>Note  2:</B> You need to add Loookups before creating global filters.
 
 ## Lookups
 
@@ -166,11 +166,11 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 
 - Right side of the Dashboard displays different dashboard reports layout.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzI1NzUxOSwxMTU2MDU3MjIwLC0xNj
-M5Mzc1MzI3LDEzOTU0NzgzOTMsLTE3MDMwNjQ0MzMsLTE4NTA4
-MTksMTM2MTY1MDg1MCw1NDgyOTYzNjUsLTM5Mjc0OTM0LC03Nj
-Y0MzA5NDIsMTAwOTI4NzMyOCwyNjE2Nzg2NzgsNTM0NjMwMTU4
-LC0xNDMzODIyMTAwLC0yMTM5NzI1NjQ3LC0yMDgwODY5NDY2LD
-g4OTkwNzgxMiwtNDU0NjA5NjEsMjA3MTQyMzgzMSwxMTUwNjYy
-NTYwXX0=
+eyJoaXN0b3J5IjpbLTk3NTcyOTIxMywtNzgzMjU3NTE5LDExNT
+YwNTcyMjAsLTE2MzkzNzUzMjcsMTM5NTQ3ODM5MywtMTcwMzA2
+NDQzMywtMTg1MDgxOSwxMzYxNjUwODUwLDU0ODI5NjM2NSwtMz
+kyNzQ5MzQsLTc2NjQzMDk0MiwxMDA5Mjg3MzI4LDI2MTY3ODY3
+OCw1MzQ2MzAxNTgsLTE0MzM4MjIxMDAsLTIxMzk3MjU2NDcsLT
+IwODA4Njk0NjYsODg5OTA3ODEyLC00NTQ2MDk2MSwyMDcxNDIz
+ODMxXX0=
 -->
