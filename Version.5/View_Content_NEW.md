@@ -35,17 +35,11 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 
 To view the existing report in Acubi, Click on any specific report,it will display the report output and global filters used in reports.
 
-<b>For instance:</b> Here we are selecting report Quantity_Sum_Bonus.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/05a84e2331d3c209a78f6bf7f1082285bb9a1875/images/New_version5/UD_Viewing_Content_Image3.png)
-
- <b><font color = "Black"> Image 4</b>
-
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTQxMjE2MywtMTQxMzE4MTQ5MSwyMD
-czMzE0NTAyLDg3OTg0NDYxOCwxODk1MzE0NTcwLC0xNzM2MzI2
-OTY0LDEzMTk1ODY1MjYsMTIzNDUzNDc1NywtMzgyNjAzOTIxLC
-0xMDAyOTU0Mjc2LDE5ODg5NDExMzIsLTY2MDgwMjA2NF19
+eyJoaXN0b3J5IjpbMTA3MjY1ODQzNSwtNDExNDEyMTYzLC0xND
+EzMTgxNDkxLDIwNzMzMTQ1MDIsODc5ODQ0NjE4LDE4OTUzMTQ1
+NzAsLTE3MzYzMjY5NjQsMTMxOTU4NjUyNiwxMjM0NTM0NzU3LC
+0zODI2MDM5MjEsLTEwMDI5NTQyNzYsMTk4ODk0MTEzMiwtNjYw
+ODAyMDY0XX0=
 -->
