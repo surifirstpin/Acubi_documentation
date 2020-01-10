@@ -33,12 +33,24 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 
  ### 3. Reports
 
-To view the existing report in Acubi, Click on any specific report,it will display the report output and global filters used in reports.
+To view the existing report in Acubi, Click on any specific report to open, it will display the report output and global filters used in reports.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/094f156e76391d17f8f39e4a8f02b97cf71952d4/images/New_version5/td_view_report_image12.png)
 
+## Edit/Delete
 
-f## Full-Screen
+To Edit or delete a report, click on <b>List</b> icon and click edit make any changes to report and save changes to the same.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4cf90c1b89eb4c3002bcc0f1de094babbc3834d4/images/New_version5/td_view_report_image15.png)
+<b><font color = "Black"> Image 6</b>
+
+To delete a report, choose delete from list, it will display pop-up message as shown below click delete to delete report permanently.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0711e4822adc1e6fc82e353e54ef5a7f4343b01e/images/New_version5/td_view_report_image14.png)
+
+<b><font color = "Black"> Image 7</b>
+
+## Full-Screen
 
 To set report to full screen click full-screen from the list. (refer image 6)
 
@@ -85,9 +97,9 @@ In case if you are intended to view multiple reports and want to access the prev
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjA0NDA3NiwtMTU0Mzc1MDcyMCwtMT
-I2NDUyMDk3OCwtNDExNDEyMTYzLC0xNDEzMTgxNDkxLDIwNzMz
-MTQ1MDIsODc5ODQ0NjE4LDE4OTUzMTQ1NzAsLTE3MzYzMjY5Nj
-QsMTMxOTU4NjUyNiwxMjM0NTM0NzU3LC0zODI2MDM5MjEsLTEw
-MDI5NTQyNzYsMTk4ODk0MTEzMiwtNjYwODAyMDY0XX0=
+eyJoaXN0b3J5IjpbLTE0MjQ1MTgyMjYsLTE1NDM3NTA3MjAsLT
+EyNjQ1MjA5NzgsLTQxMTQxMjE2MywtMTQxMzE4MTQ5MSwyMDcz
+MzE0NTAyLDg3OTg0NDYxOCwxODk1MzE0NTcwLC0xNzM2MzI2OT
+Y0LDEzMTk1ODY1MjYsMTIzNDUzNDc1NywtMzgyNjAzOTIxLC0x
+MDAyOTU0Mjc2LDE5ODg5NDExMzIsLTY2MDgwMjA2NF19
 -->
