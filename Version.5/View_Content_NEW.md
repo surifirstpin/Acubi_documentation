@@ -13,7 +13,7 @@ One of the best ways to start using Acubi is to navigate around the existing My 
 
 ## Navigating to Saved Content 
 
-### 1. TAGS
+## TAGS
 
 Click on any specific tag which you would like to view. it will navigate to tag location and displays the Dashboard, Reports, child tags saved under this specific tag.
 
@@ -23,7 +23,7 @@ Click on any specific tag which you would like to view. it will navigate to tag 
  
  <b><font color = "Black"> Image 2</b>
  
-### 2. Dashboard
+## Dashboard
 
  To view the existing dashboard click on Dashboard report name from the available list under Myspace. Dashboard consist of number of layouts used and global filters used for the same dashboard reports.
  
@@ -31,7 +31,7 @@ Click on any specific tag which you would like to view. it will navigate to tag 
  
  <b><font color = "Black"> Image 3</b>
 
- ### 3. Reports
+ ## Reports
 
 To view the existing report in Acubi, Click on any specific report to open, it will display the report output and global filters used in reports.
 
@@ -97,10 +97,10 @@ In case if you are intended to view multiple reports and want to access the prev
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5NjM5MjksMjAyMjE3MTU5OCwtMTU0Mz
-c1MDcyMCwtMTI2NDUyMDk3OCwtNDExNDEyMTYzLC0xNDEzMTgx
-NDkxLDIwNzMzMTQ1MDIsODc5ODQ0NjE4LDE4OTUzMTQ1NzAsLT
-E3MzYzMjY5NjQsMTMxOTU4NjUyNiwxMjM0NTM0NzU3LC0zODI2
-MDM5MjEsLTEwMDI5NTQyNzYsMTk4ODk0MTEzMiwtNjYwODAyMD
-Y0XX0=
+eyJoaXN0b3J5IjpbMTk2OTgzMzEwNCw3ODk2MzkyOSwyMDIyMT
+cxNTk4LC0xNTQzNzUwNzIwLC0xMjY0NTIwOTc4LC00MTE0MTIx
+NjMsLTE0MTMxODE0OTEsMjA3MzMxNDUwMiw4Nzk4NDQ2MTgsMT
+g5NTMxNDU3MCwtMTczNjMyNjk2NCwxMzE5NTg2NTI2LDEyMzQ1
+MzQ3NTcsLTM4MjYwMzkyMSwtMTAwMjk1NDI3NiwxOTg4OTQxMT
+MyLC02NjA4MDIwNjRdfQ==
 -->
