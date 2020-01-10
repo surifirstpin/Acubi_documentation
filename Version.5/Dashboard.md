@@ -30,11 +30,11 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 
  - Left side of the dashboard displays global filters applied.
 
--  You can alter the existing filter applied or add any new filter to the existing ones. On applying any new Select <b>Apply</b> button to re-apply any newly added filters to the dashboard report.
+-  You can alter the existing filter applied or add any new filter to the existing ones. On applying any new filters click <b>Apply</b> button to update the dashboard with new filter options.
 
  -  Click <b>Save,</b> to save the filters applied.
 
-- To revert back to previously applied filter, click on <b>Default</b> Button. 
+- To go back to previously applied filter, click on <b>Default</b> Button. 
 
 - Right side of the Dashboard displays different dashboard reports layout.
   
@@ -164,11 +164,11 @@ The Listeners option allows to register callbacks to be notified when an event i
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjMyODY1OTMsLTE2MzkzNzUzMjcsMT
-M5NTQ3ODM5MywtMTcwMzA2NDQzMywtMTg1MDgxOSwxMzYxNjUw
-ODUwLDU0ODI5NjM2NSwtMzkyNzQ5MzQsLTc2NjQzMDk0MiwxMD
-A5Mjg3MzI4LDI2MTY3ODY3OCw1MzQ2MzAxNTgsLTE0MzM4MjIx
-MDAsLTIxMzk3MjU2NDcsLTIwODA4Njk0NjYsODg5OTA3ODEyLC
-00NTQ2MDk2MSwyMDcxNDIzODMxLDExNTA2NjI1NjAsLTE0ODUx
-ODIyNDFdfQ==
+eyJoaXN0b3J5IjpbMTE1NjA1NzIyMCwtMTYzOTM3NTMyNywxMz
+k1NDc4MzkzLC0xNzAzMDY0NDMzLC0xODUwODE5LDEzNjE2NTA4
+NTAsNTQ4Mjk2MzY1LC0zOTI3NDkzNCwtNzY2NDMwOTQyLDEwMD
+kyODczMjgsMjYxNjc4Njc4LDUzNDYzMDE1OCwtMTQzMzgyMjEw
+MCwtMjEzOTcyNTY0NywtMjA4MDg2OTQ2Niw4ODk5MDc4MTIsLT
+Q1NDYwOTYxLDIwNzE0MjM4MzEsMTE1MDY2MjU2MCwtMTQ4NTE4
+MjI0MV19
 -->
