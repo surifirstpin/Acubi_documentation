@@ -36,7 +36,7 @@ Click on any specific tag which you would like to view. it will navigate to tag 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a0a40f34ba11548fec0b86c8a6b53335c3f5f86/images/New_version5/TD_Dashboard_image28.png)
  <B><font color = " Black"> Image 18</font></b>
  
-To exit Full screen, press ESC (escape) on your keyboard.
+To exit full screen, press ESC (escape) on your keyboard.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a0a40f34ba11548fec0b86c8a6b53335c3f5f86/images/New_version5/TD_Dashboard_image29.png)
  <B><font color = " Black"> Image 19</font></b>
@@ -153,10 +153,10 @@ In case if you are intended to view multiple reports and want to access the prev
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTExOTU2LC0xODI5MTcxNzA5LDc4OT
-YzOTI5LDIwMjIxNzE1OTgsLTE1NDM3NTA3MjAsLTEyNjQ1MjA5
-NzgsLTQxMTQxMjE2MywtMTQxMzE4MTQ5MSwyMDczMzE0NTAyLD
-g3OTg0NDYxOCwxODk1MzE0NTcwLC0xNzM2MzI2OTY0LDEzMTk1
-ODY1MjYsMTIzNDUzNDc1NywtMzgyNjAzOTIxLC0xMDAyOTU0Mj
-c2LDE5ODg5NDExMzIsLTY2MDgwMjA2NF19
+eyJoaXN0b3J5IjpbMTI4MTk5NDEwMCwtMTgyOTE3MTcwOSw3OD
+k2MzkyOSwyMDIyMTcxNTk4LC0xNTQzNzUwNzIwLC0xMjY0NTIw
+OTc4LC00MTE0MTIxNjMsLTE0MTMxODE0OTEsMjA3MzMxNDUwMi
+w4Nzk4NDQ2MTgsMTg5NTMxNDU3MCwtMTczNjMyNjk2NCwxMzE5
+NTg2NTI2LDEyMzQ1MzQ3NTcsLTM4MjYwMzkyMSwtMTAwMjk1ND
+I3NiwxOTg4OTQxMTMyLC02NjA4MDIwNjRdfQ==
 -->
