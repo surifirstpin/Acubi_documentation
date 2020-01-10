@@ -150,7 +150,7 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 
  - To view the existing dashboard report click on dashboard report name in the list. 
  
- -  It will navigate to dashboard report. ( Refer image 3)
+ -  It will navigate to dashboard report. 
  
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a139aa668a28e43d5ac7a91829062729877b0e09/images/New_version5/UD_Dashboard_image3.png)
@@ -166,7 +166,7 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 
 - Right side of the Dashboard displays different dashboard reports layout.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDQ0MTk4NiwxMTU2MDU3MjIwLC0xNj
+eyJoaXN0b3J5IjpbLTc4MzI1NzUxOSwxMTU2MDU3MjIwLC0xNj
 M5Mzc1MzI3LDEzOTU0NzgzOTMsLTE3MDMwNjQ0MzMsLTE4NTA4
 MTksMTM2MTY1MDg1MCw1NDgyOTYzNjUsLTM5Mjc0OTM0LC03Nj
 Y0MzA5NDIsMTAwOTI4NzMyOCwyNjE2Nzg2NzgsNTM0NjMwMTU4
