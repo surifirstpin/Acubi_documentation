@@ -29,6 +29,62 @@ Click on any specific tag which you would like to view. it will navigate to tag 
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/defc094669e204a0c4851cb930d0a992f814830a/images/New_version5/UD_Viewing_Content_Image2.png)
  
+## Full Screen 
+
+ To enable full screen for dashboard reports click list icon and select Full screen, it enables full screen for dashboard report.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a0a40f34ba11548fec0b86c8a6b53335c3f5f86/images/New_version5/TD_Dashboard_image28.png)
+ <B><font color = " Black"> Image 18</font></b>
+ 
+To exit Full screen, press ESC (escape) on your keyboard.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a0a40f34ba11548fec0b86c8a6b53335c3f5f86/images/New_version5/TD_Dashboard_image29.png)
+ <B><font color = " Black"> Image 19</font></b>
+ 
+ ## Maximize/Minimize
+  
+a). To maximize a report in dashboard click <b>Maximize icon </b> similarly to minimize a dashboard report hit minimize button as shown in image below.
+
+b). Select drop-down button and choose number of rows to display in output.
+
+c). Filter icon display under dashboard denotes filters applicable to that particular dashboard report.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9ba9b9b2511f182a2a490b8ad5290aaab0c14e5/images/New_version5/TD_Dashboard_image24.png)
+
+ <B><font color = " Black"> Image 20 </font></b>
+
+## Download (Data)
+
+
+To download dashboard, click gear icon;
+ ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b258f4f2510be549d125601a7ae32a0c1945cca9/images/New_version5/td_view_report_image16.png)
+
+ <B><font color = " Black"> Image 21</font></b>
+ 
+-   <b>Download CSV </b>  download the dashboard report in CSV format.
+
+- <b>Download CSV; </b>  download the grouped list.
+
+- <b>Download XLXS </b>  download the dashboard report in Excel format.
+
+-   <b>Download Image</b>  download the report in image format. ( applicable for dashboard report grid saved with visualization image)
+    
+-   <b>Show Data</b>  Displays report data. ( applicable for dashboard report grid saved with visualization image)
+
+## [Refresh & Hard Refresh]
+
+-   <b>Refresh</b>  displays the most recent data information of the report.
+    
+-   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard.
+    
+## List View
+
+To view the list of reports and dashboards in List View click on <b>List View.</b>
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image13.png)
+
+ <B><font color = " Black"> Image 22</font></b>
+
  <b><font color = "Black"> Image 3</b>
 
  ## Reports
@@ -97,10 +153,10 @@ In case if you are intended to view multiple reports and want to access the prev
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjkxNzE3MDksNzg5NjM5MjksMjAyMj
-E3MTU5OCwtMTU0Mzc1MDcyMCwtMTI2NDUyMDk3OCwtNDExNDEy
-MTYzLC0xNDEzMTgxNDkxLDIwNzMzMTQ1MDIsODc5ODQ0NjE4LD
-E4OTUzMTQ1NzAsLTE3MzYzMjY5NjQsMTMxOTU4NjUyNiwxMjM0
-NTM0NzU3LC0zODI2MDM5MjEsLTEwMDI5NTQyNzYsMTk4ODk0MT
-EzMiwtNjYwODAyMDY0XX0=
+eyJoaXN0b3J5IjpbLTQyODAwMTg4NywtMTgyOTE3MTcwOSw3OD
+k2MzkyOSwyMDIyMTcxNTk4LC0xNTQzNzUwNzIwLC0xMjY0NTIw
+OTc4LC00MTE0MTIxNjMsLTE0MTMxODE0OTEsMjA3MzMxNDUwMi
+w4Nzk4NDQ2MTgsMTg5NTMxNDU3MCwtMTczNjMyNjk2NCwxMzE5
+NTg2NTI2LDEyMzQ1MzQ3NTcsLTM4MjYwMzkyMSwtMTAwMjk1ND
+I3NiwxOTg4OTQxMTMyLC02NjA4MDIwNjRdfQ==
 -->
