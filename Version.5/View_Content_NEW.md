@@ -49,7 +49,7 @@ a). To maximize a report in dashboard click <b>Maximize icon </b> similarly to m
 
 b). Select drop-down button and choose number of rows to display in output.
 
-c). Filter icon display under dashboard denotes filters applicable to that particular dashboard report.
+c). Filter icon displayed under dashboard denotes filters applicable to that particular dashboard report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9ba9b9b2511f182a2a490b8ad5290aaab0c14e5/images/New_version5/TD_Dashboard_image24.png)
 
@@ -156,11 +156,11 @@ In case if you are intended to view multiple reports and want to access the prev
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwMTY4Mjk2LDE4NzY4NzkxMDYsLTE4Mj
-kxNzE3MDksNzg5NjM5MjksMjAyMjE3MTU5OCwtMTU0Mzc1MDcy
-MCwtMTI2NDUyMDk3OCwtNDExNDEyMTYzLC0xNDEzMTgxNDkxLD
-IwNzMzMTQ1MDIsODc5ODQ0NjE4LDE4OTUzMTQ1NzAsLTE3MzYz
-MjY5NjQsMTMxOTU4NjUyNiwxMjM0NTM0NzU3LC0zODI2MDM5Mj
-EsLTEwMDI5NTQyNzYsMTk4ODk0MTEzMiwtNjYwODAyMDY0XX0=
+eyJoaXN0b3J5IjpbMTg5MjUzMzA2MywxODc2ODc5MTA2LC0xOD
+I5MTcxNzA5LDc4OTYzOTI5LDIwMjIxNzE1OTgsLTE1NDM3NTA3
+MjAsLTEyNjQ1MjA5NzgsLTQxMTQxMjE2MywtMTQxMzE4MTQ5MS
+wyMDczMzE0NTAyLDg3OTg0NDYxOCwxODk1MzE0NTcwLC0xNzM2
+MzI2OTY0LDEzMTk1ODY1MjYsMTIzNDUzNDc1NywtMzgyNjAzOT
+IxLC0xMDAyOTU0Mjc2LDE5ODg5NDExMzIsLTY2MDgwMjA2NF19
 
 -->
