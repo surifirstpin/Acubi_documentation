@@ -29,19 +29,19 @@ Click on any specific tag which you would like to view. it will navigate to tag 
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c837174a359211665f3c4da93275066e943d7c93/images/New_version5/UD_Dashboard_image10.png)
  
-  <b><font color = "Black"> Image  </b>
+  <b><font color = "Black"> Image 3  </b>
   
 ## Full Screen 
 
  To enable full screen for dashboard reports click list icon and select Full screen, it enables full screen for dashboard report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a0a40f34ba11548fec0b86c8a6b53335c3f5f86/images/New_version5/TD_Dashboard_image28.png)
- <B><font color = " Black"> Image 18</font></b>
+ <B><font color = " Black"> Image 4</font></b>
  
 To exit full screen, press ESC (escape) on your keyboard.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a0a40f34ba11548fec0b86c8a6b53335c3f5f86/images/New_version5/TD_Dashboard_image29.png)
- <B><font color = " Black"> Image 19</font></b>
+ <B><font color = " Black"> Image 5</font></b>
  
  ## Maximize/Minimize
   
@@ -53,7 +53,7 @@ c). Filter icon display under dashboard denotes filters applicable to that parti
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9ba9b9b2511f182a2a490b8ad5290aaab0c14e5/images/New_version5/TD_Dashboard_image24.png)
 
- <B><font color = " Black"> Image 20 </font></b>
+ <B><font color = " Black"> Image 6 </font></b>
 
 ## Download (Data)
 
@@ -61,7 +61,7 @@ c). Filter icon display under dashboard denotes filters applicable to that parti
 To download dashboard, click gear icon;
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b258f4f2510be549d125601a7ae32a0c1945cca9/images/New_version5/td_view_report_image16.png)
 
- <B><font color = " Black"> Image 21</font></b>
+ <B><font color = " Black"> Image 7</font></b>
  
 -   <b>Download CSV </b>  download the dashboard report in CSV format.
 
@@ -85,9 +85,7 @@ To view the list of reports and dashboards in List View click on <b>List View.</
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image13.png)
 
- <B><font color = " Black"> Image 22</font></b>
-
- <b><font color = "Black"> Image 3</b>
+ <B><font color = " Black"> Image 8</font></b>
 
  ## Reports
 
@@ -95,18 +93,20 @@ To view the existing report in Acubi, Click on any specific report to open, it w
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/094f156e76391d17f8f39e4a8f02b97cf71952d4/images/New_version5/td_view_report_image12.png)
 
+ <b><font color = "Black"> Image 9 </b>
+ 
 ### Edit/Delete
 
 To edit or delete a report, click on <b>List</b> icon and click edit make any changes to report and save changes to the same.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4cf90c1b89eb4c3002bcc0f1de094babbc3834d4/images/New_version5/td_view_report_image15.png)
-<b><font color = "Black"> Image 6</b>
+<b><font color = "Black"> Image 10</b>
 
 To delete a report, choose delete from list, it will display pop-up message as shown below click delete to delete report permanently.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0711e4822adc1e6fc82e353e54ef5a7f4343b01e/images/New_version5/td_view_report_image14.png)
 
-<b><font color = "Black"> Image 7</b>
+<b><font color = "Black"> Image 11</b>
 
 ## Full-Screen
 
@@ -118,6 +118,7 @@ You can limit report data to certain limit by selecting range for data display a
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9909d1672012d731d78dcdbdbf702bf20a06c2cb/images/New_version5/UD_Viewing_Content_Image5.png)
 
+ <b><font color = "Black"> Image 12</b>
 
 ## Download
 
@@ -125,7 +126,7 @@ To download a report in any of the following formats, click gear icon;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b258f4f2510be549d125601a7ae32a0c1945cca9/images/New_version5/td_view_report_image16.png)
 
-<b><font color = "Black"> Image 8</b>
+<b><font color = "Black"> Image 13</b>
 
 -   <b>Download CSV </b>  download the dashboard report in CSV format.
 
@@ -151,14 +152,14 @@ In case if you are intended to view multiple reports and want to access the prev
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ecb4f0f16b2129205eec0956ab06dc804f988097/images/New_version5/td_view_report_image17.png)
 
-<b><font color = "Black"> Image 9</b>
+<b><font color = "Black"> Image 14</b>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjMzMDgyLC0xODI5MTcxNzA5LDc4OT
-YzOTI5LDIwMjIxNzE1OTgsLTE1NDM3NTA3MjAsLTEyNjQ1MjA5
-NzgsLTQxMTQxMjE2MywtMTQxMzE4MTQ5MSwyMDczMzE0NTAyLD
-g3OTg0NDYxOCwxODk1MzE0NTcwLC0xNzM2MzI2OTY0LDEzMTk1
-ODY1MjYsMTIzNDUzNDc1NywtMzgyNjAzOTIxLC0xMDAyOTU0Mj
-c2LDE5ODg5NDExMzIsLTY2MDgwMjA2NF19
+eyJoaXN0b3J5IjpbMTg3Njg3OTEwNiwtMTgyOTE3MTcwOSw3OD
+k2MzkyOSwyMDIyMTcxNTk4LC0xNTQzNzUwNzIwLC0xMjY0NTIw
+OTc4LC00MTE0MTIxNjMsLTE0MTMxODE0OTEsMjA3MzMxNDUwMi
+w4Nzk4NDQ2MTgsMTg5NTMxNDU3MCwtMTczNjMyNjk2NCwxMzE5
+NTg2NTI2LDEyMzQ1MzQ3NTcsLTM4MjYwMzkyMSwtMTAwMjk1ND
+I3NiwxOTg4OTQxMTMyLC02NjA4MDIwNjRdfQ==
 -->
