@@ -104,7 +104,7 @@ The Listeners option allows to register callbacks to be notified when an event i
     
    -   <b>Apply to field :</b>  applies filter options to field column in a report.
     
-<b>8.</b> Click <b>Save</b> button It will navigate to <b>Save Dashboard</b> section.
+<b>8.</b> Click <b>Save</b> button it will navigate to <b>Save Dashboard</b> section.
 
 <b><i><u>Fill up save dashboard section :</u></i></b>
 
@@ -167,11 +167,11 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 
 - Right side of the Dashboard displays different dashboard reports layout.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTk2MTgxMyw3NTkyNTY5MTcsLTc4Mz
-I1NzUxOSwxMTU2MDU3MjIwLC0xNjM5Mzc1MzI3LDEzOTU0Nzgz
-OTMsLTE3MDMwNjQ0MzMsLTE4NTA4MTksMTM2MTY1MDg1MCw1ND
-gyOTYzNjUsLTM5Mjc0OTM0LC03NjY0MzA5NDIsMTAwOTI4NzMy
-OCwyNjE2Nzg2NzgsNTM0NjMwMTU4LC0xNDMzODIyMTAwLC0yMT
-M5NzI1NjQ3LC0yMDgwODY5NDY2LDg4OTkwNzgxMiwtNDU0NjA5
-NjFdfQ==
+eyJoaXN0b3J5IjpbLTEzMDk4NjA1MzMsNzU5MjU2OTE3LC03OD
+MyNTc1MTksMTE1NjA1NzIyMCwtMTYzOTM3NTMyNywxMzk1NDc4
+MzkzLC0xNzAzMDY0NDMzLC0xODUwODE5LDEzNjE2NTA4NTAsNT
+Q4Mjk2MzY1LC0zOTI3NDkzNCwtNzY2NDMwOTQyLDEwMDkyODcz
+MjgsMjYxNjc4Njc4LDUzNDYzMDE1OCwtMTQzMzgyMjEwMCwtMj
+EzOTcyNTY0NywtMjA4MDg2OTQ2Niw4ODk5MDc4MTIsLTQ1NDYw
+OTYxXX0=
 -->
