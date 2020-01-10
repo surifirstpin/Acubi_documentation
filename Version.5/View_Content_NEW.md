@@ -17,7 +17,7 @@ One of the best ways to start using Acubi is to navigate around the existing My 
 
 Click on any specific tag which you would like to view. it will navigate to tag location and displays the Dashboard, Reports, child tags saved under this specific tag.
 
-<b>For Instance :</b> Here i am selecting <b>ParentTag_Public,</b> it displays the tags,dashboard and reports that fall under this specific tag structure as shown below.
+<b>For Instance :</b> Here i am selecting <b>ParentTag_Public,</b> it displays tags,dashboard and reports that fall under this specific tag structure as shown below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/69d5beb04063249964516e10e7358d38b3641f29/images/New_version5/UD_Viewing_Content_Image1.png)
  
@@ -156,11 +156,11 @@ In case if you are intended to view multiple reports and want to access the prev
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzQ1NjQ5NCwxODc2ODc5MTA2LC0xOD
-I5MTcxNzA5LDc4OTYzOTI5LDIwMjIxNzE1OTgsLTE1NDM3NTA3
-MjAsLTEyNjQ1MjA5NzgsLTQxMTQxMjE2MywtMTQxMzE4MTQ5MS
-wyMDczMzE0NTAyLDg3OTg0NDYxOCwxODk1MzE0NTcwLC0xNzM2
-MzI2OTY0LDEzMTk1ODY1MjYsMTIzNDUzNDc1NywtMzgyNjAzOT
-IxLC0xMDAyOTU0Mjc2LDE5ODg5NDExMzIsLTY2MDgwMjA2NF19
-
+eyJoaXN0b3J5IjpbLTIxMzQ2MzU0MjcsMTg3Njg3OTEwNiwtMT
+gyOTE3MTcwOSw3ODk2MzkyOSwyMDIyMTcxNTk4LC0xNTQzNzUw
+NzIwLC0xMjY0NTIwOTc4LC00MTE0MTIxNjMsLTE0MTMxODE0OT
+EsMjA3MzMxNDUwMiw4Nzk4NDQ2MTgsMTg5NTMxNDU3MCwtMTcz
+NjMyNjk2NCwxMzE5NTg2NTI2LDEyMzQ1MzQ3NTcsLTM4MjYwMz
+kyMSwtMTAwMjk1NDI3NiwxOTg4OTQxMTMyLC02NjA4MDIwNjRd
+fQ==
 -->
