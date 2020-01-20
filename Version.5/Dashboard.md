@@ -1,6 +1,6 @@
 <center><h2>DASHBOARD</h2></center>
 
-Dashboard provides access to view multiple reports in single dashboard layout this way it provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive and can re-arrange the titles. After configuring a dashboard to your interest, you can share it with your team. You can create as many dashboards as you want, so you can alter each dashboard to the specific needs of the people who use it.
+Dashboard provides access to view multiple reports in single dashboard layout, this way it provides a quick view on related data. In order to make it more feasible to users it is provided with set of global filters by making dashboard more interactive. After configuring a dashboard to your interest, you can share it with your team. You can create as many dashboards as you want so you can alter each dashboard to the specific needs of the people who use it.
   
  ## Creating Dashboard
  
@@ -166,11 +166,11 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 - To go back to previously applied filter, click on <b>Default</b> Button. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTQxOTU4LC0xMzA5ODYwNTMzLDc1OT
-I1NjkxNywtNzgzMjU3NTE5LDExNTYwNTcyMjAsLTE2MzkzNzUz
-MjcsMTM5NTQ3ODM5MywtMTcwMzA2NDQzMywtMTg1MDgxOSwxMz
-YxNjUwODUwLDU0ODI5NjM2NSwtMzkyNzQ5MzQsLTc2NjQzMDk0
-MiwxMDA5Mjg3MzI4LDI2MTY3ODY3OCw1MzQ2MzAxNTgsLTE0Mz
-M4MjIxMDAsLTIxMzk3MjU2NDcsLTIwODA4Njk0NjYsODg5OTA3
-ODEyXX0=
+eyJoaXN0b3J5IjpbLTE0MDY5MDI1OTUsLTEzMDk4NjA1MzMsNz
+U5MjU2OTE3LC03ODMyNTc1MTksMTE1NjA1NzIyMCwtMTYzOTM3
+NTMyNywxMzk1NDc4MzkzLC0xNzAzMDY0NDMzLC0xODUwODE5LD
+EzNjE2NTA4NTAsNTQ4Mjk2MzY1LC0zOTI3NDkzNCwtNzY2NDMw
+OTQyLDEwMDkyODczMjgsMjYxNjc4Njc4LDUzNDYzMDE1OCwtMT
+QzMzgyMjEwMCwtMjEzOTcyNTY0NywtMjA4MDg2OTQ2Niw4ODk5
+MDc4MTJdfQ==
 -->
