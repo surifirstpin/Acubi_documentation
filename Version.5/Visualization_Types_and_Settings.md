@@ -145,13 +145,13 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - <b>Change:</b> Specify the conditions for selected measures such as difference, growth, none.
 
-- <b>Show Growth:</b> Sisplays the growth rate of selected measures.
+- <b>Show Growth:</b> Displays the growth rate of selected measures.
 
-- <b>Title:</b> specify widget title.
+- <b>Title:</b> Specify widget title.
 
-- <b>Label:</b> specify the widget label.
+- <b>Label:</b> Specify the widget label.
 
-- <b>Style:</b> specify a status indicator for measure value such as default, primary, success, warning, info, danger.
+- <b>Style:</b> Specify a status indicator for measure value such as default, primary, success, warning, info, danger.
 
 - <b>Theme:</b> Data alignment in widget chart. Select using drop down list.
 
@@ -171,21 +171,21 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 ](https://raw.githubusercontent.com/sv18042016/fp1/b4d06a116e6f5919fd87b2e6d003a889f0f2f0fd/images/New_version5/UD_Visualization_Types&Settings_Image8.png)
   <b><font color = "Black"> Image 8</b>
 
-- <b>Title:</b> specify a title for world map.
+- <b>Title:</b> Specify a title for world map.
 
-- <b>Flat Map:</b> displays a flat view or "2D" vision of the map.
+- <b>Flat Map:</b> Displays a flat view or "2D" vision of the map.
 
-- <b>Default</b> set default colour to display specific countries.
+- <b>Default</b> Set default color to display specific countries.
 
-- <b>Over Border:</b> colour the border of a map region.
+- <b>Over Border:</b> Color the border of a map region.
 
-- <b>Data Field:</b> choose the data field to display it on map.	
+- <b>Data Field:</b> Choose the data field to display it on map.	
 
-- <b>Tip Fields:</b> select numbers of data fields to be displayed on map.
+- <b>Tip Fields:</b> Select numbers of data fields to be displayed on map.
 
-- <b>Color Field:</b> specifies which field to be colored.
+- <b>Color Field:</b> Specifies which field to be colored.
 
-- <b>Color From & To:</b> specify the color specific range of values in map region.
+- <b>Color From & To:</b> Specify the color specific range of values in map region.
 
 - <b>Negative Cutoff:</b> enabled when negatives values are applicable.
 
@@ -444,11 +444,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjMxNjc0OCwtMTQ4MjMzMDQyOSwxMz
-QzMDk5NzYyLDE2NTgwMTEzNDgsMTI3NTY2MzgxMSw1OTI1MjA1
-MDYsMTI5NDcxMDU3MSwyMTA3MTkxMDI5LDE0NDQ5MjE3NjcsLT
-E0MTE3MjEwMjUsLTEwNTg4NzIwNTksLTkwNDE1MTIwNCwtOTQ5
-OTY2OTk4LC0xNjMwODkzMTM0LC0xMDAzNTg1NTI4LC0xODAyOT
-MxNDE2LDU3Nzg5Nzk2NCw5Njc5MDM3NDYsLTQ1OTA4MzA4NSw1
-NzIyNTkyMjRdfQ==
+eyJoaXN0b3J5IjpbLTEyODMwMzAwMTMsLTE0ODIzMzA0MjksMT
+M0MzA5OTc2MiwxNjU4MDExMzQ4LDEyNzU2NjM4MTEsNTkyNTIw
+NTA2LDEyOTQ3MTA1NzEsMjEwNzE5MTAyOSwxNDQ0OTIxNzY3LC
+0xNDExNzIxMDI1LC0xMDU4ODcyMDU5LC05MDQxNTEyMDQsLTk0
+OTk2Njk5OCwtMTYzMDg5MzEzNCwtMTAwMzU4NTUyOCwtMTgwMj
+kzMTQxNiw1Nzc4OTc5NjQsOTY3OTAzNzQ2LC00NTkwODMwODUs
+NTcyMjU5MjI0XX0=
 -->
