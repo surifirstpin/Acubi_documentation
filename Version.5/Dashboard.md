@@ -70,9 +70,10 @@ Dashboard provides access to view multiple reports in single dashboard layout, t
 <b><u><i>Fill up the lookup section ;</u></i></b>
 
  -   <b>Lookup name :</B> Name Identifier for lookup field.
+ 
  -   <b>Lookup Type :</b>  Refers to item or query type.
    
- -  <b>Connection</b>  Connection are referred only for queries and it is disabled for Items.
+ -  <b>Connection :</b>  Connection are referred only for queries and it is disabled for Items.
      
    <b>6.</B> Click on <b>Test Lookup.</b>
    
@@ -166,11 +167,11 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 - To go back to previously applied filter, click on <b>Default</b> Button. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDY5MDI1OTUsLTEzMDk4NjA1MzMsNz
-U5MjU2OTE3LC03ODMyNTc1MTksMTE1NjA1NzIyMCwtMTYzOTM3
-NTMyNywxMzk1NDc4MzkzLC0xNzAzMDY0NDMzLC0xODUwODE5LD
-EzNjE2NTA4NTAsNTQ4Mjk2MzY1LC0zOTI3NDkzNCwtNzY2NDMw
-OTQyLDEwMDkyODczMjgsMjYxNjc4Njc4LDUzNDYzMDE1OCwtMT
-QzMzgyMjEwMCwtMjEzOTcyNTY0NywtMjA4MDg2OTQ2Niw4ODk5
-MDc4MTJdfQ==
+eyJoaXN0b3J5IjpbNTc0MjA0OTA3LC0xMzA5ODYwNTMzLDc1OT
+I1NjkxNywtNzgzMjU3NTE5LDExNTYwNTcyMjAsLTE2MzkzNzUz
+MjcsMTM5NTQ3ODM5MywtMTcwMzA2NDQzMywtMTg1MDgxOSwxMz
+YxNjUwODUwLDU0ODI5NjM2NSwtMzkyNzQ5MzQsLTc2NjQzMDk0
+MiwxMDA5Mjg3MzI4LDI2MTY3ODY3OCw1MzQ2MzAxNTgsLTE0Mz
+M4MjIxMDAsLTIxMzk3MjU2NDcsLTIwODA4Njk0NjYsODg5OTA3
+ODEyXX0=
 -->
