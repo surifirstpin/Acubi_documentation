@@ -390,17 +390,17 @@ Gauge chart displays current status in the context of goal.
 
 - <b>Grid Color:</b> Specify grid color.
  
-- <b>Font Color:</b> Enable color for labels on Y-axis.
+- <b>Font Color:</b> Specify color for labels on Y-axis.
 
- - <b>Font Size:</b> Enable font size for labels on Y-axis.
+ - <b>Font Size:</b> Specify font size for labels on Y-axis.
 
-- <b>Y-Axis:</b> display measure values on Y-axis. 
+- <b>Y-Axis:</b> Display measure values on Y-axis. 
 
-- <b>Show Grid:</b> enables the grid display for measures on y-axis.
+- <b>Show Grid:</b> Enables the grid display for measures on y-axis.
 
-- <b>Include Zero:</b> displays measure values starting from zero.
+- <b>Include Zero:</b> Displays measure values starting from zero.
 
-- <b>Position: </b>you can align the y-axis to left or right side of the chart.
+- <b>Position: </b> Enable y-axis position to left or right side of the chart.
 
 - <b> Min Value</b>  Displays Y-axis data starting from value specified in field <b>Min Value</b>
 
@@ -442,11 +442,11 @@ Gauge chart displays current status in the context of goal.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4MzQ3MTk3LC0yMTE2MTQ0MTk0LDE5MD
-I1MzUyMjksLTE5ODk0MzEyMzgsLTEyOTA0NTYxMTIsMTMwMDc0
-NzM4MywtMTA4MTIxNzYyMSw1NjM1Nzg2NzUsLTE0ODIzMzA0Mj
-ksMTM0MzA5OTc2MiwxNjU4MDExMzQ4LDEyNzU2NjM4MTEsNTky
-NTIwNTA2LDEyOTQ3MTA1NzEsMjEwNzE5MTAyOSwxNDQ0OTIxNz
-Y3LC0xNDExNzIxMDI1LC0xMDU4ODcyMDU5LC05MDQxNTEyMDQs
-LTk0OTk2Njk5OF19
+eyJoaXN0b3J5IjpbMTU1MzcxMzU2OCwtMjExNjE0NDE5NCwxOT
+AyNTM1MjI5LC0xOTg5NDMxMjM4LC0xMjkwNDU2MTEyLDEzMDA3
+NDczODMsLTEwODEyMTc2MjEsNTYzNTc4Njc1LC0xNDgyMzMwND
+I5LDEzNDMwOTk3NjIsMTY1ODAxMTM0OCwxMjc1NjYzODExLDU5
+MjUyMDUwNiwxMjk0NzEwNTcxLDIxMDcxOTEwMjksMTQ0NDkyMT
+c2NywtMTQxMTcyMTAyNSwtMTA1ODg3MjA1OSwtOTA0MTUxMjA0
+LC05NDk5NjY5OThdfQ==
 -->
