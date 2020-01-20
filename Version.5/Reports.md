@@ -330,13 +330,12 @@ Click on Charts, to view the different type of pictorial representation for the 
 | <b> $#.00</b>  | Dollar with 2 decimal |
 |  <b>$#,##0.00</b> | Dollars with comma between thousands and 2 decimals ($1,234.00) |
 
-
 - <b>Currency</b> AcuBi supports following currency formats $,   ₹  ,   €  ,  £.
 
 
 <b>21.</b> Click <b>Save</b> Button to Save the Report.
 
-  > <b>Note:</b>  It will navigate to Save Report Page. 
+  > <b>Note:</b>  It will navigate to save report page. 
   
 **22.**  To download a report, click on  **Download (icon)**  button as shown in the image below.
 
@@ -435,11 +434,11 @@ Similarly, for report definition for yesterdays data :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzIzMzg3NTUsLTgyNjg0MTUxOCwxMT
-g5MTU4OTc5LDE2NjgzNjcxNDMsMjc4MjIwMDYyLDIwNzUyMzE3
-MjgsLTY4MzQzNjY1Miw1MzM1MDg5OTYsLTE0ODk3OTQwODQsMj
-AzNDk1MDgwMywzOTQyMDQyNjQsMTU4MjUxOTMzMCw3MDQ3NDAy
-NTAsMTk4OTU4OTE3MiwtNDgwNTQxOTc5LC0yMTE4MTg3MTEwLD
-gyMDYxNDMzNCw4MDEyMTk4ODgsNDczMTAwNDAwLC0xNzI5NzEy
-NTMwXX0=
+eyJoaXN0b3J5IjpbLTc4OTQ0ODc1NywtMTgzMjMzODc1NSwtOD
+I2ODQxNTE4LDExODkxNTg5NzksMTY2ODM2NzE0MywyNzgyMjAw
+NjIsMjA3NTIzMTcyOCwtNjgzNDM2NjUyLDUzMzUwODk5NiwtMT
+Q4OTc5NDA4NCwyMDM0OTUwODAzLDM5NDIwNDI2NCwxNTgyNTE5
+MzMwLDcwNDc0MDI1MCwxOTg5NTg5MTcyLC00ODA1NDE5NzksLT
+IxMTgxODcxMTAsODIwNjE0MzM0LDgwMTIxOTg4OCw0NzMxMDA0
+MDBdfQ==
 -->
