@@ -352,13 +352,13 @@ Under <b>Save Report</b> page provide all the below information to save a report
 
 - <b>Title :</b> label for the report the way you want it to appear.
 
-- <b>Info :</B> Displays any specific information about the report.
+- <b>Info :</b> Displays any specific information about the report.
 
 - <b>Privacy :</b> You can save the report in any one of the following privacy option.
 
   - <b>Private ()</b> report saved in private section and accessed by the user itself.
   - <b>Public  ()</b> the report is saved in public section and accessed by all the users.
-  -  <b>Share ()</b> the report saved under share section and accessed by specific set of users.
+  - <b>Share ()</b> the report saved under share section and accessed by specific set of users.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eeacf708948fafc3fe1370acd16b40d2f1c1ee27/images/New_version5/TD_SAVE_REPORT_4.png)
 
@@ -434,11 +434,11 @@ Similarly, for report definition for yesterdays data :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODg0ODEwNywtMTgzMjMzODc1NSwtOD
-I2ODQxNTE4LDExODkxNTg5NzksMTY2ODM2NzE0MywyNzgyMjAw
-NjIsMjA3NTIzMTcyOCwtNjgzNDM2NjUyLDUzMzUwODk5NiwtMT
-Q4OTc5NDA4NCwyMDM0OTUwODAzLDM5NDIwNDI2NCwxNTgyNTE5
-MzMwLDcwNDc0MDI1MCwxOTg5NTg5MTcyLC00ODA1NDE5NzksLT
-IxMTgxODcxMTAsODIwNjE0MzM0LDgwMTIxOTg4OCw0NzMxMDA0
-MDBdfQ==
+eyJoaXN0b3J5IjpbMTI5Mjg2MDQyNywxNDE4ODQ4MTA3LC0xOD
+MyMzM4NzU1LC04MjY4NDE1MTgsMTE4OTE1ODk3OSwxNjY4MzY3
+MTQzLDI3ODIyMDA2MiwyMDc1MjMxNzI4LC02ODM0MzY2NTIsNT
+MzNTA4OTk2LC0xNDg5Nzk0MDg0LDIwMzQ5NTA4MDMsMzk0MjA0
+MjY0LDE1ODI1MTkzMzAsNzA0NzQwMjUwLDE5ODk1ODkxNzIsLT
+Q4MDU0MTk3OSwtMjExODE4NzExMCw4MjA2MTQzMzQsODAxMjE5
+ODg4XX0=
 -->
