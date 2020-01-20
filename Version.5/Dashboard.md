@@ -101,11 +101,11 @@ The Listeners option allows to register callbacks to be notified when an event i
    
    -  <b>Add Listener :</b> Adds multiple filters to reports.
    
-   -   <b>Listen Filter :</B>  refers to filter option available.
+   -   <b>Listen to filter :</B>  Refers to filter available.
     
-   -   <b>Apply to field :</b>  applies filter options to field column in a report.
+   -   <b>Apply to field :</b>  Applies filter to field column in a report.
     
-<b>8.</b> Click <b>Save</b> button it will navigate to <b>Save Dashboard</b> section.
+<b>8.</b> Click <b>Save</b> button and navigate to <b>Save Dashboard</b> section.
 
 <b><i><u>Fill up save dashboard section :</u></i></b>
 
@@ -167,7 +167,7 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 - To go back to previously applied filter, click on <b>Default</b> Button. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0MjA0OTA3LC0xMzA5ODYwNTMzLDc1OT
+eyJoaXN0b3J5IjpbMTI1NDU3MjU5LC0xMzA5ODYwNTMzLDc1OT
 I1NjkxNywtNzgzMjU3NTE5LDExNTYwNTcyMjAsLTE2MzkzNzUz
 MjcsMTM5NTQ3ODM5MywtMTcwMzA2NDQzMywtMTg1MDgxOSwxMz
 YxNjUwODUwLDU0ODI5NjM2NSwtMzkyNzQ5MzQsLTc2NjQzMDk0
