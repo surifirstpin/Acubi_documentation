@@ -144,7 +144,7 @@ Report filters will narrow the reports results while allowing you to view the sp
 
 ## Sorting Order (Ascending / Descending)
 
-<b>10.</b> To view the report data in ascending or descending orders, Apply Order to the Column fields, To carry out this function Click on <b>Add Orders</b> button.
+<b>10.</b> To view the report data in ascending or descending orders, <b>Apply Order</b> to the Column fields, To carry out this function Click on <b>Add Orders</b> button.
 
   - To Delete the Order applied Click on <b>Cross Icon.</b>
  
@@ -434,11 +434,11 @@ Similarly, for report definition for yesterdays data :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTQ4MDgxNiwxMjkyODYwNDI3LDE0MT
-g4NDgxMDcsLTE4MzIzMzg3NTUsLTgyNjg0MTUxOCwxMTg5MTU4
-OTc5LDE2NjgzNjcxNDMsMjc4MjIwMDYyLDIwNzUyMzE3MjgsLT
-Y4MzQzNjY1Miw1MzM1MDg5OTYsLTE0ODk3OTQwODQsMjAzNDk1
-MDgwMywzOTQyMDQyNjQsMTU4MjUxOTMzMCw3MDQ3NDAyNTAsMT
-k4OTU4OTE3MiwtNDgwNTQxOTc5LC0yMTE4MTg3MTEwLDgyMDYx
-NDMzNF19
+eyJoaXN0b3J5IjpbMTU4NzQ5MTgxMywyMDQ1NDgwODE2LDEyOT
+I4NjA0MjcsMTQxODg0ODEwNywtMTgzMjMzODc1NSwtODI2ODQx
+NTE4LDExODkxNTg5NzksMTY2ODM2NzE0MywyNzgyMjAwNjIsMj
+A3NTIzMTcyOCwtNjgzNDM2NjUyLDUzMzUwODk5NiwtMTQ4OTc5
+NDA4NCwyMDM0OTUwODAzLDM5NDIwNDI2NCwxNTgyNTE5MzMwLD
+cwNDc0MDI1MCwxOTg5NTg5MTcyLC00ODA1NDE5NzksLTIxMTgx
+ODcxMTBdfQ==
 -->
