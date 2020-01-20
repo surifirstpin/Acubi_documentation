@@ -15,7 +15,7 @@ This section explains on how to view the existing files saved under <b>My Space<
 
 Click on any specific tag which you would like to view. it will navigate to tag location and displays the Dashboard, Reports, child tags saved under this specific tag.
 
-<b>For Instance :</b> Here i am selecting <b>ParentTag_Public,</b> it displays tags,dashboard and reports that fall under this specific tag structure as shown below.
+<b>For Instance :</b> Here i am selecting <b>Parent Tag_Public,</b> it displays tags,dashboard and reports that fall under this specific tag structure as shown below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/69d5beb04063249964516e10e7358d38b3641f29/images/New_version5/UD_Viewing_Content_Image1.png)
  
@@ -138,7 +138,7 @@ In case if you are intended to view multiple reports and want to access the prev
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzIyNzk3MDYsOTI4MjYyNTIzLDM3Mz
+eyJoaXN0b3J5IjpbLTE1NDIyMjMyMTAsOTI4MjYyNTIzLDM3Mz
 A3MDM3NSwxODgwOTI3MjgyLDE4NzY4NzkxMDYsLTE4MjkxNzE3
 MDksNzg5NjM5MjksMjAyMjE3MTU5OCwtMTU0Mzc1MDcyMCwtMT
 I2NDUyMDk3OCwtNDExNDEyMTYzLC0xNDEzMTgxNDkxLDIwNzMz
