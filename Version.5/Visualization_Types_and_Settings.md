@@ -323,7 +323,7 @@ Gauge chart displays current status in the context of goal.
 - <b>Hide Minmax:</b>  hides min and maximum values in gauge target.
 
 
-## Standard Settings
+# Standard Settings
 
 ### General Section 
 
@@ -406,7 +406,7 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 - <b> Min Value</b>  Displays Y-axis data starting from value specified in field <b>Min Value</b>
 
-#### Reference Lines
+### Reference Lines
 
 <b>Reference Lines:</b> enables the creation of reference lines in a chart.
 
@@ -444,11 +444,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzA5OTc2MiwxNjU4MDExMzQ4LDEyNz
-U2NjM4MTEsNTkyNTIwNTA2LDEyOTQ3MTA1NzEsMjEwNzE5MTAy
-OSwxNDQ0OTIxNzY3LC0xNDExNzIxMDI1LC0xMDU4ODcyMDU5LC
-05MDQxNTEyMDQsLTk0OTk2Njk5OCwtMTYzMDg5MzEzNCwtMTAw
-MzU4NTUyOCwtMTgwMjkzMTQxNiw1Nzc4OTc5NjQsOTY3OTAzNz
-Q2LC00NTkwODMwODUsNTcyMjU5MjI0LC0yMTQxODEzNCw3Mzgx
-NzM3OThdfQ==
+eyJoaXN0b3J5IjpbLTI2MTMyNzU5NiwxMzQzMDk5NzYyLDE2NT
+gwMTEzNDgsMTI3NTY2MzgxMSw1OTI1MjA1MDYsMTI5NDcxMDU3
+MSwyMTA3MTkxMDI5LDE0NDQ5MjE3NjcsLTE0MTE3MjEwMjUsLT
+EwNTg4NzIwNTksLTkwNDE1MTIwNCwtOTQ5OTY2OTk4LC0xNjMw
+ODkzMTM0LC0xMDAzNTg1NTI4LC0xODAyOTMxNDE2LDU3Nzg5Nz
+k2NCw5Njc5MDM3NDYsLTQ1OTA4MzA4NSw1NzIyNTkyMjQsLTIx
+NDE4MTM0XX0=
 -->
