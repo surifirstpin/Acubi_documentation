@@ -394,7 +394,7 @@ Cache saves the data, so the future request for the data is provided faster.
 <b><font color = "Black"> Image 17</b>
 
 ## Check Data
-
+h
 To know weather the data extracted in reports contains <b> Today </b> or <b> Yesterdays </b> information in list. To carry out this function enable check data with today or yesterday as shown below;
 
  - Select <b> Check Data</b> (Today).
@@ -434,11 +434,11 @@ Similarly, for report definition for yesterdays data :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxNzI2NDQzLDEyOTI4NjA0MjcsMTQxOD
-g0ODEwNywtMTgzMjMzODc1NSwtODI2ODQxNTE4LDExODkxNTg5
-NzksMTY2ODM2NzE0MywyNzgyMjAwNjIsMjA3NTIzMTcyOCwtNj
-gzNDM2NjUyLDUzMzUwODk5NiwtMTQ4OTc5NDA4NCwyMDM0OTUw
-ODAzLDM5NDIwNDI2NCwxNTgyNTE5MzMwLDcwNDc0MDI1MCwxOT
-g5NTg5MTcyLC00ODA1NDE5NzksLTIxMTgxODcxMTAsODIwNjE0
-MzM0XX0=
+eyJoaXN0b3J5IjpbLTE5Njg5Njg4MywxMjkyODYwNDI3LDE0MT
+g4NDgxMDcsLTE4MzIzMzg3NTUsLTgyNjg0MTUxOCwxMTg5MTU4
+OTc5LDE2NjgzNjcxNDMsMjc4MjIwMDYyLDIwNzUyMzE3MjgsLT
+Y4MzQzNjY1Miw1MzM1MDg5OTYsLTE0ODk3OTQwODQsMjAzNDk1
+MDgwMywzOTQyMDQyNjQsMTU4MjUxOTMzMCw3MDQ3NDAyNTAsMT
+k4OTU4OTE3MiwtNDgwNTQxOTc5LC0yMTE4MTg3MTEwLDgyMDYx
+NDMzNF19
 -->
