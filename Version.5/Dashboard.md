@@ -125,7 +125,7 @@ The Listeners option allows to register callbacks to be notified when an event i
    
    -  <B>Share()</B> It enable access for specific set of users.
   
-<b>9.</B> Choose the tag where you would like to save <b>Dashboard Reports</b> and click <b>Save.</b>
+<b>9.</B> Select the <b>Tag</b> where you would like to save <b>Dashboard Reports</b> and click <b>Save.</b>
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b59aa3d638caeab80a9fa1c15b898fb0d403988f/images/New_version5/UD_Dashboard_image9.png)
@@ -168,11 +168,11 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 - To go back to previously applied filter, click on <b>Default</b> Button. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2NDA3NjYxLC0xMzA5ODYwNTMzLDc1OT
-I1NjkxNywtNzgzMjU3NTE5LDExNTYwNTcyMjAsLTE2MzkzNzUz
-MjcsMTM5NTQ3ODM5MywtMTcwMzA2NDQzMywtMTg1MDgxOSwxMz
-YxNjUwODUwLDU0ODI5NjM2NSwtMzkyNzQ5MzQsLTc2NjQzMDk0
-MiwxMDA5Mjg3MzI4LDI2MTY3ODY3OCw1MzQ2MzAxNTgsLTE0Mz
-M4MjIxMDAsLTIxMzk3MjU2NDcsLTIwODA4Njk0NjYsODg5OTA3
-ODEyXX0=
+eyJoaXN0b3J5IjpbMjEwOTEzMDAwNSwtMTMwOTg2MDUzMyw3NT
+kyNTY5MTcsLTc4MzI1NzUxOSwxMTU2MDU3MjIwLC0xNjM5Mzc1
+MzI3LDEzOTU0NzgzOTMsLTE3MDMwNjQ0MzMsLTE4NTA4MTksMT
+M2MTY1MDg1MCw1NDgyOTYzNjUsLTM5Mjc0OTM0LC03NjY0MzA5
+NDIsMTAwOTI4NzMyOCwyNjE2Nzg2NzgsNTM0NjMwMTU4LC0xND
+MzODIyMTAwLC0yMTM5NzI1NjQ3LC0yMDgwODY5NDY2LDg4OTkw
+NzgxMl19
 -->
