@@ -111,16 +111,17 @@ The Listeners option allows to register callbacks to be notified when an event i
 
    -   <b>Name : </b> Name identifier for dashboard created.
                               
-   -   <b>Title :</B>  Title to refer the dashboard.
+   -   <b>Title :</B>  Title to refer dashboard.
     
    -   <b>Info :</B>  Summary information for dashboard created.
 
 ## Share Status    
 
 <b>Share Status</b>   Enable any of the following privacy option to save the dashboard.
-   -  <b>Public()</B>   It enable access for all the users. 
+
+   -  <b>Public()</B>   It enable access to all the users. 
      
-   -  <b>Private()</B> It enable access for user itself.
+   -  <b>Private()</B> It enable access to user itself.
    
    -  <B>Share()</B> It enable access for specific set of users.
   
@@ -167,7 +168,7 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 - To go back to previously applied filter, click on <b>Default</b> Button. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDQ0MTAwLC0xMzA5ODYwNTMzLDc1OT
+eyJoaXN0b3J5IjpbNzI2NDA3NjYxLC0xMzA5ODYwNTMzLDc1OT
 I1NjkxNywtNzgzMjU3NTE5LDExNTYwNTcyMjAsLTE2MzkzNzUz
 MjcsMTM5NTQ3ODM5MywtMTcwMzA2NDQzMywtMTg1MDgxOSwxMz
 YxNjUwODUwLDU0ODI5NjM2NSwtMzkyNzQ5MzQsLTc2NjQzMDk0
