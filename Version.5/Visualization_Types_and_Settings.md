@@ -430,7 +430,7 @@ Gauge chart displays current status in the context of goal.
 
 - <b>Font:</b> Select the font color for the data retrieved based on condition.
 
-- <b>Icon:</b> Select a icon for the data retrieved based on condition.
+- <b>Icon:</b> Select  icon for the data retrieved based on condition.
 
 - <b>Before number:</b> Align the icon before the data value.
 
@@ -442,11 +442,11 @@ Gauge chart displays current status in the context of goal.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODU3OTM2MCwtMjExNjE0NDE5NCwxOT
-AyNTM1MjI5LC0xOTg5NDMxMjM4LC0xMjkwNDU2MTEyLDEzMDA3
-NDczODMsLTEwODEyMTc2MjEsNTYzNTc4Njc1LC0xNDgyMzMwND
-I5LDEzNDMwOTk3NjIsMTY1ODAxMTM0OCwxMjc1NjYzODExLDU5
-MjUyMDUwNiwxMjk0NzEwNTcxLDIxMDcxOTEwMjksMTQ0NDkyMT
-c2NywtMTQxMTcyMTAyNSwtMTA1ODg3MjA1OSwtOTA0MTUxMjA0
-LC05NDk5NjY5OThdfQ==
+eyJoaXN0b3J5IjpbLTE5ODAxMzMxODEsLTIzODU3OTM2MCwtMj
+ExNjE0NDE5NCwxOTAyNTM1MjI5LC0xOTg5NDMxMjM4LC0xMjkw
+NDU2MTEyLDEzMDA3NDczODMsLTEwODEyMTc2MjEsNTYzNTc4Nj
+c1LC0xNDgyMzMwNDI5LDEzNDMwOTk3NjIsMTY1ODAxMTM0OCwx
+Mjc1NjYzODExLDU5MjUyMDUwNiwxMjk0NzEwNTcxLDIxMDcxOT
+EwMjksMTQ0NDkyMTc2NywtMTQxMTcyMTAyNSwtMTA1ODg3MjA1
+OSwtOTA0MTUxMjA0XX0=
 -->
