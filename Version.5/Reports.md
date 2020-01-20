@@ -348,7 +348,7 @@ Click on Charts, to view the different type of pictorial representation for the 
 
 Under <b>Save Report</b> page provide all the below information to save a report for further accessing.
 
-- <b>Report Name :</b> Name identifier for a report. ( AcuBi allows  special character but does not  support any spaces )
+- <b>Report Name :</b> Name identifier for a report. (AcuBi allows special character but does not  support any spaces )
 
 - <b>Title :</b> label for the report the way you want it to appear.
 
@@ -434,7 +434,7 @@ Similarly, for report definition for yesterdays data :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTQ0ODc1NywtMTgzMjMzODc1NSwtOD
+eyJoaXN0b3J5IjpbMTQxODg0ODEwNywtMTgzMjMzODc1NSwtOD
 I2ODQxNTE4LDExODkxNTg5NzksMTY2ODM2NzE0MywyNzgyMjAw
 NjIsMjA3NTIzMTcyOCwtNjgzNDM2NjUyLDUzMzUwODk5NiwtMT
 Q4OTc5NDA4NCwyMDM0OTUwODAzLDM5NDIwNDI2NCwxNTgyNTE5
