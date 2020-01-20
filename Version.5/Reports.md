@@ -364,11 +364,11 @@ Under <b>Save Report</b> page provide all the below information to save a report
 
 <b><font color = "Black"> Image 15</b>
 
-## Saving under specific tag
+## Saving under Specific Tag
 
 All the reports build in analysis section are saved under <b>work space</b> tag. 
 
-## Defining filter fields
+## Defining Filter Fields
 
 Filter are used to extract only specific data you want to view. This function is carried out by applying filters to reports.
  
@@ -434,11 +434,11 @@ Similarly, for report definition for yesterdays data :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDgzMTgwOTYsMTI5Mjg2MDQyNywxND
-E4ODQ4MTA3LC0xODMyMzM4NzU1LC04MjY4NDE1MTgsMTE4OTE1
-ODk3OSwxNjY4MzY3MTQzLDI3ODIyMDA2MiwyMDc1MjMxNzI4LC
-02ODM0MzY2NTIsNTMzNTA4OTk2LC0xNDg5Nzk0MDg0LDIwMzQ5
-NTA4MDMsMzk0MjA0MjY0LDE1ODI1MTkzMzAsNzA0NzQwMjUwLD
-E5ODk1ODkxNzIsLTQ4MDU0MTk3OSwtMjExODE4NzExMCw4MjA2
-MTQzMzRdfQ==
+eyJoaXN0b3J5IjpbMjA0NTQ4MDgxNiwxMjkyODYwNDI3LDE0MT
+g4NDgxMDcsLTE4MzIzMzg3NTUsLTgyNjg0MTUxOCwxMTg5MTU4
+OTc5LDE2NjgzNjcxNDMsMjc4MjIwMDYyLDIwNzUyMzE3MjgsLT
+Y4MzQzNjY1Miw1MzM1MDg5OTYsLTE0ODk3OTQwODQsMjAzNDk1
+MDgwMywzOTQyMDQyNjQsMTU4MjUxOTMzMCw3MDQ3NDAyNTAsMT
+k4OTU4OTE3MiwtNDgwNTQxOTc5LC0yMTE4MTg3MTEwLDgyMDYx
+NDMzNF19
 -->
