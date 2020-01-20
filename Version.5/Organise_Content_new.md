@@ -56,7 +56,7 @@ AcuBi allows user in editing and managing access level, allows users to make nec
 
 
 <b>3.</b>  To edit a Dashboard or Report click on <b>Edit Icon</b>. It will navigate to dashboard report as show below.
-After making necessary changes to reports or dashboard click update i save section.
+After making necessary changes to reports or dashboard click update in save section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/20d14f3f25bb74d93059efb55c8ac118064c337a/images/New_version5/TD_Organize_Image6.png)
 
@@ -121,11 +121,11 @@ The sharing status displays type of privacy setting enabled for a dashboard or r
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Njk0MTg4LC0xNzQ1MjUwOTQsLTE5OD
-I4Mzk0MzAsLTk5OTY3MjI0MywtODQzNDE2MjY4LDE0NTg3Njk5
-NCwtODU2OTIxNjE5LDExODA0NDg4MzEsMTM5NzUwNzc0NSwtNj
-gxNTg4MDMxLC0xMTk0MTY4MzczLC0xNTcwNTY3MzA3LC0xMTk0
-MTY4MzczLDE1MTUwODYwMTEsLTcwODI1MjA1MSwtMTU1MTI1ND
-U1NywtODIyNDA5OTg3LC0xNDQ0NDkzMTA1LC0xNTkyMzExNDI2
-LC0xNTUzNTY5NTc1XX0=
+eyJoaXN0b3J5IjpbLTE3NzQ2NzIwNDgsLTg0Njk0MTg4LC0xNz
+Q1MjUwOTQsLTE5ODI4Mzk0MzAsLTk5OTY3MjI0MywtODQzNDE2
+MjY4LDE0NTg3Njk5NCwtODU2OTIxNjE5LDExODA0NDg4MzEsMT
+M5NzUwNzc0NSwtNjgxNTg4MDMxLC0xMTk0MTY4MzczLC0xNTcw
+NTY3MzA3LC0xMTk0MTY4MzczLDE1MTUwODYwMTEsLTcwODI1Mj
+A1MSwtMTU1MTI1NDU1NywtODIyNDA5OTg3LC0xNDQ0NDkzMTA1
+LC0xNTkyMzExNDI2XX0=
 -->
