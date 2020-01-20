@@ -187,7 +187,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - <b>Color From & To:</b> Specify the color specific range of values in map region.
 
-- <b>Negative Cutoff:</b> enabled when negatives values are applicable.
+- <b>Negative Cutoff:</b> Enabled when negatives values are applicable.
 
 - <b>Negative color from & to:</b> Specify color for specific range of negative values.
 
@@ -264,7 +264,7 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 
 <b><i>Funnel charts can be viewed in following ways;</i></b>
 
- - <b>Sort:</b> on selecting this check box, it enables data in the sorted order in funnel chart.
+ - <b>Sort:</b> This enables data in the sorted order in funnel chart.
   
  - <b>Curved:</b> on selecting this check box it will display, funnel chart in curved view.
  
@@ -444,11 +444,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODMwMzAwMTMsLTE0ODIzMzA0MjksMT
-M0MzA5OTc2MiwxNjU4MDExMzQ4LDEyNzU2NjM4MTEsNTkyNTIw
-NTA2LDEyOTQ3MTA1NzEsMjEwNzE5MTAyOSwxNDQ0OTIxNzY3LC
-0xNDExNzIxMDI1LC0xMDU4ODcyMDU5LC05MDQxNTEyMDQsLTk0
-OTk2Njk5OCwtMTYzMDg5MzEzNCwtMTAwMzU4NTUyOCwtMTgwMj
-kzMTQxNiw1Nzc4OTc5NjQsOTY3OTAzNzQ2LC00NTkwODMwODUs
-NTcyMjU5MjI0XX0=
+eyJoaXN0b3J5IjpbLTY1MjQ2NTUyMiwtMTQ4MjMzMDQyOSwxMz
+QzMDk5NzYyLDE2NTgwMTEzNDgsMTI3NTY2MzgxMSw1OTI1MjA1
+MDYsMTI5NDcxMDU3MSwyMTA3MTkxMDI5LDE0NDQ5MjE3NjcsLT
+E0MTE3MjEwMjUsLTEwNTg4NzIwNTksLTkwNDE1MTIwNCwtOTQ5
+OTY2OTk4LC0xNjMwODkzMTM0LC0xMDAzNTg1NTI4LC0xODAyOT
+MxNDE2LDU3Nzg5Nzk2NCw5Njc5MDM3NDYsLTQ1OTA4MzA4NSw1
+NzIyNTkyMjRdfQ==
 -->
