@@ -272,7 +272,7 @@ Funnels helps to visualize a process that has stages and items flow sequentially
   
  - <b>Inverted:</b> Displays funnel chart in reversed or bottom up position.
  
- - <b>Highlight on Hover:</b> Highlight the hover  
+ - <b>Highlight on Hover:</b> Highlight the section based on hover over 
  
  - <b>Dynamic Height:</b> on selecting this check box it will display the height depending on the numeric range of the data retrieved in funnel chart. 
  
@@ -444,11 +444,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTE5NTIwLDU2MzU3ODY3NSwtMTQ4Mj
-MzMDQyOSwxMzQzMDk5NzYyLDE2NTgwMTEzNDgsMTI3NTY2Mzgx
-MSw1OTI1MjA1MDYsMTI5NDcxMDU3MSwyMTA3MTkxMDI5LDE0ND
-Q5MjE3NjcsLTE0MTE3MjEwMjUsLTEwNTg4NzIwNTksLTkwNDE1
-MTIwNCwtOTQ5OTY2OTk4LC0xNjMwODkzMTM0LC0xMDAzNTg1NT
-I4LC0xODAyOTMxNDE2LDU3Nzg5Nzk2NCw5Njc5MDM3NDYsLTQ1
-OTA4MzA4NV19
+eyJoaXN0b3J5IjpbLTEwODEyMTc2MjEsNTYzNTc4Njc1LC0xND
+gyMzMwNDI5LDEzNDMwOTk3NjIsMTY1ODAxMTM0OCwxMjc1NjYz
+ODExLDU5MjUyMDUwNiwxMjk0NzEwNTcxLDIxMDcxOTEwMjksMT
+Q0NDkyMTc2NywtMTQxMTcyMTAyNSwtMTA1ODg3MjA1OSwtOTA0
+MTUxMjA0LC05NDk5NjY5OTgsLTE2MzA4OTMxMzQsLTEwMDM1OD
+U1MjgsLTE4MDI5MzE0MTYsNTc3ODk3OTY0LDk2NzkwMzc0Niwt
+NDU5MDgzMDg1XX0=
 -->
