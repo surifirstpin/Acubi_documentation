@@ -31,7 +31,7 @@
 
  <b><i>Editing Options for Line Chart</i></b>
  
- - <b>Line type :</b> displays the information as a series of data points called markers. Below are the list of markers used in line chart (spline acts as  default line type), 
+ - <b>Line type :</b> Displays the information as a series of data points called markers. Below are the list of markers used in line chart (spline acts as  default line type), 
    - Line
    - Spline 
    - Step
@@ -40,9 +40,9 @@
    - Area-Step
    - Scatter
     
-- <b>Points :</b>  will display the data by specifying the points on the chart.
+- <b>Points :</b>  This display the data by specifying the points on the chart.
 
-- <b>Point style :</b> will specify how the data points will appear on chart. 
+- <b>Point style :</b> This specify how the data points will appear on chart. 
 Below are the following options available. 
   - Circle
   - Triangle
@@ -76,7 +76,7 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
   
 ### Editing Options in Pie Chart
  
-- <b>Show percentage :</b>  displays percentage for each measure value in pie chart. To enable it select the <b>Check Box</b> show percentage as shown below;
+- <b>Show percentage :</b>  Displays percentage for each measure value in pie chart. To enable it select the <b>Check Box</b> show percentage as shown below;
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9efd7408868fc3755257f26138885e2ca684e1d0/images/New_version5/UD_Visualization_Types&Settings_Image4.png)
@@ -408,15 +408,15 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 ### Reference Lines
 
-<b>Reference Lines:</b> enables the creation of reference lines in a chart.
+<b>Reference Lines:</b> Enables the creation of reference lines in a chart.
 
-- <b>Name:</b> specify a reference name for specific information on y-axis.
+- <b>Name:</b> Specify a reference name for specific information on y-axis.
   
-- <b>Type:</b> specify  Linear, Polynomial, Exponential, Logarithmic, Average, Median, Minimum, Maximum, Deviation, Variance, Custom Line, Custom Area on Y-axis.
+- <b>Type:</b> Specify  Linear, Polynomial, Exponential, Logarithmic, Average, Median, Minimum, Maximum, Deviation, Variance, Custom Line, Custom Area on Y-axis.
   
--  <b>From & to: </b> specify the reference line for specific range of measure values.
+-  <b>From & to: </b> Specify the reference line for specific range of measure values.
 
-- <b>Theme:</b> enables color for reference line.
+- <b>Theme:</b> Enables color for reference line.
  
  > <b>Note:</b>  Y-Axis is enabled only for Line, Bar and Bubble chart only.
  
@@ -444,11 +444,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODIzMzA0MjksMTM0MzA5OTc2MiwxNj
-U4MDExMzQ4LDEyNzU2NjM4MTEsNTkyNTIwNTA2LDEyOTQ3MTA1
-NzEsMjEwNzE5MTAyOSwxNDQ0OTIxNzY3LC0xNDExNzIxMDI1LC
-0xMDU4ODcyMDU5LC05MDQxNTEyMDQsLTk0OTk2Njk5OCwtMTYz
-MDg5MzEzNCwtMTAwMzU4NTUyOCwtMTgwMjkzMTQxNiw1Nzc4OT
-c5NjQsOTY3OTAzNzQ2LC00NTkwODMwODUsNTcyMjU5MjI0LC0y
-MTQxODEzNF19
+eyJoaXN0b3J5IjpbLTE3NTQyMTkzNTcsLTE0ODIzMzA0MjksMT
+M0MzA5OTc2MiwxNjU4MDExMzQ4LDEyNzU2NjM4MTEsNTkyNTIw
+NTA2LDEyOTQ3MTA1NzEsMjEwNzE5MTAyOSwxNDQ0OTIxNzY3LC
+0xNDExNzIxMDI1LC0xMDU4ODcyMDU5LC05MDQxNTEyMDQsLTk0
+OTk2Njk5OCwtMTYzMDg5MzEzNCwtMTAwMzU4NTUyOCwtMTgwMj
+kzMTQxNiw1Nzc4OTc5NjQsOTY3OTAzNzQ2LC00NTkwODMwODUs
+NTcyMjU5MjI0XX0=
 -->
