@@ -107,13 +107,13 @@ The Listeners option allows to register callbacks to be notified when an event i
     
 <b>8.</b> Click <b>Save</b> button and navigate to <b>Save Dashboard</b> section.
 
-<b><i><u>Fill up save dashboard section :</u></i></b>
+<b><i><u>Fill save dashboard section :</u></i></b>
 
-   -   <b>Name : </b> name identifier for dashboard created.
+   -   <b>Name : </b> Name identifier for dashboard created.
                               
-   -   <b>Title :</B>  title to refer the dashboard.
+   -   <b>Title :</B>  Title to refer the dashboard.
     
-   -   <b>Info :</B>  summary information for dashboard created.
+   -   <b>Info :</B>  Summary information for dashboard created.
 
 ## Share Status    
 
@@ -167,7 +167,7 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 - To go back to previously applied filter, click on <b>Default</b> Button. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDU3MjU5LC0xMzA5ODYwNTMzLDc1OT
+eyJoaXN0b3J5IjpbLTI2MDQ0MTAwLC0xMzA5ODYwNTMzLDc1OT
 I1NjkxNywtNzgzMjU3NTE5LDExNTYwNTcyMjAsLTE2MzkzNzUz
 MjcsMTM5NTQ3ODM5MywtMTcwMzA2NDQzMywtMTg1MDgxOSwxMz
 YxNjUwODUwLDU0ODI5NjM2NSwtMzkyNzQ5MzQsLTc2NjQzMDk0
