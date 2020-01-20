@@ -274,13 +274,13 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  
  - <b>Highlight on Hover:</b> Highlight based on hover over direction. 
  
- - <b>Dynamic Height:</b> on selecting this check box it will display the height depending on the numeric range of the data retrieved in funnel chart. 
+ - <b>Dynamic Height:</b> On selecting this check box it will display the height depending on the numeric range of the data retrieved in funnel chart. 
  
- - <b>Dynamic Slope:</b> on selecting this checkbox it will display the potential covered based on the value range.
+ - <b>Dynamic Slope:</b> On selecting this checkbox it will display the potential covered based on the value range.
 
-<b>For instance:</b> higher value is referred with bigger slope and lower value is referred with smaller slope.
+<b>For instance:</b> Higher value is referred with bigger slope and lower value is referred with smaller slope.
 
- - <b>Load Animation:</b> on selecting this check box the column values in funnel chart will appear as moving image.
+ - <b>Load Animation:</b> On selecting this check box the column values in funnel chart will appear as moving image.
 
 
 ##  Gauge Chart 
@@ -296,9 +296,9 @@ Gauge chart displays current status in the context of goal.
 ](https://raw.githubusercontent.com/sv18042016/fp1/63e6ce82315ae4e72a287d4437b7d7a4bcea940b/images/New_version5/UD_Visualization_Types&Settings_Image16.png)
 <b><font color = "Black"> Image 16</b>
 
-- <b>Orange:</b>indicates, maximum value attained is half the way to target.
+- <b>Orange:</b>_ndicates, maximum value attained is half the way to target.
 
--  <b>Red:</b> indicates, maximum value attained is at initial state or lower side to the target.  
+-  <b>Red:</b> Indicates, maximum value attained is at initial state or lower side to the target.  
 
 ![
 ](https://github.com/sv18042016/fp1/blob/3ff08da67be44bb345a23a3e47e19f4ab62a4553/images/New_version5/UD_Visualization_Types&Settings_Image17.png?raw=true)
@@ -444,11 +444,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTA0NTYxMTIsMTMwMDc0NzM4MywtMT
-A4MTIxNzYyMSw1NjM1Nzg2NzUsLTE0ODIzMzA0MjksMTM0MzA5
-OTc2MiwxNjU4MDExMzQ4LDEyNzU2NjM4MTEsNTkyNTIwNTA2LD
-EyOTQ3MTA1NzEsMjEwNzE5MTAyOSwxNDQ0OTIxNzY3LC0xNDEx
-NzIxMDI1LC0xMDU4ODcyMDU5LC05MDQxNTEyMDQsLTk0OTk2Nj
-k5OCwtMTYzMDg5MzEzNCwtMTAwMzU4NTUyOCwtMTgwMjkzMTQx
-Niw1Nzc4OTc5NjRdfQ==
+eyJoaXN0b3J5IjpbLTE5ODk0MzEyMzgsLTEyOTA0NTYxMTIsMT
+MwMDc0NzM4MywtMTA4MTIxNzYyMSw1NjM1Nzg2NzUsLTE0ODIz
+MzA0MjksMTM0MzA5OTc2MiwxNjU4MDExMzQ4LDEyNzU2NjM4MT
+EsNTkyNTIwNTA2LDEyOTQ3MTA1NzEsMjEwNzE5MTAyOSwxNDQ0
+OTIxNzY3LC0xNDExNzIxMDI1LC0xMDU4ODcyMDU5LC05MDQxNT
+EyMDQsLTk0OTk2Njk5OCwtMTYzMDg5MzEzNCwtMTAwMzU4NTUy
+OCwtMTgwMjkzMTQxNl19
 -->
