@@ -266,11 +266,11 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 
  - <b>Sort:</b> This enables data in the sorted order in funnel chart.
   
- - <b>Curved:</b> on selecting this check box it will display, funnel chart in curved view.
+ - <b>Curved:</b> Displays funnel chart in curved view.
  
- - <b>Pinched:</b> on selecting this check box it will display, compressed view of the funnel chart.
+ - <b>Pinched:</b> Displays compressed view of the funnel chart.
   
- - <b>Inverted:</b> on selecting this check box it will display, funnel chart in reversed or bottom up position.
+ - <b>Inverted:</b> Displays funnel chart in reversed or bottom up position.
  
  - <b>Highlight on Hover:</b> on selecting this check box it will highlight each section by placing a cursor on it.
  
@@ -444,11 +444,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MjQ2NTUyMiwtMTQ4MjMzMDQyOSwxMz
-QzMDk5NzYyLDE2NTgwMTEzNDgsMTI3NTY2MzgxMSw1OTI1MjA1
-MDYsMTI5NDcxMDU3MSwyMTA3MTkxMDI5LDE0NDQ5MjE3NjcsLT
-E0MTE3MjEwMjUsLTEwNTg4NzIwNTksLTkwNDE1MTIwNCwtOTQ5
-OTY2OTk4LC0xNjMwODkzMTM0LC0xMDAzNTg1NTI4LC0xODAyOT
-MxNDE2LDU3Nzg5Nzk2NCw5Njc5MDM3NDYsLTQ1OTA4MzA4NSw1
-NzIyNTkyMjRdfQ==
+eyJoaXN0b3J5IjpbMTc3Nzg3NDAwLC0xNDgyMzMwNDI5LDEzND
+MwOTk3NjIsMTY1ODAxMTM0OCwxMjc1NjYzODExLDU5MjUyMDUw
+NiwxMjk0NzEwNTcxLDIxMDcxOTEwMjksMTQ0NDkyMTc2NywtMT
+QxMTcyMTAyNSwtMTA1ODg3MjA1OSwtOTA0MTUxMjA0LC05NDk5
+NjY5OTgsLTE2MzA4OTMxMzQsLTEwMDM1ODU1MjgsLTE4MDI5Mz
+E0MTYsNTc3ODk3OTY0LDk2NzkwMzc0NiwtNDU5MDgzMDg1LDU3
+MjI1OTIyNF19
 -->
