@@ -420,7 +420,7 @@ editing options for y-axis in Line, for Bar and bubble chart.
  
  > <b>Note:</b>  Y-Axis is enabled only for Line, Bar and Bubble chart only.
  
-## Format   
+### Format   
       
 - <b>Condition: </b> Specify any of the following condition types Greater than, Less than, Between, Not Between, equal to, duplicates values, Top 10 Items, Bottom 10 Items, Above Average, Below Average for the fields.
 
@@ -444,11 +444,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTMyNzU5NiwxMzQzMDk5NzYyLDE2NT
-gwMTEzNDgsMTI3NTY2MzgxMSw1OTI1MjA1MDYsMTI5NDcxMDU3
-MSwyMTA3MTkxMDI5LDE0NDQ5MjE3NjcsLTE0MTE3MjEwMjUsLT
-EwNTg4NzIwNTksLTkwNDE1MTIwNCwtOTQ5OTY2OTk4LC0xNjMw
-ODkzMTM0LC0xMDAzNTg1NTI4LC0xODAyOTMxNDE2LDU3Nzg5Nz
-k2NCw5Njc5MDM3NDYsLTQ1OTA4MzA4NSw1NzIyNTkyMjQsLTIx
-NDE4MTM0XX0=
+eyJoaXN0b3J5IjpbLTE0ODIzMzA0MjksMTM0MzA5OTc2MiwxNj
+U4MDExMzQ4LDEyNzU2NjM4MTEsNTkyNTIwNTA2LDEyOTQ3MTA1
+NzEsMjEwNzE5MTAyOSwxNDQ0OTIxNzY3LC0xNDExNzIxMDI1LC
+0xMDU4ODcyMDU5LC05MDQxNTEyMDQsLTk0OTk2Njk5OCwtMTYz
+MDg5MzEzNCwtMTAwMzU4NTUyOCwtMTgwMjkzMTQxNiw1Nzc4OT
+c5NjQsOTY3OTAzNzQ2LC00NTkwODMwODUsNTcyMjU5MjI0LC0y
+MTQxODEzNF19
 -->
