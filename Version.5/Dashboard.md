@@ -144,7 +144,7 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 
   - To view a specific dashboard, enter the dashboard name in given <b>Search Option.</B>
   
-  - To view dashboards and reports in List view, Click on <b>List View</b>.
+  - To view dashboards and reports in list view, Click on <b>List View</b>.
   
   - To view the dashboards and reports in folder view, Click on <b>Folder View.</b>
   
@@ -169,7 +169,7 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 - To go back to previously applied filter, click on <b>Default</b> Button. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxOTgyMjk2LDIxMDkxMzAwMDUsLTEzMD
+eyJoaXN0b3J5IjpbNzQ5NTY5MzM2LDIxMDkxMzAwMDUsLTEzMD
 k4NjA1MzMsNzU5MjU2OTE3LC03ODMyNTc1MTksMTE1NjA1NzIy
 MCwtMTYzOTM3NTMyNywxMzk1NDc4MzkzLC0xNzAzMDY0NDMzLC
 0xODUwODE5LDEzNjE2NTA4NTAsNTQ4Mjk2MzY1LC0zOTI3NDkz
