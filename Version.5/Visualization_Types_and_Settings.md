@@ -420,7 +420,7 @@ Gauge chart displays current status in the context of goal.
  
 ### Format   
       
-- <b>Condition: </b> Specify any of the following condition types Greater than, Less than, Between, Not Between, equal to, duplicates values, Top 10 Items, Bottom 10 Items, Above Average, Below Average for the fields.
+- <b>Condition: </b> Specify any of the following condition types Greater than, Less than, Between, Not Between, Equal to, Duplicates values, Top 10 Items, Bottom 10 Items, Above Average, Below Average for the fields.
 
 - <b>Format on:</b> Specify a measure field on which you want to apply format.
 
@@ -442,7 +442,7 @@ Gauge chart displays current status in the context of goal.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzcxMzU2OCwtMjExNjE0NDE5NCwxOT
+eyJoaXN0b3J5IjpbLTIzODU3OTM2MCwtMjExNjE0NDE5NCwxOT
 AyNTM1MjI5LC0xOTg5NDMxMjM4LC0xMjkwNDU2MTEyLDEzMDA3
 NDczODMsLTEwODEyMTc2MjEsNTYzNTc4Njc1LC0xNDgyMzMwND
 I5LDEzNDMwOTk3NjIsMTY1ODAxMTM0OCwxMjc1NjYzODExLDU5
