@@ -84,7 +84,7 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
 
 - <b>Polar Area :</b> On selecting the checkbox polar area, it enables the polar view for each dimensions in pie chart.
 
--  <b>Donut :</b> chart are equal to pie chart. They show relationships of parts to a whole. 
+-  <b>Donut :</b> Chart are equal to pie chart. They show relationships of parts to a whole. 
 - Select checkbox to enable Donut view.
 
 ![
@@ -103,7 +103,7 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
 ](https://raw.githubusercontent.com/sv18042016/fp1/751eed2fc28d82c24e883a2d567d5f389919b172/images/New_version5/UD_Visualization_Types&Settings_Image6.png)
   <b><font color = "Black"> Image 6</b>
 
-- <b>Points :</b> on selecting the checkbox it enables pointers for the data range in line chart.
+- <b>Points :</b> On selecting the checkbox it enables pointers for the data range in line chart.
 
 - <b>Point style :</b>This will specify how the data points to appear on chart.
  below are the list of options available. 
@@ -117,15 +117,15 @@ PIE chart are divided into slices to provide the numerical proportion of the dat
   - Line
   - Dash
   
-- <b>Reverse Scale</b> on selecting the checkbox, it display the reversal side of data displayed in radar chart i.e. if the 10 highest values are shown in radar chart ,on selecting the checkbox, then it will display 10 lowest values.
+- <b>Reverse Scale</b> On selecting the checkbox, it display the reversal side of data displayed in radar chart i.e. if the 10 highest values are shown in radar chart ,on selecting the checkbox, then it will display 10 lowest values.
 
-- <b>Show Tick Labels :</b> on selecting this checkbox, it enables measure values on y-axis.
+- <b>Show Tick Labels :</b> On selecting this checkbox, it enables measure values on y-axis.
 
-- <b>Show Arc Lines :</b> on selecting this checkbox, it points the dimension fields in radar chart.
+- <b>Show Arc Lines :</b> On selecting this checkbox, it points the dimension fields in radar chart.
 
-- <b>Arc Field :</b> select the dimension field to apply arc lines.
+- <b>Arc Field :</b> Select the dimension field to apply arc lines.
 
-- <b>Curve :</b> it maximize and minimize the surface area in radar chart.
+- <b>Curve :</b> It maximize and minimize the surface area in radar chart.
 
 ## Widget chart 
 
@@ -137,15 +137,15 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 ](https://raw.githubusercontent.com/sv18042016/fp1/ac06f66008071fe929798b3d8ee36e5bd5cd89bf/images/New_version5/UD_Visualization_Types&Settings_Image7.png)
   <b><font color = "Black"> Image 7</b>
 
- <b>Value :</b> select the field value (measure field) to display in the widget. This specify the measure field if you have multiple measure value defined in the underlying step.
+ <b>Value :</b> Select the field value (measure field) to display in the widget. This specify the measure field if you have multiple measure value defined in the underlying step.
 
-- <b>Format:</b> select the number format for the measure field.
+- <b>Format:</b> Select the number format for the measure field.
 
-- <b>Previous Value:</b> select the alternative measure field, to calculate the difference of growth in widget.
+- <b>Previous Value:</b> Select the alternative measure field, to calculate the difference of growth in widget.
 
-- <b>Change:</b> specify the conditions for selected measures such as difference, growth, none.
+- <b>Change:</b> Specify the conditions for selected measures such as difference, growth, none.
 
-- <b>Show Growth:</b> displays the growth rate of selected measures.
+- <b>Show Growth:</b> Sisplays the growth rate of selected measures.
 
 - <b>Title:</b> specify widget title.
 
@@ -444,11 +444,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQyMTkzNTcsLTE0ODIzMzA0MjksMT
-M0MzA5OTc2MiwxNjU4MDExMzQ4LDEyNzU2NjM4MTEsNTkyNTIw
-NTA2LDEyOTQ3MTA1NzEsMjEwNzE5MTAyOSwxNDQ0OTIxNzY3LC
-0xNDExNzIxMDI1LC0xMDU4ODcyMDU5LC05MDQxNTEyMDQsLTk0
-OTk2Njk5OCwtMTYzMDg5MzEzNCwtMTAwMzU4NTUyOCwtMTgwMj
-kzMTQxNiw1Nzc4OTc5NjQsOTY3OTAzNzQ2LC00NTkwODMwODUs
-NTcyMjU5MjI0XX0=
+eyJoaXN0b3J5IjpbLTExMjMxNjc0OCwtMTQ4MjMzMDQyOSwxMz
+QzMDk5NzYyLDE2NTgwMTEzNDgsMTI3NTY2MzgxMSw1OTI1MjA1
+MDYsMTI5NDcxMDU3MSwyMTA3MTkxMDI5LDE0NDQ5MjE3NjcsLT
+E0MTE3MjEwMjUsLTEwNTg4NzIwNTksLTkwNDE1MTIwNCwtOTQ5
+OTY2OTk4LC0xNjMwODkzMTM0LC0xMDAzNTg1NTI4LC0xODAyOT
+MxNDE2LDU3Nzg5Nzk2NCw5Njc5MDM3NDYsLTQ1OTA4MzA4NSw1
+NzIyNTkyMjRdfQ==
 -->
