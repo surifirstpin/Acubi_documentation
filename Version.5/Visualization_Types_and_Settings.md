@@ -319,38 +319,38 @@ Gauge chart displays current status in the context of goal.
 
 - <b>Reverse:</b> Displays the measure values in reversal direction maximum to minimum.
 
-- <b>Hide Min max:</b>  Hides min and maximum values in gauge target.
+- <b>Hide Min max:</b>  Hides minimum and maximum values in gauge target.
 
 
 # Standard Settings
 
 ### General Section 
 
-- <b>Title:</b> specify title for the chart selected.
+- <b>Title:</b> Specify title for the chart selected.
 
-- <b>Position:</b> align title to top,bottom,left,right position.
+- <b>Position:</b> Align title to top, bottom, left, right position.
 
 - <b>Label:</b> Specify label text.
 
-- <b>Padding:</b> specifies spacing at the top, bottom, left and right side of the charts.
+- <b>Padding:</b> Specifies spacing at the top, bottom, left and right side of the charts.
 
-- <b>Tooltips:</b> points the first measure value of the column field.
+- <b>Tooltips:</b> Points the first measure value of the column field.
 
-- <b>Grouped Tooltips:</b> points all the measure values of the column field.
+- <b>Grouped Tooltips:</b> Points all the measure values of the column field.
 
-- <b>Show legend:</b> on selecting this checkbox, it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
+- <b>Show legend:</b> On selecting this checkbox, it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
 
-- <b>Display Labels:</b> enables labels on charts.
+- <b>Display Labels:</b> Enables labels on charts.
 
 - <b>Position:</b> Align the legend at top,bottom,left and right side of the chart.
 
 ### X-Axis Menu Options
 
-- <b>Axis type:</b> specifies how x-axis scale for Line, Bar, Bubble is calculated and displayed.
+- <b>Axis type:</b> Specifies how x-axis scale for Line, Bar, Bubble is calculated and displayed.
 
-  - <b>Indexed:</b> specifies the data to be plotted in numeric values starting from zero on x-axis.
+  - <b>Indexed:</b> Specifies the data to be plotted in numeric values starting from zero on x-axis.
    
-  - <b>Category:</b> specifies the data to be plotted as category group on x-axis.
+  - <b>Category:</b> Specifies the data to be plotted as category group on x-axis.
   
   - <b>Timeseries:</b> specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
  
@@ -443,11 +443,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDcwMTQ1MiwtMTk4OTQzMTIzOCwtMT
-I5MDQ1NjExMiwxMzAwNzQ3MzgzLC0xMDgxMjE3NjIxLDU2MzU3
-ODY3NSwtMTQ4MjMzMDQyOSwxMzQzMDk5NzYyLDE2NTgwMTEzND
-gsMTI3NTY2MzgxMSw1OTI1MjA1MDYsMTI5NDcxMDU3MSwyMTA3
-MTkxMDI5LDE0NDQ5MjE3NjcsLTE0MTE3MjEwMjUsLTEwNTg4Nz
-IwNTksLTkwNDE1MTIwNCwtOTQ5OTY2OTk4LC0xNjMwODkzMTM0
-LC0xMDAzNTg1NTI4XX0=
+eyJoaXN0b3J5IjpbMjcyMDI5ODU4LC0xOTg5NDMxMjM4LC0xMj
+kwNDU2MTEyLDEzMDA3NDczODMsLTEwODEyMTc2MjEsNTYzNTc4
+Njc1LC0xNDgyMzMwNDI5LDEzNDMwOTk3NjIsMTY1ODAxMTM0OC
+wxMjc1NjYzODExLDU5MjUyMDUwNiwxMjk0NzEwNTcxLDIxMDcx
+OTEwMjksMTQ0NDkyMTc2NywtMTQxMTcyMTAyNSwtMTA1ODg3Mj
+A1OSwtOTA0MTUxMjA0LC05NDk5NjY5OTgsLTE2MzA4OTMxMzQs
+LTEwMDM1ODU1MjhdfQ==
 -->
