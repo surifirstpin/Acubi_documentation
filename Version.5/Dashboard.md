@@ -142,8 +142,9 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 
   - Dashboard section consist of list of Tags, Dashboards and Reports Saved under <b>My Space</b> structure.
 
-  - To View a specific dashboard, enter the dashboard name in given <b>Search Option.</B>
-  - To View the dashboards and reports in List view, Click on <b>List View</b>.
+  - To view a specific dashboard, enter the dashboard name in given <b>Search Option.</B>
+  
+  - To view dashboards and reports in List view, Click on <b>List View</b>.
   
   - To view the dashboards and reports in folder view, Click on <b>Folder View.</b>
   
@@ -168,11 +169,11 @@ After logging into AcuBi Home Page, Navigate to <b>Dashboard</b> Section.
 - To go back to previously applied filter, click on <b>Default</b> Button. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTEzMDAwNSwtMTMwOTg2MDUzMyw3NT
-kyNTY5MTcsLTc4MzI1NzUxOSwxMTU2MDU3MjIwLC0xNjM5Mzc1
-MzI3LDEzOTU0NzgzOTMsLTE3MDMwNjQ0MzMsLTE4NTA4MTksMT
-M2MTY1MDg1MCw1NDgyOTYzNjUsLTM5Mjc0OTM0LC03NjY0MzA5
-NDIsMTAwOTI4NzMyOCwyNjE2Nzg2NzgsNTM0NjMwMTU4LC0xND
-MzODIyMTAwLC0yMTM5NzI1NjQ3LC0yMDgwODY5NDY2LDg4OTkw
-NzgxMl19
+eyJoaXN0b3J5IjpbNTIxOTgyMjk2LDIxMDkxMzAwMDUsLTEzMD
+k4NjA1MzMsNzU5MjU2OTE3LC03ODMyNTc1MTksMTE1NjA1NzIy
+MCwtMTYzOTM3NTMyNywxMzk1NDc4MzkzLC0xNzAzMDY0NDMzLC
+0xODUwODE5LDEzNjE2NTA4NTAsNTQ4Mjk2MzY1LC0zOTI3NDkz
+NCwtNzY2NDMwOTQyLDEwMDkyODczMjgsMjYxNjc4Njc4LDUzND
+YzMDE1OCwtMTQzMzgyMjEwMCwtMjEzOTcyNTY0NywtMjA4MDg2
+OTQ2Nl19
 -->
