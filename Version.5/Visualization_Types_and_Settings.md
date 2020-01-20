@@ -286,7 +286,6 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 ##  Gauge Chart 
 
 Gauge chart displays current status in the context of goal.
-
  
  <b>10.</b> Choose chart type <b>Gauge</b> from drop down list under <b>General</b> section  to compare the data in Gauge chart.
 
@@ -296,31 +295,31 @@ Gauge chart displays current status in the context of goal.
 ](https://raw.githubusercontent.com/sv18042016/fp1/63e6ce82315ae4e72a287d4437b7d7a4bcea940b/images/New_version5/UD_Visualization_Types&Settings_Image16.png)
 <b><font color = "Black"> Image 16</b>
 
-- <b>Orange:</b>_ndicates, maximum value attained is half the way to target.
+- <b>Orange:</b> Indicates maximum value attained is half the way to target.
 
--  <b>Red:</b> Indicates, maximum value attained is at initial state or lower side to the target.  
+-  <b>Red:</b> Indicates maximum value attained is at initial state or lower side to the target.  
 
 ![
 ](https://github.com/sv18042016/fp1/blob/3ff08da67be44bb345a23a3e47e19f4ab62a4553/images/New_version5/UD_Visualization_Types&Settings_Image17.png?raw=true)
 <b><font color = "Black"> Image 17</b>
 
-- <b>Value:</b> select one of the available measure values from the drop down.
+- <b>Value:</b> Select one of the available measure values from the drop down.
 
-- <b>Minimum:</b> specifies the minimum value of the gauge this corresponds to bottom position of the gauge.
+- <b>Minimum:</b> Specifies the minimum value of the gauge this corresponds to bottom position of the gauge.
 
-- <b>Maximum:</b>  specifies the maximum value of the gauge this corresponds to top position of the gauge.
+- <b>Maximum:</b>  Specifies the maximum value of the gauge this corresponds to top position of the gauge.
 
-- <b>Title:</b> specify a title.
+- <b>Title:</b> Specify a title.
 
-- <b>Label:</b> specify a identifier name to display in the chart.
+- <b>Label:</b> Specify a identifier name to display in the chart.
 
-- <b>Donut:</b> displays total measure value.
+- <b>Donut:</b> Displays total measure value.
 
-- <b>Counter:</b> displays minimum and maximum values of the measure.
+- <b>Counter:</b> Displays minimum and maximum values of the measure.
 
-- <b>Reverse:</b> displays the measure values in reversal direction maximum to minimum.
+- <b>Reverse:</b> Displays the measure values in reversal direction maximum to minimum.
 
-- <b>Hide Minmax:</b>  hides min and maximum values in gauge target.
+- <b>Hide Min max:</b>  Hides min and maximum values in gauge target.
 
 
 # Standard Settings
@@ -444,11 +443,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODk0MzEyMzgsLTEyOTA0NTYxMTIsMT
-MwMDc0NzM4MywtMTA4MTIxNzYyMSw1NjM1Nzg2NzUsLTE0ODIz
-MzA0MjksMTM0MzA5OTc2MiwxNjU4MDExMzQ4LDEyNzU2NjM4MT
-EsNTkyNTIwNTA2LDEyOTQ3MTA1NzEsMjEwNzE5MTAyOSwxNDQ0
-OTIxNzY3LC0xNDExNzIxMDI1LC0xMDU4ODcyMDU5LC05MDQxNT
-EyMDQsLTk0OTk2Njk5OCwtMTYzMDg5MzEzNCwtMTAwMzU4NTUy
-OCwtMTgwMjkzMTQxNl19
+eyJoaXN0b3J5IjpbLTg3NDcwMTQ1MiwtMTk4OTQzMTIzOCwtMT
+I5MDQ1NjExMiwxMzAwNzQ3MzgzLC0xMDgxMjE3NjIxLDU2MzU3
+ODY3NSwtMTQ4MjMzMDQyOSwxMzQzMDk5NzYyLDE2NTgwMTEzND
+gsMTI3NTY2MzgxMSw1OTI1MjA1MDYsMTI5NDcxMDU3MSwyMTA3
+MTkxMDI5LDE0NDQ5MjE3NjcsLTE0MTE3MjEwMjUsLTEwNTg4Nz
+IwNTksLTkwNDE1MTIwNCwtOTQ5OTY2OTk4LC0xNjMwODkzMTM0
+LC0xMDAzNTg1NTI4XX0=
 -->
