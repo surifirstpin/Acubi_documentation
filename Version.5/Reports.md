@@ -407,7 +407,7 @@ To know weather the data extracted in reports contains <b> Today </b> or <b> Yes
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eeacf708948fafc3fe1370acd16b40d2f1c1ee27/images/New_version5/TD_SAVE_REPORT_6.png)
 <b><font color = "Black"> Image 19</b>
 
-Click Save to save the report in database.
+Click <b>Save</b> to save the report in database.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b942829d80230e5d68037ac36e76c3869586e30b/images/New_version5/UD_Reports_Image16.png)
 <b><font color = "Black"> Image 20</b>
@@ -434,11 +434,11 @@ Similarly, for report definition for yesterdays data :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg5Njg4MywxMjkyODYwNDI3LDE0MT
-g4NDgxMDcsLTE4MzIzMzg3NTUsLTgyNjg0MTUxOCwxMTg5MTU4
-OTc5LDE2NjgzNjcxNDMsMjc4MjIwMDYyLDIwNzUyMzE3MjgsLT
-Y4MzQzNjY1Miw1MzM1MDg5OTYsLTE0ODk3OTQwODQsMjAzNDk1
-MDgwMywzOTQyMDQyNjQsMTU4MjUxOTMzMCw3MDQ3NDAyNTAsMT
-k4OTU4OTE3MiwtNDgwNTQxOTc5LC0yMTE4MTg3MTEwLDgyMDYx
-NDMzNF19
+eyJoaXN0b3J5IjpbLTEyMDgzMTgwOTYsMTI5Mjg2MDQyNywxND
+E4ODQ4MTA3LC0xODMyMzM4NzU1LC04MjY4NDE1MTgsMTE4OTE1
+ODk3OSwxNjY4MzY3MTQzLDI3ODIyMDA2MiwyMDc1MjMxNzI4LC
+02ODM0MzY2NTIsNTMzNTA4OTk2LC0xNDg5Nzk0MDg0LDIwMzQ5
+NTA4MDMsMzk0MjA0MjY0LDE1ODI1MTkzMzAsNzA0NzQwMjUwLD
+E5ODk1ODkxNzIsLTQ4MDU0MTk3OSwtMjExODE4NzExMCw4MjA2
+MTQzMzRdfQ==
 -->
