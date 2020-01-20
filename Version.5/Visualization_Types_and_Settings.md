@@ -352,29 +352,29 @@ Gauge chart displays current status in the context of goal.
    
   - <b>Category:</b> Specifies the data to be plotted as category group on x-axis.
   
-  - <b>Timeseries:</b> specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
+  - <b>Timeseries:</b> Specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
  
-- <b>Label field:</b>  specify a dimension field to be displayed on X-axis.
+- <b>Label field:</b>  Specify a dimension field to be displayed on X-axis.
 
-- <b>Show Grid:</b> enables the grid display for dimension fields on x-axis.
+- <b>Show Grid:</b> Enables the grid display for dimension fields on x-axis.
 
 - <b>Axis label:</b> Text label for x-axis.
 
-<b>Reference Lines:</b> enables the creation of reference lines in a chart.
+<b>Reference Lines:</b> Enables the creation of reference lines in a chart.
 
  - <b>Grid Color</b>  Enable color for grid.
 
- - <b>Font Color</b> Enable color for labels on X-axis.
+ - <b>Font Color</b> Specify color for labels on X-axis.
 
- - <b>Font Size:</b> enable font size for labels on X-axis.
+ - <b>Font Size:</b> Specify font size for labels on X-axis.
  
- - <b>Reference:</b> specify a indicator name. 
+ - <b>Reference:</b> Specify a indicator name. 
   
- - <b>Type:</b> specify reference type as line or  area.
+ - <b>Type:</b> Specify reference type as line or  area.
   
- -  <b>From & to:</b> specify the reference line for specific range of dimensions.
+ -  <b>From & to:</b> Specify the reference line for specific range of dimensions.
 
- - <b>Theme:</b> enables color for reference line.
+ - <b>Theme:</b> Specify color for reference line.
  
  > <b>Note:</b>  X-Axis is enabled only for Line, Bar and Bubble chart only.
 
@@ -443,11 +443,11 @@ editing options for y-axis in Line, for Bar and bubble chart.
 
 <b><font color = "Black"> Image 18</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyMDI5ODU4LC0xOTg5NDMxMjM4LC0xMj
-kwNDU2MTEyLDEzMDA3NDczODMsLTEwODEyMTc2MjEsNTYzNTc4
-Njc1LC0xNDgyMzMwNDI5LDEzNDMwOTk3NjIsMTY1ODAxMTM0OC
-wxMjc1NjYzODExLDU5MjUyMDUwNiwxMjk0NzEwNTcxLDIxMDcx
-OTEwMjksMTQ0NDkyMTc2NywtMTQxMTcyMTAyNSwtMTA1ODg3Mj
-A1OSwtOTA0MTUxMjA0LC05NDk5NjY5OTgsLTE2MzA4OTMxMzQs
-LTEwMDM1ODU1MjhdfQ==
+eyJoaXN0b3J5IjpbMTkwMjUzNTIyOSwtMTk4OTQzMTIzOCwtMT
+I5MDQ1NjExMiwxMzAwNzQ3MzgzLC0xMDgxMjE3NjIxLDU2MzU3
+ODY3NSwtMTQ4MjMzMDQyOSwxMzQzMDk5NzYyLDE2NTgwMTEzND
+gsMTI3NTY2MzgxMSw1OTI1MjA1MDYsMTI5NDcxMDU3MSwyMTA3
+MTkxMDI5LDE0NDQ5MjE3NjcsLTE0MTE3MjEwMjUsLTEwNTg4Nz
+IwNTksLTkwNDE1MTIwNCwtOTQ5OTY2OTk4LC0xNjMwODkzMTM0
+LC0xMDAzNTg1NTI4XX0=
 -->
