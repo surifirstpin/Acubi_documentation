@@ -29,7 +29,7 @@ Resultant, this dashboard is displayed on Homepage Screen.
 
 ## Set Report on Homepage
 
-Similarly to setup report on homepage, Click <b>Set homepage icon</b> for report under <b> My Space. </b>
+Similarly to setup report on homepage, Click <b>Set Homepage Icon</b> for report under <b> My Space. </b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/94ecae720bc0b4aa7cc88429a389d06ec03538f5/images/New_version5/ud_homepage_image3.png)
 <b><font color = "Black"> Image 5 </b>
@@ -49,9 +49,9 @@ Resultant, this report is displayed on Homepage Screen.
 > Note :  Click <b>Angle-Double-Right</b> to view if any global filters applied for reports.  Click <b>Angle-Double-Left</b> to hide the same.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Mzk0OTg4OCwtMjA0MDk0MDI0LC0yMT
-EyOTczNTUxLC0yMDI2MDk4NDIyLC05MzczNzQ2MTUsLTE2OTA2
-MzM4ODMsMTE0NjY5MjkxOSwxNjkxMzM5MDYzLDE4NjI2NTg2Nz
-YsMjA0MDEyODQzNSwxNzkyMzA4MDk1LC0xMTk0MzQ2NDMzXX0=
-
+eyJoaXN0b3J5IjpbNTI1Mzg2MTc2LC05ODM5NDk4ODgsLTIwND
+A5NDAyNCwtMjExMjk3MzU1MSwtMjAyNjA5ODQyMiwtOTM3Mzc0
+NjE1LC0xNjkwNjMzODgzLDExNDY2OTI5MTksMTY5MTMzOTA2My
+wxODYyNjU4Njc2LDIwNDAxMjg0MzUsMTc5MjMwODA5NSwtMTE5
+NDM0NjQzM119
 -->
