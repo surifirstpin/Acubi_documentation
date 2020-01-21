@@ -48,7 +48,7 @@ Click on <b>Calculated Column</b> button (Refer Image 1) it will navigate to cal
 
 -  <b>Calculate on Raw data:</b>   if enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
 
-<b>Example I :</b> To Find the Column total of a measure value
+<b>Example I :</b> To find the column total of a measure value
 
 ```
 col_total( #{ROOT.BI_ORDERS.sum_RATE_2677} )
@@ -450,11 +450,11 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjIyNTkxMDUsLTIxMTc5MDYxNTgsMT
-U2MTk5NDMyNSwxMzI3NTkxMTg4LDE2Mzk2MTI3MSw4MjAxNTQ5
-OTEsODQxNzE3ODExLC00MDY5ODI3MjIsMjEwNDQwMDYyNCwtMT
-U4ODQxMDMyNCwxMDg0MTA3OTUwLDY1MjQ3ODYzOCwtMzg3NDcy
-NTg3LC0yMDM4NzczMzYxLC0xMDY5MjY1NzM2LDU1NjMwNDQ2OC
-wtMTUxNTE1MjEyMyw0MjkyMTU5ODksMjAyMzYzNzIzLDE1Njk1
-NjI4MjZdfQ==
+eyJoaXN0b3J5IjpbLTEzNjc4MDYxMTMsLTEzNjIyNTkxMDUsLT
+IxMTc5MDYxNTgsMTU2MTk5NDMyNSwxMzI3NTkxMTg4LDE2Mzk2
+MTI3MSw4MjAxNTQ5OTEsODQxNzE3ODExLC00MDY5ODI3MjIsMj
+EwNDQwMDYyNCwtMTU4ODQxMDMyNCwxMDg0MTA3OTUwLDY1MjQ3
+ODYzOCwtMzg3NDcyNTg3LC0yMDM4NzczMzYxLC0xMDY5MjY1Nz
+M2LDU1NjMwNDQ2OCwtMTUxNTE1MjEyMyw0MjkyMTU5ODksMjAy
+MzYzNzIzXX0=
 -->
