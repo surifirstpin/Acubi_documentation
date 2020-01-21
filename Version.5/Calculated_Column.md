@@ -46,7 +46,7 @@ Click on <b>Calculated Column</b> button (Refer Image 1) it will navigate to cal
 
 > <b> Note :</b> Replace Dollar Symbol with Hashtag to fetch the appropriate data.
 
--  <b>Calculate on Raw data:</b>   if enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
+-  <b>Calculate on Raw data:</b> if enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
 
 <b>Example I :</b> To find the column total of a measure value
 
@@ -79,7 +79,7 @@ bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE})
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ee0e74160647a6b555b17942cc2b738fc83d0480/images/New_version5/UD_CalculatedColumn_image6.png)
  <b><font color = "Black"> Image 5</b>
-  - Click **ok**.
+  - Click <b>ok</b>.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/340745900965253034efea65f9f328c7535d7f25/images/New_version5/UD_CalculatedColumn_image9.png)
@@ -450,11 +450,11 @@ fname(value1, value2, value3, ..valueN)         * Call Function *
 
 > **Note :**  it returns value 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc4MDYxMTMsLTEzNjIyNTkxMDUsLT
-IxMTc5MDYxNTgsMTU2MTk5NDMyNSwxMzI3NTkxMTg4LDE2Mzk2
-MTI3MSw4MjAxNTQ5OTEsODQxNzE3ODExLC00MDY5ODI3MjIsMj
-EwNDQwMDYyNCwtMTU4ODQxMDMyNCwxMDg0MTA3OTUwLDY1MjQ3
-ODYzOCwtMzg3NDcyNTg3LC0yMDM4NzczMzYxLC0xMDY5MjY1Nz
-M2LDU1NjMwNDQ2OCwtMTUxNTE1MjEyMyw0MjkyMTU5ODksMjAy
-MzYzNzIzXX0=
+eyJoaXN0b3J5IjpbLTExNTk4ODAzNzAsLTEzNjc4MDYxMTMsLT
+EzNjIyNTkxMDUsLTIxMTc5MDYxNTgsMTU2MTk5NDMyNSwxMzI3
+NTkxMTg4LDE2Mzk2MTI3MSw4MjAxNTQ5OTEsODQxNzE3ODExLC
+00MDY5ODI3MjIsMjEwNDQwMDYyNCwtMTU4ODQxMDMyNCwxMDg0
+MTA3OTUwLDY1MjQ3ODYzOCwtMzg3NDcyNTg3LC0yMDM4NzczMz
+YxLC0xMDY5MjY1NzM2LDU1NjMwNDQ2OCwtMTUxNTE1MjEyMyw0
+MjkyMTU5ODldfQ==
 -->
